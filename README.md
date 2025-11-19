@@ -4,7 +4,7 @@
 
 ---
 
-Presented here are 201 additional files that are not currently included in Ardour. Created with a TCL script converting Cakewalk .ins instrument definition files to .midnam format.  Obviously it is impossible to go out and buy 200+ keyboards to test these so hopefully those of you with some of these devices can test and report back. Please provide feedback on what does and does not work to: **k_swisher at shentel dot net** and I will attempt to make fixes.
+Presented here are 201 additional MIDI Patch files that are not currently included in Ardour. Created with a TCL script converting Cakewalk .ins instrument definition files to .midnam format.  Obviously it is impossible to go out and buy 200+ keyboards to test these so hopefully those of you with some of these devices can test and report back. Please provide feedback on what does and does not work to: **k_swisher at shentel dot net** and I will attempt to make fixes.
 
 ---
 
