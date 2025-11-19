@@ -1,19 +1,27 @@
 # Karl Ardour MIDI Definition Files
+<img width="1101" height="730" alt="image" src="https://github.com/user-attachments/assets/4caa7b05-6704-4566-8de6-ae1d6780f13d" />
+
 
 ## 🎬 Introduction:
 
 ---
 
-Presented here are 201 additional MIDI Patch files that are not currently included in Ardour. Created with a TCL script converting Cakewalk .ins instrument definition files to .midnam format.  Obviously it is impossible to go out and buy 200 keyboards to test these so hopefully those of you with some of these devices can test and report back. Please provide feedback on what does and does not work to:
+Presented here are 201 additional files that are not currently included in Ardour. 
+Created with a TCL script converting Cakewalk .ins instrument definition files to .midnam format.  Obviously it is impossible to go out and buy 200 keyboards to test these so hopefully those of you with some of these devices can test and report back. Please provide feedback on what does and does not work to:
 **k_swisher at shentel dot net** and I will attempt to make fixes.
-
-Stay tuned for many more additions soon.
 
 ---
 
 ## 🎬 Column Headings:
 
 ---
+
+## MIDNAM Compatibility
+
+A full compatibility table is available here:
+
+👉 [View complete MIDNAM support table](midnam-support-table.md)
+
 
 *Ardour Sees It* -  Means it shows up in Ardour's manufacturers/model list.
 
