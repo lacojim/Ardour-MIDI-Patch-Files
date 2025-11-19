@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Akai</Manufacturer>
+    <Model>SG01v</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Akai SG01v Bank 0">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="MEGA BRASS"  ProgramChange="0"/>
+          <Patch Number="1"  Name="SWEEP #1"  ProgramChange="1"/>
+          <Patch Number="2"  Name="KILLER STR"  ProgramChange="2"/>
+          <Patch Number="3"  Name="HP SWEEP"  ProgramChange="3"/>
+          <Patch Number="4"  Name="SILKY STRING"  ProgramChange="4"/>
+          <Patch Number="5"  Name="BIG PAD SWP"  ProgramChange="5"/>
+          <Patch Number="6"  Name="MILD BRASS"  ProgramChange="6"/>
+          <Patch Number="7"  Name="BAND PASSING"  ProgramChange="7"/>
+          <Patch Number="8"  Name="OUTER LIMITS"  ProgramChange="8"/>
+          <Patch Number="9"  Name="DRAMA"  ProgramChange="9"/>
+          <Patch Number="10"  Name="FEED BACK"  ProgramChange="10"/>
+          <Patch Number="11"  Name="P-EVIL-666 MW"  ProgramChange="11"/>
+          <Patch Number="12"  Name="BIG FIFTH"  ProgramChange="12"/>
+          <Patch Number="13"  Name="REZOSWEEP#1"  ProgramChange="13"/>
+          <Patch Number="14"  Name="BIGSYNTH#1"  ProgramChange="14"/>
+          <Patch Number="15"  Name="LFO FLTSWP#1"  ProgramChange="15"/>
+          <Patch Number="16"  Name="REZON 8 SWP"  ProgramChange="16"/>
+          <Patch Number="17"  Name="SEQ BUZZ"  ProgramChange="17"/>
+          <Patch Number="18"  Name="TRILL-PAD#1"  ProgramChange="18"/>
+          <Patch Number="19"  Name="JX3P-POLARIS"  ProgramChange="19"/>
+          <Patch Number="20"  Name="SNAP BASS"  ProgramChange="20"/>
+          <Patch Number="21"  Name="3 OCTV BASS"  ProgramChange="21"/>
+          <Patch Number="22"  Name="KUBOTA BASS"  ProgramChange="22"/>
+          <Patch Number="23"  Name="SQUIDGY BASS"  ProgramChange="23"/>
+          <Patch Number="24"  Name="OCTAVE BASS"  ProgramChange="24"/>
+          <Patch Number="25"  Name="SYNC BASS#1"  ProgramChange="25"/>
+          <Patch Number="26"  Name="STEREO BASS"  ProgramChange="26"/>
+          <Patch Number="27"  Name="REZ BASS"  ProgramChange="27"/>
+          <Patch Number="28"  Name="BUBBLEBASS"  ProgramChange="28"/>
+          <Patch Number="29"  Name="JUNORGBASS"  ProgramChange="29"/>
+          <Patch Number="30"  Name="AN BIGBASS#1"  ProgramChange="30"/>
+          <Patch Number="31"  Name="MM BASS#1"  ProgramChange="31"/>
+          <Patch Number="32"  Name="MM BASS#2"  ProgramChange="32"/>
+          <Patch Number="33"  Name="MM BASS#3"  ProgramChange="33"/>
+          <Patch Number="34"  Name="MM BASS#4"  ProgramChange="34"/>
+          <Patch Number="35"  Name="BASS #1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="BASS #2"  ProgramChange="36"/>
+          <Patch Number="37"  Name="BASS #3"  ProgramChange="37"/>
+          <Patch Number="38"  Name="BASS #4"  ProgramChange="38"/>
+          <Patch Number="39"  Name="BASS #5"  ProgramChange="39"/>
+          <Patch Number="40"  Name="STACK EPF#1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="DX EPF#1"  ProgramChange="41"/>
+          <Patch Number="42"  Name="DX EPF#2"  ProgramChange="42"/>
+          <Patch Number="43"  Name="LA E.PNO#1"  ProgramChange="43"/>
+          <Patch Number="44"  Name="WIRE E.PNO"  ProgramChange="44"/>
+          <Patch Number="45"  Name="D6 CLAV"  ProgramChange="45"/>
+          <Patch Number="46"  Name="MUTED CLAV"  ProgramChange="46"/>
+          <Patch Number="47"  Name="HYPER CLAV"  ProgramChange="47"/>
+          <Patch Number="48"  Name="MXR100 CLAV"  ProgramChange="48"/>
+          <Patch Number="49"  Name="CLAV #1"  ProgramChange="49"/>
+          <Patch Number="50"  Name="P5 + SOLENA"  ProgramChange="50"/>
+          <Patch Number="51"  Name="PADDING"  ProgramChange="51"/>
+          <Patch Number="52"  Name="DELICATE PAD"  ProgramChange="52"/>
+          <Patch Number="53"  Name="HI STR SYN#1"  ProgramChange="53"/>
+          <Patch Number="54"  Name="PEEPEEGEE PAD"  ProgramChange="54"/>
+          <Patch Number="55"  Name="WARM PAD"  ProgramChange="55"/>
+          <Patch Number="56"  Name="SQUARE PAD"  ProgramChange="56"/>
+          <Patch Number="57"  Name="SAWTOOTH PAD"  ProgramChange="57"/>
+          <Patch Number="58"  Name="WARM FILTPAD"  ProgramChange="58"/>
+          <Patch Number="59"  Name="JUNO PAD"  ProgramChange="59"/>
+          <Patch Number="60"  Name="OBIE PAD"  ProgramChange="60"/>
+          <Patch Number="61"  Name="STACK PAD"  ProgramChange="61"/>
+          <Patch Number="62"  Name="WIDE SAWPAD"  ProgramChange="62"/>
+          <Patch Number="63"  Name="MATRIX PAD"  ProgramChange="63"/>
+          <Patch Number="64"  Name="GLISTEN PAD"  ProgramChange="64"/>
+          <Patch Number="65"  Name="MOOGY PAD"  ProgramChange="65"/>
+          <Patch Number="66"  Name="PULSE PAD"  ProgramChange="66"/>
+          <Patch Number="67"  Name="PROFIT PAD"  ProgramChange="67"/>
+          <Patch Number="68"  Name="PPG ANALOGUE"  ProgramChange="68"/>
+          <Patch Number="69"  Name="BELL PAD"  ProgramChange="69"/>
+          <Patch Number="70"  Name="PPG CHIMES"  ProgramChange="70"/>
+          <Patch Number="71"  Name="PPG STING"  ProgramChange="71"/>
+          <Patch Number="72"  Name="CLASSIC PPG 1"  ProgramChange="72"/>
+          <Patch Number="73"  Name="CLASSIC PPG 2"  ProgramChange="73"/>
+          <Patch Number="74"  Name="CLASSIC PPG 4"  ProgramChange="74"/>
+          <Patch Number="75"  Name="PPG TINGLE"  ProgramChange="75"/>
+          <Patch Number="76"  Name="PPG PERC VOX"  ProgramChange="76"/>
+          <Patch Number="77"  Name="PPG VOCALISE"  ProgramChange="77"/>
+          <Patch Number="78"  Name="PPG CELESTE"  ProgramChange="78"/>
+          <Patch Number="79"  Name="PPG BRITTLE"  ProgramChange="79"/>
+          <Patch Number="80"  Name="SYNBRASS#1"  ProgramChange="80"/>
+          <Patch Number="81"  Name="ANA BRASS2"  ProgramChange="81"/>
+          <Patch Number="82"  Name="SFT BRASS2"  ProgramChange="82"/>
+          <Patch Number="83"  Name="SOFT BRASS3"  ProgramChange="83"/>
+          <Patch Number="84"  Name="OPEN SAWS"  ProgramChange="84"/>
+          <Patch Number="85"  Name="TRANCER BRS"  ProgramChange="85"/>
+          <Patch Number="86"  Name="ANA BRASS1"  ProgramChange="86"/>
+          <Patch Number="87"  Name="EG BRASS #1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="AFT BRASS"  ProgramChange="88"/>
+          <Patch Number="89"  Name="SOFT BRASS"  ProgramChange="89"/>
+          <Patch Number="90"  Name="STACK ORGAN"  ProgramChange="90"/>
+          <Patch Number="91"  Name="ORGAN#1"  ProgramChange="91"/>
+          <Patch Number="92"  Name="ORGAN JVT"  ProgramChange="92"/>
+          <Patch Number="93"  Name="FULL PIPES"  ProgramChange="93"/>
+          <Patch Number="94"  Name="MWH LESLIE1"  ProgramChange="94"/>
+          <Patch Number="95"  Name="MWH LESLIE2"  ProgramChange="95"/>
+          <Patch Number="96"  Name="5TH ORGAN"  ProgramChange="96"/>
+          <Patch Number="97"  Name="CHURCH ORGAN"  ProgramChange="97"/>
+          <Patch Number="98"  Name="CLICKEY ORGAN"  ProgramChange="98"/>
+          <Patch Number="99"  Name="PHASEY ORGAN"  ProgramChange="99"/>
+          <Patch Number="100"  Name="VP330+SELINA"  ProgramChange="100"/>
+          <Patch Number="101"  Name="REAL ARP ENS"  ProgramChange="101"/>
+          <Patch Number="102"  Name="HARD STR SYN"  ProgramChange="102"/>
+          <Patch Number="103"  Name="PHASE SYNSTR"  ProgramChange="103"/>
+          <Patch Number="104"  Name="RHAPSODY STR"  ProgramChange="104"/>
+          <Patch Number="105"  Name="SOFT SERINA"  ProgramChange="105"/>
+          <Patch Number="106"  Name="OCTV SERINA"  ProgramChange="106"/>
+          <Patch Number="107"  Name="STEREO ENSMB"  ProgramChange="107"/>
+          <Patch Number="108"  Name="P5+STR SYNTH"  ProgramChange="108"/>
+          <Patch Number="109"  Name="OMNI STRINGS"  ProgramChange="109"/>
+          <Patch Number="110"  Name="FUNK LEAD1"  ProgramChange="110"/>
+          <Patch Number="111"  Name="LEAD LINE#1"  ProgramChange="111"/>
+          <Patch Number="112"  Name="LEAD LINE#2"  ProgramChange="112"/>
+          <Patch Number="113"  Name="LEAD LINE#3"  ProgramChange="113"/>
+          <Patch Number="114"  Name="FLUTEY"  ProgramChange="114"/>
+          <Patch Number="115"  Name="PULSE LEAD"  ProgramChange="115"/>
+          <Patch Number="116"  Name="PORTASYNC"  ProgramChange="116"/>
+          <Patch Number="117"  Name="FIFTH SYNC#1"  ProgramChange="117"/>
+          <Patch Number="118"  Name="VELO GLIDE"  ProgramChange="118"/>
+          <Patch Number="119"  Name="THICK LEAD"  ProgramChange="119"/>
+          <Patch Number="120"  Name="HOWELLING"  ProgramChange="120"/>
+          <Patch Number="121"  Name="NOISE BURST"  ProgramChange="121"/>
+          <Patch Number="122"  Name="TUNED NOISE"  ProgramChange="122"/>
+          <Patch Number="123"  Name="COMPUTER SH1"  ProgramChange="123"/>
+          <Patch Number="124"  Name="COMPUBLEEP"  ProgramChange="124"/>
+          <Patch Number="125"  Name="SPACE BELL"  ProgramChange="125"/>
+          <Patch Number="126"  Name="TOTALLY RANDOM"  ProgramChange="126"/>
+          <Patch Number="127"  Name="SFX PAN"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Akai SG01v Bank 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="SWEEP #2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="MYSTIX PAD 1"  ProgramChange="1"/>
+          <Patch Number="2"  Name="MYSTIX PAD 2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="SQUARE WOW"  ProgramChange="3"/>
+          <Patch Number="4"  Name="EASTERN MOON"  ProgramChange="4"/>
+          <Patch Number="5"  Name="SQUARE SWELL"  ProgramChange="5"/>
+          <Patch Number="6"  Name="HARPISH#1"  ProgramChange="6"/>
+          <Patch Number="7"  Name="INVERT FILT1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="JUNOTRANCER1"  ProgramChange="8"/>
+          <Patch Number="9"  Name="EPIC SYNTH#1"  ProgramChange="9"/>
+          <Patch Number="10"  Name="JUNOTRANCER2"  ProgramChange="10"/>
+          <Patch Number="11"  Name="TOUCH SYN#1"  ProgramChange="11"/>
+          <Patch Number="12"  Name="KILLER STING"  ProgramChange="12"/>
+          <Patch Number="13"  Name="JUNOTRANCER3"  ProgramChange="13"/>
+          <Patch Number="14"  Name="DET SYNTH"  ProgramChange="14"/>
+          <Patch Number="15"  Name="JMJ POLYSYN"  ProgramChange="15"/>
+          <Patch Number="16"  Name="M500SYNTH1MW"  ProgramChange="16"/>
+          <Patch Number="17"  Name="FLATMAN+REZ"  ProgramChange="17"/>
+          <Patch Number="18"  Name="PERC SYNTH"  ProgramChange="18"/>
+          <Patch Number="19"  Name="ATTACK SYNTH"  ProgramChange="19"/>
+          <Patch Number="20"  Name="FUNK BASS"  ProgramChange="20"/>
+          <Patch Number="21"  Name="RUBBER BASS"  ProgramChange="21"/>
+          <Patch Number="22"  Name="BASSOMATIX"  ProgramChange="22"/>
+          <Patch Number="23"  Name="STACK BASS"  ProgramChange="23"/>
+          <Patch Number="24"  Name="BASSOLOGY"  ProgramChange="24"/>
+          <Patch Number="25"  Name="SWEEP BASS"  ProgramChange="25"/>
+          <Patch Number="26"  Name="KNOCK BASS"  ProgramChange="26"/>
+          <Patch Number="27"  Name="TB303 #1"  ProgramChange="27"/>
+          <Patch Number="28"  Name="TB303 #2"  ProgramChange="28"/>
+          <Patch Number="29"  Name="BASS#6"  ProgramChange="29"/>
+          <Patch Number="30"  Name="BASS#7"  ProgramChange="30"/>
+          <Patch Number="31"  Name="BASS#9"  ProgramChange="31"/>
+          <Patch Number="32"  Name="BASS#10"  ProgramChange="32"/>
+          <Patch Number="33"  Name="MM BASS#6"  ProgramChange="33"/>
+          <Patch Number="34"  Name="MM BASS#7"  ProgramChange="34"/>
+          <Patch Number="35"  Name="MM BASS#9"  ProgramChange="35"/>
+          <Patch Number="36"  Name="MM BASS#10"  ProgramChange="36"/>
+          <Patch Number="37"  Name="MM BASS#11"  ProgramChange="37"/>
+          <Patch Number="38"  Name="MM BASS#12"  ProgramChange="38"/>
+          <Patch Number="39"  Name="KIMINIAITAI"  ProgramChange="39"/>
+          <Patch Number="40"  Name="FM E.PF"  ProgramChange="40"/>
+          <Patch Number="41"  Name="SIMPLE DX EP"  ProgramChange="41"/>
+          <Patch Number="42"  Name="STACK EPF#2"  ProgramChange="42"/>
+          <Patch Number="43"  Name="STACK EPF#3"  ProgramChange="43"/>
+          <Patch Number="44"  Name="E.PIANORGAN"  ProgramChange="44"/>
+          <Patch Number="45"  Name="SFT CLAV"  ProgramChange="45"/>
+          <Patch Number="46"  Name="ANA CLAV"  ProgramChange="46"/>
+          <Patch Number="47"  Name="CLAVISYNTH"  ProgramChange="47"/>
+          <Patch Number="48"  Name="THINCLAVIER"  ProgramChange="48"/>
+          <Patch Number="49"  Name="HARPSICHORD"  ProgramChange="49"/>
+          <Patch Number="50"  Name="EPF STRPAD"  ProgramChange="50"/>
+          <Patch Number="51"  Name="THICK PWM"  ProgramChange="51"/>
+          <Patch Number="52"  Name="BUBBLEPAD"  ProgramChange="52"/>
+          <Patch Number="53"  Name="KILLER PAD"  ProgramChange="53"/>
+          <Patch Number="54"  Name="BELL STRINGS"  ProgramChange="54"/>
+          <Patch Number="55"  Name="DETUNE PAD"  ProgramChange="55"/>
+          <Patch Number="56"  Name="SMORKY PAD"  ProgramChange="56"/>
+          <Patch Number="57"  Name="CRYSTAL PAD"  ProgramChange="57"/>
+          <Patch Number="58"  Name="THICK PAD#1"  ProgramChange="58"/>
+          <Patch Number="59"  Name="TOMITA STR"  ProgramChange="59"/>
+          <Patch Number="60"  Name="PWM PAD#1"  ProgramChange="60"/>
+          <Patch Number="61"  Name="SMOOTH PAD#1"  ProgramChange="61"/>
+          <Patch Number="62"  Name="DARK PAD#1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="MELLOWNESS"  ProgramChange="63"/>
+          <Patch Number="64"  Name="CHIFF PAD"  ProgramChange="64"/>
+          <Patch Number="65"  Name="SMOOOOTH"  ProgramChange="65"/>
+          <Patch Number="66"  Name="PPRY MOGUE"  ProgramChange="66"/>
+          <Patch Number="67"  Name="ALMOST VOCAL"  ProgramChange="67"/>
+          <Patch Number="68"  Name="ROUND PAD"  ProgramChange="68"/>
+          <Patch Number="69"  Name="SO MELLOW"  ProgramChange="69"/>
+          <Patch Number="70"  Name="SPIKE BASS"  ProgramChange="70"/>
+          <Patch Number="71"  Name="PPG+ANLGBASS"  ProgramChange="71"/>
+          <Patch Number="72"  Name="PPG TINGBASS"  ProgramChange="72"/>
+          <Patch Number="73"  Name="PPG BASS#1"  ProgramChange="73"/>
+          <Patch Number="74"  Name="METAL BASS"  ProgramChange="74"/>
+          <Patch Number="75"  Name="PPG BASS#2"  ProgramChange="75"/>
+          <Patch Number="76"  Name="FM BASS #1"  ProgramChange="76"/>
+          <Patch Number="77"  Name="FM BASS #2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="FM BASS #3"  ProgramChange="78"/>
+          <Patch Number="79"  Name="FM BASS #4"  ProgramChange="79"/>
+          <Patch Number="80"  Name="ANA BRASS1"  ProgramChange="80"/>
+          <Patch Number="81"  Name="FUZZ BRASS1"  ProgramChange="81"/>
+          <Patch Number="82"  Name="SYNBRASS#2"  ProgramChange="82"/>
+          <Patch Number="83"  Name="BRASSY PAD"  ProgramChange="83"/>
+          <Patch Number="84"  Name="SQUARE BRASS"  ProgramChange="84"/>
+          <Patch Number="85"  Name="WOW BRASS"  ProgramChange="85"/>
+          <Patch Number="86"  Name="SWELL BRASS"  ProgramChange="86"/>
+          <Patch Number="87"  Name="DUCK BRASS"  ProgramChange="87"/>
+          <Patch Number="88"  Name="SOFT BRASS#2"  ProgramChange="88"/>
+          <Patch Number="89"  Name="MONSTER BRASS"  ProgramChange="89"/>
+          <Patch Number="90"  Name="BELLS #1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="BELL#2"  ProgramChange="91"/>
+          <Patch Number="92"  Name="BELL#1"  ProgramChange="92"/>
+          <Patch Number="93"  Name="MAGIC BELLS"  ProgramChange="93"/>
+          <Patch Number="94"  Name="NIHON BELL"  ProgramChange="94"/>
+          <Patch Number="95"  Name="ORIENTL BELL"  ProgramChange="95"/>
+          <Patch Number="96"  Name="SLOWBELL PAN"  ProgramChange="96"/>
+          <Patch Number="97"  Name="SMALL BELL"  ProgramChange="97"/>
+          <Patch Number="98"  Name="BIG BELL"  ProgramChange="98"/>
+          <Patch Number="99"  Name="HOLD THE KEY"  ProgramChange="99"/>
+          <Patch Number="100"  Name="TOMITA VOXI"  ProgramChange="100"/>
+          <Patch Number="101"  Name="VOX HUMANA"  ProgramChange="101"/>
+          <Patch Number="102"  Name="VOXY#1"  ProgramChange="102"/>
+          <Patch Number="103"  Name="CELEST VOX1"  ProgramChange="103"/>
+          <Patch Number="104"  Name="VOICES #1"  ProgramChange="104"/>
+          <Patch Number="105"  Name="SOLO SOPRANO"  ProgramChange="105"/>
+          <Patch Number="106"  Name="ANALOGUE VOX"  ProgramChange="106"/>
+          <Patch Number="107"  Name="EERY VOX PAD"  ProgramChange="107"/>
+          <Patch Number="108"  Name="VOXP PPG"  ProgramChange="108"/>
+          <Patch Number="109"  Name="VOICE STACK"  ProgramChange="109"/>
+          <Patch Number="110"  Name="THICK LEAD#2"  ProgramChange="110"/>
+          <Patch Number="111"  Name="ANA WHISTLE"  ProgramChange="111"/>
+          <Patch Number="112"  Name="POWER LEAD"  ProgramChange="112"/>
+          <Patch Number="113"  Name="ONDES MARTIN"  ProgramChange="113"/>
+          <Patch Number="114"  Name="HAMMER LEAD"  ProgramChange="114"/>
+          <Patch Number="115"  Name="SOFT MOGUE"  ProgramChange="115"/>
+          <Patch Number="116"  Name="PLAIN LEAD"  ProgramChange="116"/>
+          <Patch Number="117"  Name="AWAKE MAN"  ProgramChange="117"/>
+          <Patch Number="118"  Name="PORTALEAD"  ProgramChange="118"/>
+          <Patch Number="119"  Name="SEXY LEAD"  ProgramChange="119"/>
+          <Patch Number="120"  Name="SAMPLE+HOLD"  ProgramChange="120"/>
+          <Patch Number="121"  Name="SWEEP STORM"  ProgramChange="121"/>
+          <Patch Number="122"  Name="MISTY STORM"  ProgramChange="122"/>
+          <Patch Number="123"  Name="ALLEATORIC"  ProgramChange="123"/>
+          <Patch Number="124"  Name="FLANGED NOIZ"  ProgramChange="124"/>
+          <Patch Number="125"  Name="VCS SWEEP #1"  ProgramChange="125"/>
+          <Patch Number="126"  Name="S+H DRONE MW"  ProgramChange="126"/>
+          <Patch Number="127"  Name="EXPLOSION"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=PLATE-"/>
+     <Note Number="29"  Name="9=BLIP#2"/>
+     <Note Number="30"  Name="0=SCRATCH-"/>
+     <Note Number="31"  Name="1=SYN. RIM"/>
+     <Note Number="32"  Name="2=MM CLIC C2"/>
+     <Note Number="33"  Name="3=MM CLIK C5"/>
+     <Note Number="34"  Name="4=BLIP#2"/>
+     <Note Number="35"  Name="5=SYN. KICK"/>
+     <Note Number="36"  Name="6=SDS5 KICK3"/>
+     <Note Number="37"  Name="7=SIDE STICK"/>
+     <Note Number="38"  Name="8=SYN. SNRE2"/>
+     <Note Number="39"  Name="9=SYN. CLAPS"/>
+     <Note Number="40"  Name="0=SIM. SNRE"/>
+     <Note Number="41"  Name="1=MID AC TOM"/>
+     <Note Number="42"  Name="2=SYN. CL-HAT"/>
+     <Note Number="43"  Name="3=MID AC TOM"/>
+     <Note Number="44"  Name="4=SYN. HLF-HAT"/>
+     <Note Number="45"  Name="5=MID AC TOM"/>
+     <Note Number="46"  Name="6=SYN. OP-HAT"/>
+     <Note Number="47"  Name="7=MID AC TOM"/>
+     <Note Number="48"  Name="8=MID AC TOM"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=MID AC TOM"/>
+     <Note Number="51"  Name="1=RIDE SYMBAL"/>
+     <Note Number="52"  Name="2=CRASH"/>
+     <Note Number="53"  Name="3=RIDE SYMBAL"/>
+     <Note Number="54"  Name="4=TAMBOURINE"/>
+     <Note Number="55"  Name="5=CRASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=FINGER SNAPS"/>
+     <Note Number="59"  Name="9=RIDE SYMBAL"/>
+     <Note Number="60"  Name="0=HI CONGA SL"/>
+     <Note Number="61"  Name="1=HI CONGA SL"/>
+     <Note Number="62"  Name="2=LO CONGA SL"/>
+     <Note Number="63"  Name="3=HI CONGA OP"/>
+     <Note Number="64"  Name="4=LOW CONGA OP"/>
+     <Note Number="65"  Name="5=TIMBAL"/>
+     <Note Number="66"  Name="6=TIMBAL"/>
+     <Note Number="67"  Name="7=AGOGO 1"/>
+     <Note Number="68"  Name="8=AGOGO 1"/>
+     <Note Number="69"  Name="9=SYN. MARACAS"/>
+     <Note Number="70"  Name="0=MARACAS"/>
+     <Note Number="72"  Name="2=POWER KICK"/>
+     <Note Number="73"  Name="3=SYN. RIM"/>
+     <Note Number="74"  Name="4=POWER SNRE"/>
+     <Note Number="75"  Name="5=BIG CLAP"/>
+     <Note Number="76"  Name="6=SDS5 SNARE9"/>
+     <Note Number="77"  Name="7=MID E.TOM"/>
+     <Note Number="78"  Name="8=CL HAT"/>
+     <Note Number="79"  Name="9=MID E.TOM"/>
+     <Note Number="80"  Name="0=HLF HAT"/>
+     <Note Number="81"  Name="1=MID E.TOM"/>
+     <Note Number="82"  Name="2=OP HAT"/>
+     <Note Number="83"  Name="3=MID E.TOM"/>
+     <Note Number="84"  Name="4=MID E.TOM"/>
+     <Note Number="85"  Name="5=CRASH"/>
+     <Note Number="86"  Name="6=MID E.TOM"/>
+     <Note Number="87"  Name="7=RIDE SYMBAL"/>
+     <Note Number="88"  Name="8=WHITE NOISE"/>
+     <Note Number="90"  Name="0=BLIP#2"/>
+     <Note Number="91"  Name="1=SYN. LO-CONGA"/>
+     <Note Number="92"  Name="2=SYN. COWBELL"/>
+     <Note Number="93"  Name="3=SYN. LO-CONGA"/>
+     <Note Number="94"  Name="4=SYN. CLAVES"/>
+     <Note Number="95"  Name="5=SYN. LO-CONGA"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=PLATE-"/>
+     <Note Number="29"  Name="9=BLIP#2"/>
+     <Note Number="30"  Name="0=SCRATCH-"/>
+     <Note Number="31"  Name="1=SYN. RIM"/>
+     <Note Number="32"  Name="2=MM CLIC C2"/>
+     <Note Number="33"  Name="3=MM CLIK C5"/>
+     <Note Number="34"  Name="4=BLIP#2"/>
+     <Note Number="35"  Name="5=SYN. KICK"/>
+     <Note Number="36"  Name="6=SDS5 KICK3"/>
+     <Note Number="37"  Name="7=SIDE STICK"/>
+     <Note Number="38"  Name="8=SYN. SNRE2"/>
+     <Note Number="39"  Name="9=SYN. CLAPS"/>
+     <Note Number="40"  Name="0=SDS5 SNARE9"/>
+     <Note Number="41"  Name="1=SIM. SNRE"/>
+     <Note Number="42"  Name="2=SYN. CL-HAT"/>
+     <Note Number="43"  Name="3=SIM. SNRE"/>
+     <Note Number="44"  Name="4=SYN. HLF-HAT"/>
+     <Note Number="45"  Name="5=SIM. SNRE"/>
+     <Note Number="46"  Name="6=SYN. OP-HAT"/>
+     <Note Number="47"  Name="7=SIM. SNRE"/>
+     <Note Number="48"  Name="8=SIM. SNRE"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=SIM. SNRE"/>
+     <Note Number="51"  Name="1=RIDE SYMBAL"/>
+     <Note Number="52"  Name="2=CRASH"/>
+     <Note Number="53"  Name="3=RIDE SYMBAL"/>
+     <Note Number="54"  Name="4=TAMBOURINE"/>
+     <Note Number="55"  Name="5=CRASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=FINGER SNAPS"/>
+     <Note Number="59"  Name="9=RIDE SYMBAL"/>
+     <Note Number="60"  Name="0=HI CONGA SL"/>
+     <Note Number="61"  Name="1=HI CONGA SL"/>
+     <Note Number="62"  Name="2=LO CONGA SL"/>
+     <Note Number="63"  Name="3=HI CONGA OP"/>
+     <Note Number="64"  Name="4=LOW CONGA OP"/>
+     <Note Number="65"  Name="5=TIMBAL"/>
+     <Note Number="66"  Name="6=TIMBAL"/>
+     <Note Number="67"  Name="7=AGOGO 1"/>
+     <Note Number="68"  Name="8=AGOGO 1"/>
+     <Note Number="69"  Name="9=SYN. MARACAS"/>
+     <Note Number="70"  Name="0=MARACAS"/>
+     <Note Number="72"  Name="2=POWER KICK"/>
+     <Note Number="73"  Name="3=SYN. RIM"/>
+     <Note Number="74"  Name="4=POWER SNRE"/>
+     <Note Number="75"  Name="5=BIG CLAP"/>
+     <Note Number="76"  Name="6=SDS5 SNARE9"/>
+     <Note Number="77"  Name="7=MID E.TOM"/>
+     <Note Number="78"  Name="8=CL HAT"/>
+     <Note Number="79"  Name="9=MID E.TOM"/>
+     <Note Number="80"  Name="0=HLF HAT"/>
+     <Note Number="81"  Name="1=MID E.TOM"/>
+     <Note Number="82"  Name="2=OP HAT"/>
+     <Note Number="83"  Name="3=MID E.TOM"/>
+     <Note Number="84"  Name="4=MID E.TOM"/>
+     <Note Number="85"  Name="5=CRASH"/>
+     <Note Number="86"  Name="6=MID E.TOM"/>
+     <Note Number="87"  Name="7=RIDE SYMBAL"/>
+     <Note Number="88"  Name="8=WHITE NOISE"/>
+     <Note Number="90"  Name="0=BLIP#2"/>
+     <Note Number="91"  Name="1=SYN. LO-CONGA"/>
+     <Note Number="92"  Name="2=SYN. COWBELL"/>
+     <Note Number="93"  Name="3=SYN. LO-CONGA"/>
+     <Note Number="94"  Name="4=SYN. CLAVES"/>
+     <Note Number="95"  Name="5=SYN. LO-CONGA"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Digitech</Manufacturer>
+    <Model>GSP-2101</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="GSP-2101 Artist">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1: Lead On Me"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2: Smiling Chords"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3: Sonofa Blues Solo"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4: Studio Strat"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5: Band of Jeeps"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6: Airgulls"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7: Mount Shasta"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8: Wetness"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9: MyNervousPhase"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10: Wild Wild Wah Wes"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11: Cuccurullo Lead"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12: Galactic Tenths"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13: Morse Clean Chords"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14: Metal Rhythm"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15: Home Grown Tone"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16: Home Page"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17: George Blues Lead"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18: George Rhythm"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19: Amp On Fire"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20: Acid Wash"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21: Vinman Lead"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22: Mandolin Echo"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23: Edify Yourself"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24: Stratocas Maximus"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25: Traveler Lead"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26: Upchurch's Jazz"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27: Wes Montgomery"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28: Mayzing Chorus"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29: Dry Stratini"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30: Stevens Rhythm"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31: Stevens Solo"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32: Big Al"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33: Pimp Life"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34: Dusty Lead"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35: Dizzy"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36: Skunk Pedal Steel"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37: Squall Now"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38: All U Need"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39: Fingerpickin'"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40: Will Lee Sledge-H"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41: Will EnvyLee"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42: Stanley"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43: Fretless Melody"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44: Solo Bass Fifths"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45: Terminator"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46: Funkenstein"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47: A.J. Fingerstyle"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48: Fretless Bass Casas"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49: Very Fishy"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50: Squire's RickenB"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51: Look Out Below"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52: SR EW&amp;F Rhythm"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53: *Electric Saraland*"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54: Wet 12 String"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55: Dry Ice"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56: Dry Saturated Tube"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57: Black Hole"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58: Chicken Pickin'"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59: Parallel Chor&amp;Dtn"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60: Lotus Lead"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61: Big Stereo Punch"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62: Warm Sweet Solo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63: Raw Can Roll"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64: Plutonium"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65: Punchy Pitch"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66: Death Metal Grind"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67: Floating 5ths"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68: Quad Detune"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69: 3rd Above - E Minor"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70: Killer Chorus"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71: Heap O'Bottumus"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72: Nozone"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73: Napalm Solo"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74: Pyro Lead"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75: Metal Tremolo"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76: Grunge To The Max"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77: Beavis Shredhed"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78: Lerxst"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79: Phaser in Space"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80: Whammy Down (use FC)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81: Grunge Solo"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82: Naked Solo"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83: 3rd Above - D Mixlyd"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84: Primitive&amp;Effective"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85: Look Wah, No Feet !"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86: Possessed To Skate"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87: Funhouse"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88: Whammy Down2 (use FC)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89: 3rd Above - A Major"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90: Shaw Clean and Wide"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91: I Like My Surf Board"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92: Chorus Tremolo"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93: Dirty Slapped Phaser"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94: Sludge Tap Detune"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95: EdgeHog"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96: String Volume Swell"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97: ZZ Tush Comp"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98: Big Rock Rhythm"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99: Dire Strat Grit"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100: Big Clean Rhythm"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="GSP-2101  Custom">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="BasedOn"  Name="GSP-2101  Factory"  ProgramChange="BasedOn"/>
+          <Patch Number="0"  Name="0:None"  ProgramChange="0"/>
+          <Patch Number="1"  Name="1: Dry Saturated Tube"  ProgramChange="1"/>
+          <Patch Number="2"  Name="2: On Cloud Nine"  ProgramChange="2"/>
+          <Patch Number="3"  Name="3: Sisters of Mercy"  ProgramChange="3"/>
+          <Patch Number="4"  Name="4: Floating 5ths"  ProgramChange="4"/>
+          <Patch Number="5"  Name="5: Edge Of The Universe"  ProgramChange="5"/>
+          <Patch Number="6"  Name="6: A Hendrix Phase"  ProgramChange="6"/>
+          <Patch Number="7"  Name="7: Cheesy Movie"  ProgramChange="7"/>
+          <Patch Number="8"  Name="8: Fender Punch"  ProgramChange="8"/>
+          <Patch Number="9"  Name="9: I Mean Syrup !"  ProgramChange="9"/>
+          <Patch Number="10"  Name="10: String Volume Swell"  ProgramChange="10"/>
+          <Patch Number="11"  Name="11: Death Metal Grind"  ProgramChange="11"/>
+          <Patch Number="12"  Name="12: Rhythmic Orbits"  ProgramChange="12"/>
+          <Patch Number="13"  Name="13: *ELECTRIC SARAHLAND*"  ProgramChange="13"/>
+          <Patch Number="14"  Name="14: Wet 12 String"  ProgramChange="14"/>
+          <Patch Number="15"  Name="15: Dry Ice"  ProgramChange="15"/>
+          <Patch Number="16"  Name="16: Clean Arena"  ProgramChange="16"/>
+          <Patch Number="17"  Name="17: Black Hole"  ProgramChange="17"/>
+          <Patch Number="18"  Name="18: Chicken Pickin'"  ProgramChange="18"/>
+          <Patch Number="19"  Name="19: Parallel Chor&amp;Dtn"  ProgramChange="19"/>
+          <Patch Number="20"  Name="20: Lotus Lead"  ProgramChange="20"/>
+          <Patch Number="21"  Name="21: Big Stereo Punch"  ProgramChange="21"/>
+          <Patch Number="22"  Name="22: Warm Sweet Solo"  ProgramChange="22"/>
+          <Patch Number="23"  Name="23: RAW CAN ROLL"  ProgramChange="23"/>
+          <Patch Number="24"  Name="24: 70's Marshall"  ProgramChange="24"/>
+          <Patch Number="25"  Name="25: Punchy Pitch"  ProgramChange="25"/>
+          <Patch Number="26"  Name="26: Ultra thick Chorus"  ProgramChange="26"/>
+          <Patch Number="27"  Name="27: Small Bright Room"  ProgramChange="27"/>
+          <Patch Number="28"  Name="28: Quad Detune"  ProgramChange="28"/>
+          <Patch Number="29"  Name="29: Auto Volume Swell"  ProgramChange="29"/>
+          <Patch Number="30"  Name="30: Killer Chorus"  ProgramChange="30"/>
+          <Patch Number="31"  Name="31: Heap O'Bottumus"  ProgramChange="31"/>
+          <Patch Number="32"  Name="32: Nozone"  ProgramChange="32"/>
+          <Patch Number="33"  Name="33: Napalm Solo"  ProgramChange="33"/>
+          <Patch Number="34"  Name="34: Pyro Lead"  ProgramChange="34"/>
+          <Patch Number="35"  Name="35: Metal Tremolo"  ProgramChange="35"/>
+          <Patch Number="36"  Name="36: Grunge To The Max"  ProgramChange="36"/>
+          <Patch Number="37"  Name="37: Beavis Shredhed"  ProgramChange="37"/>
+          <Patch Number="38"  Name="38: Lerxst"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39: Grunge Chorus Crunch"  ProgramChange="39"/>
+          <Patch Number="40"  Name="40: Whammy Down (use FC)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="41: Grunge Solo"  ProgramChange="41"/>
+          <Patch Number="42"  Name="42: Naked Solo"  ProgramChange="42"/>
+          <Patch Number="43"  Name="43: Cup O'Joe"  ProgramChange="43"/>
+          <Patch Number="44"  Name="44: Primitive&amp;Effective"  ProgramChange="44"/>
+          <Patch Number="45"  Name="45: Squealie"  ProgramChange="45"/>
+          <Patch Number="46"  Name="46: Possessed To Skate"  ProgramChange="46"/>
+          <Patch Number="47"  Name="47: Funhouse"  ProgramChange="47"/>
+          <Patch Number="48"  Name="48: Hard Rock Swirl"  ProgramChange="48"/>
+          <Patch Number="49"  Name="49: Mammoth Chorus"  ProgramChange="49"/>
+          <Patch Number="50"  Name="50: Clean and Wide"  ProgramChange="50"/>
+          <Patch Number="51"  Name="51: I Like My Surf Board"  ProgramChange="51"/>
+          <Patch Number="52"  Name="52: Chorus Tremolo"  ProgramChange="52"/>
+          <Patch Number="53"  Name="53: Dirty Slapped Phaser"  ProgramChange="53"/>
+          <Patch Number="54"  Name="54: Sludge Tap Detuner"  ProgramChange="54"/>
+          <Patch Number="55"  Name="55: EdgeHog"  ProgramChange="55"/>
+          <Patch Number="56"  Name="56: Cat Scratch It !"  ProgramChange="56"/>
+          <Patch Number="57"  Name="57: ZZ Tush Comp"  ProgramChange="57"/>
+          <Patch Number="58"  Name="58: Big Rock Rhythm"  ProgramChange="58"/>
+          <Patch Number="59"  Name="59: Dire Strat Grit"  ProgramChange="59"/>
+          <Patch Number="60"  Name="60: Big Clean Rhythm"  ProgramChange="60"/>
+          <Patch Number="61"  Name="61: Heartland Crunch"  ProgramChange="61"/>
+          <Patch Number="62"  Name="62: NeckPickUpBlues"  ProgramChange="62"/>
+          <Patch Number="63"  Name="63: Roadhouse Blues"  ProgramChange="63"/>
+          <Patch Number="64"  Name="64: Chicago Blues Lead"  ProgramChange="64"/>
+          <Patch Number="65"  Name="65: Duck da'Verb Blues"  ProgramChange="65"/>
+          <Patch Number="66"  Name="66: Clean Tube Skank"  ProgramChange="66"/>
+          <Patch Number="67"  Name="67: SRV Leslie/Rhythm"  ProgramChange="67"/>
+          <Patch Number="68"  Name="68: Bit O'Grit"  ProgramChange="68"/>
+          <Patch Number="69"  Name="69: Metal Bo Beat"  ProgramChange="69"/>
+          <Patch Number="70"  Name="70: Smoke That Carlton !"  ProgramChange="70"/>
+          <Patch Number="71"  Name="71: Country Tremolo"  ProgramChange="71"/>
+          <Patch Number="72"  Name="72: BothSides of Country"  ProgramChange="72"/>
+          <Patch Number="73"  Name="73: Spanky Room"  ProgramChange="73"/>
+          <Patch Number="74"  Name="74: TeleStrat Rhythm"  ProgramChange="74"/>
+          <Patch Number="75"  Name="75: Steel Nashville"  ProgramChange="75"/>
+          <Patch Number="76"  Name="76: Warm Studio Steel"  ProgramChange="76"/>
+          <Patch Number="77"  Name="77: E.A.c(Brite for Cabs)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="78: PedalSteel1 (use FC)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="79: PedalSteel2 (use FC)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="80: PedalSteel3 (use FC)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="81: Jazzy Hall"  ProgramChange="81"/>
+          <Patch Number="82"  Name="82: Jazzy Delay"  ProgramChange="82"/>
+          <Patch Number="83"  Name="83: Jazzy Lead"  ProgramChange="83"/>
+          <Patch Number="84"  Name="84: Old Jazz Club"  ProgramChange="84"/>
+          <Patch Number="85"  Name="85: Soloing with 4ths"  ProgramChange="85"/>
+          <Patch Number="86"  Name="86: Jangly Rhythm"  ProgramChange="86"/>
+          <Patch Number="87"  Name="87: All In The Family"  ProgramChange="87"/>
+          <Patch Number="88"  Name="88: Comping Chor&amp;Det"  ProgramChange="88"/>
+          <Patch Number="89"  Name="89: Ducked LA X-Delays"  ProgramChange="89"/>
+          <Patch Number="90"  Name="90: Extra Dry Martini"  ProgramChange="90"/>
+          <Patch Number="91"  Name="91: Sound on Sound (use FC)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="92: 5 Second Sampler"  ProgramChange="92"/>
+          <Patch Number="93"  Name="93: Purple Haze"  ProgramChange="93"/>
+          <Patch Number="94"  Name="94: ANCIENT HARMONIZAH"  ProgramChange="94"/>
+          <Patch Number="95"  Name="95: Better Than Cats"  ProgramChange="95"/>
+          <Patch Number="96"  Name="96: Cyclone Hangover"  ProgramChange="96"/>
+          <Patch Number="97"  Name="97: Holdsworthian 5ths"  ProgramChange="97"/>
+          <Patch Number="98"  Name="98: The Morgue AutoSwell"  ProgramChange="98"/>
+          <Patch Number="99"  Name="99: Octopus Garden"  ProgramChange="99"/>
+          <Patch Number="100"  Name="100: The Big Volume Swell"  ProgramChange="100"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="GSP-2101  Factory">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="0:None"  ProgramChange="0"/>
+          <Patch Number="1"  Name="1: Dry Saturated Tube"  ProgramChange="1"/>
+          <Patch Number="2"  Name="2: On Cloud Nine"  ProgramChange="2"/>
+          <Patch Number="3"  Name="3: Plutonium"  ProgramChange="3"/>
+          <Patch Number="4"  Name="4: Floating 5ths"  ProgramChange="4"/>
+          <Patch Number="5"  Name="5: Edge Of The Universe"  ProgramChange="5"/>
+          <Patch Number="6"  Name="6: Phaser In Space"  ProgramChange="6"/>
+          <Patch Number="7"  Name="7: Look Wah, No Feet !"  ProgramChange="7"/>
+          <Patch Number="8"  Name="8: Studio Steel"  ProgramChange="8"/>
+          <Patch Number="9"  Name="9: Blues Solo"  ProgramChange="9"/>
+          <Patch Number="10"  Name="10: String Volume Swell"  ProgramChange="10"/>
+          <Patch Number="11"  Name="11: Death Metal Grind"  ProgramChange="11"/>
+          <Patch Number="12"  Name="12: Rhythmic Orbits"  ProgramChange="12"/>
+          <Patch Number="13"  Name="13: *ELECTRIC SARAHLAND*"  ProgramChange="13"/>
+          <Patch Number="14"  Name="14: Wet 12 String"  ProgramChange="14"/>
+          <Patch Number="15"  Name="15: Dry Ice"  ProgramChange="15"/>
+          <Patch Number="16"  Name="16: Clean Arena"  ProgramChange="16"/>
+          <Patch Number="17"  Name="17: Black Hole"  ProgramChange="17"/>
+          <Patch Number="18"  Name="18: Chicken Pickin'"  ProgramChange="18"/>
+          <Patch Number="19"  Name="19: Parallel Chor&amp;Dtn"  ProgramChange="19"/>
+          <Patch Number="20"  Name="20: Lotus Lead"  ProgramChange="20"/>
+          <Patch Number="21"  Name="21: Big Stereo Punch"  ProgramChange="21"/>
+          <Patch Number="22"  Name="22: Warm Sweet Solo"  ProgramChange="22"/>
+          <Patch Number="23"  Name="23: RAW CAN ROLL"  ProgramChange="23"/>
+          <Patch Number="24"  Name="24: Solo In Arena"  ProgramChange="24"/>
+          <Patch Number="25"  Name="25: Punchy Pitch"  ProgramChange="25"/>
+          <Patch Number="26"  Name="26: Ultra thick Chorus"  ProgramChange="26"/>
+          <Patch Number="27"  Name="27: Small Bright Room"  ProgramChange="27"/>
+          <Patch Number="28"  Name="28: Quad Detune"  ProgramChange="28"/>
+          <Patch Number="29"  Name="29: Auto Volume Swell"  ProgramChange="29"/>
+          <Patch Number="30"  Name="30: Killer Chorus"  ProgramChange="30"/>
+          <Patch Number="31"  Name="31: Heap O'Bottumus"  ProgramChange="31"/>
+          <Patch Number="32"  Name="32: Nozone"  ProgramChange="32"/>
+          <Patch Number="33"  Name="33: Napalm Solo"  ProgramChange="33"/>
+          <Patch Number="34"  Name="34: Pyro Lead"  ProgramChange="34"/>
+          <Patch Number="35"  Name="35: Metal Tremolo"  ProgramChange="35"/>
+          <Patch Number="36"  Name="36: Grunge To The Max"  ProgramChange="36"/>
+          <Patch Number="37"  Name="37: Beavis Shredhed"  ProgramChange="37"/>
+          <Patch Number="38"  Name="38: Lerxst"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39: Grunge Chorus Crunch"  ProgramChange="39"/>
+          <Patch Number="40"  Name="40: Whammy Down (use FC)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="41: Grunge Solo"  ProgramChange="41"/>
+          <Patch Number="42"  Name="42: Naked Solo"  ProgramChange="42"/>
+          <Patch Number="43"  Name="43: Cup O'Joe"  ProgramChange="43"/>
+          <Patch Number="44"  Name="44: Primitive&amp;Effective"  ProgramChange="44"/>
+          <Patch Number="45"  Name="45: Squealie"  ProgramChange="45"/>
+          <Patch Number="46"  Name="46: Possessed To Skate"  ProgramChange="46"/>
+          <Patch Number="47"  Name="47: Funhouse"  ProgramChange="47"/>
+          <Patch Number="48"  Name="48: Hard Rock Swirl"  ProgramChange="48"/>
+          <Patch Number="49"  Name="49: Mammoth Chorus"  ProgramChange="49"/>
+          <Patch Number="50"  Name="50: Clean and Wide"  ProgramChange="50"/>
+          <Patch Number="51"  Name="51: I Like My Surf Board"  ProgramChange="51"/>
+          <Patch Number="52"  Name="52: Chorus Tremolo"  ProgramChange="52"/>
+          <Patch Number="53"  Name="53: Dirty Slapped Phaser"  ProgramChange="53"/>
+          <Patch Number="54"  Name="54: Sludge Tap Detuner"  ProgramChange="54"/>
+          <Patch Number="55"  Name="55: EdgeHog"  ProgramChange="55"/>
+          <Patch Number="56"  Name="56: Cat Scratch It !"  ProgramChange="56"/>
+          <Patch Number="57"  Name="57: ZZ Tush Comp"  ProgramChange="57"/>
+          <Patch Number="58"  Name="58: Big Rock Rhythm"  ProgramChange="58"/>
+          <Patch Number="59"  Name="59: Dire Strat Grit"  ProgramChange="59"/>
+          <Patch Number="60"  Name="60: Big Clean Rhythm"  ProgramChange="60"/>
+          <Patch Number="61"  Name="61: Heartland Crunch"  ProgramChange="61"/>
+          <Patch Number="62"  Name="62: NeckPickUpBlues"  ProgramChange="62"/>
+          <Patch Number="63"  Name="63: Roadhouse Blues"  ProgramChange="63"/>
+          <Patch Number="64"  Name="64: Chicago Blues Lead"  ProgramChange="64"/>
+          <Patch Number="65"  Name="65: Duck da'Verb Blues"  ProgramChange="65"/>
+          <Patch Number="66"  Name="66: Clean Tube Skank"  ProgramChange="66"/>
+          <Patch Number="67"  Name="67: SRV Leslie/Rhythm"  ProgramChange="67"/>
+          <Patch Number="68"  Name="68: Bit O'Grit"  ProgramChange="68"/>
+          <Patch Number="69"  Name="69: Metal Bo Beat"  ProgramChange="69"/>
+          <Patch Number="70"  Name="70: Smoke That Carlton !"  ProgramChange="70"/>
+          <Patch Number="71"  Name="71: Country Tremolo"  ProgramChange="71"/>
+          <Patch Number="72"  Name="72: BothSides of Country"  ProgramChange="72"/>
+          <Patch Number="73"  Name="73: Spanky Room"  ProgramChange="73"/>
+          <Patch Number="74"  Name="74: TeleStrat Rhythm"  ProgramChange="74"/>
+          <Patch Number="75"  Name="75: Steel Nashville"  ProgramChange="75"/>
+          <Patch Number="76"  Name="76: Warm Studio Steel"  ProgramChange="76"/>
+          <Patch Number="77"  Name="77: E.A.c(Brite for Cabs)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="78: PedalSteel1 (use FC)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="79: PedalSteel2 (use FC)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="80: PedalSteel3 (use FC)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="81: Jazzy Hall"  ProgramChange="81"/>
+          <Patch Number="82"  Name="82: Jazzy Delay"  ProgramChange="82"/>
+          <Patch Number="83"  Name="83: Jazzy Lead"  ProgramChange="83"/>
+          <Patch Number="84"  Name="84: Old Jazz Club"  ProgramChange="84"/>
+          <Patch Number="85"  Name="85: Soloing with 4ths"  ProgramChange="85"/>
+          <Patch Number="86"  Name="86: Jangly Rhythm"  ProgramChange="86"/>
+          <Patch Number="87"  Name="87: All In The Family"  ProgramChange="87"/>
+          <Patch Number="88"  Name="88: Comping Chor&amp;Det"  ProgramChange="88"/>
+          <Patch Number="89"  Name="89: Ducked LA X-Delays"  ProgramChange="89"/>
+          <Patch Number="90"  Name="90: Extra Dry Martini"  ProgramChange="90"/>
+          <Patch Number="91"  Name="91: Sound on Sound (use FC)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="92: 5 Second Sampler"  ProgramChange="92"/>
+          <Patch Number="93"  Name="93: Purple Haze"  ProgramChange="93"/>
+          <Patch Number="94"  Name="94: ANCIENT HARMONIZAH"  ProgramChange="94"/>
+          <Patch Number="95"  Name="95: Better Than Cats"  ProgramChange="95"/>
+          <Patch Number="96"  Name="96: Cyclone Hangover"  ProgramChange="96"/>
+          <Patch Number="97"  Name="97: Holdsworthian 5ths"  ProgramChange="97"/>
+          <Patch Number="98"  Name="98: The Morgue AutoSwell"  ProgramChange="98"/>
+          <Patch Number="99"  Name="99: Octopus Garden"  ProgramChange="99"/>
+          <Patch Number="100"  Name="100: The Big Volume Swell"  ProgramChange="100"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

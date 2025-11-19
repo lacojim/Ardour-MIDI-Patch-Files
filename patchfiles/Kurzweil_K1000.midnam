@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Kurzweil</Manufacturer>
+    <Model>K1000</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Kurzweil K1000">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1  Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2  Fast Strings"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3  Choir"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4  Vibes"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5  Acoustic Bass"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6  Trumpet"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7  Baritone Horn"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8  Clarinet"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9  Electric Organ"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10 Rock Organ"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11 Jazz Organ 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12 Electric Piano"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13 Digital Electric Piano"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14 Piano &amp; Electric Piano"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15 Bright Piano"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16 Stereo Grand Piano"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17 Stereo Extended Piano"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18 Bass / Piano 1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19 Bass / Piano 2"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20 Piano &amp; Slow Strings"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21 Chorused Piano"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22 New Age Piano"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23 Octave Piano"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24 Slow Strings"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25 Medium Strings"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26 Fast Strings with Release"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27 Slow to Fast Strings"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28 Hall Strings"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29 Synth Strings 1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30 Bell &amp; Strings"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31 Flanged Strings"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32 Cathedral Choir"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33 Choir &amp; Strings"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34 Bell &amp; Choir"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35 Fluid Vibes"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36 Stereo Tremolo Vibes"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37 Super Vibes"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38 Slow Vibes"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39 Vibes &amp; Electric Piano"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40 Bowed Acoustic Bass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41 Synth Bass"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42 Slap Bass"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43 Pipe Organ"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44 Dynamic Electric Organ"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45 Dynamic Rock Organ"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46 Dynamic Jazz Organ"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47 Organ w/Wheslie"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48 Jazz Organ 2"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49 Trumpet Section"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50 Analog Brass"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51 Handbells"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52 Synth Harpsichord 1"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53 Synth Kalimba"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54 Klavinyet"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55 Fat Synth"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56 Bells with Echo"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57 Chelodes"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58 Strhodes"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59 Electric Piano 2"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60 Digital Electric Piano 2"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61 Synth Pizz 1"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62 Synth Pizz 2"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63 Synth Strings 2"  ProgramChange="62"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

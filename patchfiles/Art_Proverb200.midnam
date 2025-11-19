@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Art</Manufacturer>
+    <Model>Proverb200</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="ART ProVerb 200">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Tight Plate"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Tight Expnd"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Deep Plate"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Deep Expnd"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Diffused Plate"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Expansive Plate"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Diff/Expnd Plate"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Expansive Bright"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Med. Tight Dark"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Large Diffused"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Large Wide1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Large Wide2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Large Open1"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Large Open2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Large Tight1"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Large Tight2"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Large Dark1"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Large Dark2"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Small Tight1"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Small Tight2"  ProgramChange="19"/>
+          <Patch Number="20"  Name="StuVoc SmClosRm1"  ProgramChange="20"/>
+          <Patch Number="21"  Name="StuVoc SmClosRm2"  ProgramChange="21"/>
+          <Patch Number="22"  Name="StuVoc SmRoom1"  ProgramChange="22"/>
+          <Patch Number="23"  Name="StuVoc SmRoom2"  ProgramChange="23"/>
+          <Patch Number="24"  Name="StuVoc SmDrkRm1"  ProgramChange="24"/>
+          <Patch Number="25"  Name="StuVoc SmDrkRm2"  ProgramChange="25"/>
+          <Patch Number="26"  Name="StuVoc ClosedRm1"  ProgramChange="26"/>
+          <Patch Number="27"  Name="StuVoc ClosedRm2"  ProgramChange="27"/>
+          <Patch Number="28"  Name="StuVoc BrightRm1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="StuVoc BrightRm2"  ProgramChange="29"/>
+          <Patch Number="30"  Name="LivVoc CloseRm1"  ProgramChange="30"/>
+          <Patch Number="31"  Name="LivVoc CloseRm2"  ProgramChange="31"/>
+          <Patch Number="32"  Name="LivVoc BrightRm1"  ProgramChange="32"/>
+          <Patch Number="33"  Name="LivVoc BrightRm2"  ProgramChange="33"/>
+          <Patch Number="34"  Name="LivVoc DarkRm1"  ProgramChange="34"/>
+          <Patch Number="35"  Name="LivVoc DarkRm2"  ProgramChange="35"/>
+          <Patch Number="36"  Name="LivVoc ClosBriRm1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="LivVoc ClosBriRm2"  ProgramChange="37"/>
+          <Patch Number="38"  Name="LivVoc OpenBriRm1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="LivVoc OpenBriRm2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="SmallRm Bright1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="SmallRm Bright2"  ProgramChange="41"/>
+          <Patch Number="42"  Name="SmallRm Diffus1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="SmallRm Diffus2"  ProgramChange="43"/>
+          <Patch Number="44"  Name="MedRm Dark1"  ProgramChange="44"/>
+          <Patch Number="45"  Name="MedRm Dark2"  ProgramChange="45"/>
+          <Patch Number="46"  Name="MedRm ClosWarm1"  ProgramChange="46"/>
+          <Patch Number="47"  Name="MedRm ClosWarm2"  ProgramChange="47"/>
+          <Patch Number="48"  Name="MedRm OpenWarm1"  ProgramChange="48"/>
+          <Patch Number="49"  Name="MedRm OpenWarm2"  ProgramChange="49"/>
+          <Patch Number="50"  Name="LgRm Bright1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="LgRm Bright2"  ProgramChange="51"/>
+          <Patch Number="52"  Name="LgRm WarmRm1"  ProgramChange="52"/>
+          <Patch Number="53"  Name="LgRm WarmRm2"  ProgramChange="53"/>
+          <Patch Number="54"  Name="LgRm DarkRm1"  ProgramChange="54"/>
+          <Patch Number="55"  Name="LgRm DarkRm2"  ProgramChange="55"/>
+          <Patch Number="56"  Name="LgRm OpenRm1"  ProgramChange="56"/>
+          <Patch Number="57"  Name="LgRm OpenRm2"  ProgramChange="57"/>
+          <Patch Number="58"  Name="LgRm CloseRm1"  ProgramChange="58"/>
+          <Patch Number="59"  Name="LgRm CloseRm2"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Hall Warm1"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Hall Warm2"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Hall Bright1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Hall Bright2"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Hall MedWarm1"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Hall MedWarm2"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Hall Expansive1"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Hall Expansive2"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Hall Expansive3"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Hall Expansive4"  ProgramChange="69"/>
+          <Patch Number="70"  Name="MedHall Bright1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="MedHall Bright2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="MedHall Expans1"  ProgramChange="72"/>
+          <Patch Number="73"  Name="MedHall Expans2"  ProgramChange="73"/>
+          <Patch Number="74"  Name="MedHall WrmClos1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="MedHall WrmClos2"  ProgramChange="75"/>
+          <Patch Number="76"  Name="MedHall WrmOpen1"  ProgramChange="76"/>
+          <Patch Number="77"  Name="MedHall WrmOpen2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="LrgHall LongDrk1"  ProgramChange="78"/>
+          <Patch Number="79"  Name="LrgHall LongDrk2"  ProgramChange="79"/>
+          <Patch Number="80"  Name="GreatHall LgOpen1"  ProgramChange="80"/>
+          <Patch Number="81"  Name="GreatHall LgOpen2"  ProgramChange="81"/>
+          <Patch Number="82"  Name="GreatHall Bright1"  ProgramChange="82"/>
+          <Patch Number="83"  Name="GreatHall Bright2"  ProgramChange="83"/>
+          <Patch Number="84"  Name="GreatHall Warm1"  ProgramChange="84"/>
+          <Patch Number="85"  Name="GreatHall Warm2"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Cathedral LngDrk1"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Cathedral LngDrk2"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Cathedral LngWrm1"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Cathedral LngWrm2"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Gated 200 Sloped"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Gated 300 Sloped"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Gated 400 Sloped"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Gated 500 Sloped"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Gated 600 Sloped"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Gated 200 Flat"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Gated 300 Flat"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Gated 400 Flat"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Gated 600 Flat"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Gated 300 Sparse"  ProgramChange="99"/>
+          <Patch Number="100"  Name="A0 Companded Gate1"  ProgramChange="100"/>
+          <Patch Number="101"  Name="A1 Companded Gate2"  ProgramChange="101"/>
+          <Patch Number="102"  Name="A2 Mono Full Gate"  ProgramChange="102"/>
+          <Patch Number="103"  Name="A3 Full Gate LngDcy Sloped"  ProgramChange="103"/>
+          <Patch Number="104"  Name="A4 Full Gate LngDcy Flat"  ProgramChange="104"/>
+          <Patch Number="105"  Name="A5 Companded Extra Short"  ProgramChange="105"/>
+          <Patch Number="106"  Name="A6 Companded Short"  ProgramChange="106"/>
+          <Patch Number="107"  Name="A7 Companded Med"  ProgramChange="107"/>
+          <Patch Number="108"  Name="A8 Companded Long"  ProgramChange="108"/>
+          <Patch Number="109"  Name="A9 Companded VeryLng"  ProgramChange="109"/>
+          <Patch Number="110"  Name="C0 Rev 200 StrongTail"  ProgramChange="110"/>
+          <Patch Number="111"  Name="C1 Rev 300 StrongTail"  ProgramChange="111"/>
+          <Patch Number="112"  Name="C2 Rev 400 StrongTail"  ProgramChange="112"/>
+          <Patch Number="113"  Name="C3 Rev 500 StrongTail"  ProgramChange="113"/>
+          <Patch Number="114"  Name="C4 Rev 600 StrongTail"  ProgramChange="114"/>
+          <Patch Number="115"  Name="C5 Rev 200 NormalTail"  ProgramChange="115"/>
+          <Patch Number="116"  Name="C6 Rev 400 NormalTail"  ProgramChange="116"/>
+          <Patch Number="117"  Name="C7 Rev 600 NormalTail"  ProgramChange="117"/>
+          <Patch Number="118"  Name="C8 Rev 300 Swell"  ProgramChange="118"/>
+          <Patch Number="119"  Name="C9 Rev 600 Swell"  ProgramChange="119"/>
+          <Patch Number="120"  Name="E0 StereoFlang Fast"  ProgramChange="120"/>
+          <Patch Number="121"  Name="E1 StereoFlang Med"  ProgramChange="121"/>
+          <Patch Number="122"  Name="E2 StereoFlang Slow"  ProgramChange="122"/>
+          <Patch Number="123"  Name="E3 StereoFlang InvrtSlow"  ProgramChange="123"/>
+          <Patch Number="124"  Name="E4 StereoFlang InvrtFast"  ProgramChange="124"/>
+          <Patch Number="125"  Name="E5 StereoFlang InvrtMed"  ProgramChange="125"/>
+          <Patch Number="126"  Name="E6 StereoFlang InvrtNorm"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Y9 Mute (Bypass)"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

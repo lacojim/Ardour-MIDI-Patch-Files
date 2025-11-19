@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Korg</Manufacturer>
+    <Model>WS</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Korg Wavestation">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="BasedOn"  Name="Korg Wavestation"  ProgramChange="BasedOn"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Korg Wavestation RAM1/RAM2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="BasedOn"  Name="Korg Wavestation RAM1/RAM2"  ProgramChange="BasedOn"/>
+          <Patch Number="0"  Name="Ski Jam"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Entropy"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Pinger"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Reswacker"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Lead Rock Guitar"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Softwaves"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Cascade Falls"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Blow the Bottle"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Magic Guitar"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Will I Dream"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Fire Dance"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Analog Love Thing"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Panned Waves"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Super Res"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Ballerina Bells"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Soft Analog"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Mod Wheel Air"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Bowed Strings"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Pluckrimba"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Vector Guitar"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Midnight Run"  ProgramChange="20"/>
+          <Patch Number="21"  Name="African Sunset"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Harmonic Motion"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Air Chorus &amp; Bell"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Sun Glasses Kid"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Stabby Horns"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Soft EP w/Tine"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Artificial Strg"  ProgramChange="27"/>
+          <Patch Number="28"  Name="The Pied Piper"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Vox Concrete"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Snake Charmer"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Rock Time Piano"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Pressure Glass"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Vox Arpeggios"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Struck Bell"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Upright &amp; Oboe"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Refinery"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Kick up da Bass"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Syn Vox"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Kingdom Come"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Cat's Eyes"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Jazz Mutes"  ProgramChange="41"/>
+          <Patch Number="42"  Name="VS Bell Pad"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Spectra"  ProgramChange="43"/>
+          <Patch Number="44"  Name="New Sparkle"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Vektor Organ"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Alien Dreams"  ProgramChange="46"/>
+          <Patch Number="47"  Name="End of Voltaire"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Kilimanjaro"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Debussy On Wheels"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Pharoah's Jig"  ProgramChange="50"/>
+          <Patch Number="51"  Name="City of Tommorow"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Spectrumize"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Fuzzy Pop Clav"  ProgramChange="53"/>
+          <Patch Number="54"  Name="ZZ Lead"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Wack Flute"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Glitter Vox"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Bee Hive"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Waves on Wheels"  ProgramChange="58"/>
+          <Patch Number="59"  Name="21st Century"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Sustain Pedal Jam"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Nasty Harmonics"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Glider"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Mr Wave Table"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Alpine Bells"  ProgramChange="64"/>
+          <Patch Number="65"  Name="The Big Brass"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Gentle Winds"  ProgramChange="66"/>
+          <Patch Number="67"  Name="String &amp; Woodwind"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Rain Chiffs"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Guitar Rez"  ProgramChange="69"/>
+          <Patch Number="70"  Name="ScrittiFunk"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Sonor Bell String"  ProgramChange="71"/>
+          <Patch Number="72"  Name="New Zealand Vice"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Sunday Morning"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Split On Sunset"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Brass Orchestra"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Digipno &amp; Breath"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Lassie Come Home"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Mellow Square Pad"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Antartica"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Echo Hunters"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Organomics"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Trans Atlantic"  ProgramChange="82"/>
+          <Patch Number="83"  Name="The Wave Guitar"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Bell Tree"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Palo Alto Pad"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Thick Pick"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Skip's Boom Bass"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Folk Guitar"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Ivesian Rings"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Saturn Rings"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Rotory Organ"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Star Bell Sweep"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Pop Box"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Xnaos Split"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Rock Steady"  ProgramChange="95"/>
+          <Patch Number="96"  Name="20sec Invasion"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Chronos"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Mambo Marimba!"  ProgramChange="98"/>
+          <Patch Number="99"  Name="The Big Pad"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Korg Wavestation ROM/CARD">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="BasedOn"  Name="Korg Wavestation ROM/CARD"  ProgramChange="BasedOn"/>
+          <Patch Number="0"  Name="The Wave Song"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Deep Atmosphere"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Sting Waves"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Metropolitan"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Mini Lead"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Tack Horns"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Guardians"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Digital ResWave"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Sandman"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Time Traveller"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Song Bells"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Analog Brass"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Cosmic Zone"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Super Clav"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Toy Box"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Analog Brass"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Modernesque"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Octave Strings"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Glass Tambu"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Vektar"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Whisper Voices"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Vulcan Harp"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Quarks"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Vocalise"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Gig Split"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Touch Brass"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Tine Piano"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Warm Strings"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Chiffy Kalimba"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Northern Lights"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Bottle Air"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Rock Stack"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Excalibur"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Wave Tables"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Bells"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Prophet Horn"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Mahogany"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Round Wound"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Digi Harp"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Motion Mix"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Stereo Waves"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Screamer"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Paradise"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Digital Touch"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Voice &amp; Bell"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Resonant Synth"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Rhythm of the Wave"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Introspective"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Wave Mallet"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Station Platform"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Card 0"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Card 1"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Card 2"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Card 3"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Card 4"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Card 5"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Card 6"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Card 7 "  ProgramChange="57"/>
+          <Patch Number="58"  Name="Card 8"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Card 9"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Card 10"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Card 11"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Card 12"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Card 13"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Card 14"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Card 15"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Card 16"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Card 17"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Card 18"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Card 19"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Card 20"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Card 21"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Card 22"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Card 23"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Card 24"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Card 25"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Card 26"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Card 27"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Card 28"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Card 29"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Card 30"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Card 31"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Card 32"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Card 33"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Card 34"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Card 35"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Card 36"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Card 37"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Card 38"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Card 39"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Card 40"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Card 41"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Card 42"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Card 43"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Card 44"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Card 45"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Card 46"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Card 47"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Card 48"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Card 49"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

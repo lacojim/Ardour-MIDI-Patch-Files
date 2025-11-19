@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>General_Music</Manufacturer>
+    <Model>RP</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Generalmusic RP Bank 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Concert Grand"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Honky Tonk"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Wurlitzer Electric"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Rhodex"  ProgramChange="3"/>
+          <Patch Number="4"  Name="FM Piano"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Vibes"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Clavinet"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Harpichord"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Pipe Organ"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Jazz Organ"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Pop Organ"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Choir"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Strings"  ProgramChange="12"/>
+          <Patch Number="13"  Name="A. Guitar"  ProgramChange="13"/>
+          <Patch Number="14"  Name="A. Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="E. Bass"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Concert Grand ASB"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Rock Piano ASB"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Wurlitzer Electric ASB"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Digital Piano ASB"  ProgramChange="19"/>
+          <Patch Number="20"  Name="FM Piano ASB"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Celesta ASB"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Clavinet ASB"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Harpichord ASB"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Pipe Organ ASB"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Jazz Organ ASB"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Pop Organ ASB"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Choir ASB"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Slow Strings ASB"  ProgramChange="28"/>
+          <Patch Number="29"  Name="12 String Guitar ASB"  ProgramChange="29"/>
+          <Patch Number="30"  Name="A. Bass ASB"  ProgramChange="30"/>
+          <Patch Number="31"  Name="E. Bass ASB"  ProgramChange="31"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

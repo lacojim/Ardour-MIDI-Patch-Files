@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Mackie</Manufacturer>
+    <Model>OTTO-1684</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Mackie OTTO-1604">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="80"  Name="1 sec. fade"  ProgramChange="80"/>
+          <Patch Number="81"  Name="2 sec. fade"  ProgramChange="81"/>
+          <Patch Number="82"  Name="3 sec. fade"  ProgramChange="82"/>
+          <Patch Number="83"  Name="4 sec. fade"  ProgramChange="83"/>
+          <Patch Number="84"  Name="5 sec. fade"  ProgramChange="84"/>
+          <Patch Number="85"  Name="6 sec. fade"  ProgramChange="85"/>
+          <Patch Number="86"  Name="7 sec. fade"  ProgramChange="86"/>
+          <Patch Number="87"  Name="8 sec. fade"  ProgramChange="87"/>
+          <Patch Number="88"  Name="9 sec. fade"  ProgramChange="88"/>
+          <Patch Number="89"  Name="10 sec. fade"  ProgramChange="89"/>
+          <Patch Number="90"  Name="11 sec. fade"  ProgramChange="90"/>
+          <Patch Number="91"  Name="12 sec. fade"  ProgramChange="91"/>
+          <Patch Number="92"  Name="13 sec. fade"  ProgramChange="92"/>
+          <Patch Number="93"  Name="14 sec. fade"  ProgramChange="93"/>
+          <Patch Number="94"  Name="15 sec. fade"  ProgramChange="94"/>
+          <Patch Number="95"  Name="16 sec. fade"  ProgramChange="95"/>
+          <Patch Number="96"  Name="17 sec. fade"  ProgramChange="96"/>
+          <Patch Number="97"  Name="18 sec. fade"  ProgramChange="97"/>
+          <Patch Number="98"  Name="19 sec. fade"  ProgramChange="98"/>
+          <Patch Number="99"  Name="20 sec. fade"  ProgramChange="99"/>
+          <Patch Number="100"  Name="21 sec. fade"  ProgramChange="100"/>
+          <Patch Number="101"  Name="22 sec. fade"  ProgramChange="101"/>
+          <Patch Number="102"  Name="23 sec. fade"  ProgramChange="102"/>
+          <Patch Number="103"  Name="24 sec. fade"  ProgramChange="103"/>
+          <Patch Number="104"  Name="25 sec. fade"  ProgramChange="104"/>
+          <Patch Number="105"  Name="26 sec. fade"  ProgramChange="105"/>
+          <Patch Number="106"  Name="27 sec. fade"  ProgramChange="106"/>
+          <Patch Number="107"  Name="28 sec. fade"  ProgramChange="107"/>
+          <Patch Number="108"  Name="29 sec. fade"  ProgramChange="108"/>
+          <Patch Number="109"  Name="30 sec. fade"  ProgramChange="109"/>
+          <Patch Number="127"  Name="pause fade"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=Chan 2"/>
+     <Note Number="2"  Name="2=Chan 3"/>
+     <Note Number="3"  Name="3=Chan 4"/>
+     <Note Number="4"  Name="4=Chan 5"/>
+     <Note Number="5"  Name="5=Chan 6"/>
+     <Note Number="6"  Name="6=Chan 7"/>
+     <Note Number="7"  Name="7=Chan 8"/>
+     <Note Number="8"  Name="8=Chan 9"/>
+     <Note Number="9"  Name="9=Chan 10"/>
+     <Note Number="10"  Name="0=Chan 11"/>
+     <Note Number="11"  Name="1=Chan 12"/>
+     <Note Number="12"  Name="2=Chan 13"/>
+     <Note Number="13"  Name="3=Chan 14"/>
+     <Note Number="14"  Name="4=Chan 15"/>
+     <Note Number="15"  Name="5=Chan 16"/>
+     <Note Number="16"  Name="6=Aux 1 L"/>
+     <Note Number="17"  Name="7=Aux 1 R"/>
+     <Note Number="18"  Name="8=Aux 2 L"/>
+     <Note Number="19"  Name="9=Aux 2 R"/>
+     <Note Number="20"  Name="0=Aux 3"/>
+     <Note Number="21"  Name="1=Aux 4"/>
+     <Note Number="22"  Name="2=Alt 3/4"/>
+     <Note Number="23"  Name="3=Main Outs"/>
+     <Note Number="24"  Name="4=Mute All"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

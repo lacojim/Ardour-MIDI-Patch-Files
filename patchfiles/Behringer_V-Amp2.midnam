@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Behringer</Manufacturer>
+    <Model>V-Amp2</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Behringer V-Amp 2 Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="[01A] Street w/o Name"  ProgramChange="0"/>
+          <Patch Number="1"  Name="[01B] SRV"  ProgramChange="1"/>
+          <Patch Number="2"  Name="[01C] Every Breath U T"  ProgramChange="2"/>
+          <Patch Number="3"  Name="[01D] Sultans o'Swing"  ProgramChange="3"/>
+          <Patch Number="4"  Name="[01E] ZZ's Lovin'"  ProgramChange="4"/>
+          <Patch Number="5"  Name="[02A] Highway To Hell"  ProgramChange="5"/>
+          <Patch Number="6"  Name="[02B] Aint Talink' b.."  ProgramChange="6"/>
+          <Patch Number="7"  Name="[02C] ..Crazy Diamond"  ProgramChange="7"/>
+          <Patch Number="8"  Name="[02D] Under The Bridge"  ProgramChange="8"/>
+          <Patch Number="9"  Name="[02E] Wring That Neck"  ProgramChange="9"/>
+          <Patch Number="10"  Name="[03A] You Oughta Know"  ProgramChange="10"/>
+          <Patch Number="11"  Name="[03B] Little Head"  ProgramChange="11"/>
+          <Patch Number="12"  Name="[03C] General KLee"  ProgramChange="12"/>
+          <Patch Number="13"  Name="[03D] Wheatherman"  ProgramChange="13"/>
+          <Patch Number="14"  Name="[03E] Larry w/o Lee"  ProgramChange="14"/>
+          <Patch Number="15"  Name="[04A] Straight Rhythm"  ProgramChange="15"/>
+          <Patch Number="16"  Name="[04B] Straight Crunch"  ProgramChange="16"/>
+          <Patch Number="17"  Name="[04C] Straight Drive"  ProgramChange="17"/>
+          <Patch Number="18"  Name="[04D] Still Got Blues"  ProgramChange="18"/>
+          <Patch Number="19"  Name="[04E] Money For Nothin'"  ProgramChange="19"/>
+          <Patch Number="20"  Name="[05A] Ultimate Rhythm"  ProgramChange="20"/>
+          <Patch Number="21"  Name="[05B] Big Venue"  ProgramChange="21"/>
+          <Patch Number="22"  Name="[05C] Ambience Crunch"  ProgramChange="22"/>
+          <Patch Number="23"  Name="[05D] Long Clean Delay"  ProgramChange="23"/>
+          <Patch Number="24"  Name="[05E] Make Me Dizzy"  ProgramChange="24"/>
+          <Patch Number="25"  Name="[06A] Dry Rhythm"  ProgramChange="25"/>
+          <Patch Number="26"  Name="[06B] Eddie's Tapping"  ProgramChange="26"/>
+          <Patch Number="27"  Name="[06C] Crunchy Chorus"  ProgramChange="27"/>
+          <Patch Number="28"  Name="[06D] Heaven's Ballad"  ProgramChange="28"/>
+          <Patch Number="29"  Name="[06E] Savage Ultra"  ProgramChange="29"/>
+          <Patch Number="30"  Name="[07A] Blue Rhythm"  ProgramChange="30"/>
+          <Patch Number="31"  Name="[07B] Blue Lead"  ProgramChange="31"/>
+          <Patch Number="32"  Name="[07C] Voxy Drive"  ProgramChange="32"/>
+          <Patch Number="33"  Name="[07D] Clean Comping"  ProgramChange="33"/>
+          <Patch Number="34"  Name="[07E] Robben's Blues"  ProgramChange="34"/>
+          <Patch Number="35"  Name="[08A] Dry Funk"  ProgramChange="35"/>
+          <Patch Number="36"  Name="[08B] Full Blown Solo"  ProgramChange="36"/>
+          <Patch Number="37"  Name="[08C] Quack"  ProgramChange="37"/>
+          <Patch Number="38"  Name="[08D] Less Is More"  ProgramChange="38"/>
+          <Patch Number="39"  Name="[08E] Edge 'b Bite"  ProgramChange="39"/>
+          <Patch Number="40"  Name="[09A] Nu Bad Rhythm"  ProgramChange="40"/>
+          <Patch Number="41"  Name="[09B] MAKE MY D(el)AY"  ProgramChange="41"/>
+          <Patch Number="42"  Name="[09C] Doubled Solo"  ProgramChange="42"/>
+          <Patch Number="43"  Name="[09D] Is The Love?"  ProgramChange="43"/>
+          <Patch Number="44"  Name="[09E] Automatic Solo"  ProgramChange="44"/>
+          <Patch Number="45"  Name="[10A] Ambience Combo"  ProgramChange="45"/>
+          <Patch Number="46"  Name="[10B] Canyon Rock"  ProgramChange="46"/>
+          <Patch Number="47"  Name="[10C] Run To You"  ProgramChange="47"/>
+          <Patch Number="48"  Name="[10D] Bathroom Champ"  ProgramChange="48"/>
+          <Patch Number="49"  Name="[10E] Twins?"  ProgramChange="49"/>
+          <Patch Number="50"  Name="[11A] Solo Force 1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="[11B] Rhythm Force"  ProgramChange="51"/>
+          <Patch Number="52"  Name="[11C] FX me!"  ProgramChange="52"/>
+          <Patch Number="53"  Name="[11D] A-Wah Attack"  ProgramChange="53"/>
+          <Patch Number="54"  Name="[11E] Innocent Clean"  ProgramChange="54"/>
+          <Patch Number="55"  Name="[12A] Solo Force 2"  ProgramChange="55"/>
+          <Patch Number="56"  Name="[12B] Solo Force 3"  ProgramChange="56"/>
+          <Patch Number="57"  Name="[12C] Richie's Dream"  ProgramChange="57"/>
+          <Patch Number="58"  Name="[12D] Paganini Solo"  ProgramChange="58"/>
+          <Patch Number="59"  Name="[12E] Dizzy Lizzy"  ProgramChange="59"/>
+          <Patch Number="60"  Name="[13A] Timebomb!"  ProgramChange="60"/>
+          <Patch Number="61"  Name="[13B] Uni Rhythm"  ProgramChange="61"/>
+          <Patch Number="62"  Name="[13C] Clean &amp; Loud"  ProgramChange="62"/>
+          <Patch Number="63"  Name="[13D] Clean &amp; Board"  ProgramChange="63"/>
+          <Patch Number="64"  Name="[13E] Saga Solo"  ProgramChange="64"/>
+          <Patch Number="65"  Name="[14A] Tune 2 D"  ProgramChange="65"/>
+          <Patch Number="66"  Name="[14B] Strat Solo"  ProgramChange="66"/>
+          <Patch Number="67"  Name="[14C] L.A. Clean"  ProgramChange="67"/>
+          <Patch Number="68"  Name="[14D] Dist. Rhythm"  ProgramChange="68"/>
+          <Patch Number="69"  Name="[14E] Dist. Solo"  ProgramChange="69"/>
+          <Patch Number="70"  Name="[15A] Rhythm Crunch"  ProgramChange="70"/>
+          <Patch Number="71"  Name="[15B] Blues Lead"  ProgramChange="71"/>
+          <Patch Number="72"  Name="[15C] Tele Twang"  ProgramChange="72"/>
+          <Patch Number="73"  Name="[15D] Tele Jazzy"  ProgramChange="73"/>
+          <Patch Number="74"  Name="[15E] Ch+Del lead"  ProgramChange="74"/>
+          <Patch Number="75"  Name="[16A] Recti-Rhythm 1"  ProgramChange="75"/>
+          <Patch Number="76"  Name="[16B] Recti-Rhythm 2"  ProgramChange="76"/>
+          <Patch Number="77"  Name="[16C] Rectii-Solo Bal."  ProgramChange="77"/>
+          <Patch Number="78"  Name="[16D] Dynamite Crunch"  ProgramChange="78"/>
+          <Patch Number="79"  Name="[16E] Heavy Funk"  ProgramChange="79"/>
+          <Patch Number="80"  Name="[17A] Spacy Clean"  ProgramChange="80"/>
+          <Patch Number="81"  Name="[17B] 2H Tap Clean"  ProgramChange="81"/>
+          <Patch Number="82"  Name="[17C] Clean Accomp."  ProgramChange="82"/>
+          <Patch Number="83"  Name="[17D] Bluesy Tremolo"  ProgramChange="83"/>
+          <Patch Number="84"  Name="[17E] Dry Riff Clean"  ProgramChange="84"/>
+          <Patch Number="85"  Name="[18A] Balladeer"  ProgramChange="85"/>
+          <Patch Number="86"  Name="[18B] Breakin' Blues"  ProgramChange="86"/>
+          <Patch Number="87"  Name="[18C] Westm. Abbey Rock"  ProgramChange="87"/>
+          <Patch Number="88"  Name="[18D] Rectified Chorus"  ProgramChange="88"/>
+          <Patch Number="89"  Name="[18E] SLO Lead Chorus"  ProgramChange="89"/>
+          <Patch Number="90"  Name="[19A] Raw Crunch"  ProgramChange="90"/>
+          <Patch Number="91"  Name="[19B] 2x12 Crunch"  ProgramChange="91"/>
+          <Patch Number="92"  Name="[19C] V-heaven"  ProgramChange="92"/>
+          <Patch Number="93"  Name="[19D] Flying Crunch"  ProgramChange="93"/>
+          <Patch Number="94"  Name="[19E] Drive 2 Space"  ProgramChange="94"/>
+          <Patch Number="95"  Name="[20A] Slow Motion"  ProgramChange="95"/>
+          <Patch Number="96"  Name="[20B] Whale Watching"  ProgramChange="96"/>
+          <Patch Number="97"  Name="[20C] Wah 'ts dat"  ProgramChange="97"/>
+          <Patch Number="98"  Name="[20D] Wet Dreams"  ProgramChange="98"/>
+          <Patch Number="99"  Name="[20E] Stratosphere"  ProgramChange="99"/>
+          <Patch Number="100"  Name="[21A] Fractal Blubber"  ProgramChange="100"/>
+          <Patch Number="101"  Name="[21B] Driving Duck"  ProgramChange="101"/>
+          <Patch Number="102"  Name="[21C] Parcival's Virus"  ProgramChange="102"/>
+          <Patch Number="103"  Name="[21D] Fat On Stage"  ProgramChange="103"/>
+          <Patch Number="104"  Name="[21E] Watch The DJ"  ProgramChange="104"/>
+          <Patch Number="105"  Name="[22A] Next To U"  ProgramChange="105"/>
+          <Patch Number="106"  Name="[22B] Virus Fat"  ProgramChange="106"/>
+          <Patch Number="107"  Name="[22C] Digeridoo"  ProgramChange="107"/>
+          <Patch Number="108"  Name="[22D] Sonar"  ProgramChange="108"/>
+          <Patch Number="109"  Name="[22E] 303 Flubber 135b"  ProgramChange="109"/>
+          <Patch Number="110"  Name="[23A] Delay Line"  ProgramChange="110"/>
+          <Patch Number="111"  Name="[23B] Centrifugal Power"  ProgramChange="111"/>
+          <Patch Number="112"  Name="[23C] Parcival's Drum 1"  ProgramChange="112"/>
+          <Patch Number="113"  Name="[23D] Parcival's Drum 2"  ProgramChange="113"/>
+          <Patch Number="114"  Name="[23E] Bad BD 2"  ProgramChange="114"/>
+          <Patch Number="115"  Name="[24A] Blubbb"  ProgramChange="115"/>
+          <Patch Number="116"  Name="[24B] BD Fat 1"  ProgramChange="116"/>
+          <Patch Number="117"  Name="[24C] BD Fat 2"  ProgramChange="117"/>
+          <Patch Number="118"  Name="[24D] Bad BD 1"  ProgramChange="118"/>
+          <Patch Number="119"  Name="[24E] Percussion Tube"  ProgramChange="119"/>
+          <Patch Number="120"  Name="[26A] Steam Industry"  ProgramChange="120"/>
+          <Patch Number="121"  Name="[26B] Soft Shaker Perc."  ProgramChange="121"/>
+          <Patch Number="122"  Name="[26C] Percussion Delay"  ProgramChange="122"/>
+          <Patch Number="123"  Name="[25D] C64 Percussion"  ProgramChange="123"/>
+          <Patch Number="124"  Name="[25E] Percussion Spin"  ProgramChange="124"/>
+          <Patch Number="125"  Name="[26A] NOT USED"  ProgramChange="125"/>
+          <Patch Number="126"  Name="[26B] NOT USED"  ProgramChange="126"/>
+          <Patch Number="127"  Name="[26C] NOT USED"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

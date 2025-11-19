@@ -1,0 +1,508 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Digitech</Manufacturer>
+    <Model>DSP-256XL</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Digitech DSP-256XL">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Left in Hall"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Fat Animation"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Rebounce"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Jazz by Three"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Cathedral"  ProgramChange="4"/>
+          <Patch Number="5"  Name="To the Left"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Chor/Dly in Back"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Flange Echoverb"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Chorus Hall 4Vox"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Splashverb 2"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Get Back"  ProgramChange="10"/>
+          <Patch Number="11"  Name="The Gym"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Opera House"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Theater"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Large CHapel"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Arena"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Marble Mansion"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Afterglow"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Rich Plate"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Early Reflection"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Real Room"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Sweet Hall"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Water Tank"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Parking Terrace"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Stereo Bolero"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Rich Left &amp; Right"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Cresc Back &amp; 4th"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Decrecendo Echos"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Mary Gone Round"  ProgramChange="28"/>
+          <Patch Number="29"  Name="1 &amp; 1/2 Seconds"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Back &amp; 4th 250 ms"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Back &amp; 4th 300 ms"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Back &amp; 4th 375 ms"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Beefy Echo"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Galloping 16ths"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Wait a Half Sec"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Jazz Waltz"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Nice Lil' Delay"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Flange/Thin Dly"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Ping-Pong Chorus"  ProgramChange="39"/>
+          <Patch Number="40"  Name=".150 sec with 30%"  ProgramChange="40"/>
+          <Patch Number="41"  Name=".225 sec with 20%"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Stereo Image 2"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Thin Delay"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Bottom End Chor"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Chorus in a Tub"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Fat Flange"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Medium Chorus"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Slow &amp; Sweet"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Slim Machine"  ProgramChange="49"/>
+          <Patch Number="50"  Name="I Love Leslie"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Rapid Sweep"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Animal Flange"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Tubular Flange"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Animal Flange 2"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Chorus Room"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Chorus Delay"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Slap Chorus"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Delayed Flange"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Swimming Delay"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Fat Chr Thin Dly"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Rotary Organ"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Flange Solo"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Flange Pan"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Soap Opera"  ProgramChange="64"/>
+          <Patch Number="65"  Name="High Synth Lead"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Crispy Lead Synth"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Piano Chorus"  ProgramChange="67"/>
+          <Patch Number="68"  Name="L.A. Chimes"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Fat Synth Bass"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Keyboard Cho/Vrb"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Adagio For Strings"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Sharpened Edges"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guitar Solo 1"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Full Bass"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Guitar Delay"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Lead Guitar 1"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Lead Guitar 2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Row Yer Rowds"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Stereo Image 1"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Metal Guitar EQ"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Monster Gate"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Ambient Snare"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Fat Snare"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Big Snare Chamber"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Gates of Hell"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Bright Drum Room"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darker Drum Room"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Kick Chamber"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Big Kick Room"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Delayverb"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Splashverb 1"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Delayverb II"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Echo the Left"  ProgramChange="93"/>
+          <Patch Number="94"  Name="To the Right"  ProgramChange="94"/>
+          <Patch Number="95"  Name="600 ms Reverse"  ProgramChange="95"/>
+          <Patch Number="96"  Name="400 ms Reverse"  ProgramChange="96"/>
+          <Patch Number="97"  Name="200 ms Fast Gate"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Absolute Gate"  ProgramChange="98"/>
+          <Patch Number="99"  Name="350 ms Gate"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Chorus Rev Right"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Delay Chase Room"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Chorused Bedroom"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Low Boost Graph"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Mid Boost Graph"  ProgramChange="104"/>
+          <Patch Number="105"  Name="High Boost Graph"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Parametric #1"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Parametric #2"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Parametric #3"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Sweeping Hall"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Vocalverb"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Dark Reverse"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Slow Combed Room"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Space Flanger"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Super Stereo"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Crystal Hall"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Big Chorus Room"  ProgramChange="116"/>
+          <Patch Number="117"  Name="On the Town"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Dark Bird"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Light Flange Rm"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Generalverb"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Funky Bow"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Vox Whispers"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Slightly Combed"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Into the Abyss"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Pink Melon Cafe"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Chorus in a Hall"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Bybass"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="F000-F099">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="000 Bypass (Guitar)"  ProgramChange="0"/>
+          <Patch Number="1"  Name="001 Distant Chorus (Guitar)"  ProgramChange="1"/>
+          <Patch Number="2"  Name="002 Flanger (Guitar)"  ProgramChange="2"/>
+          <Patch Number="3"  Name="003 Bright Chorus (Guitar)"  ProgramChange="3"/>
+          <Patch Number="4"  Name="004 Bright Guitar (Guitar)"  ProgramChange="4"/>
+          <Patch Number="5"  Name="005 Chorused Slapback (Guitar)"  ProgramChange="5"/>
+          <Patch Number="6"  Name="006 EQ Slapback (Guitar)"  ProgramChange="6"/>
+          <Patch Number="7"  Name="007 Spacey Lead (Guitar)"  ProgramChange="7"/>
+          <Patch Number="8"  Name="008 Tight Echo Lead (Guitar)"  ProgramChange="8"/>
+          <Patch Number="9"  Name="009 Midrange Boost (Guitar)"  ProgramChange="9"/>
+          <Patch Number="10"  Name="010 Single Coil EQ (Guitar)"  ProgramChange="10"/>
+          <Patch Number="11"  Name="011 Bathtub Reverb (Guitar)"  ProgramChange="11"/>
+          <Patch Number="12"  Name="012 Lead Booster (Guitar)"  ProgramChange="12"/>
+          <Patch Number="13"  Name="013 Steel Chorus (Guitar)"  ProgramChange="13"/>
+          <Patch Number="14"  Name="014 Frippertronics (Guitar)"  ProgramChange="14"/>
+          <Patch Number="15"  Name="015 Backward Ambience (Guitar)"  ProgramChange="15"/>
+          <Patch Number="16"  Name="016 Async Echo (Guitar)"  ProgramChange="16"/>
+          <Patch Number="17"  Name="017 Metal Rez (Guitar)"  ProgramChange="17"/>
+          <Patch Number="18"  Name="018 Nervous Echo (Guitar)"  ProgramChange="18"/>
+          <Patch Number="19"  Name="019 Metal Tube (Guitar)"  ProgramChange="19"/>
+          <Patch Number="20"  Name="020 Ballad Echo (Guitar)"  ProgramChange="20"/>
+          <Patch Number="21"  Name="021 Thin EQ (Guitar)"  ProgramChange="21"/>
+          <Patch Number="22"  Name="022 Standard Slapback (Guitar)"  ProgramChange="22"/>
+          <Patch Number="23"  Name="023 Lush Echo (Guitar)"  ProgramChange="23"/>
+          <Patch Number="24"  Name="024 Chorus Vibrato (Guitar)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="025 Rise &amp; Fall (Guitar)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="026 Doubler (Guitar)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="027 Reverb/Chorus/Stereo Echo (Keys &amp; Drums)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="028 Reverb/Chorus/Stereo Echo (Keys &amp; Drums)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="029 Dual Reverb (Keys &amp; Drums)"  ProgramChange="29"/>
+          <Patch Number="30"  Name="030 Dual Reverb (Keys &amp; Drums)"  ProgramChange="30"/>
+          <Patch Number="31"  Name="031 Dual Reverb (Keys &amp; Drums)"  ProgramChange="31"/>
+          <Patch Number="32"  Name="032 Chorus/Reverb/Tapped Echo (Keys &amp; Drums)"  ProgramChange="32"/>
+          <Patch Number="33"  Name="033 Exciter/Chorus/Tapped Echo (Keys &amp; Drums)"  ProgramChange="33"/>
+          <Patch Number="34"  Name="034 Dual Reverb (Keys &amp; Drums)"  ProgramChange="34"/>
+          <Patch Number="35"  Name="035 Reverb/Chorus/Stereo Echo (Keys &amp; Drums)"  ProgramChange="35"/>
+          <Patch Number="36"  Name="036 Exciter/Chorus/Tapped Echo (Keys &amp; Drums)"  ProgramChange="36"/>
+          <Patch Number="37"  Name="037 Stereo Slapback (Keys &amp; Drums)"  ProgramChange="37"/>
+          <Patch Number="38"  Name="038 Dual Reverb (Keys &amp; Drums)"  ProgramChange="38"/>
+          <Patch Number="39"  Name="039 Dual Reverb (Keys &amp; Drums)"  ProgramChange="39"/>
+          <Patch Number="40"  Name="040 Exciter/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="041 Dual Reverb (Keys &amp; Drums)"  ProgramChange="41"/>
+          <Patch Number="42"  Name="042 Dual Reverb (Keys &amp; Drums)"  ProgramChange="42"/>
+          <Patch Number="43"  Name="043 Dual Reverb (Keys &amp; Drums)"  ProgramChange="43"/>
+          <Patch Number="44"  Name="044 Dual Reverb (Keys &amp; Drums)"  ProgramChange="44"/>
+          <Patch Number="45"  Name="045 Exciter/Chorus/Tapped Echo (Keys &amp; Drums)"  ProgramChange="45"/>
+          <Patch Number="46"  Name="046 Exciter/Reverb/Tapped Echo (Keys &amp; Drums)"  ProgramChange="46"/>
+          <Patch Number="47"  Name="047 Exciter/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="47"/>
+          <Patch Number="48"  Name="048 Exciter/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="48"/>
+          <Patch Number="49"  Name="049 Chorus/Reverb/Tapped Echo (Keys &amp; Drums)"  ProgramChange="49"/>
+          <Patch Number="50"  Name="050 Dual Reverb (Keys &amp; Drums)"  ProgramChange="50"/>
+          <Patch Number="51"  Name="051 Dual Reverb (Keys &amp; Drums)"  ProgramChange="51"/>
+          <Patch Number="52"  Name="052 Exciter/Reverb/Tapped Echo (Keys &amp; Drums)"  ProgramChange="52"/>
+          <Patch Number="53"  Name="053 Exciter/Reverb/Tapped Echo (Keys &amp; Drums)"  ProgramChange="53"/>
+          <Patch Number="54"  Name="054 Reverb/Chorus/Stereo Echo (Keys &amp; Drums)"  ProgramChange="54"/>
+          <Patch Number="55"  Name="055 Exciter/Reverb/Tapped Echo (Keys &amp; Drums)"  ProgramChange="55"/>
+          <Patch Number="56"  Name="056 Exciter/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="56"/>
+          <Patch Number="57"  Name="057 Exciter/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="57"/>
+          <Patch Number="58"  Name="058 Exciter/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="58"/>
+          <Patch Number="59"  Name="059 Chorus (Keys &amp; Drums)"  ProgramChange="59"/>
+          <Patch Number="60"  Name="060 Reverb/Chorus/Stereo Echo (Keys &amp; Drums)"  ProgramChange="60"/>
+          <Patch Number="61"  Name="061 Reverb/Chorus/Stereo Echo (Keys &amp; Drums)"  ProgramChange="61"/>
+          <Patch Number="62"  Name="062 Reverb/Chorus/Stereo Echo (Keys &amp; Drums)"  ProgramChange="62"/>
+          <Patch Number="63"  Name="063 Chorus/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="63"/>
+          <Patch Number="64"  Name="064 Chorus (Keys &amp; Drums)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="065 Reverb/Chorus/Tapped Echo (Keys &amp; Drums)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="066 Reverb/Chorus/Tapped Echo (Keys &amp; Drums)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="067 Reverb/Chorus/Tapped Echo (Keys &amp; Drums)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="068 Reverb/Chorus/Tapped Echo (Keys &amp; Drums)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="069 Exciter/Reverb/Tapped Echo (Keys &amp; Drums)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="070 Exciter/Chorus/Tapped Echo (Keys &amp; Drums)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="071 Exciter/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="072 Chorus/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="073 Chorus/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="074 Gated Reverb/Tapped Echo (Keys &amp; Drums)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="075 Parallel Stereo Echo (Keys &amp; Drums)"  ProgramChange="75"/>
+          <Patch Number="76"  Name="076 Parallel Stereo Echo (Keys &amp; Drums)"  ProgramChange="76"/>
+          <Patch Number="77"  Name="077 Exciter/Reverb/Stereo Echo (Keys &amp; Drums)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="078 Exciter/Reverb/Stereo Echo"  ProgramChange="78"/>
+          <Patch Number="79"  Name="079 Exciter/Reverb/Stereo Echo"  ProgramChange="79"/>
+          <Patch Number="80"  Name="080 Exciter/Reverb/Stereo Echo"  ProgramChange="80"/>
+          <Patch Number="81"  Name="081 Exciter/Reverb/Stereo Echo"  ProgramChange="81"/>
+          <Patch Number="82"  Name="082 Exciter/Reverb/Stereo Echo"  ProgramChange="82"/>
+          <Patch Number="83"  Name="083 Exciter/Chorus/Tapped Echo"  ProgramChange="83"/>
+          <Patch Number="84"  Name="084 Dual Reverb"  ProgramChange="84"/>
+          <Patch Number="85"  Name="085 Gated Reverb/Tapped Echo"  ProgramChange="85"/>
+          <Patch Number="86"  Name="086 Chorus/Reverb/Tapped Echo"  ProgramChange="86"/>
+          <Patch Number="87"  Name="087 Gated Reverb/Tapped Echo"  ProgramChange="87"/>
+          <Patch Number="88"  Name="088 Exciter/Reverb/Stereo Echo"  ProgramChange="88"/>
+          <Patch Number="89"  Name="089 Reverb/Chorus/Stereo Echo"  ProgramChange="89"/>
+          <Patch Number="90"  Name="090 Chorus/Reverb/Stereo Echo"  ProgramChange="90"/>
+          <Patch Number="91"  Name="091 Chorus/Reverb/Tapped Echo"  ProgramChange="91"/>
+          <Patch Number="92"  Name="092 Parallel Stereo Echo"  ProgramChange="92"/>
+          <Patch Number="93"  Name="093 Exciter/Reverb/Stereo Echo"  ProgramChange="93"/>
+          <Patch Number="94"  Name="094 Gated Reverb/Tapped Echo"  ProgramChange="94"/>
+          <Patch Number="95"  Name="095 Dual Reverb"  ProgramChange="95"/>
+          <Patch Number="96"  Name="096 Parallel Stereo Echo"  ProgramChange="96"/>
+          <Patch Number="97"  Name="097 Exciter/Chorus/Stereo Echo"  ProgramChange="97"/>
+          <Patch Number="98"  Name="098 Exciter/Chorus/Tapped Echo"  ProgramChange="98"/>
+          <Patch Number="99"  Name="099 Reverb/Chorus/Tapped Echo"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="F100-F199">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="100 Dual Reverbs"  ProgramChange="0"/>
+          <Patch Number="1"  Name="101 Dual Reverbs"  ProgramChange="1"/>
+          <Patch Number="2"  Name="102 Dual Reverbs"  ProgramChange="2"/>
+          <Patch Number="3"  Name="103 Dual Reverbs"  ProgramChange="3"/>
+          <Patch Number="4"  Name="104 Dual Reverbs"  ProgramChange="4"/>
+          <Patch Number="5"  Name="105 Dual Reverbs"  ProgramChange="5"/>
+          <Patch Number="6"  Name="106 Dual Reverbs"  ProgramChange="6"/>
+          <Patch Number="7"  Name="107 Dual Reverbs"  ProgramChange="7"/>
+          <Patch Number="8"  Name="108 Dual Reverbs"  ProgramChange="8"/>
+          <Patch Number="9"  Name="109 Dual Reverbs"  ProgramChange="9"/>
+          <Patch Number="10"  Name="110 Dual Reverbs"  ProgramChange="10"/>
+          <Patch Number="11"  Name="111 Dual Reverbs"  ProgramChange="11"/>
+          <Patch Number="12"  Name="112 Dual Reverbs"  ProgramChange="12"/>
+          <Patch Number="13"  Name="113 Dual Reverbs"  ProgramChange="13"/>
+          <Patch Number="14"  Name="114 Dual Reverbs"  ProgramChange="14"/>
+          <Patch Number="15"  Name="115 Dual Reverbs"  ProgramChange="15"/>
+          <Patch Number="16"  Name="116 Dual Reverbs"  ProgramChange="16"/>
+          <Patch Number="17"  Name="107 Dual Reverbs"  ProgramChange="17"/>
+          <Patch Number="18"  Name="118 Dual Reverbs"  ProgramChange="18"/>
+          <Patch Number="19"  Name="119 Dual Reverbs"  ProgramChange="19"/>
+          <Patch Number="20"  Name="120 Dual Reverbs"  ProgramChange="20"/>
+          <Patch Number="21"  Name="121 Dual Reverbs"  ProgramChange="21"/>
+          <Patch Number="22"  Name="122 Dual Reverbs"  ProgramChange="22"/>
+          <Patch Number="23"  Name="123 Dual Reverbs"  ProgramChange="23"/>
+          <Patch Number="24"  Name="124 Dual Reverbs"  ProgramChange="24"/>
+          <Patch Number="25"  Name="125 Dual Reverbs"  ProgramChange="25"/>
+          <Patch Number="26"  Name="126 Dual Reverbs"  ProgramChange="26"/>
+          <Patch Number="27"  Name="127 Dual Reverbs"  ProgramChange="27"/>
+          <Patch Number="28"  Name="128 Dual Reverbs"  ProgramChange="28"/>
+          <Patch Number="29"  Name="129 Dual Reverbs"  ProgramChange="29"/>
+          <Patch Number="30"  Name="130 Gated Reverb/Stereo Echo"  ProgramChange="30"/>
+          <Patch Number="31"  Name="131 Gated Reverb/Stereo Echo"  ProgramChange="31"/>
+          <Patch Number="32"  Name="132 Gated Reverb/Stereo Echo"  ProgramChange="32"/>
+          <Patch Number="33"  Name="133 Gated Reverb/Stereo Echo"  ProgramChange="33"/>
+          <Patch Number="34"  Name="134 Gated Reverb/Stereo Echo"  ProgramChange="34"/>
+          <Patch Number="35"  Name="135 Gated Reverb/Stereo Echo"  ProgramChange="35"/>
+          <Patch Number="36"  Name="136 Gated Reverb/Stereo Echo"  ProgramChange="36"/>
+          <Patch Number="37"  Name="137 Gated Reverb/Stereo Echo"  ProgramChange="37"/>
+          <Patch Number="38"  Name="138 Gated Reverb/Stereo Echo"  ProgramChange="38"/>
+          <Patch Number="39"  Name="139 Gated Reverb/Stereo Echo"  ProgramChange="39"/>
+          <Patch Number="40"  Name="140 Gated Reverb/Tapped Echo"  ProgramChange="40"/>
+          <Patch Number="41"  Name="141 Gated Reverb/Tapped Echo"  ProgramChange="41"/>
+          <Patch Number="42"  Name="142 Gated Reverb/Tapped Echo"  ProgramChange="42"/>
+          <Patch Number="43"  Name="143 Gated Reverb/Tapped Echo"  ProgramChange="43"/>
+          <Patch Number="44"  Name="144 Gated Reverb/Tapped Echo"  ProgramChange="44"/>
+          <Patch Number="45"  Name="145 Gated Reverb/Tapped Echo"  ProgramChange="45"/>
+          <Patch Number="46"  Name="146 Gated Reverb/Tapped Echo"  ProgramChange="46"/>
+          <Patch Number="47"  Name="147 Gated Reverb/Tapped Echo"  ProgramChange="47"/>
+          <Patch Number="48"  Name="148 Gated Reverb/Tapped Echo"  ProgramChange="48"/>
+          <Patch Number="49"  Name="149 Gated Reverb/Tapped Echo"  ProgramChange="49"/>
+          <Patch Number="50"  Name="150 Reverse Reverbs/Stereo Echo"  ProgramChange="50"/>
+          <Patch Number="51"  Name="151 Reverse Reverbs/Stereo Echo"  ProgramChange="51"/>
+          <Patch Number="52"  Name="152 Reverse Reverbs/Stereo Echo"  ProgramChange="52"/>
+          <Patch Number="53"  Name="153 Reverse Reverbs/Stereo Echo"  ProgramChange="53"/>
+          <Patch Number="54"  Name="154 Reverse Reverbs/Stereo Echo"  ProgramChange="54"/>
+          <Patch Number="55"  Name="155 Reverse Reverbs/Stereo Echo"  ProgramChange="55"/>
+          <Patch Number="56"  Name="156 Reverse Reverbs/Stereo Echo"  ProgramChange="56"/>
+          <Patch Number="57"  Name="157 Reverse Reverbs/Stereo Echo"  ProgramChange="57"/>
+          <Patch Number="58"  Name="158 Reverse Reverbs/Stereo Echo"  ProgramChange="58"/>
+          <Patch Number="59"  Name="159 Reverse Reverbs/Stereo Echo"  ProgramChange="59"/>
+          <Patch Number="60"  Name="160 Stereo Choruses"  ProgramChange="60"/>
+          <Patch Number="61"  Name="161 Stereo Choruses"  ProgramChange="61"/>
+          <Patch Number="62"  Name="162 Stereo Choruses"  ProgramChange="62"/>
+          <Patch Number="63"  Name="163 Stereo Choruses"  ProgramChange="63"/>
+          <Patch Number="64"  Name="164 Stereo Choruses"  ProgramChange="64"/>
+          <Patch Number="65"  Name="165 Stereo Choruses"  ProgramChange="65"/>
+          <Patch Number="66"  Name="166 Stereo Choruses"  ProgramChange="66"/>
+          <Patch Number="67"  Name="167 Stereo Choruses"  ProgramChange="67"/>
+          <Patch Number="68"  Name="168 Stereo Choruses"  ProgramChange="68"/>
+          <Patch Number="69"  Name="169 Stereo Choruses"  ProgramChange="69"/>
+          <Patch Number="70"  Name="170 Stereo Flanges"  ProgramChange="70"/>
+          <Patch Number="71"  Name="171 Stereo Flanges"  ProgramChange="71"/>
+          <Patch Number="72"  Name="172 Stereo Flanges"  ProgramChange="72"/>
+          <Patch Number="73"  Name="173 Stereo Flanges"  ProgramChange="73"/>
+          <Patch Number="74"  Name="174 Stereo Flanges"  ProgramChange="74"/>
+          <Patch Number="75"  Name="175 Stereo Flanges"  ProgramChange="75"/>
+          <Patch Number="76"  Name="176 Stereo Flanges"  ProgramChange="76"/>
+          <Patch Number="77"  Name="177 Stereo Flanges"  ProgramChange="77"/>
+          <Patch Number="78"  Name="178 Stereo Flanges"  ProgramChange="78"/>
+          <Patch Number="79"  Name="179 Stereo Flanges"  ProgramChange="79"/>
+          <Patch Number="80"  Name="180 Stereo Echoes"  ProgramChange="80"/>
+          <Patch Number="81"  Name="181 Stereo Echoes"  ProgramChange="81"/>
+          <Patch Number="82"  Name="182 Stereo Echoes"  ProgramChange="82"/>
+          <Patch Number="83"  Name="183 Stereo Echoes"  ProgramChange="83"/>
+          <Patch Number="84"  Name="184 Stereo Echoes"  ProgramChange="84"/>
+          <Patch Number="85"  Name="185 Stereo Echoes"  ProgramChange="85"/>
+          <Patch Number="86"  Name="186 Stereo Echoes"  ProgramChange="86"/>
+          <Patch Number="87"  Name="187 Stereo Echoes"  ProgramChange="87"/>
+          <Patch Number="88"  Name="188 Stereo Echoes"  ProgramChange="88"/>
+          <Patch Number="89"  Name="189 Stereo Echoes"  ProgramChange="89"/>
+          <Patch Number="90"  Name="190 Tapped Echoes"  ProgramChange="90"/>
+          <Patch Number="91"  Name="191 Tapped Echoes"  ProgramChange="91"/>
+          <Patch Number="92"  Name="192 Tapped Echoes"  ProgramChange="92"/>
+          <Patch Number="93"  Name="193 Tapped Echoes"  ProgramChange="93"/>
+          <Patch Number="94"  Name="194 Tapped Echoes"  ProgramChange="94"/>
+          <Patch Number="95"  Name="195 Tapped Echoes"  ProgramChange="95"/>
+          <Patch Number="96"  Name="196 Tapped Echoes"  ProgramChange="96"/>
+          <Patch Number="97"  Name="197 Tapped Echoes"  ProgramChange="97"/>
+          <Patch Number="98"  Name="198 Tapped Echoes"  ProgramChange="98"/>
+          <Patch Number="99"  Name="199 Tapped Echoes"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="F200-F299">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="200 Reverb->Chorus->Tapped Echo"  ProgramChange="0"/>
+          <Patch Number="1"  Name="201 Reverb->Chorus->Tapped Echo"  ProgramChange="1"/>
+          <Patch Number="2"  Name="202 Reverb->Chorus->Tapped Echo"  ProgramChange="2"/>
+          <Patch Number="3"  Name="203 Reverb->Chorus->Tapped Echo"  ProgramChange="3"/>
+          <Patch Number="4"  Name="204 Reverb->Chorus->Tapped Echo"  ProgramChange="4"/>
+          <Patch Number="5"  Name="205 Reverb->Chorus->Tapped Echo"  ProgramChange="5"/>
+          <Patch Number="6"  Name="276 Gated Reverbs (Optimized)"  ProgramChange="6"/>
+          <Patch Number="7"  Name="207 Reverb->Chorus->Tapped Echo"  ProgramChange="7"/>
+          <Patch Number="8"  Name="208 Chorus->Reverb->Stereo Echo"  ProgramChange="8"/>
+          <Patch Number="9"  Name="209 Chorus->Reverb->Stereo Echo"  ProgramChange="9"/>
+          <Patch Number="10"  Name="210 Chorus->Reverb->Tapped Echo"  ProgramChange="10"/>
+          <Patch Number="11"  Name="211 Chorus->Reverb->Tapped Echo"  ProgramChange="11"/>
+          <Patch Number="12"  Name="212 Chorus->Reverb->Tapped Echo"  ProgramChange="12"/>
+          <Patch Number="13"  Name="213 Reverb+Chorus->Stereo Echo"  ProgramChange="13"/>
+          <Patch Number="14"  Name="214 Reverb+Chorus->Stereo Echo"  ProgramChange="14"/>
+          <Patch Number="15"  Name="215 Exciter->Chorus->Tapped Echo"  ProgramChange="15"/>
+          <Patch Number="16"  Name="216 Exciter->Chorus->Tapped Echo"  ProgramChange="16"/>
+          <Patch Number="17"  Name="217 Exciter->Chorus->Tapped Echo"  ProgramChange="17"/>
+          <Patch Number="18"  Name="218 Exciter->Chorus->Tapped Echo"  ProgramChange="18"/>
+          <Patch Number="19"  Name="219 Exciter->Chorus->Tapped Echo"  ProgramChange="19"/>
+          <Patch Number="20"  Name="220 Exciter+Chorus->Stereo Echo"  ProgramChange="20"/>
+          <Patch Number="21"  Name="221 Exciter+Chorus->Stereo Echo"  ProgramChange="21"/>
+          <Patch Number="22"  Name="222 Exciter+Chorus->Stereo Echo"  ProgramChange="22"/>
+          <Patch Number="23"  Name="223 Exciter+Chorus->Stereo Echo"  ProgramChange="23"/>
+          <Patch Number="24"  Name="224 Exciter+Chorus->Stereo Echo"  ProgramChange="24"/>
+          <Patch Number="25"  Name="225 Exciter+Reverb->Stereo Echo"  ProgramChange="25"/>
+          <Patch Number="26"  Name="226 Exciter+Reverb->Stereo Echo"  ProgramChange="26"/>
+          <Patch Number="27"  Name="227 Exciter+Reverb->Stereo Echo"  ProgramChange="27"/>
+          <Patch Number="28"  Name="228 Exciter+Reverb->Stereo Echo"  ProgramChange="28"/>
+          <Patch Number="29"  Name="229 Exciter+Reverb->Stereo Echo"  ProgramChange="29"/>
+          <Patch Number="30"  Name="230 Exciter->Reverb->Stereo Echo"  ProgramChange="30"/>
+          <Patch Number="31"  Name="231 Exciter->Reverb->Stereo Echo"  ProgramChange="31"/>
+          <Patch Number="32"  Name="232 Exciter->Reverb->Stereo Echo"  ProgramChange="32"/>
+          <Patch Number="33"  Name="233 Exciter->Reverb->Tapped Echo"  ProgramChange="33"/>
+          <Patch Number="34"  Name="234 Exciter->Reverb->Tapped Echo"  ProgramChange="34"/>
+          <Patch Number="35"  Name="235 2 Band EQ"  ProgramChange="35"/>
+          <Patch Number="36"  Name="236 2 Band EQ"  ProgramChange="36"/>
+          <Patch Number="37"  Name="237 2 Band EQ"  ProgramChange="37"/>
+          <Patch Number="38"  Name="238 2 Band EQ"  ProgramChange="38"/>
+          <Patch Number="39"  Name="239 2 Band EQ"  ProgramChange="39"/>
+          <Patch Number="40"  Name="240 2 Band EQ"  ProgramChange="40"/>
+          <Patch Number="41"  Name="241 Small Reverbs (Optimized)"  ProgramChange="41"/>
+          <Patch Number="42"  Name="242 Small Reverbs (Optimized)"  ProgramChange="42"/>
+          <Patch Number="43"  Name="243 Small Reverbs (Optimized)"  ProgramChange="43"/>
+          <Patch Number="44"  Name="244 Small Reverbs (Optimized)"  ProgramChange="44"/>
+          <Patch Number="45"  Name="245 Small Reverbs (Optimized)"  ProgramChange="45"/>
+          <Patch Number="46"  Name="246 Small Reverbs (Optimized)"  ProgramChange="46"/>
+          <Patch Number="47"  Name="247 Small Reverbs (Optimized)"  ProgramChange="47"/>
+          <Patch Number="48"  Name="248 Small Reverbs (Optimized)"  ProgramChange="48"/>
+          <Patch Number="49"  Name="249 Small Reverbs (Optimized)"  ProgramChange="49"/>
+          <Patch Number="50"  Name="250 Medium Reverbs (Optimized)"  ProgramChange="50"/>
+          <Patch Number="51"  Name="251 Medium Reverbs (Optimized)"  ProgramChange="51"/>
+          <Patch Number="52"  Name="252 Medium Reverbs (Optimized)"  ProgramChange="52"/>
+          <Patch Number="53"  Name="253 Medium Reverbs (Optimized)"  ProgramChange="53"/>
+          <Patch Number="54"  Name="254 Medium Reverbs (Optimized)"  ProgramChange="54"/>
+          <Patch Number="55"  Name="255 Medium Reverbs (Optimized)"  ProgramChange="55"/>
+          <Patch Number="56"  Name="256 Medium Reverbs (Optimized)"  ProgramChange="56"/>
+          <Patch Number="57"  Name="257 Medium Reverbs (Optimized)"  ProgramChange="57"/>
+          <Patch Number="58"  Name="258 Medium Reverbs (Optimized)"  ProgramChange="58"/>
+          <Patch Number="59"  Name="259 Medium Reverbs (Optimized)"  ProgramChange="59"/>
+          <Patch Number="60"  Name="260 Large Reverbs (Optimized)"  ProgramChange="60"/>
+          <Patch Number="61"  Name="261 Large Reverbs (Optimized)"  ProgramChange="61"/>
+          <Patch Number="62"  Name="262 Large Reverbs (Optimized)"  ProgramChange="62"/>
+          <Patch Number="63"  Name="263 Large Reverbs (Optimized)"  ProgramChange="63"/>
+          <Patch Number="64"  Name="264 Large Reverbs (Optimized)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="265 Large Reverbs (Optimized)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="266 Large Reverbs (Optimized)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="267 Large Reverbs (Optimized)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="268 Large Reverbs (Optimized)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="269 Large Reverbs (Optimized)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="270 Gated Reverbs (Optimized)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="271 Gated Reverbs (Optimized)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="272 Gated Reverbs (Optimized)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="273 Gated Reverbs (Optimized)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="274 Gated Reverbs (Optimized)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="275 Gated Reverbs (Optimized)"  ProgramChange="75"/>
+          <Patch Number="77"  Name="277 Gated Reverbs (Optimized)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="278 Gated Reverbs (Optimized)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="279 Gated Reverbs (Optimized)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="280 Reverse Reverbs (Optimized)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="281 Reverse Reverbs (Optimized)"  ProgramChange="81"/>
+          <Patch Number="82"  Name="282 Reverse Reverbs (Optimized)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="283 Reverse Reverbs (Optimized)"  ProgramChange="83"/>
+          <Patch Number="84"  Name="284 Reverse Reverbs (Optimized)"  ProgramChange="84"/>
+          <Patch Number="85"  Name="285 Reverse Reverbs (Optimized)"  ProgramChange="85"/>
+          <Patch Number="86"  Name="286 Reverse Reverbs (Optimized)"  ProgramChange="86"/>
+          <Patch Number="87"  Name="287 Reverse Reverbs (Optimized)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="288 Reverse Reverbs (Optimized)"  ProgramChange="88"/>
+          <Patch Number="89"  Name="289 Reverse Reverbs (Optimized)"  ProgramChange="89"/>
+          <Patch Number="90"  Name="290 Special Effects (Optimized)"  ProgramChange="90"/>
+          <Patch Number="91"  Name="291 Special Effects (Optimized)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="292 Special Effects (Optimized)"  ProgramChange="92"/>
+          <Patch Number="93"  Name="293 Special Effects (Optimized)"  ProgramChange="93"/>
+          <Patch Number="94"  Name="294 Special Effects (Optimized)"  ProgramChange="94"/>
+          <Patch Number="95"  Name="295 Special Effects (Optimized)"  ProgramChange="95"/>
+          <Patch Number="96"  Name="296 Special Effects (Optimized)"  ProgramChange="96"/>
+          <Patch Number="97"  Name="297 Special Effects (Optimized)"  ProgramChange="97"/>
+          <Patch Number="98"  Name="298 Special Effects (Optimized)"  ProgramChange="98"/>
+          <Patch Number="99"  Name="299 Special Effects (Optimized)"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -1,0 +1,1239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>E-mu_Systems</Manufacturer>
+    <Model>Carnaval</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Card Hyperpresets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Card Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Carnaval Bank 0 (Factory RAM 0)">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Hit:Brazzy"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Kit:Brazil!"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Brs:LaHits"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Sax: Aqui,Oh"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Gtr:2LoNylon"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Sfx:Timbiela"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Kit:AllTraps"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Vox:Brazilia"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Flt:Flauta"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Acc:TubaDuo"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Bas:Baby B"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Brs: &amp; Flute"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Prc:DeepDan"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Lfo:Panituar"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Brs:TrSwell"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Pad:PanSilks"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Pno:Onyx"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Syn:Ying"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Kit:Klango"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Vox:Cutz 1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Org:Orgnzola"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Kit:Salsa"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Pad:HiaSlow"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Cmp:Sawcomp"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Flt:DreamPan"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Acc:w/Alto"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Acc:Ranchero"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Acc:Octavia"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Acc:Squeeze1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Acc:w/Bari"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Acc:Keynoise"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Acc:Squeeze2"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bas:StandUp"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Bas:Chapstik"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Bas:Acustic1"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bas:DampBass"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bas:Lele"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Bas:DAcusta"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Bas:Man"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Bas:ACME"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Bas:Slappy"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Bas:DampBaby"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Bas:Changa"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Bas:Fendarr"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Bas:Duo"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Bas:TechSlap"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Bas:Chugo"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Bas:Bandit"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Brs:DosBones"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Brs:Doppel"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Brs: O Audaz"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Brs:BigBlow"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Brs:Tejano"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Brs: Unison"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Brs:Trompa"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Brs:2Trumps"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Brs:SofTrump"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Brs:Tuba"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Brs:HornSect"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Brs:Trumpet"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Brs:Brazzy"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brs:TrumpOn"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Brs:Filta"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Brs:SumHorns"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Brs:Brite"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Brs:Bone"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Brs:FooSynth"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Brs:El Cheez"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Brs:BiteBraz"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Flt:Fluss"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Flt:w/TRbone"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Flt:DosToots"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Flt:PanFlute"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Flt:TubaFlte"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Flt:TrmpFlte"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Flt:Aire"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Flt:Picollio"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Flt:SynWind"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Flt:Flute.BC"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Flt:PanFl.BC"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Gtr:AcSteel"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Gtr:Guitaron"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Gtr:StrtAlto"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Gtr:Nylon"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Gtr:QuicaPik"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Gtr:Ay Tata"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Gtr:Rusty"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Gtr:BigMexi"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Gtr:Acustica"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Gtr:BellGtr"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Gtr:Stratish"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Gtr:Desperao"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Gtr:Nailon"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Gtr:Manditar"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Gtr:StlVioln"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Gtr:Gringo"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Org:Delico"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Org:Acido"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Org:Cheeze 1"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Org:Key"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Org:Voco"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Org:Cheeze 2"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Org:Boxy"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Org:HammAnd1"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Org:BThreeo"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Org:Lock"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Org:HammAnd2"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Org:anoBar"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Org:Simple"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Org:Stranger"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Org:Weakner"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Org:Pedal"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Org:Perkon 1"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Org:Perkon 2"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Org:Perkon 3"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Org:Perkon 4"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Org:Organi 1"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Org:Organi 2"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Org:Organi 3"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Org:Organi 4"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Pno:Grande"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Pno:TecColor"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Pno:Regular"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Pno:LoTack"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Pno:DeeTune"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Pno:Jango"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Pno:Balada"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Pno:Pno&amp;Strt"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Carnaval Bank 1 (Factory RAM 1)">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Sax:DosTenor"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Sax:Tenorist"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Sax:MorphIt!"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Sax:Alto"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Sax:Barinort"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Sax:HotHorns"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Sax:Baritone"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Sax:StacBari"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Sax:Stacatto"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Sax:TnorTuba"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Sax:MariDuo"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Sax:AltoTrmp"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Sax:Duality"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Sax:Pno&amp;Bari"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Sax:BariTrmp"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Sax:Tenor"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Sax:Barit.BC"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Sax:Tenor.BC"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Sax:Alto .BC"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Spl:Bs&amp;Organ"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Spl:Tuba&amp;Acc"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Spl:Baby&amp;Acc"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Spl:Bs&amp;Piano"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Spl:DuoAcust"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Spl:Bs&amp;Orgn2"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Spl:Tba*Acc"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Spl:Flamenco"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Spl:Lounge"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Spl:Bass&amp;Flu"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Str:MariaVln"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Str:MariChez"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Str:Arcos"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Str:Section"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Str:Fluoro"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Str:Slide"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Str:Futurist"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Str:Smite"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Str:Secti"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Str:Synthpad"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Str:Bowed"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Str:Cynch"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Str:Pesov"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Str:Viol"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Str:SloStrng"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Str:Sombrero"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Str:HiRosin"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Str:Violin"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Str:Celloish"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Hit:Revers"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Hit:Metalika"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Hit:BrsHtz"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Hit:MetalFX"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Hit:Cutz 2"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Hit:Vocal 1"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Hit:Vocal 2"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Hit:Metales"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Hit:VoxBrass"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Hit:Agogohit"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Hit:Bvox"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Hit:BrsFx"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Hit:Trumphet"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Hit:Wistleit"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Hit:Brazolat"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Hit:Symbola"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Kat:DK10 -1-"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Kat:DK10 -2-"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Kat:DK10 -3-"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Kat:DK10 -4-"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Kat:DK10 -5-"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Kat:DK10 -6-"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Kat:DK10 -7-"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Kat:DK10 -8-"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Kat:DK10 -9-"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Kat:DK10 -0-"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Kat:#4Conga"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Kat:#4Timbal"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Kat:Techno-1"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Kat:Techno-2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Kat:MacaTek"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Kat:Weirdo-1"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Kat:Weirdo-2"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Kat:Klango-1"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Kat:Klango-2"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Kat:Klango-3"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Kat:Groove-1"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Kat:Groove-2"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Kat:Groove-3"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Kat:Groove-4"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Kat:Groove-5"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Kat:Groove-6"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Kat:Groove-7"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Kat:Groove-8"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Kat:Groove-9"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Kat: G-MIDI"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Kat:Banda"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Kat:Tejano"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Prc:DeepDan"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Prc:Amazonik"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Prc:Tamivers"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Prc:MetaSkin"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Prf:Congas"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Prf:Bongos"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Prf:Timbales"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Prf:Guiro"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Prf:Shekere"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Prf:Tambora"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Prf:Agogos"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Prf:Tamborim"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Prf:Surdo"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Prf:Pandeiro"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Prf:Repique"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Prf:Ganza"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Vox:Sabor!"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Vox:VoxTrump"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Vox:Mambo!"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Vox:2Throats"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Vox:Marina"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Vox:WRRRRRRR"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Vox:Pitchit"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Vox: Fx"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Vox: Fx2"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Vox:BreathPd"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Vox:Roars"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Vox:Vayas"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Vox:Yohos"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Vox:LocaSi"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Vox:Larrd"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Vox:Carnival"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Carnaval Bank 2 (ROM:Synthesizers)">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Bas:Roboto"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Bas:SynSq"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Bas:SynMono1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Bas:SynMono2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Bas:SynSub"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Bas:Synbass4"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Bas:Synbass5"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Bas:Synbass6"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Bas:Carnie"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Bas:Triangle"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Bas:Subbass"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Cmp:Orinoco"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Cmp:Steelo"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Cmp:Vatacomp"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Cmp:Straton"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Cmp:Brazz"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Cmp:Octal"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Cmp:Melocomp"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Cmp:Korusal"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Cmp:Orano"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Cmp:Sawphaze"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Cmp:Zquence"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Cmp:Voxslap"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Cmp:Halton"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Cmp:Piynanoz"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Cmp:Orgaclav"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Cmp:Clavicle"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Cmp:KsKorn"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Cmp:SqCompz"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Cmp:Squared"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Cmp:ShStop"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Cmp:EePee"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Led:Nuevolea"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Led:Chezlead"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Led:Minisaw"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Led:MONOBoy"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Led:Analogo"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Led:70s"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Led:SqUp"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Led:Blead"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Led:Sinter"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Led:Synsax 1"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Led:Synsax 2"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Led:HolloMON"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Led:Squarey"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Lfo:Tekacc"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Lfo:Silva"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Lfo:TransAmb"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Lfo:Cuartas"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Lfo:Wobbly"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Lfo:Away"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Lfo:HiSteps"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Lfo:Syntonal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Lfo:SampleHd"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Lfo:Fuelle"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Lfo:Gate 7"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Lfo:Trans 1"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Lfo:3 vs=2"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Lfo:BubPeep"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Lfo:PanAccrd"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Lfo:BubTrub"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Lfo:BatFlute"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Lfo:Ambient1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Lfo:HaBrass"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Pad:ObeeWan"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Pad:EroKiss"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Pad:NycBraz"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Pad:Aerialis"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Pad:Outer"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Pad:Phazzed"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Pad:Chorasa"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Pad:Sierra"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Pad:Simple"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Pad:Stringli"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Pad:Panash"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Pad:Batpad"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Pad:Wiggli"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Pad:SoftShk"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Pad:SloGothk"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Pad:Fizzla"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Sfx:P sweep"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Sfx:SpinDocs"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Sfx:Wasptalk"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Sfx:TekHit"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Sfx:Slipacrd"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Sfx:Minuitia"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Sfx:Chaacaca"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Sfx:Guiroed"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Sfx:Froggs"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Sfx:Euforia"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Sfx:Jean Luc"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Sfx:SqwikBnk"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Sfx:Blades"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Sfx:XL-5"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Sfx:911"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Sfx:Cyborg"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Syn:Gregoria"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Syn:Phasoid"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Syn:HiSynth"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Syn:FiltrBit"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Syn:Smoothy"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Syn:Mekano"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Syn:Indie"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Syn:Squara"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Syn:Megacity"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Syn:El Warpo"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Syn:Popular"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Syn:Dictoman"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Syn:OnOne"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Syn:Chunky"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Syn:Angel"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Syn:Macarela"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Syn:Toota"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Syn:Caliente"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Syn:Choosey"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Syn:Minilike"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Syn:DeeDish"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Syn:Tango"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Syn:Hardcore"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Syn:DropBass"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Syn:Welto"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Syn:Espacio"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Syn:Donde"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Syn:Pantan"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Syn:Zingo"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Syn:Tricorus"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Syn:Pulsend"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Syn:Padova"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Carnaval Bank 3 (ROM:Beats)">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="BT:Eurotic"  ProgramChange="0"/>
+          <Patch Number="1"  Name="BT:Eurotic *"  ProgramChange="1"/>
+          <Patch Number="2"  Name="BT:Fiesta!"  ProgramChange="2"/>
+          <Patch Number="3"  Name="BT:Fiesta *"  ProgramChange="3"/>
+          <Patch Number="4"  Name="BT:Brazilia"  ProgramChange="4"/>
+          <Patch Number="5"  Name="BT:Brazilia*"  ProgramChange="5"/>
+          <Patch Number="6"  Name="BT:Kewl It"  ProgramChange="6"/>
+          <Patch Number="7"  Name="BT:Kewl It *"  ProgramChange="7"/>
+          <Patch Number="8"  Name="BT:LaPaz!"  ProgramChange="8"/>
+          <Patch Number="9"  Name="BT:LaPaz! *"  ProgramChange="9"/>
+          <Patch Number="10"  Name="BT:LatinLuv"  ProgramChange="10"/>
+          <Patch Number="11"  Name="BT:LatinLuv*"  ProgramChange="11"/>
+          <Patch Number="12"  Name="BT:MundoLoco"  ProgramChange="12"/>
+          <Patch Number="13"  Name="BT:MundoLoc*"  ProgramChange="13"/>
+          <Patch Number="14"  Name="BT:Mach2"  ProgramChange="14"/>
+          <Patch Number="15"  Name="BT:Mach2 *"  ProgramChange="15"/>
+          <Patch Number="16"  Name="BT:Mach3"  ProgramChange="16"/>
+          <Patch Number="17"  Name="BT:Mach3 *"  ProgramChange="17"/>
+          <Patch Number="18"  Name="BT:Pa Fuera"  ProgramChange="18"/>
+          <Patch Number="19"  Name="BT:Pa Fuera"  ProgramChange="19"/>
+          <Patch Number="20"  Name="BT:Swing It!"  ProgramChange="20"/>
+          <Patch Number="21"  Name="BT:Swing It*"  ProgramChange="21"/>
+          <Patch Number="22"  Name="BT:Raro"  ProgramChange="22"/>
+          <Patch Number="23"  Name="BT:Raro *"  ProgramChange="23"/>
+          <Patch Number="24"  Name="BT:Carnaval"  ProgramChange="24"/>
+          <Patch Number="25"  Name="BT:Rio"  ProgramChange="25"/>
+          <Patch Number="26"  Name="BT:Batuque"  ProgramChange="26"/>
+          <Patch Number="27"  Name="BT:AllBraz *"  ProgramChange="27"/>
+          <Patch Number="28"  Name="BT:Domingo"  ProgramChange="28"/>
+          <Patch Number="29"  Name="BT:Domingo *"  ProgramChange="29"/>
+          <Patch Number="30"  Name="BT:Fogo"  ProgramChange="30"/>
+          <Patch Number="31"  Name="BT:Fogo *"  ProgramChange="31"/>
+          <Patch Number="32"  Name="BT:Coolio"  ProgramChange="32"/>
+          <Patch Number="33"  Name="BT:Coolio *"  ProgramChange="33"/>
+          <Patch Number="34"  Name="BT:Bossa"  ProgramChange="34"/>
+          <Patch Number="35"  Name="BT:Bossa *"  ProgramChange="35"/>
+          <Patch Number="36"  Name="BT:Cascara32"  ProgramChange="36"/>
+          <Patch Number="37"  Name="BT:Cascara *"  ProgramChange="37"/>
+          <Patch Number="38"  Name="BT:Zumbao"  ProgramChange="38"/>
+          <Patch Number="39"  Name="BT:Zumbao *"  ProgramChange="39"/>
+          <Patch Number="40"  Name="BT:Gitano"  ProgramChange="40"/>
+          <Patch Number="41"  Name="BT:Gitano *"  ProgramChange="41"/>
+          <Patch Number="42"  Name="BT:Duende"  ProgramChange="42"/>
+          <Patch Number="43"  Name="BT:Duende *"  ProgramChange="43"/>
+          <Patch Number="44"  Name="BT:Maracuia"  ProgramChange="44"/>
+          <Patch Number="45"  Name="BT:Maracuia*"  ProgramChange="45"/>
+          <Patch Number="46"  Name="BT:Muevelo"  ProgramChange="46"/>
+          <Patch Number="47"  Name="BT:Muevelo *"  ProgramChange="47"/>
+          <Patch Number="48"  Name="BT:Tequila"  ProgramChange="48"/>
+          <Patch Number="49"  Name="BT:Tequila *"  ProgramChange="49"/>
+          <Patch Number="50"  Name="BT:U-Bend"  ProgramChange="50"/>
+          <Patch Number="51"  Name="BT:U-Bend *"  ProgramChange="51"/>
+          <Patch Number="52"  Name="BT:SupaGruv"  ProgramChange="52"/>
+          <Patch Number="53"  Name="BT:SupaGruv*"  ProgramChange="53"/>
+          <Patch Number="54"  Name="BT:Source"  ProgramChange="54"/>
+          <Patch Number="55"  Name="BT:Source *"  ProgramChange="55"/>
+          <Patch Number="56"  Name="BT:Loaded"  ProgramChange="56"/>
+          <Patch Number="57"  Name="BT:Loaded *"  ProgramChange="57"/>
+          <Patch Number="58"  Name="BT:Force"  ProgramChange="58"/>
+          <Patch Number="59"  Name="BT:Force *"  ProgramChange="59"/>
+          <Patch Number="60"  Name="BT:Bhangra"  ProgramChange="60"/>
+          <Patch Number="61"  Name="BT:Bhangra *"  ProgramChange="61"/>
+          <Patch Number="62"  Name="BT:Bhangra2"  ProgramChange="62"/>
+          <Patch Number="63"  Name="BT:Bhangra2*"  ProgramChange="63"/>
+          <Patch Number="64"  Name="BT:Bomba"  ProgramChange="64"/>
+          <Patch Number="65"  Name="BT:Bomba *"  ProgramChange="65"/>
+          <Patch Number="66"  Name="BT:Guaracha"  ProgramChange="66"/>
+          <Patch Number="67"  Name="BT:Guaracha*"  ProgramChange="67"/>
+          <Patch Number="68"  Name="BT:PaloViejo"  ProgramChange="68"/>
+          <Patch Number="69"  Name="BT:AllMrnge*"  ProgramChange="69"/>
+          <Patch Number="70"  Name="BT:Funkonga"  ProgramChange="70"/>
+          <Patch Number="71"  Name="BT:Funkonga*"  ProgramChange="71"/>
+          <Patch Number="72"  Name="BT:Afro"  ProgramChange="72"/>
+          <Patch Number="73"  Name="BT:Afro *"  ProgramChange="73"/>
+          <Patch Number="74"  Name="BT:Mzambique"  ProgramChange="74"/>
+          <Patch Number="75"  Name="BT:Mozambiq*"  ProgramChange="75"/>
+          <Patch Number="76"  Name="BT:MontUno"  ProgramChange="76"/>
+          <Patch Number="77"  Name="BT:MontUno *"  ProgramChange="77"/>
+          <Patch Number="78"  Name="BT:MontDos"  ProgramChange="78"/>
+          <Patch Number="79"  Name="BT:Batucada*"  ProgramChange="79"/>
+          <Patch Number="80"  Name="BT:Plena"  ProgramChange="80"/>
+          <Patch Number="81"  Name="BT:Plena *"  ProgramChange="81"/>
+          <Patch Number="82"  Name="BT:NG Brkdwn"  ProgramChange="82"/>
+          <Patch Number="83"  Name="BT:NG Brkdn*"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BT:Cuidao"  ProgramChange="84"/>
+          <Patch Number="85"  Name="BT:Cuidao *"  ProgramChange="85"/>
+          <Patch Number="86"  Name="BT:Van-ish"  ProgramChange="86"/>
+          <Patch Number="87"  Name="BT:Van-ish"  ProgramChange="87"/>
+          <Patch Number="88"  Name="BT:Mambo 2:3"  ProgramChange="88"/>
+          <Patch Number="89"  Name="BT:Mambo2:3*"  ProgramChange="89"/>
+          <Patch Number="90"  Name="BT:SonTuno"  ProgramChange="90"/>
+          <Patch Number="91"  Name="BT:SM Bldup"  ProgramChange="91"/>
+          <Patch Number="92"  Name="BT:Campaneo"  ProgramChange="92"/>
+          <Patch Number="93"  Name="BT:AllSalsa*"  ProgramChange="93"/>
+          <Patch Number="94"  Name="BT:Tres Dos"  ProgramChange="94"/>
+          <Patch Number="95"  Name="BT:Arriba"  ProgramChange="95"/>
+          <Patch Number="96"  Name="BT:Mas Alla"  ProgramChange="96"/>
+          <Patch Number="97"  Name="BT:Alli Esta"  ProgramChange="97"/>
+          <Patch Number="98"  Name="BT:Merengazo"  ProgramChange="98"/>
+          <Patch Number="99"  Name="BT:AllMrnge*"  ProgramChange="99"/>
+          <Patch Number="100"  Name="BT:FnkyBanda"  ProgramChange="100"/>
+          <Patch Number="101"  Name="BT:SpdyBnda*"  ProgramChange="101"/>
+          <Patch Number="102"  Name="BT:SpdBanda2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="BT:TuBanda"  ProgramChange="103"/>
+          <Patch Number="104"  Name="BT:TuBnda *"  ProgramChange="104"/>
+          <Patch Number="105"  Name="BT:BndaMania"  ProgramChange="105"/>
+          <Patch Number="106"  Name="BT:BndaMnia*"  ProgramChange="106"/>
+          <Patch Number="107"  Name="BT:Cumbia"  ProgramChange="107"/>
+          <Patch Number="108"  Name="BT:Cumbia *"  ProgramChange="108"/>
+          <Patch Number="109"  Name="BT:Cumbiente"  ProgramChange="109"/>
+          <Patch Number="110"  Name="BT:Romantica"  ProgramChange="110"/>
+          <Patch Number="111"  Name="BT:Romantic*"  ProgramChange="111"/>
+          <Patch Number="112"  Name="BT:RumBanda"  ProgramChange="112"/>
+          <Patch Number="113"  Name="BT:RumBanda*"  ProgramChange="113"/>
+          <Patch Number="114"  Name="BT:ReBanda"  ProgramChange="114"/>
+          <Patch Number="115"  Name="BT:Funkabkay"  ProgramChange="115"/>
+          <Patch Number="116"  Name="BT:Funkabky*"  ProgramChange="116"/>
+          <Patch Number="117"  Name="BT:PopBolero"  ProgramChange="117"/>
+          <Patch Number="118"  Name="BT:PopBoler*"  ProgramChange="118"/>
+          <Patch Number="119"  Name="BT:Tejoropo"  ProgramChange="119"/>
+          <Patch Number="120"  Name="BT:Tejoropo*"  ProgramChange="120"/>
+          <Patch Number="121"  Name="BT:Tejano"  ProgramChange="121"/>
+          <Patch Number="122"  Name="BT:Tejano *"  ProgramChange="122"/>
+          <Patch Number="123"  Name="BT:Techno2 *"  ProgramChange="123"/>
+          <Patch Number="124"  Name="BT:Salsa 5 *"  ProgramChange="124"/>
+          <Patch Number="125"  Name="BT:Salsa 1 *"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Brk:Mrengue1"  ProgramChange="126"/>
+          <Patch Number="127"  Name="BT:Chato"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Carnaval Bank 4 (ROM: Beats-Demo-Links)">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="BT:Chato *"  ProgramChange="0"/>
+          <Patch Number="1"  Name="BT:Chico"  ProgramChange="1"/>
+          <Patch Number="2"  Name="BT:Chico*"  ProgramChange="2"/>
+          <Patch Number="3"  Name="BT:Ayaee!"  ProgramChange="3"/>
+          <Patch Number="4"  Name="BT:Ayaee! *"  ProgramChange="4"/>
+          <Patch Number="5"  Name="BT:Jefe"  ProgramChange="5"/>
+          <Patch Number="6"  Name="BT:Jefe *"  ProgramChange="6"/>
+          <Patch Number="7"  Name="BT:Alreves"  ProgramChange="7"/>
+          <Patch Number="8"  Name="BT:Alreves *"  ProgramChange="8"/>
+          <Patch Number="9"  Name="BT:Slo Mo"  ProgramChange="9"/>
+          <Patch Number="10"  Name="BT:Slo Mo *"  ProgramChange="10"/>
+          <Patch Number="11"  Name="BT:Afincao 1"  ProgramChange="11"/>
+          <Patch Number="12"  Name="BT:Afincao1*"  ProgramChange="12"/>
+          <Patch Number="13"  Name="BT:Afincao 2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="BT:Afincao2*"  ProgramChange="14"/>
+          <Patch Number="15"  Name="BT:Prefunca"  ProgramChange="15"/>
+          <Patch Number="16"  Name="BT:Prefunc*"  ProgramChange="16"/>
+          <Patch Number="17"  Name="BT:Leon 1*"  ProgramChange="17"/>
+          <Patch Number="18"  Name="BT:Leon 2*"  ProgramChange="18"/>
+          <Patch Number="19"  Name="BT:Leon 3*"  ProgramChange="19"/>
+          <Patch Number="20"  Name="BT:SkiiMond"  ProgramChange="20"/>
+          <Patch Number="21"  Name="BT:SkiiMon*"  ProgramChange="21"/>
+          <Patch Number="22"  Name="BT:SkiiComp"  ProgramChange="22"/>
+          <Patch Number="23"  Name="BT:SkiiCmp*"  ProgramChange="23"/>
+          <Patch Number="24"  Name="BT:Sabroso"  ProgramChange="24"/>
+          <Patch Number="25"  Name="BT:Sabroso*"  ProgramChange="25"/>
+          <Patch Number="26"  Name="BT:Barrio"  ProgramChange="26"/>
+          <Patch Number="27"  Name="BT:Barrio *"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Brk:SalsaInt"  ProgramChange="28"/>
+          <Patch Number="29"  Name="BT:Cascara32"  ProgramChange="29"/>
+          <Patch Number="30"  Name="BT:Dinamita"  ProgramChange="30"/>
+          <Patch Number="31"  Name="BT:Dinamita*"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Brk:>Bells32"  ProgramChange="32"/>
+          <Patch Number="33"  Name="BT:Bells 3:2"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Brk:Bells32a"  ProgramChange="34"/>
+          <Patch Number="35"  Name="BT:AllMrnge*"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Brk:Mrengue2"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Brk:Mrengue3"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Brk:Mrengue4"  ProgramChange="38"/>
+          <Patch Number="39"  Name="BT:Capoeira*"  ProgramChange="39"/>
+          <Patch Number="40"  Name="BT:AllSalsa*"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Brk:3:2>2:3"  ProgramChange="41"/>
+          <Patch Number="42"  Name="BT:Bells 23a"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Brk:Bells23a"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Brk:Bells23b"  ProgramChange="44"/>
+          <Patch Number="45"  Name="BT:Bells 23b"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Brk:Bells23c"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Brk:SalsaTag"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Dmo:BrsFx"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Dmo:Trumpet"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Dmo:SofTrump"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Dmo:Duality"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Dmo:Guiro"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Dmo:Timbales"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Dmo:AllTraps"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Dmo:DK10 -1-"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Dmo:BrsHtz"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Dmo:Shekere"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Dmo:Congas"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Dmo:Fendarr"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Dmo:Stratish"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Dmo:Tejano"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Dmo:BigMexi"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Dmo:Nylon"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Dmo:Euro"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Dmo:Truer"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Dmo:ordiana"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Dmo:SaxButtr"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Dmo:Acustic1"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Dmo:PianoReg"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Dmo:DosBones"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Dmo:Flutuss"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Dmo:Baritone"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Dmo:Tenor.Bc"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Dmo:MetalFX"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Dmo:Vocal 1"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Dmo:Ay Tata"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Dmo:Nailon"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Dmo:Violin"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Dmo:TejanoBr"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Lnk:VoxFX"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Lnk:OrgKey"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Lnk:BairnBs"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Lnk:BanditBs"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Lnk:SqUp"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Lnk:Clavicle"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Lnk:TeknoBs"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Lnk:BabyBass"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Lnk:SalsaPno"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Lnk:Changa"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Lnk:DampBass"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Lnk:Muev"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Dmo:Cheeze 2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Dmo:Cutz 2"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Lnk:CompDamp"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Lnk:Slappy"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Lnk:Brazilia"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Lnk:StrumGtr"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Lnk:Ranchera"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Lnk:DampBass"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Lnk:BandaBon"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Lnk:2Trumps"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Lnk:Tuba"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Lnk:Shekere"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Dmo:Lele"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Dmo:Alto .BC"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Lnk:ElCheBrs"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Lnk:MacareBT"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Lnk:BasSinte"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Lnk:Acc.Isla"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Lnk:Montuno"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Lnk:OrgB3O"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Lnk:MaderaBs"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Lnk:StringSy"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Lnk:BandaBas"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Lnk:NadaPad"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Lnk:TrueComp"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Lnk:Hey!Maca"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Lnk:GitAron"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Lnk:BigbabyB"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Lnk:SqrCompz"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Lnk:DropBass"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Lnk:BlowChnk"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Lnk:SynSqBas"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Lnk:Subterra"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Lnk:Piano030"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Lnk:EuroOrga"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Init Preset"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Kick 1"/>
+     <Note Number="38"  Name="8=Kick 2"/>
+     <Note Number="39"  Name="9=Kick 3"/>
+     <Note Number="40"  Name="0=Kick 4"/>
+     <Note Number="41"  Name="1=Kick 5"/>
+     <Note Number="42"  Name="2=Kick 6"/>
+     <Note Number="43"  Name="3=Kick 7"/>
+     <Note Number="44"  Name="4=Kick 8"/>
+     <Note Number="45"  Name="5=Kick 9"/>
+     <Note Number="46"  Name="6=Kick 8"/>
+     <Note Number="47"  Name="7=Surdo Kick"/>
+     <Note Number="48"  Name="8=Snare 1"/>
+     <Note Number="49"  Name="9=Snare 2"/>
+     <Note Number="50"  Name="0=Snare 3"/>
+     <Note Number="51"  Name="1=Snare 4"/>
+     <Note Number="52"  Name="2=Snare 5"/>
+     <Note Number="53"  Name="3=Snare 6"/>
+     <Note Number="54"  Name="4=Snare 7"/>
+     <Note Number="55"  Name="5=Snare 8"/>
+     <Note Number="56"  Name="6=Snare 3 Low"/>
+     <Note Number="57"  Name="7=Snare 6 High"/>
+     <Note Number="58"  Name="8=Dance Snare 1"/>
+     <Note Number="59"  Name="9=Dance Snare 2"/>
+     <Note Number="60"  Name="0=Dance Snare 3"/>
+     <Note Number="61"  Name="1=Dance Snare 4"/>
+     <Note Number="62"  Name="2=Snare Rim"/>
+     <Note Number="63"  Name="3=Snare Ruff"/>
+     <Note Number="64"  Name="4=Snare Roll"/>
+     <Note Number="65"  Name="5=Brush Snare"/>
+     <Note Number="66"  Name="6=Elec Hi-Hat"/>
+     <Note Number="67"  Name="7=Floor Tom"/>
+     <Note Number="68"  Name="8=Closed Hi-Hat"/>
+     <Note Number="69"  Name="9=Low Tom"/>
+     <Note Number="70"  Name="0=1/3 Open Hi-Hat"/>
+     <Note Number="71"  Name="1=Low Mid Tom"/>
+     <Note Number="72"  Name="2=High Mid Tom"/>
+     <Note Number="73"  Name="3=2/3 Open Hi-Hat"/>
+     <Note Number="74"  Name="4=High Tom"/>
+     <Note Number="75"  Name="5=Open Hat"/>
+     <Note Number="76"  Name="6=Ride Cymbal"/>
+     <Note Number="77"  Name="7=Ride Bell"/>
+     <Note Number="78"  Name="8=Pedal Hi-Hat"/>
+     <Note Number="79"  Name="9=Crash Cymbal Low"/>
+     <Note Number="80"  Name="0=Crash Cymbal High"/>
+     <Note Number="81"  Name="1=Cymbal Synth"/>
+     <Note Number="82"  Name="2=Cowbell 1 Low"/>
+     <Note Number="83"  Name="3=Cowbell 1 High"/>
+     <Note Number="84"  Name="4=Cowbell Low"/>
+     <Note Number="85"  Name="5=Cowbell 2 High"/>
+     <Note Number="86"  Name="6=Tambourine 1"/>
+     <Note Number="87"  Name="7=Tambourine 2"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Kick Drum 3"/>
+     <Note Number="37"  Name="7=Kick 9"/>
+     <Note Number="38"  Name="8=Snare Drum 2"/>
+     <Note Number="39"  Name="9=Snare Rim"/>
+     <Note Number="40"  Name="0=Snare Drum 5"/>
+     <Note Number="41"  Name="1=Snare Drum Ruff"/>
+     <Note Number="42"  Name="2=Elec Hi-Hat"/>
+     <Note Number="43"  Name="3=Floor Tom"/>
+     <Note Number="44"  Name="4=Closed Hi-Hat"/>
+     <Note Number="45"  Name="5=Low Tom"/>
+     <Note Number="46"  Name="6=1/3 Open Hat"/>
+     <Note Number="47"  Name="7=Low Mid Tom"/>
+     <Note Number="48"  Name="8=High Mid Tom"/>
+     <Note Number="49"  Name="9=2/3 Open Hat"/>
+     <Note Number="50"  Name="0=High Tom"/>
+     <Note Number="51"  Name="1=Open Hat"/>
+     <Note Number="52"  Name="2=Ride Cymbal"/>
+     <Note Number="53"  Name="3=Ride Bell"/>
+     <Note Number="54"  Name="4=Pedal Hi-Hat"/>
+     <Note Number="55"  Name="5=Low Crash Cymbal"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=High Crash Cymbal"/>
+     <Note Number="58"  Name="8=Tambourine 1"/>
+     <Note Number="59"  Name="9=Agogo Mute"/>
+     <Note Number="60"  Name="0=Agogo Low"/>
+     <Note Number="61"  Name="1=Agogo High"/>
+     <Note Number="62"  Name="2=Tamborim Hand"/>
+     <Note Number="63"  Name="3=Tamborim Mute"/>
+     <Note Number="64"  Name="4=Tamborim Open"/>
+     <Note Number="65"  Name="5=Surdo Hand"/>
+     <Note Number="66"  Name="6=Surdo Rim"/>
+     <Note Number="67"  Name="7=Surdo Open"/>
+     <Note Number="68"  Name="8=Surdo Mute"/>
+     <Note Number="69"  Name="9=Pandeiro Open"/>
+     <Note Number="70"  Name="0=Pandeiro Slap"/>
+     <Note Number="71"  Name="1=Pandeiro Mute"/>
+     <Note Number="72"  Name="2=Pandeiro Heel"/>
+     <Note Number="73"  Name="3=Pandeiro Tip"/>
+     <Note Number="74"  Name="4=Caxixi 1"/>
+     <Note Number="75"  Name="5=Caxixi 2"/>
+     <Note Number="76"  Name="6=Ganza Long"/>
+     <Note Number="77"  Name="7=Ganza Short Back"/>
+     <Note Number="78"  Name="8=Ganza Short Front"/>
+     <Note Number="79"  Name="9=Triangle Open"/>
+     <Note Number="80"  Name="0=Triangle Mute"/>
+     <Note Number="81"  Name="1=Repique Hand"/>
+     <Note Number="82"  Name="2=Repique Rim Low"/>
+     <Note Number="83"  Name="3=Repique Rim High"/>
+     <Note Number="84"  Name="4=Repique Open"/>
+     <Note Number="85"  Name="5=Quica Low"/>
+     <Note Number="86"  Name="6=Quica High"/>
+     <Note Number="87"  Name="7=Samba Whistle Low"/>
+     <Note Number="88"  Name="8=Samba Whistle Mid"/>
+     <Note Number="89"  Name="9=Samba Whistle High"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Kick Drum 1"/>
+     <Note Number="37"  Name="7=Rim Shot"/>
+     <Note Number="38"  Name="8=Snare Drum 1"/>
+     <Note Number="39"  Name="9=Hand Clap"/>
+     <Note Number="40"  Name="0=Snare Drum 2"/>
+     <Note Number="41"  Name="1=Low Floor Tom"/>
+     <Note Number="42"  Name="2=Closed Hi-Hat"/>
+     <Note Number="43"  Name="3=High Floor Tom"/>
+     <Note Number="44"  Name="4=Pedal Hi-Hat"/>
+     <Note Number="45"  Name="5=Low Tom"/>
+     <Note Number="46"  Name="6=Open Hi-Hat"/>
+     <Note Number="47"  Name="7=Low Mid Tom"/>
+     <Note Number="48"  Name="8=High Mid Tom"/>
+     <Note Number="49"  Name="9=Low Crash Cymbal"/>
+     <Note Number="50"  Name="0=High Tom"/>
+     <Note Number="51"  Name="1=Low Ride Cymbal"/>
+     <Note Number="52"  Name="2=Chinese Cymbal"/>
+     <Note Number="53"  Name="3=Ride Cymbal Bell"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Splash Cymbal"/>
+     <Note Number="56"  Name="6=Cowbell"/>
+     <Note Number="57"  Name="7=High Crash Cymbal"/>
+     <Note Number="58"  Name="8=Vibraslap"/>
+     <Note Number="59"  Name="9=High Ride Cymbal"/>
+     <Note Number="60"  Name="0=High Bongo"/>
+     <Note Number="61"  Name="1=Low Bongo"/>
+     <Note Number="62"  Name="2=Muted High Conga"/>
+     <Note Number="63"  Name="3=Open High Conga"/>
+     <Note Number="64"  Name="4=Low Conga"/>
+     <Note Number="65"  Name="5=High Timbale"/>
+     <Note Number="66"  Name="6=Low Timbale"/>
+     <Note Number="67"  Name="7=Hi Agogo"/>
+     <Note Number="68"  Name="8=Low Agogo"/>
+     <Note Number="69"  Name="9=Cabasa"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Short Whistle"/>
+     <Note Number="72"  Name="2=Long Whistle"/>
+     <Note Number="73"  Name="3=Short Guiro"/>
+     <Note Number="74"  Name="4=Long Guiro"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=High Wood Block"/>
+     <Note Number="77"  Name="7=Low Wood Block"/>
+     <Note Number="78"  Name="8=Mute Cuica"/>
+     <Note Number="79"  Name="9=Open Cuica"/>
+     <Note Number="80"  Name="0=Mute Triangle"/>
+     <Note Number="81"  Name="1=Open Triangle"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="85"  Name="5=Castanets"/>
+     <Note Number="86"  Name="6=Muted Surdo"/>
+     <Note Number="87"  Name="7=Open Surdo"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Timbale Hand Open"/>
+     <Note Number="37"  Name="7=Timbale Hand Closed"/>
+     <Note Number="38"  Name="8=Timbale Large Open"/>
+     <Note Number="39"  Name="9=Woodblock"/>
+     <Note Number="40"  Name="0=Timbale Large Open"/>
+     <Note Number="41"  Name="1=Timbale Large Rim"/>
+     <Note Number="42"  Name="2=Cha Cha Bell Mouth"/>
+     <Note Number="43"  Name="3=Timbale Large Rim"/>
+     <Note Number="44"  Name="4=Cha Cha Bell Heel"/>
+     <Note Number="45"  Name="5=Timbale Small Open"/>
+     <Note Number="46"  Name="6=Mambo Bell"/>
+     <Note Number="47"  Name="7=Timbale Small Open"/>
+     <Note Number="48"  Name="8=Timbale Small Rim"/>
+     <Note Number="49"  Name="9=Ride Bell"/>
+     <Note Number="50"  Name="0=Timbale Small Rim"/>
+     <Note Number="51"  Name="1=Ride Cymbal"/>
+     <Note Number="52"  Name="2=Timbalito Drag"/>
+     <Note Number="53"  Name="3=Timbalito Open"/>
+     <Note Number="54"  Name="4=Crash Cymbal"/>
+     <Note Number="55"  Name="5=Timbalito Open"/>
+     <Note Number="56"  Name="6=Charanga Bell Mouth"/>
+     <Note Number="57"  Name="7=Timbalito Rim 1"/>
+     <Note Number="58"  Name="8=Charanga Bell Heel"/>
+     <Note Number="59"  Name="9=Timbalito Rim 1"/>
+     <Note Number="60"  Name="0=Timbalito Rim 2"/>
+     <Note Number="61"  Name="1=Cascara (Side Stick)"/>
+     <Note Number="62"  Name="2=Timbalito Rim 2"/>
+     <Note Number="63"  Name="3=Conga Tip"/>
+     <Note Number="64"  Name="4=Conga Heel"/>
+     <Note Number="65"  Name="5=Conga Open"/>
+     <Note Number="66"  Name="6=Conga Slap"/>
+     <Note Number="67"  Name="7=Conga Open"/>
+     <Note Number="68"  Name="8=Conga Palm"/>
+     <Note Number="69"  Name="9=Conga Solo"/>
+     <Note Number="70"  Name="0=Tumba Open High"/>
+     <Note Number="71"  Name="1=Conga Solo"/>
+     <Note Number="72"  Name="2=Tumba Open Mid"/>
+     <Note Number="73"  Name="3=Tumba Slide"/>
+     <Note Number="74"  Name="4=Tumba Open Low"/>
+     <Note Number="75"  Name="5=Quinto Tip"/>
+     <Note Number="76"  Name="6=Quinto Heel"/>
+     <Note Number="77"  Name="7=Quinto Open"/>
+     <Note Number="78"  Name="8=Quinto Slap"/>
+     <Note Number="79"  Name="9=Quinto Open"/>
+     <Note Number="80"  Name="0=Quinto Palm"/>
+     <Note Number="81"  Name="1=Quinto Solo"/>
+     <Note Number="82"  Name="2=Conga Open"/>
+     <Note Number="83"  Name="3=Quinto Solo"/>
+     <Note Number="84"  Name="4=Tumba Open"/>
+     <Note Number="85"  Name="5=Bongo Left Fingertip Muff"/>
+     <Note Number="86"  Name="6=Bongo Left Thumb"/>
+     <Note Number="87"  Name="7=Bongo Left Finger Slap"/>
+     <Note Number="88"  Name="8=Bongo Open Rimshot"/>
+     <Note Number="89"  Name="9=Bongo Open Rimshot"/>
+     <Note Number="90"  Name="0=Bongo Right Rimshot"/>
+     <Note Number="91"  Name="1=Bongo Large Drum Open"/>
+     <Note Number="92"  Name="2=Bongo Solo Cup Slap"/>
+     <Note Number="93"  Name="3=Bongo Large Drum Open"/>
+     <Note Number="94"  Name="4=Campana (Bongo Bell) Mouth"/>
+     <Note Number="95"  Name="5=Campana (Bongo Bell) Heel"/>
+     <Note Number="96"  Name="6=Cuban (African) Clave"/>
+     <Note Number="97"  Name="7=Guiro Up"/>
+     <Note Number="98"  Name="8=Guiro Down"/>
+     <Note Number="99"  Name="9=Son (Rosewood) Claves"/>
+     <Note Number="100"  Name="0=Shekere Down"/>
+     <Note Number="101"  Name="1=Shekere Slap"/>
+     <Note Number="102"  Name="2=Shekere Up"/>
+     <Note Number="103"  Name="3=Maracas"/>
+     <Note Number="104"  Name="4=Maracas"/>
+     <Note Number="105"  Name="5=Tambora Left Hand Open"/>
+     <Note Number="106"  Name="6=Tambora Left Hand Slap"/>
+     <Note Number="107"  Name="7=Tambora Right Stick Open"/>
+     <Note Number="108"  Name="8=Tambora Right Stick Rim"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=-"/>
+     <Note Number="2"  Name="2=-"/>
+     <Note Number="3"  Name="3=-"/>
+     <Note Number="4"  Name="4=-"/>
+     <Note Number="5"  Name="5=-"/>
+     <Note Number="6"  Name="6=-"/>
+     <Note Number="7"  Name="7=-"/>
+     <Note Number="8"  Name="8=-"/>
+     <Note Number="9"  Name="9=-"/>
+     <Note Number="10"  Name="0=-"/>
+     <Note Number="11"  Name="1=-"/>
+     <Note Number="12"  Name="2=-"/>
+     <Note Number="13"  Name="3=-"/>
+     <Note Number="14"  Name="4=-"/>
+     <Note Number="15"  Name="5=-"/>
+     <Note Number="16"  Name="6=-"/>
+     <Note Number="17"  Name="7=-"/>
+     <Note Number="18"  Name="8=-"/>
+     <Note Number="19"  Name="9=-"/>
+     <Note Number="20"  Name="0=-"/>
+     <Note Number="21"  Name="1=-"/>
+     <Note Number="22"  Name="2=-"/>
+     <Note Number="23"  Name="3=-"/>
+     <Note Number="24"  Name="4=-"/>
+     <Note Number="25"  Name="5=-"/>
+     <Note Number="26"  Name="6=-"/>
+     <Note Number="27"  Name="7=-"/>
+     <Note Number="28"  Name="8=-"/>
+     <Note Number="29"  Name="9=-"/>
+     <Note Number="30"  Name="0=-"/>
+     <Note Number="31"  Name="1=-"/>
+     <Note Number="32"  Name="2=-"/>
+     <Note Number="33"  Name="3=-"/>
+     <Note Number="34"  Name="4=-"/>
+     <Note Number="35"  Name="5=-"/>
+     <Note Number="36"  Name="6=Kick 909 #2"/>
+     <Note Number="37"  Name="7=Power Kick"/>
+     <Note Number="38"  Name="8=Snare Drm 2"/>
+     <Note Number="39"  Name="9=Snare Drm 5"/>
+     <Note Number="40"  Name="0=Snare Drm 1"/>
+     <Note Number="41"  Name="1=Distorto-Kick"/>
+     <Note Number="42"  Name="2=Ware Snare"/>
+     <Note Number="43"  Name="3=Bass Drum 5"/>
+     <Note Number="44"  Name="4=Beef Kick Rap"/>
+     <Note Number="45"  Name="5=Snap Snare"/>
+     <Note Number="46"  Name="6=Snap Snare"/>
+     <Note Number="47"  Name="7=High Snare"/>
+     <Note Number="48"  Name="8=Bass Drum"/>
+     <Note Number="49"  Name="9=Bass Drum"/>
+     <Note Number="50"  Name="0=Snare 3"/>
+     <Note Number="51"  Name="1=Shamen Snr1"/>
+     <Note Number="52"  Name="2=Crushed Snr"/>
+     <Note Number="53"  Name="3=Rim Shot"/>
+     <Note Number="54"  Name="4=Rim Shot"/>
+     <Note Number="55"  Name="5=Hip Hat"/>
+     <Note Number="56"  Name="6=Hip Hat"/>
+     <Note Number="57"  Name="7=Hip Hat 2"/>
+     <Note Number="58"  Name="8=Hip Hat 2"/>
+     <Note Number="59"  Name="9=Open Hi-Hat"/>
+     <Note Number="60"  Name="0=TR808 Kick"/>
+     <Note Number="61"  Name="1=Kick'n 808"/>
+     <Note Number="62"  Name="2=Snare 808"/>
+     <Note Number="63"  Name="3=ROB808 Claps"/>
+     <Note Number="64"  Name="4=Rim Shot"/>
+     <Note Number="65"  Name="5=Shaker"/>
+     <Note Number="66"  Name="6=Shaker"/>
+     <Note Number="67"  Name="7=Closed HiHat"/>
+     <Note Number="68"  Name="8=Closed HiHat"/>
+     <Note Number="69"  Name="9=Open Hi-Hat"/>
+     <Note Number="70"  Name="0=Open Hi-Hat"/>
+     <Note Number="71"  Name="1=Cowbell"/>
+     <Note Number="72"  Name="2=Hi-Hat 808"/>
+     <Note Number="73"  Name="3=NoizTambHit"/>
+     <Note Number="74"  Name="4=Noise Hat"/>
+     <Note Number="75"  Name="5=Cymbal"/>
+     <Note Number="76"  Name="6=Chik"/>
+     <Note Number="77"  Name="7=Conga Tone"/>
+     <Note Number="78"  Name="8=Tip-Hat"/>
+     <Note Number="79"  Name="9=Conga Bass"/>
+     <Note Number="80"  Name="0=Foot-Hat"/>
+     <Note Number="81"  Name="1=Conga"/>
+     <Note Number="82"  Name="2=Open Hat"/>
+     <Note Number="83"  Name="3=Conga"/>
+     <Note Number="84"  Name="4=Conga"/>
+     <Note Number="85"  Name="5=Electro-Clave"/>
+     <Note Number="86"  Name="6=Wah-Mute"/>
+     <Note Number="87"  Name="7=Bock-Clave"/>
+     <Note Number="88"  Name="8=Beef Kick Rap"/>
+     <Note Number="89"  Name="9=Kick 909"/>
+     <Note Number="90"  Name="0=Kick 909"/>
+     <Note Number="91"  Name="1=909 Snare"/>
+     <Note Number="92"  Name="2=Snare 909 #1"/>
+     <Note Number="93"  Name="3=Bass 909 #2"/>
+     <Note Number="94"  Name="4=Snare 909 #1"/>
+     <Note Number="95"  Name="5=Snare 909 #1"/>
+     <Note Number="96"  Name="6=Snare 909 #1"/>
+     <Note Number="97"  Name="7=-"/>
+     <Note Number="98"  Name="8=-"/>
+     <Note Number="99"  Name="9=-"/>
+     <Note Number="100"  Name="0=-"/>
+     <Note Number="101"  Name="1=-"/>
+     <Note Number="102"  Name="2=-"/>
+     <Note Number="103"  Name="3=-"/>
+     <Note Number="104"  Name="4=-"/>
+     <Note Number="105"  Name="5=-"/>
+     <Note Number="106"  Name="6=-"/>
+     <Note Number="107"  Name="7=-"/>
+     <Note Number="108"  Name="8=-"/>
+     <Note Number="109"  Name="9=-"/>
+     <Note Number="110"  Name="0=-"/>
+     <Note Number="111"  Name="1=-"/>
+     <Note Number="112"  Name="2=-"/>
+     <Note Number="113"  Name="3=-"/>
+     <Note Number="114"  Name="4=-"/>
+     <Note Number="115"  Name="5=-"/>
+     <Note Number="116"  Name="6=-"/>
+     <Note Number="117"  Name="7=-"/>
+     <Note Number="118"  Name="8=-"/>
+     <Note Number="119"  Name="9=-"/>
+     <Note Number="120"  Name="0=-"/>
+     <Note Number="121"  Name="1=-"/>
+     <Note Number="122"  Name="2=-"/>
+     <Note Number="123"  Name="3=-"/>
+     <Note Number="124"  Name="4=-"/>
+     <Note Number="125"  Name="5=-"/>
+     <Note Number="126"  Name="6=-"/>
+     <Note Number="127"  Name="7=-"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=-"/>
+     <Note Number="2"  Name="2=-"/>
+     <Note Number="3"  Name="3=-"/>
+     <Note Number="4"  Name="4=-"/>
+     <Note Number="5"  Name="5=-"/>
+     <Note Number="6"  Name="6=-"/>
+     <Note Number="7"  Name="7=-"/>
+     <Note Number="8"  Name="8=-"/>
+     <Note Number="9"  Name="9=-"/>
+     <Note Number="10"  Name="0=-"/>
+     <Note Number="11"  Name="1=-"/>
+     <Note Number="12"  Name="2=-"/>
+     <Note Number="13"  Name="3=-"/>
+     <Note Number="14"  Name="4=-"/>
+     <Note Number="15"  Name="5=-"/>
+     <Note Number="16"  Name="6=-"/>
+     <Note Number="17"  Name="7=-"/>
+     <Note Number="18"  Name="8=-"/>
+     <Note Number="19"  Name="9=-"/>
+     <Note Number="20"  Name="0=-"/>
+     <Note Number="21"  Name="1=-"/>
+     <Note Number="22"  Name="2=-"/>
+     <Note Number="23"  Name="3=-"/>
+     <Note Number="24"  Name="4=Dry Bass Drm"/>
+     <Note Number="25"  Name="5=Dry 909 Clap"/>
+     <Note Number="26"  Name="6=Shamen Sn 1"/>
+     <Note Number="27"  Name="7=Shamen Sn 2"/>
+     <Note Number="28"  Name="8=Liquid Drum"/>
+     <Note Number="29"  Name="9=Shamen Sn 3"/>
+     <Note Number="30"  Name="0=Rim 808 Shot"/>
+     <Note Number="31"  Name="1=ClosedHat909"/>
+     <Note Number="32"  Name="2=Shaker 2"/>
+     <Note Number="33"  Name="3=Open Hat909"/>
+     <Note Number="34"  Name="4=Shamen Sn 1"/>
+     <Note Number="35"  Name="5=Electric Sn 4"/>
+     <Note Number="36"  Name="6=Bass Drum"/>
+     <Note Number="37"  Name="7=Bass Drum"/>
+     <Note Number="38"  Name="8=Ware Snare"/>
+     <Note Number="39"  Name="9=Ware Snare"/>
+     <Note Number="40"  Name="0=Snap Snare"/>
+     <Note Number="41"  Name="1=Rim Shot"/>
+     <Note Number="42"  Name="2=Rim Shot"/>
+     <Note Number="43"  Name="3=Hip Hat"/>
+     <Note Number="44"  Name="4=Hip Hat"/>
+     <Note Number="45"  Name="5=Hi-Hat"/>
+     <Note Number="46"  Name="6=Hip Hat 2"/>
+     <Note Number="47"  Name="7=Open Hi-Hat"/>
+     <Note Number="48"  Name="8=Kick'n 808"/>
+     <Note Number="49"  Name="9=Open Hat"/>
+     <Note Number="50"  Name="0=Snare 808"/>
+     <Note Number="51"  Name="1=ROB808 Claps"/>
+     <Note Number="52"  Name="2=Rim Shot"/>
+     <Note Number="53"  Name="3=Hip Hat"/>
+     <Note Number="54"  Name="4=Cowbell"/>
+     <Note Number="55"  Name="5=Rim Shot"/>
+     <Note Number="56"  Name="6=Rim Shot"/>
+     <Note Number="57"  Name="7=Closed Hat"/>
+     <Note Number="58"  Name="8=Closed Hat"/>
+     <Note Number="59"  Name="9=Open Hi-Hat"/>
+     <Note Number="60"  Name="0=Killer 808"/>
+     <Note Number="61"  Name="1=Power Kick"/>
+     <Note Number="62"  Name="2=Snare Drm 2"/>
+     <Note Number="63"  Name="3=Snare Drm 2"/>
+     <Note Number="64"  Name="4=Snare Drm 1"/>
+     <Note Number="65"  Name="5=Ware Snare"/>
+     <Note Number="66"  Name="6=Ware Snare"/>
+     <Note Number="67"  Name="7=Bass Drum"/>
+     <Note Number="68"  Name="8=Beef Kick Rap"/>
+     <Note Number="69"  Name="9=Snap Snare"/>
+     <Note Number="70"  Name="0=Snap Snare"/>
+     <Note Number="71"  Name="1=High Snare"/>
+     <Note Number="72"  Name="2=Distorto-Kick"/>
+     <Note Number="73"  Name="3=Distorto-Kick"/>
+     <Note Number="74"  Name="4=Snare 5"/>
+     <Note Number="75"  Name="5=Snare 5"/>
+     <Note Number="76"  Name="6=Conga Tone"/>
+     <Note Number="77"  Name="7=Conga Tone"/>
+     <Note Number="78"  Name="8=Tip Hat"/>
+     <Note Number="79"  Name="9=Bass Conga"/>
+     <Note Number="80"  Name="0=Foot Hat"/>
+     <Note Number="81"  Name="1=Conga"/>
+     <Note Number="82"  Name="2=Open Hat"/>
+     <Note Number="83"  Name="3=Conga"/>
+     <Note Number="84"  Name="4=Beef Kick Rap"/>
+     <Note Number="85"  Name="5=Beef Kick Rap"/>
+     <Note Number="86"  Name="6=Cymbal"/>
+     <Note Number="87"  Name="7=Tamb707Noiz"/>
+     <Note Number="88"  Name="8=Chik"/>
+     <Note Number="89"  Name="9=Beef Kick Rap"/>
+     <Note Number="90"  Name="0=Cymbal"/>
+     <Note Number="91"  Name="1=Snare 5"/>
+     <Note Number="92"  Name="2=Bock Clave"/>
+     <Note Number="93"  Name="3=Kick 909"/>
+     <Note Number="94"  Name="4=-"/>
+     <Note Number="95"  Name="5=Snare 909 #2"/>
+     <Note Number="96"  Name="6=Bass 909 #2"/>
+     <Note Number="97"  Name="7=Distorto-Kick"/>
+     <Note Number="98"  Name="8=Distorto-Kick"/>
+     <Note Number="99"  Name="9=Snare 5"/>
+     <Note Number="100"  Name="0=Snare 5"/>
+     <Note Number="101"  Name="1=Conga Tone"/>
+     <Note Number="102"  Name="2=Tip Hat"/>
+     <Note Number="103"  Name="3=Bass Conga"/>
+     <Note Number="104"  Name="4=Cymbal"/>
+     <Note Number="105"  Name="5=Kick 909"/>
+     <Note Number="106"  Name="6=Kick 909"/>
+     <Note Number="107"  Name="7=Snare 909"/>
+     <Note Number="108"  Name="8=-"/>
+     <Note Number="109"  Name="9=-"/>
+     <Note Number="110"  Name="0=-"/>
+     <Note Number="111"  Name="1=-"/>
+     <Note Number="112"  Name="2=-"/>
+     <Note Number="113"  Name="3=-"/>
+     <Note Number="114"  Name="4=-"/>
+     <Note Number="115"  Name="5=-"/>
+     <Note Number="116"  Name="6=-"/>
+     <Note Number="117"  Name="7=-"/>
+     <Note Number="118"  Name="8=-"/>
+     <Note Number="119"  Name="9=-"/>
+     <Note Number="120"  Name="0=-"/>
+     <Note Number="121"  Name="1=-"/>
+     <Note Number="122"  Name="2=-"/>
+     <Note Number="123"  Name="3=-"/>
+     <Note Number="124"  Name="4=-"/>
+     <Note Number="125"  Name="5=-"/>
+     <Note Number="126"  Name="6=-"/>
+     <Note Number="127"  Name="7=-"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

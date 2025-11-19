@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>MidiKarval</Manufacturer>
+    <Model>Native-Instruments-B4</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Native Instruments B4">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="B4 Blues"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Scanner Full Bar"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Latin 66'"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Soft Organ"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Theatre Organ"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Distortion"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Progressive"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Deep Scanner"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Key Clicker"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Velocity"  ProgramChange="9"/>
+          <Patch Number="10"  Name="J.B. Percussion"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Brasses"  ProgramChange="11"/>
+          <Patch Number="12"  Name="A Whiter Shade..."  ProgramChange="12"/>
+          <Patch Number="13"  Name="Time Of The Season"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Emersons Basic"  ProgramChange="14"/>
+          <Patch Number="15"  Name="The Cat"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Born To B4"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Green Onions"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Brians Choice"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Lord 1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Samba Pa Ti"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Smal Faces"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Season Of The Witch"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Can't Stand The Rain"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Rockers Hifi"  ProgramChange="24"/>
+          <Patch Number="25"  Name="5th Organ"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Hush"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Kraut Rocker"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Screamin' B4"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Super Perc."  ProgramChange="29"/>
+          <Patch Number="30"  Name="91 Wheels"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Fuzz Guitar?"  ProgramChange="31"/>
+          <Patch Number="32"  Name="America"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Hollow"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Brake On!"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Fuzzzzzzz"  ProgramChange="35"/>
+          <Patch Number="36"  Name="House Base"  ProgramChange="36"/>
+          <Patch Number="37"  Name="House Base 2"  ProgramChange="37"/>
+          <Patch Number="38"  Name="House Scanner"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Full Bar"  ProgramChange="39"/>
+          <Patch Number="40"  Name="House Plop"  ProgramChange="40"/>
+          <Patch Number="41"  Name="House Rotator"  ProgramChange="41"/>
+          <Patch Number="42"  Name="House Perc Rotator"  ProgramChange="42"/>
+          <Patch Number="43"  Name="House Perc Vibrato"  ProgramChange="43"/>
+          <Patch Number="44"  Name="House Vibrato Drive"  ProgramChange="44"/>
+          <Patch Number="45"  Name="House Bright"  ProgramChange="45"/>
+          <Patch Number="46"  Name="House Church"  ProgramChange="46"/>
+          <Patch Number="47"  Name="House Vibro Lux"  ProgramChange="47"/>
+          <Patch Number="48"  Name="The Worm"  ProgramChange="48"/>
+          <Patch Number="49"  Name="100 Pound Berta"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Upper Chorus"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Acid Scan"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Holmes"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Jazz 2nd Perc"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Raindrops"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Mc Duff"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Champ"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Ballsy"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Jimmy Mc G"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Lower Chorus"  ProgramChange="59"/>
+          <Patch Number="60"  Name="The Base"  ProgramChange="60"/>
+          <Patch Number="61"  Name="2nd Perc."  ProgramChange="61"/>
+          <Patch Number="62"  Name="2nd Perc. Vibrato"  ProgramChange="62"/>
+          <Patch Number="63"  Name="3rd Perc. Vibrato"  ProgramChange="63"/>
+          <Patch Number="64"  Name="3rd Perc."  ProgramChange="64"/>
+          <Patch Number="65"  Name="12 O'Clock Drive"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Overdrive 2nd Perc"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Overdrive 3rd Perc"  ProgramChange="67"/>
+          <Patch Number="68"  Name="OVD 2nd Perc Vibrato"  ProgramChange="68"/>
+          <Patch Number="69"  Name="OVD 3rd Perc Vibrato"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Vibrator!"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Flute 16' 8'"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Full B3 Clean"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Soft Backing"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Percussive Organ"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Jazzy 1"  ProgramChange="75"/>
+          <Patch Number="76"  Name="16' + 1'"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Clean 70s"  ProgramChange="77"/>
+          <Patch Number="78"  Name="16' 8' 4' 2' 1'"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Smiley"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Ekseptional"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Entertainer A"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Entertainer B"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Entertainer C"  ProgramChange="83"/>
+          <Patch Number="84"  Name="60s Vibrato"  ProgramChange="84"/>
+          <Patch Number="85"  Name="60s Beat"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Percy"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Full Rock"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Purple"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Gimme Some"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Rock Ballad"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Soft Rock"  ProgramChange="91"/>
+          <Patch Number="92"  Name="House Organ dry"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Jazzy 2"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Gospel"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Jimmy"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Vox/Strings"  ProgramChange="96"/>
+          <Patch Number="97"  Name="French Horn / Cello"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Tibias 8' + 2' / Dulcian"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Clarinet / Vibraharp"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Novel Solo / Vox + Tibia"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Theatre Solo / String"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Oboe Horn / Diapason"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Full Tibias 16' / Acco"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Trumpet / Tibia Clausa"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Full Brass / Bombarde"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Full Swell / Full Great"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Full Tibias / Bombarde"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Stopped Flute / Gamba"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Flute / Cello"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Dulciana / Flute String"  ProgramChange="110"/>
+          <Patch Number="111"  Name="French Horn / Clarinet"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Salicional / Diapason+"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Flutes / Great No Reed"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Diapason / Full Great"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Oboe Horn / Diapason"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Trumpet / Tibia Clausa"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Full Swell / Full Great"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Full Swell / Diapason+"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Oboe / Open Diapason"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

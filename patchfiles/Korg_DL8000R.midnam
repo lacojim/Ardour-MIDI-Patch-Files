@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Korg</Manufacturer>
+    <Model>DL8000R</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Korg DL8000R">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="TurnTheWarp"  ProgramChange="0"/>
+          <Patch Number="1"  Name="MultiTap Dly"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Warp Delay"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Manual*Mod"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Techno*Delay"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Chorus/Flange"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Phat Chorus"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Multi+Flange"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Trem Chorus"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Mono Delay"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Easy Delay"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Stereo Slap"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Stereo Delay"  ProgramChange="12"/>
+          <Patch Number="13"  Name="PingPong Dly"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Cross Delay 1"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Cross Delay 2"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Triplet"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Pan Delay"  ProgramChange="17"/>
+          <Patch Number="18"  Name="St-Mod Delay"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Old Digital"  ProgramChange="19"/>
+          <Patch Number="20"  Name="PwrCrd Riff"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Dist Solo"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Synth Solo"  ProgramChange="22"/>
+          <Patch Number="23"  Name="WarpFeed Dly"  ProgramChange="23"/>
+          <Patch Number="24"  Name="250ms Delay"  ProgramChange="24"/>
+          <Patch Number="25"  Name="500ms Delay"  ProgramChange="25"/>
+          <Patch Number="26"  Name="1000ms Delay "  ProgramChange="26"/>
+          <Patch Number="27"  Name="4800ms Delay"  ProgramChange="27"/>
+          <Patch Number="28"  Name="10 seconds"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Ltr Frm Home"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Still Life"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Splatter"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Random Delay"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Space Delay"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Drippin'"  ProgramChange="34"/>
+          <Patch Number="35"  Name="2-Tap Chorus"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Mono Chorus"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Anlg Chorus"  ProgramChange="37"/>
+          <Patch Number="38"  Name="SimpleChorus"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Chrs 4 Dist"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Wide Chorus"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Gtr Chorus"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Vox Chorus*1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Vox Chorus*2"  ProgramChange="43"/>
+          <Patch Number="44"  Name="JC Chorus"  ProgramChange="44"/>
+          <Patch Number="45"  Name="PannedChorus"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Rndm+Chorus"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Multi+Chorus"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Env+Chorus"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Jimi Mod"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Mono Dly/Cho"  ProgramChange="50"/>
+          <Patch Number="51"  Name="AmbiChorus*1"  ProgramChange="51"/>
+          <Patch Number="52"  Name="AmbiChorus*2"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Rich Chorus"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Not-in-Pitch"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Mono Flanger"  ProgramChange="55"/>
+          <Patch Number="56"  Name="SimpleFlange"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Flng 4 Dist"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Flange Delay"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Env Flang/Cho"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Flange-180"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Ambi-Flange"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Multi-Flange"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Reso*Flange"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Exp*Res"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Stereo Jet"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Slow Trem'"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Midi Trem'"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Vibe/Trem"  ProgramChange="68"/>
+          <Patch Number="69"  Name="VibroFlange"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Trem Delay*1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Trem Delay*2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Pan L-R"  ProgramChange="72"/>
+          <Patch Number="73"  Name="PingPongWarp"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Rec Emt Pre"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Rec F Vocal"  ProgramChange="75"/>
+          <Patch Number="76"  Name="La Vox Dly*1"  ProgramChange="76"/>
+          <Patch Number="77"  Name="La Vox Dly*2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Vox Doubling"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Rec Acc Gtr"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Rec Elc Gtr"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Rec Gtr Solo"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Rec A-Piano"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Rec E-Piano"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Twin Peaks"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Niagara Echo"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Tile\\\Echo"  ProgramChange="86"/>
+          <Patch Number="87"  Name="HardVerb"  ProgramChange="87"/>
+          <Patch Number="88"  Name="HardVerb*Mod"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Tommy Echo"  ProgramChange="89"/>
+          <Patch Number="90"  Name="60[bpm] Delay"  ProgramChange="90"/>
+          <Patch Number="91"  Name="94[bpm] Delay"  ProgramChange="91"/>
+          <Patch Number="92"  Name="128[bpm]Delay"  ProgramChange="92"/>
+          <Patch Number="93"  Name="192[bpm]Delay"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Shuffle Dly"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Groove Loop1"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Groove Loop2"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Reggae*Delay"  ProgramChange="97"/>
+          <Patch Number="98"  Name="SeriesRhythm"  ProgramChange="98"/>
+          <Patch Number="99"  Name="TempoPingPong"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Poly Rhythm"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Factory"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Scratch Hold"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Rec Perc"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Island Perc"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Rec Stereo*1"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Rec Stereo*2"  ProgramChange="106"/>
+          <Patch Number="107"  Name="C-Resonator"  ProgramChange="107"/>
+          <Patch Number="108"  Name="CellularPhone"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Dynamic Mic"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Carbon Mic"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Hard Saylon"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Wah Flutter"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Kai-Mad-Kai"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Dessert"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Spring Tap"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Mad Flange"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Buzzer"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Pedal Dly*1"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Pedal Dly*2"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Pedal Dly*3"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Pedal Chorus"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Pedal Dly/Cho"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Pedal Flange"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Pedal Mod"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Dyna-MIDI Dly"  ProgramChange="125"/>
+          <Patch Number="126"  Name="MIDI Clk Dly"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Bypass"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -1,0 +1,1990 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>General_Music</Manufacturer>
+    <Model>WX</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Generalmusic WX Bk  1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="WXGrandP* (table version 1.1)"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Bright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Electric Grand 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Honky"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Electric Piano 1*"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Electric Piano 2*"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsichord 1*"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Clavinet"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Celesta"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Glockenspiel"  ProgramChange="9"/>
+          <Patch Number="10"  Name="MusicBox"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vibes 1*"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Marimba 1*"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Xylophone 1*"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Tubular Bells *"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Dulcimer"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Theatre Organ"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Jazz Organ 1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Rock Organ"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Pipe Organ 1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Pipe Organ 2"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Accordion 1*"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Harmonica 1*"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Bandeon 1"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Acoustic Guitar (Nylon)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Acoustic Guitar (Steel)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Electric Guitar (Jazz 1)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Electric Guitar (Clean)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Electric Guitar (Muted 1*)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Overdriven Guitar"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Distortion Guitar 1"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Guitar Harmonics 1"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Acoustic Bass 1"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Electric Bass (Finger)"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Electric Bass (Pick 1*)"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Fretless Bass"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Slap Bass 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Slap Bass 2"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Synth Bass 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Synth Bass 2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Violin 1*"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Viola 1"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Cello 1*"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Contrabass *"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Tremelo Strings 1"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Pizzicato Strings 1*"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Orchestral Harp"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Timpani *"  ProgramChange="47"/>
+          <Patch Number="48"  Name="String Ensemble 1"  ProgramChange="48"/>
+          <Patch Number="49"  Name="String Ensemble 2"  ProgramChange="49"/>
+          <Patch Number="50"  Name="SynthStrings 1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="SynthStrings 2"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Choir"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Voice Oohs"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Synth Voice 1"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Orchestra Hit +"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Trumpet *"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Trombone 1*"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Tuba"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Muted Trumpet 1*"  ProgramChange="59"/>
+          <Patch Number="60"  Name="French Horn 1*"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brass Section 1*"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Synth Brass 1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Toto Horn"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Soprano Sax *"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Alto Sax *"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Tenor Sax *"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Baritone Sax *"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Oboe *"  ProgramChange="68"/>
+          <Patch Number="69"  Name="English Horn *"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Bassoon *"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Clarinet *"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Piccolo"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Flute *"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Recorder 1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Pan Flute 1*"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Bottle Blow 1*"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Shakuhachi"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Whistle 1*"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Ocarina"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Pulse 1"  ProgramChange="80"/>
+          <Patch Number="81"  Name="OB Filter"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Arp26000"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Chopper"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Jump"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Filter Res 1"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Decay 1"  ProgramChange="86"/>
+          <Patch Number="87"  Name="OBX 1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="New Age"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Warm Pad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Fantasy 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="VocBells"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Prophet 1"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Bright 1"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Slave"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Waiting"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Noise Resonance"  ProgramChange="96"/>
+          <Patch Number="97"  Name="MoonWind"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Wind"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Shot 1"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Resonance"  ProgramChange="100"/>
+          <Patch Number="101"  Name="NoGravity"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Synthex 1"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Synthex 4"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Sitar"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Banjo"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Shamisen"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Kanoun"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Kalimba"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Bagpipe"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Fiddle"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Shanai"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Bells"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Agogo"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Steel Drums"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Woodblock"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Taiko Drum"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Tom Solo"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synth Drum"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Guitar Fret Noise *"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Breath Noise *"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Seashore *"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Birds"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Telephone Ring 1*"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Helicopter"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Applause"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Gunshot *"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk  2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="WXGrandP*"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Bright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Electric Grand 2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Detuned Piano"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Rhodes +"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Electric Piano 3*"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsichord 2*"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Synth Clavinet"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Celesta Plk *"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Sweep Glockenspiel"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Wine Glass 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vibes 2*"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Marimba 2*"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Xylophone 2*"  ProgramChange="13"/>
+          <Patch Number="14"  Name="SharpBell *"  ProgramChange="14"/>
+          <Patch Number="15"  Name="BarChimes *"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Organ 1"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Jazz Organ 2"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Synth Organ 1"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Pipe Organ 3"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Organ 4"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Accordion 2*"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Harmonica 2*"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Bandeon 2"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Acoustic Guitar (Solo)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Acoustic Guitar (12 String)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Electric Guitar (Jazz 2)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Electric Guitar (Chorus)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Electric Guitar (Muted 2*)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Wha Guitar 1"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Distortion Guitar 2"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Guitar Harmonics 2"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Acoustic Bass 2"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Dynamic Bass 1+"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Dynamic Bass 2+"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Synth Fretless *"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Dynamic Bass 3+"  ProgramChange="36"/>
+          <Patch Number="37"  Name="WX Bass"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Synth Bass 3"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Synth Bass 4"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Violin 2*"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Viola 2"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Cello 2*"  ProgramChange="42"/>
+          <Patch Number="43"  Name="ContraWha *"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Tremelo Strings 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Pizzicato Strings 2*"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Pulse Harp"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Talk Timpani *"  ProgramChange="47"/>
+          <Patch Number="48"  Name="String Glocken"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Orch Strings"  ProgramChange="49"/>
+          <Patch Number="50"  Name="SynthStrings 3"  ProgramChange="50"/>
+          <Patch Number="51"  Name="SynthStrings 4"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Voice Uuh"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Voice Aah"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Synth Voice 2"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Symphony"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Flugal Horn *"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Trombone 2*"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Short Tuba"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Muted Trumpet 2*"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Brass Rip *"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brass Section 2*"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Synth Brass 2"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Slow Horn"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Soprano Solo *"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Soft Solo *"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Tenor Solo *"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Baritone Detuned"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Oboe Solo *"  ProgramChange="68"/>
+          <Patch Number="69"  Name="English Solo"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Bassoon Solo *"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Clarinet Solo *"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Hard Flute 1"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Detuned Flute 1 +"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Recorder 2"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Pan Flute 2"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Bottle Blow 2"  ProgramChange="76"/>
+          <Patch Number="77"  Name="ShakuPad"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Whistle 2"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Ocarina Pad"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Pulse 2"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Sinus"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Azimut"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Digital"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Sound Track"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Filter Res 2"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Decay 2"  ProgramChange="86"/>
+          <Patch Number="87"  Name="OBX 2"  ProgramChange="87"/>
+          <Patch Number="88"  Name="PPG"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Wave Aura"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Fantasy 2"  ProgramChange="90"/>
+          <Patch Number="91"  Name="OcBreath"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Prophet 2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Bright 2"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Atmosphere"  ProgramChange="94"/>
+          <Patch Number="95"  Name="BudWeis"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Submarine"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Synth Rain"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Jets"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Shot 2"  ProgramChange="99"/>
+          <Patch Number="100"  Name="With Gas"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Popup"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Synthex 2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Synthex 5"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Sitar"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Banjo"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Shamisen"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Koto"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Kalimba"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Bagpipe"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Fiddle"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Shanai"  ProgramChange="111"/>
+          <Patch Number="112"  Name="DK Standard 1+"  ProgramChange="112"/>
+          <Patch Number="113"  Name="DK Room 1+"  ProgramChange="113"/>
+          <Patch Number="114"  Name="DK Power 1+"  ProgramChange="114"/>
+          <Patch Number="115"  Name="DK Electric 1+"  ProgramChange="115"/>
+          <Patch Number="116"  Name="DK House 1+"  ProgramChange="116"/>
+          <Patch Number="117"  Name="DK Jazz +"  ProgramChange="117"/>
+          <Patch Number="118"  Name="DK Brush +"  ProgramChange="118"/>
+          <Patch Number="119"  Name="DK Orch +"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Guitar WhaWha *"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Zapp *"  ProgramChange="121"/>
+          <Patch Number="122"  Name="TickTack *"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Scratch 1*"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Telephone Ring 2*"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Synth Percussion 1"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Synth Percussion 2"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Synth Percussion 3"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk  3">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="WXGrandP*"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Octave Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Electric Grand 3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Western"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Electric Piano 4*"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Electric Piano 5*"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsichord 3*"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Wow Clavinet"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Celesta Synth"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Sweep PG"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Wine Glass 2"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Synth Vibes"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Kiss Vibes"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Xylophone Perc"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Ooh LaLa"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Drunk Chimes"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Organ 3"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Jazz Organ 3"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Synth Organ 2"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Organ 3"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Organ 5"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Accordion 3*"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Harmonica 3*"  ProgramChange="22"/>
+          <Patch Number="23"  Name="OrganFlo"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Vocal Guitar"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Hawaiin Guitar"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Octave Guitar"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Bright Guitar"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Dynamic Guitar"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Wha Guitar 2"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Heavy Guitar"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Guitar Harmonics 3"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Acoustic Bass 3"  ProgramChange="32"/>
+          <Patch Number="33"  Name="FM Bass"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Pick Bass 2"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Acid Bass 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Acid Bass 2"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Stop Bass"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Synth Bass 5"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Synth Bass 6"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Violin 3*"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Viola Pad"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Cello 3*"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Staccato"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Synth Tremelo"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Echo Pizzicato *"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Space Harp"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Dynamic Orch +"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Pan Glocken"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Synth Strings"  ProgramChange="49"/>
+          <Patch Number="50"  Name="SynthStrings 5"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Strings 3"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Slow Uuh"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Slow Aah"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Vocoder"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Symphony Orch"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Muted Horn"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Wow Trombone"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Wow Tuba"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Dynamic Trumpet +"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Brass Trumpets"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brass 3"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Synth Horn"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Attack Horn"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Soprano Filter *"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Soft Filter *"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Tenor Filter *"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Baritone Filter *"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Oboe Filter *"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Horn Filter"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Bassoon Soft *"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Clarinet Filter *"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Hard Flute 2"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Detuned Flute 2 +"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Bubbler"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Dynamic Pan +"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Tube *"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Shaku Ooo"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Whistle 3"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Ocarina Synth"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Pulse 3"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Lyle"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Synth Lead 1"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Synth Lead 2"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Analogic"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Slope"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Decay 3"  ProgramChange="86"/>
+          <Patch Number="87"  Name="OBX 3"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Machiner"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Analogue Aura"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Fantasy 3"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Angels"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Prophet 3"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Bright 3"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Airline"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Tibet"  ProgramChange="95"/>
+          <Patch Number="96"  Name="BigRoom"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Echo Endless"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Spinkler"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Smak"  ProgramChange="99"/>
+          <Patch Number="100"  Name="On/Off"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Under Water"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Synthex 3"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Synthex 6"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Synth Sitar"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Banjo"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Synth Shamisen"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Trumpet Clarinet +"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Sax Trumpet +"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Brass Ensemble  +"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Fiddle"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Shanai"  ProgramChange="111"/>
+          <Patch Number="112"  Name="DK Standard 2+"  ProgramChange="112"/>
+          <Patch Number="113"  Name="DK Room 2+"  ProgramChange="113"/>
+          <Patch Number="114"  Name="DK Power 2+"  ProgramChange="114"/>
+          <Patch Number="115"  Name="DK Electric 2+"  ProgramChange="115"/>
+          <Patch Number="116"  Name="DK House 2+"  ProgramChange="116"/>
+          <Patch Number="117"  Name="DK M1 +"  ProgramChange="117"/>
+          <Patch Number="118"  Name="DK SY77 +"  ProgramChange="118"/>
+          <Patch Number="119"  Name="DK WS2 +"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Sample #01 - F1"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Sample #02 - F2"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Sample #03 - F3"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Sample #04 - F4"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Sample #05 - F5"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Sample #06 - F6"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Sample #07 - F7"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Sample #08 - F8"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk  4 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Drop"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Kitchen"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Vibra Slap"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Snap 2"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Roll"  ProgramChange="116"/>
+          <Patch Number="117"  Name="High Hat Close 2"  ProgramChange="117"/>
+          <Patch Number="118"  Name="WhaWha 1"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Sample #09 - F1"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Sample #10 - F2"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Sample #11 - F3"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Sample #12 - F4"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Sample #13 - F5"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Sample #14 - F6"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Sample #15 - F7"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Sample #16 - F8"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk  5 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Water"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Log Drum"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Casanet"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Snare Drum 1"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Synth Snare Drum"  ProgramChange="116"/>
+          <Patch Number="117"  Name="High Hat Open 2"  ProgramChange="117"/>
+          <Patch Number="118"  Name="WhaWha 2"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Sample #17 - F1"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Sample #18 - F2"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Sample #19 - F3"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Sample #20 - F4"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Sample #21 - F5"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Sample #22 - F6"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Sample #23 - F7"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Sample #24 - F8"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk  6 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Voice 1"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Noise Perc"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Tambourine"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Snare Drum 2"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Snare Drum Gate"  ProgramChange="116"/>
+          <Patch Number="117"  Name="High Hat Pedal"  ProgramChange="117"/>
+          <Patch Number="118"  Name="WhaWha 3"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Sample #25 - F1"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Sample #26 - F2"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Sample #27 - F3"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Sample #28 - F4"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Sample #29 - F5"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Sample #30 - F6"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Sample #31 - F7"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Sample #32 - F8"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk  7 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Voice 2"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Conga Accn"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Timbales"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Snare Drum Rim 1"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Tom"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Ride"  ProgramChange="117"/>
+          <Patch Number="118"  Name="WhaWha 4"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Sample #33 - F1"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Sample #34 - F2"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Sample #35 - F3"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Sample #36 - F4"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Sample #37 - F5"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Sample #38 - F6"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Sample #39 - F7"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Sample #40 - F8"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk  8 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Voice 3"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Conga"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Cabassa"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Snare Drum Rim 2"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Gated Tom"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Ride Cup"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Scratch 2"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Sample #41 - F1"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Sample #42 - F2"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Sample #43 - F3"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Sample #44 - F4"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Sample #45 - F5"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Sample #46 - F6"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Sample #47 - F7"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Sample #48 - F8"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk  9 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Vox High Hat Close"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Conga Slap"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Bass Drum Electric"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Conc Snare Drum"  ProgramChange="115"/>
+          <Patch Number="116"  Name="EMPTY"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Crash"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Scratch 3"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk 10 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Vox Tap"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Cow Bell"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Bass Drum Gate"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Rim Shot"  ProgramChange="115"/>
+          <Patch Number="116"  Name="House Bass Drum"  ProgramChange="116"/>
+          <Patch Number="117"  Name="China"  ProgramChange="117"/>
+          <Patch Number="118"  Name="String Timpany"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk 11 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Vox Tip"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Bongoes"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Bass Drum Hard"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Snare Drum Electric 1"  ProgramChange="115"/>
+          <Patch Number="116"  Name="House Snare Drum"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Splash"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Brass Cymbals"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk 12 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Car Horn"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Darbuk High"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Bass Drum Jazz"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Snare Drum Electric 2"  ProgramChange="115"/>
+          <Patch Number="116"  Name="House High Hat"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Triangle Long"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synth Drum"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk 13 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Door"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Darbuk Low"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Bass Drum 1"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Snare Drum Brush 1"  ProgramChange="115"/>
+          <Patch Number="116"  Name="House Ride"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Triangle Short"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synth Drum"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk 14 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Rasp Ride"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Guiro"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Bass Drum 2"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Snare Drum Brush 2"  ProgramChange="115"/>
+          <Patch Number="116"  Name="House Clap"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Stick"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synth Drum"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk 15 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Baby Vox"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Quica High"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Hard Kick"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Brush Long"  ProgramChange="115"/>
+          <Patch Number="116"  Name="High Hat Close 1"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Claves"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synth Drum"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX Bk 16 DK">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="112"  Name="Dolly Vox"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Quica Low"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Snap 1"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Brush"  ProgramChange="115"/>
+          <Patch Number="116"  Name="High Hat Open 1"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Grnd Timpani"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synth Drum"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DK_M1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="36"  Name="Bass Drum 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Bass Drum Hard"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Bass Drum Electric"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Bass Drum"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Bass Drum Gate"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Snare Drum 2"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Snare Drum 1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Snare Drum Rim 1"  ProgramChange="43"/>
+          <Patch Number="44"  Name="House Snare Drum"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Snare Drum Electric 1"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Rimshot"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Snare Drum Gate"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Tom"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Gated Tom"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Tom"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Gated Tom"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Tom"  ProgramChange="52"/>
+          <Patch Number="53"  Name="High Hat Closed 1"  ProgramChange="53"/>
+          <Patch Number="54"  Name="House Hat"  ProgramChange="54"/>
+          <Patch Number="55"  Name="High Hat Pedal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="House Ride"  ProgramChange="56"/>
+          <Patch Number="57"  Name="High Hat Open 1"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Tambourine"  ProgramChange="58"/>
+          <Patch Number="59"  Name="House Hat"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Crash"  ProgramChange="60"/>
+          <Patch Number="61"  Name="China"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Ride"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Ride Cup"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Cabassa"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Vox High Hat Closed"  ProgramChange="65"/>
+          <Patch Number="66"  Name="House Clap"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Bongo's"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Bongo's"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Darbuk Low"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Darbuk High"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Conga"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Conga"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Timbales"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Triangle Short"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Timbales"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Triangle Long"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Noise Percussion"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Noise Percussion"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Door"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Raspy Ride"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Snare Drum Rim 2"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Roll"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Concert Snare Drum"  ProgramChange="83"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DK_SY77">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="36"  Name="Bass Drum 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Bass Drum Hard"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Bass Drum Electric"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Bass Drum Gate"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Tom"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Tom"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Tom"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Tom"  ProgramChange="43"/>
+          <Patch Number="44"  Name="House Bass Drum"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Bass Drum 2"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Snare Drum 2"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Gated Tom"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Gated Tom"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Snare Drum Rim 1"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Gated Tom"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Rimshot"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Snare Drum Electric 1"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Gated Tom"  ProgramChange="53"/>
+          <Patch Number="54"  Name="House Clap"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Cow Bell"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cabassa"  ProgramChange="56"/>
+          <Patch Number="57"  Name="High Hat Closed 1"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Tambourine"  ProgramChange="58"/>
+          <Patch Number="59"  Name="High Hat Open 1"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Crash"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Roll"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Ride"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Ride Cup"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Tubular Bells"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Tubular Bells"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Tubular Bells"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Kitchen"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Kitchen"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Darbuk Low"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Darbuk High"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Bottle 1"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Bottle 1"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Vibra Slap"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Voice 1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Voice 1"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Voice 1"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Voice 1"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Voice 1"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Voice 1"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Voice 1"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Voice 1"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Voice 1"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Voice 1"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Voice 1"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Voice 1"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Voice 1"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Voice 1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Voice 1"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Voice 1"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Voice 1"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Voice 1"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Voice 1"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Voice 1"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Voice 1"  ProgramChange="95"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DK_WS">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="36"  Name="Bass Drum Gate"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Snare Drum Electric 2"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum Electric 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Snare Drum Rim 2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Tom Solo High"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Tom Solo Medium 1"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Cabassa"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Tom Solo Medium 2"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Tambourine"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Tom Solo Low"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Cowbell"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Rimshot"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Bass Drum Jazz"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Brush Long"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Snare Drum Brush 1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Brush"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Tom High"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Tom Medium"  ProgramChange="53"/>
+          <Patch Number="54"  Name="High Hat Closed 1"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Tom Low"  ProgramChange="55"/>
+          <Patch Number="56"  Name="High Hat Pedal"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Woodblock"  ProgramChange="57"/>
+          <Patch Number="58"  Name="High Hat Open"  ProgramChange="58"/>
+          <Patch Number="59"  Name="House Clap"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Bass Drum 1"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Ride"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Snare Drum 2"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Ride Cup"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Gated Tom High"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Gated Tom Medium"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Splash"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Gated Tom Low"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Crash"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Vibra Slap"  ProgramChange="69"/>
+          <Patch Number="70"  Name="China"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Snap 1"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Bongo High"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Bongo Low"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Conga Slap"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Conga Accent"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Conga Low"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Guiro"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Quica Low"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Timbale High"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Timbale Low"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Agogo"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Triangle Long"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Whistle 1"  ProgramChange="83"/>
+          <Patch Number="84"  Name="House Bass Drum"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Noise Percussion"  ProgramChange="85"/>
+          <Patch Number="86"  Name="House Side Drum"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Voice 1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Voice 3"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Voice 2 Low"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Vox High Hat Closed 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Voice 2 High"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox High Hat Closed 2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Vox Tip"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Vox Tap"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Car Horn"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Dolly Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKBsh 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 2"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bass Drum 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rimshot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Brush"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Snare Drum Brush 1"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Brush Long"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Grand Timpani"  ProgramChange="41"/>
+          <Patch Number="42"  Name="High Hat Closed 1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Tom"  ProgramChange="43"/>
+          <Patch Number="44"  Name="High Closed 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Grand Timpani"  ProgramChange="45"/>
+          <Patch Number="46"  Name="High Hat Open 1"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Tom"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Grand Timpani"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Tom"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKElc 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Hard Kick"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rim Shot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum Electric 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Snare Drum Gate"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Synthetic Drum"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Closed High-Hat 1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Synthetic Drum"  ProgramChange="43"/>
+          <Patch Number="44"  Name="High-Hat Closed 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Synthetic Drum"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Open High Hat 1"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Synthetic Drum"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Synthetic Drum"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Synthetic Drum"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKElc 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bass Drum Electric"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rim Shot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Synthetic Snare Drum"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Synthetic Drum"  ProgramChange="41"/>
+          <Patch Number="42"  Name="House Hat"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Synthetic Drum"  ProgramChange="43"/>
+          <Patch Number="44"  Name="House Hat"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Synthetic Drum"  ProgramChange="45"/>
+          <Patch Number="46"  Name="House Ride"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Synthetic Drum"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Synthetic Drum"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Synthetic Drum"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKHse 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 2"  ProgramChange="35"/>
+          <Patch Number="36"  Name="House Bass Drum"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Snare Drum Electric 1"  ProgramChange="37"/>
+          <Patch Number="38"  Name="House Snare Drum"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Concert Snare Drum"  ProgramChange="40"/>
+          <Patch Number="41"  Name="House Bass Drum"  ProgramChange="41"/>
+          <Patch Number="42"  Name="House Hat"  ProgramChange="42"/>
+          <Patch Number="43"  Name="House Bass Drum"  ProgramChange="43"/>
+          <Patch Number="44"  Name="House Hat"  ProgramChange="44"/>
+          <Patch Number="45"  Name="House Bass Drum"  ProgramChange="45"/>
+          <Patch Number="46"  Name="House Ride"  ProgramChange="46"/>
+          <Patch Number="47"  Name="House Bass Drum"  ProgramChange="47"/>
+          <Patch Number="48"  Name="House Bass Drum"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="House Bass Drum"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKHse 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bass Drum Electric"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rimshot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum Brush 2"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Snare Drum Rim 1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Synthetic Drum"  ProgramChange="41"/>
+          <Patch Number="42"  Name="High Hat Closed 1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Synthetic Drum"  ProgramChange="43"/>
+          <Patch Number="44"  Name="High Hat Closed 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Synthetic Drum"  ProgramChange="45"/>
+          <Patch Number="46"  Name="High Hat Open 1"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Synthetic Drum"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Synthetic Drum"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Synthetic Drum"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKJaz 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 2"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bass Drum Jazz"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rimshot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum Brush 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Snare Drum Brush 2"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Grand Timpani"  ProgramChange="41"/>
+          <Patch Number="42"  Name="High Hat Closed 2"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Tom"  ProgramChange="43"/>
+          <Patch Number="44"  Name="High Hat Pedal"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Grand Timpani"  ProgramChange="45"/>
+          <Patch Number="46"  Name="High Hat Open 2"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Tom"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Grand Timpani"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Tom"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKOrch 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 2"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Timpani"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rim Shot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum Rim 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Castanet"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Snare Drum Rim 1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Timpani"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Timpani"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Timpani"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Timpani"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Timpani"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Timpani"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Timpani"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Timpani"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Timpani"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Timpani"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Timpani"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Timpani"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Timpani"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKPwr 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 2"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Hard Kick"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rim Shot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum Gate"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Concert Snare Drum"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Gated Tom"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Closed High-Hat 1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Gated Tom"  ProgramChange="43"/>
+          <Patch Number="44"  Name="High-Hat Closed 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Gated Tom"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Open High Hat 1"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Gated Tom"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Gated Tom"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Gated Tom"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKPwr 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 2"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bass Drum Gate"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rim Shot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum Electric 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Snare Drum Electric 2"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Gated Tom"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Closed High-Hat 2"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Gated Tom"  ProgramChange="43"/>
+          <Patch Number="44"  Name="High-Hat Pedal"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Gated Tom"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Open High Hat 2"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Gated Tom"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Gated Tom"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Gated Tom"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKRom 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bass Drum 2"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rim Shot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum Rim 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Snare Drum Rim 2"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Tom Solo"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Closed High-Hat 1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Tom Solo"  ProgramChange="43"/>
+          <Patch Number="44"  Name="High-Hat Closed 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Tom Solo"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Open High Hat 1"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Tom Solo"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Tom Solo"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Tom Solo"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKRom 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bass Drum Hard"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rim Shot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Concert Snare Drum"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Snare Drum Gate"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Grand Timpani"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Closed High-Hat 2"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Grand Timpani"  ProgramChange="43"/>
+          <Patch Number="44"  Name="High-Hat Pedal"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Tom Solo"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Open High Hat 2"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Tom Solo"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Tom Solo"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Tom Solo"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKStd 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 2"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bass Drum 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rim Shot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Snare Drum 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Snare Drum Rim 1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Grand Timpani Low"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Closed High-Hat 1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Tom Low"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Closed High-Hat 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Grand Timpani Medium"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Open High Hat 1"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Medium Tom"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Grand Timpani High"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="High Tom"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WX DKStd 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="21"  Name="Applause"  ProgramChange="21"/>
+          <Patch Number="22"  Name="China"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Crash"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Roll"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Zapp Low"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zapp Medium"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Zapp High"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Kitchen"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Scratch 1 Low"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Scratch 1 High"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Stick"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Bass Drum Electric"  ProgramChange="32"/>
+          <Patch Number="33"  Name="RimShot"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Baby Vox"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Bass Drum 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Bass Drum 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Rim Shot"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Concert Snare Drum 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="House Clap"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Snare Drum Rim 1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Tom Solo"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Closed High-Hat 2"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Tom Solo"  ProgramChange="43"/>
+          <Patch Number="44"  Name="High-Hat Pedal"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Tom Solo"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Open High Hat 2"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Tom Solo"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Tom Solo"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Crash Cymbal High"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Tom Solo"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal High"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Chinese Cymbal"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Ride Cup"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Tambourine"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Splash Cymbal"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Cowbell"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Crash Cymbal Low"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Vibra Slap"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Ride Cymbal Low"  ProgramChange="59"/>
+          <Patch Number="60"  Name="High Bongo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Low Bongo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Conga Accnt"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Conga High"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Conga Low"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale High"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Timbale Low"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Agogo High"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Agogo Low"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Cabasa"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Whistle 1 High"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Whitsle 1 Low"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Guiro High"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Guiro Low"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Claves"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Wood Block High"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Wood Block Low"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Cuica High"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Cuica Low"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Triangle Short"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Triangle Long"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Vox High Hat Closed"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Celesta"  ProgramChange="83"/>
+          <Patch Number="84"  Name="BarChime"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Castanet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Darbuk High"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Darbuk Low"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Drop"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Water"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Voice 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Vox Tap"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Vox Tip"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Car Horn"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Door"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Raspy Ride"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Baby Vox"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -1,0 +1,320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>General_Music</Manufacturer>
+    <Model>GPS2500</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Generalmusic GPS2500 Bank 10">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDHOUSE2"  ProgramChange="96"/>
+          <Patch Number="97"  Name="BDORCH"  ProgramChange="97"/>
+          <Patch Number="98"  Name="RIMSHOT2"  ProgramChange="98"/>
+          <Patch Number="99"  Name="DYNSDJAZZ"  ProgramChange="99"/>
+          <Patch Number="100"  Name="SDSTD3"  ProgramChange="100"/>
+          <Patch Number="102"  Name="BRUSREV"  ProgramChange="102"/>
+          <Patch Number="103"  Name="TOMHIGH"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHCLO1S"  ProgramChange="104"/>
+          <Patch Number="106"  Name="CRASH"  ProgramChange="106"/>
+          <Patch Number="107"  Name="TAMBSLP"  ProgramChange="107"/>
+          <Patch Number="108"  Name="CONGALSLAP"  ProgramChange="108"/>
+          <Patch Number="109"  Name="TIMBLOW"  ProgramChange="109"/>
+          <Patch Number="110"  Name="GUIROSHORT"  ProgramChange="110"/>
+          <Patch Number="111"  Name="JNGLEBELL"  ProgramChange="111"/>
+          <Patch Number="112"  Name="DROP"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOICES2"  ProgramChange="113"/>
+          <Patch Number="114"  Name="ZAPP"  ProgramChange="114"/>
+          <Patch Number="115"  Name="RASPYRIDE"  ProgramChange="115"/>
+          <Patch Number="120"  Name="WhaWha2"  ProgramChange="120"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 11">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDELECT1"  ProgramChange="96"/>
+          <Patch Number="97"  Name="BDPOWER"  ProgramChange="97"/>
+          <Patch Number="98"  Name="HOUSERIM"  ProgramChange="98"/>
+          <Patch Number="99"  Name="SDJAZZ2"  ProgramChange="99"/>
+          <Patch Number="100"  Name="SDSTD4"  ProgramChange="100"/>
+          <Patch Number="102"  Name="BRUSRIG"  ProgramChange="102"/>
+          <Patch Number="103"  Name="TOMJAZZ"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHOPEN1"  ProgramChange="104"/>
+          <Patch Number="106"  Name="HOUSERIDE"  ProgramChange="106"/>
+          <Patch Number="107"  Name="COWBELL"  ProgramChange="107"/>
+          <Patch Number="108"  Name="BONGOLOW"  ProgramChange="108"/>
+          <Patch Number="109"  Name="AGOGO"  ProgramChange="109"/>
+          <Patch Number="110"  Name="CLAVES"  ProgramChange="110"/>
+          <Patch Number="111"  Name="WINDCHIMES"  ProgramChange="111"/>
+          <Patch Number="112"  Name="NOISE2"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOICES3"  ProgramChange="113"/>
+          <Patch Number="114"  Name="SCRATCH1"  ProgramChange="114"/>
+          <Patch Number="120"  Name="WhaWha3"  ProgramChange="120"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 12">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDJAZZ"  ProgramChange="96"/>
+          <Patch Number="98"  Name="STICK"  ProgramChange="98"/>
+          <Patch Number="99"  Name="SDJAZZ3"  ProgramChange="99"/>
+          <Patch Number="100"  Name="HOUSSD1"  ProgramChange="100"/>
+          <Patch Number="102"  Name="BRUSHSLP"  ProgramChange="102"/>
+          <Patch Number="103"  Name="TOMROOM"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHPEDAL"  ProgramChange="104"/>
+          <Patch Number="106"  Name="RIDECUP"  ProgramChange="106"/>
+          <Patch Number="107"  Name="VIBRASLAP"  ProgramChange="107"/>
+          <Patch Number="108"  Name="CONGAHSLAP"  ProgramChange="108"/>
+          <Patch Number="109"  Name="CABASA"  ProgramChange="109"/>
+          <Patch Number="110"  Name="WOODBLOCK"  ProgramChange="110"/>
+          <Patch Number="111"  Name="CASTANETS"  ProgramChange="111"/>
+          <Patch Number="112"  Name="WATER"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOXHHCL"  ProgramChange="113"/>
+          <Patch Number="114"  Name="SCRATCH2"  ProgramChange="114"/>
+          <Patch Number="120"  Name="WhaWha4"  ProgramChange="120"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 13">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDROOM1"  ProgramChange="96"/>
+          <Patch Number="99"  Name="SDORCH"  ProgramChange="99"/>
+          <Patch Number="100"  Name="HOUSESD2"  ProgramChange="100"/>
+          <Patch Number="102"  Name="BRUSHTAP"  ProgramChange="102"/>
+          <Patch Number="104"  Name="HHTGHT1"  ProgramChange="104"/>
+          <Patch Number="106"  Name="RIDECYM"  ProgramChange="106"/>
+          <Patch Number="107"  Name="HOUSECOWB"  ProgramChange="107"/>
+          <Patch Number="108"  Name="CONGALSLAP"  ProgramChange="108"/>
+          <Patch Number="109"  Name="CABASAL"  ProgramChange="109"/>
+          <Patch Number="110"  Name="QUICAHIGH"  ProgramChange="110"/>
+          <Patch Number="111"  Name="MTSURDO"  ProgramChange="111"/>
+          <Patch Number="112"  Name="DOOR"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOXTAP"  ProgramChange="113"/>
+          <Patch Number="114"  Name="TOMBRUSH"  ProgramChange="114"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 14">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDSTD1"  ProgramChange="96"/>
+          <Patch Number="99"  Name="SDROOM1"  ProgramChange="99"/>
+          <Patch Number="103"  Name="TOMLOW"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHTGHT2"  ProgramChange="104"/>
+          <Patch Number="106"  Name="SPLASH"  ProgramChange="106"/>
+          <Patch Number="108"  Name="CONGAHIGH"  ProgramChange="108"/>
+          <Patch Number="109"  Name="MARACAS"  ProgramChange="109"/>
+          <Patch Number="110"  Name="QUICALOW"  ProgramChange="110"/>
+          <Patch Number="111"  Name="OPSURDO1"  ProgramChange="111"/>
+          <Patch Number="112"  Name="KITCHEN"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOXTIP"  ProgramChange="113"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 15">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDSTD2"  ProgramChange="96"/>
+          <Patch Number="99"  Name="SDROOM2"  ProgramChange="99"/>
+          <Patch Number="103"  Name="TIMPANI"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HOUSEHH"  ProgramChange="104"/>
+          <Patch Number="106"  Name="CHINA"  ProgramChange="106"/>
+          <Patch Number="108"  Name="CONGALOW"  ProgramChange="108"/>
+          <Patch Number="109"  Name="WHISTLE"  ProgramChange="109"/>
+          <Patch Number="110"  Name="TRIANLONG"  ProgramChange="110"/>
+          <Patch Number="111"  Name="DARBKHIGH"  ProgramChange="111"/>
+          <Patch Number="112"  Name="LOGDRUM"  ProgramChange="112"/>
+          <Patch Number="113"  Name="DOLLYVOX"  ProgramChange="113"/>
+          <Patch Number="114"  Name="SQCLICK"  ProgramChange="114"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 16">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDSTD3"  ProgramChange="96"/>
+          <Patch Number="99"  Name="SDSTD1"  ProgramChange="99"/>
+          <Patch Number="103"  Name="OPSURDO2"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHCLO2"  ProgramChange="104"/>
+          <Patch Number="106"  Name="SMASH"  ProgramChange="106"/>
+          <Patch Number="108"  Name="HOUSETCON"  ProgramChange="108"/>
+          <Patch Number="109"  Name="MUTBELL"  ProgramChange="109"/>
+          <Patch Number="110"  Name="TRIANSHORT"  ProgramChange="110"/>
+          <Patch Number="111"  Name="DARBKLOW"  ProgramChange="111"/>
+          <Patch Number="112"  Name="CLAKSON"  ProgramChange="112"/>
+          <Patch Number="113"  Name="BABYVOX"  ProgramChange="113"/>
+          <Patch Number="126"  Name="Sinus"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Empty"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 4">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PianoStage"  ProgramChange="0"/>
+          <Patch Number="4"  Name="RhodxFilt"  ProgramChange="4"/>
+          <Patch Number="5"  Name="E.PianoSft"  ProgramChange="5"/>
+          <Patch Number="16"  Name="OrgTheatre"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Organ3W"  ProgramChange="17"/>
+          <Patch Number="18"  Name="OrganC3"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Organ1W"  ProgramChange="19"/>
+          <Patch Number="20"  Name="PipeChiff"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Accord3"  ProgramChange="21"/>
+          <Patch Number="23"  Name="Bandoneon2"  ProgramChange="23"/>
+          <Patch Number="25"  Name="SteelGtr2"  ProgramChange="25"/>
+          <Patch Number="26"  Name="JazzGtr2"  ProgramChange="26"/>
+          <Patch Number="27"  Name="ElGuitar2"  ProgramChange="27"/>
+          <Patch Number="28"  Name="MutedWha"  ProgramChange="28"/>
+          <Patch Number="30"  Name="LeadDist"  ProgramChange="30"/>
+          <Patch Number="32"  Name="Dyn.AcoBs"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Dyn.Baxx'"  ProgramChange="33"/>
+          <Patch Number="34"  Name="PkBsMute"  ProgramChange="34"/>
+          <Patch Number="37"  Name="ThumBass"  ProgramChange="37"/>
+          <Patch Number="39"  Name="SynthBass2"  ProgramChange="39"/>
+          <Patch Number="48"  Name="DualStrgs"  ProgramChange="48"/>
+          <Patch Number="55"  Name="HitsRev"  ProgramChange="55"/>
+          <Patch Number="57"  Name="TrombSwell"  ProgramChange="57"/>
+          <Patch Number="60"  Name="FrHrnSwell"  ProgramChange="60"/>
+          <Patch Number="61"  Name="BrassFall"  ProgramChange="61"/>
+          <Patch Number="62"  Name="SynBrass3"  ProgramChange="62"/>
+          <Patch Number="63"  Name="SynBrass4"  ProgramChange="63"/>
+          <Patch Number="65"  Name="LiscioSax"  ProgramChange="65"/>
+          <Patch Number="71"  Name="LiscioClar"  ProgramChange="71"/>
+          <Patch Number="88"  Name="Fantasy1"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Waveaura"  ProgramChange="89"/>
+          <Patch Number="91"  Name="OcBreath"  ProgramChange="91"/>
+          <Patch Number="93"  Name="Bright3"  ProgramChange="93"/>
+          <Patch Number="95"  Name="Waiting"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Submarin"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Ekoendls"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Jets"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Smak"  ProgramChange="99"/>
+          <Patch Number="100"  Name="OnOff"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Synthex3"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Synthex4"  ProgramChange="102"/>
+          <Patch Number="103"  Name="StarTheme3"  ProgramChange="103"/>
+          <Patch Number="112"  Name="DK_STAND.3"  ProgramChange="112"/>
+          <Patch Number="113"  Name="DK_ROOM1WX"  ProgramChange="113"/>
+          <Patch Number="114"  Name="DK_POWER1WX"  ProgramChange="114"/>
+          <Patch Number="115"  Name="DK_ELECT1WX"  ProgramChange="115"/>
+          <Patch Number="116"  Name="DK_HOUSE1WX"  ProgramChange="116"/>
+          <Patch Number="117"  Name="DK_JAZZ_WX"  ProgramChange="117"/>
+          <Patch Number="118"  Name="DK_BRUSHWX"  ProgramChange="118"/>
+          <Patch Number="119"  Name="DK_ORCH_WX"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 6">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="4"  Name="E.PianoX"  ProgramChange="4"/>
+          <Patch Number="5"  Name="DynE.P."  ProgramChange="5"/>
+          <Patch Number="16"  Name="8'"  ProgramChange="16"/>
+          <Patch Number="17"  Name="4'"  ProgramChange="17"/>
+          <Patch Number="18"  Name="2'2/3"  ProgramChange="18"/>
+          <Patch Number="25"  Name="Mandolin2"  ProgramChange="25"/>
+          <Patch Number="95"  Name="Tibet"  ProgramChange="95"/>
+          <Patch Number="102"  Name="Synthex6"  ProgramChange="102"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 8">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic GPS2500 Bank 9">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDHOUSE1"  ProgramChange="96"/>
+          <Patch Number="97"  Name="BDTEKNO"  ProgramChange="97"/>
+          <Patch Number="98"  Name="RIMSHOT1"  ProgramChange="98"/>
+          <Patch Number="99"  Name="SDELECT"  ProgramChange="99"/>
+          <Patch Number="100"  Name="SDSTD2"  ProgramChange="100"/>
+          <Patch Number="101"  Name="HOUSECLAP"  ProgramChange="101"/>
+          <Patch Number="102"  Name="ROLLSNARE"  ProgramChange="102"/>
+          <Patch Number="103"  Name="TOMELEC"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHCLO1L"  ProgramChange="104"/>
+          <Patch Number="105"  Name="HHOPEN2"  ProgramChange="105"/>
+          <Patch Number="106"  Name="CRASHORC"  ProgramChange="106"/>
+          <Patch Number="107"  Name="TAMBOURINE"  ProgramChange="107"/>
+          <Patch Number="108"  Name="BONGOHISL"  ProgramChange="108"/>
+          <Patch Number="109"  Name="TIMBALES"  ProgramChange="109"/>
+          <Patch Number="110"  Name="GUIROLONG"  ProgramChange="110"/>
+          <Patch Number="111"  Name="SHAKER"  ProgramChange="111"/>
+          <Patch Number="112"  Name="FINGERSNAP"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOICES1"  ProgramChange="113"/>
+          <Patch Number="114"  Name="FINGBELL"  ProgramChange="114"/>
+          <Patch Number="115"  Name="NOISEPERC"  ProgramChange="115"/>
+          <Patch Number="120"  Name="WhaWha1"  ProgramChange="120"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

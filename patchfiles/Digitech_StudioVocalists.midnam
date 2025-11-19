@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Digitech</Manufacturer>
+    <Model>StudioVocalists</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Digitech Studio Vocalist">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Studio Toolkit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Parallel Voices"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Third Above"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Third Above Male"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Thirds &amp; Fifths"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Thick 'N Jazzy"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Full Harmony"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Male/Fem Gospel"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Vocoder"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Pitch Corrector"  ProgramChange="9"/>
+          <Patch Number="10"  Name="U Are A Baritone"  ProgramChange="10"/>
+          <Patch Number="11"  Name="U Are A Soprano"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Unison Male"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Unison Female"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Unison Mixed"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Vocoder Male"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Vocoder Female"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Vocoder Scoop"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Vocoder Swell"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Vocoder Loose"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Third Abv Male"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Third Abv Female"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Third Abv Loose"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Third Abv Scoop"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Blues Third Abv"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Male Quartet"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Female Quartet"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Mixed Quartet"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Mixed Duo"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Jazz Quartet"  ProgramChange="29"/>
+          <Patch Number="30"  Name="3rd abv step'd"  ProgramChange="30"/>
+          <Patch Number="31"  Name="3rd abv st/Gend"  ProgramChange="31"/>
+          <Patch Number="32"  Name="3rd abv smooth"  ProgramChange="32"/>
+          <Patch Number="33"  Name="3rd abv sm/Gend"  ProgramChange="33"/>
+          <Patch Number="34"  Name="3rd's abv step'd"  ProgramChange="34"/>
+          <Patch Number="35"  Name="3rds abv st/Gend"  ProgramChange="35"/>
+          <Patch Number="36"  Name="3rds abv smooth"  ProgramChange="36"/>
+          <Patch Number="37"  Name="3rds abv sm/Gend"  ProgramChange="37"/>
+          <Patch Number="38"  Name="3rd bel step'd"  ProgramChange="38"/>
+          <Patch Number="39"  Name="3rd bel st/Gend"  ProgramChange="39"/>
+          <Patch Number="40"  Name="3rd bel smooth"  ProgramChange="40"/>
+          <Patch Number="41"  Name="3rd be sm/Gend"  ProgramChange="41"/>
+          <Patch Number="42"  Name="3rds bel step'd"  ProgramChange="42"/>
+          <Patch Number="43"  Name="3rds be st/Gend"  ProgramChange="43"/>
+          <Patch Number="44"  Name="3rds bel smooth"  ProgramChange="44"/>
+          <Patch Number="45"  Name="3rds bel sm/Gend"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Sixths Above"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Sixths Below"  ProgramChange="47"/>
+          <Patch Number="48"  Name="1-3-5- Scale"  ProgramChange="48"/>
+          <Patch Number="49"  Name="1-3-5 Scale/Gend"  ProgramChange="49"/>
+          <Patch Number="50"  Name="5-1-3 Scale"  ProgramChange="50"/>
+          <Patch Number="51"  Name="5-1-3- Scale/Gend"  ProgramChange="51"/>
+          <Patch Number="52"  Name="3-5-1 Scale"  ProgramChange="52"/>
+          <Patch Number="53"  Name="3-5-1 Scale/Gend"  ProgramChange="53"/>
+          <Patch Number="54"  Name="1-3-5-7 Scale"  ProgramChange="54"/>
+          <Patch Number="55"  Name="1-3-5-7 Scale/Gend"  ProgramChange="55"/>
+          <Patch Number="56"  Name="6-1-3 Scale"  ProgramChange="56"/>
+          <Patch Number="57"  Name="6-1-3 Scale/Gend"  ProgramChange="57"/>
+          <Patch Number="58"  Name="1up Chordal"  ProgramChange="58"/>
+          <Patch Number="59"  Name="1up / Gender"  ProgramChange="59"/>
+          <Patch Number="60"  Name="1up+1dn Chordal"  ProgramChange="60"/>
+          <Patch Number="61"  Name="1up+1dn / Gender"  ProgramChange="61"/>
+          <Patch Number="62"  Name="1up+1dn+Bass"  ProgramChange="62"/>
+          <Patch Number="63"  Name="1up+1dn+Bas/Gend"  ProgramChange="63"/>
+          <Patch Number="64"  Name="1up+2dn Chordal"  ProgramChange="64"/>
+          <Patch Number="65"  Name="1up+2dn / Gender"  ProgramChange="65"/>
+          <Patch Number="66"  Name="1up+2dn+Bass"  ProgramChange="66"/>
+          <Patch Number="67"  Name="1up+2dn+Bas/Gen"  ProgramChange="67"/>
+          <Patch Number="68"  Name="1up+3dn Chordal"  ProgramChange="68"/>
+          <Patch Number="69"  Name="1up+3dn / Gender"  ProgramChange="69"/>
+          <Patch Number="70"  Name="2up Chordal"  ProgramChange="70"/>
+          <Patch Number="71"  Name="2up / Gender"  ProgramChange="71"/>
+          <Patch Number="72"  Name="2up+Bass"  ProgramChange="72"/>
+          <Patch Number="73"  Name="2up+Bass/Gender"  ProgramChange="73"/>
+          <Patch Number="74"  Name="2up+1dn Chordal"  ProgramChange="74"/>
+          <Patch Number="75"  Name="2up+1dn / Gender"  ProgramChange="75"/>
+          <Patch Number="76"  Name="2up+1dn+Bass"  ProgramChange="76"/>
+          <Patch Number="77"  Name="2up+1dn+Bas/Gend"  ProgramChange="77"/>
+          <Patch Number="78"  Name="2up+2dn Chordal"  ProgramChange="78"/>
+          <Patch Number="79"  Name="2up+2dn / Gender"  ProgramChange="79"/>
+          <Patch Number="80"  Name="3up Chordal"  ProgramChange="80"/>
+          <Patch Number="81"  Name="3up / Gender"  ProgramChange="81"/>
+          <Patch Number="82"  Name="3up+Bass"  ProgramChange="82"/>
+          <Patch Number="83"  Name="3up+Bass/Gender"  ProgramChange="83"/>
+          <Patch Number="84"  Name="3up+1dn Chordal"  ProgramChange="84"/>
+          <Patch Number="85"  Name="3up+1dn / Gender"  ProgramChange="85"/>
+          <Patch Number="86"  Name="4up Chordal"  ProgramChange="86"/>
+          <Patch Number="87"  Name="4up / Gender"  ProgramChange="87"/>
+          <Patch Number="88"  Name="2Open Chordal"  ProgramChange="88"/>
+          <Patch Number="89"  Name="2Open / Gender"  ProgramChange="89"/>
+          <Patch Number="90"  Name="2Open+Bass"  ProgramChange="90"/>
+          <Patch Number="91"  Name="2Open+Bas/Gender"  ProgramChange="91"/>
+          <Patch Number="92"  Name="2dn Chordal"  ProgramChange="92"/>
+          <Patch Number="93"  Name="2dn+Bass"  ProgramChange="93"/>
+          <Patch Number="94"  Name="3dn Chordal"  ProgramChange="94"/>
+          <Patch Number="95"  Name="3dn+Bass"  ProgramChange="95"/>
+          <Patch Number="96"  Name="4dn Chordal"  ProgramChange="96"/>
+          <Patch Number="97"  Name="3Fixed+Bass"  ProgramChange="97"/>
+          <Patch Number="98"  Name="4Fixed Chordal"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Blank Program 1"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Blank Program 2"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Blank Program 3"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Blank Program 4"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Blank Program 5"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Blank Program 6"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Blank Program 7"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Blank Program 8"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Blank Program 9"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Blank Program 10"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Blank Program 11"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Blank Program 12"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Blank Program 13"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Blank Program 14"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Blank Program 15"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Blank Program 16"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Blank Program 17"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Blank Program 18"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Blank Program 19"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Blank Program 20"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Blank Program 21"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Blank Program 22"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Blank Program 23"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Blank Program 24"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Blank Program 25"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Blank Program 26"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Blank Program 27"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Blank Program 28"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Bypass"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

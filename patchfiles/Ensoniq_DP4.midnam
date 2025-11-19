@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Ensoniq</Manufacturer>
+    <Model>DP4</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="DP/4+ 1-Unit RAM/ROM Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Vocal Plate 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Synth Plate"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Vocal Plate 2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Zobie Plate"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Slam Plate"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Multi Plate"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Short Plate"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Ballad Reverb"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Bright Hall"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Vocal Hall"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Concert Hall 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Concert Hall 2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Summer Hall"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Famous Hall"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Small Hall"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Room 224"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Medium Room"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Dark Room"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Early Reflections"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Smooth Non Lin"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Gated Verb"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Dark Drum Room"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Digital Drm Room"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Boom Room"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Kickdrum Nonlin"  ProgramChange="24"/>
+          <Patch Number="25"  Name="70's Drum Booth"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Tiled Room"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Gymnasium"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Backstage"  ProgramChange="28"/>
+          <Patch Number="29"  Name="String Verb"  ProgramChange="29"/>
+          <Patch Number="30"  Name="French Horn Verb"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Country Keys"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Lush Keys"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Echo Clav"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Medium Flange"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Tight Flange"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Wet Chorus"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Key Funk Flange"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Key Funk Phaze"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Dist. RotarySpkr"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Fusion Bass"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Clean Guitar Amp"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Snare Compressor"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Vocal Spice"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Slap Vocal"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Vocal Spreader"  ProgramChange="45"/>
+          <Patch Number="46"  Name="'66 Car Readio"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Analog Flanger"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Wild Panner"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Tape Stop Effect"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Small Room Rev"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Large Room Rev"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Hall Reverb"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Small Plate Rev"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Large Plate Rev"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Reverse Reverb"  ProgramChange="55"/>
+          <Patch Number="56"  Name="RetrigReverseRev"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Gated Reverb"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Non Lin Reverb 1"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Non Lin Reverb 2"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Non Lin Reverb 3"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Multi Tap Delay"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Dual Delay"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Tempo Delay"  ProgramChange="63"/>
+          <Patch Number="64"  Name="EQ-DDL-with LFO"  ProgramChange="64"/>
+          <Patch Number="65"  Name="VCF-Distortion 1"  ProgramChange="65"/>
+          <Patch Number="66"  Name="VCF-Distortion 2"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Guitar Amp 1"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Guitar Amp 2"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Guitar Amp 3"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Guitar Amp 4"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Digital Tube Amp"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Dynamic Tube Amp"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Speaker Cabinet"  ProgramChange="73"/>
+          <Patch Number="74"  Name="TunableSpeaker 1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="TunableSpeaker 2"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Rotating Speaker"  ProgramChange="76"/>
+          <Patch Number="77"  Name="EQ-Chorus-DDL"  ProgramChange="77"/>
+          <Patch Number="78"  Name="EQ-Vibrato-DDL"  ProgramChange="78"/>
+          <Patch Number="79"  Name="EQ-Panner-DDL"  ProgramChange="79"/>
+          <Patch Number="80"  Name="EQ-Flanger-DDL"  ProgramChange="80"/>
+          <Patch Number="81"  Name="EQ-Tremolo-DDL"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Phaser-DDL"  ProgramChange="82"/>
+          <Patch Number="83"  Name="8 Voice Chorus"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Flanger"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Pitch Shifter"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Pitch Shift-DDL"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Fast Pitch Shift"  ProgramChange="87"/>
+          <Patch Number="88"  Name="EQ-Compressor"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Expander"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Inverse Expander"  ProgramChange="90"/>
+          <Patch Number="91"  Name="De-esser"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Rumble Filter"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Parametric EQ"  ProgramChange="93"/>
+          <Patch Number="94"  Name="VanderPol Filter"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Signal Generator"  ProgramChange="95"/>
+          <Patch Number="96"  Name="FS Tap-Tempo DDL"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Noise Gate"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Vocal Compressor"  ProgramChange="98"/>
+          <Patch Number="99"  Name="No Effect"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DP/4+ 2-Unit RAM/ROM Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Trumpet Plate"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Oldtime Plate"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Tube Plate"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Gated Plate"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Compressed Plate"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Horn Verb"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Twisting Hall"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Phased Hall"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Gated Room 1"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Spring Reverb"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Bloom Canyon"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Dark Verb"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Airplane Hangar"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Snare Intro"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Drum Verb"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Drums X"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Drums Y"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Drums Z"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Kick Non Lin"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Mega Non Lin"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Wet Non Lin"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Best Small Space"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Echoing Verbs"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Flanged Reverb 1"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Flanged Reverb 2"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Feedback Verb"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Sample&amp; Phaz Verb"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Panning Delays"  ProgramChange="27"/>
+          <Patch Number="28"  Name="MultiTap&amp;Flange"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Ascending Delays"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Harmoni-Echo"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Major Triad Echo"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Pan-Tapstic"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Special Taps"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Country Guitar"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Super Mute-ron"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Vocal EQ &amp; Comp"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Vocal Magic"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Darth"  ProgramChange="38"/>
+          <Patch Number="39"  Name="4 Voice Detune"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Serial Florus"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Detune &amp; Spread"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Vibrates &amp; Pans"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Coordintes"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Swirling Notch"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Regenerate"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Get Rappified"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Feedback Phaser"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Big Non Lin 1"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Big Non Lin 2"  ProgramChange="49"/>
+          <Patch Number="50"  Name="3.3 sec Delay 2U"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Pitch Shift 2U"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Guitar Tuner 2U"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Luscious Plate"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Versatile Hall"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Warm Room"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Small Space Amb"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Gated Room 2"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Smooth Bloom"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Jet Reverb"  ProgramChange="59"/>
+          <Patch Number="60"  Name="30th St. Station"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Early &amp; Plate"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Parking Garage"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Classic 80s Verb"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Bend Up Reverb"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Bend Down Reverb"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Laser Flange"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Blazing Phaser"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Compresd&amp;Chorused"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Chorus &amp; Room"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Chorus &amp; Plate"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Phaser &amp; Room"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Phaser &amp; Plate"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Flanger &amp; Room"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Flanger &amp; Plate"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Delay &amp; Reverb 1"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Delay &amp; Reverb 2"  ProgramChange="76"/>
+          <Patch Number="77"  Name="TempoDly &amp; Plate"  ProgramChange="77"/>
+          <Patch Number="78"  Name="TempDly &amp; Hall"  ProgramChange="78"/>
+          <Patch Number="79"  Name="RotSpkr &amp; Plate"  ProgramChange="79"/>
+          <Patch Number="80"  Name="RotSpkr &amp; Hall"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Chorus-DDL-Pan"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Sparkles &amp; Verbs"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Backing Vox-Lush"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Backing Vox-Rock"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Ducker &amp; EQ"  ProgramChange="85"/>
+          <Patch Number="86"  Name="KeyedExpander&amp;EQ"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Exciter &amp; DDL"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Compress&amp;De-ess"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Wolf EQ &amp; Gate"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Live Vocal Chain"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Drum Squasher"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Digable Guitar"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Screamin' Amp"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Touch Wa Guitar"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Amp Thru RotSpkr"  ProgramChange="95"/>
+          <Patch Number="96"  Name="FtSwitchLoop DDL"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Owed to Acadia"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Rhythmic Panner"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Science Lab"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DP/4+ 4-Unit RAM/ROM Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Crystal Cave"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Canyon Echo"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Underwater Verb"  ProgramChange="2"/>
+          <Patch Number="3"  Name="PhaseFlange Verb"  ProgramChange="3"/>
+          <Patch Number="4"  Name="MassiveVerb 1"  ProgramChange="4"/>
+          <Patch Number="5"  Name="MassiveVerb 2"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Rhythm Verb"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Hugh Bright Verb"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Hugh Warm Verb"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Resonant Reverb"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Studio Vocal 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Studio Vocal 2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Crisp VocalChain"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Up Front Vocal"  ProgramChange="13"/>
+          <Patch Number="14"  Name="BrightVocalChain"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Warm Vocal Chain"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Super Spreader"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Time Machine"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Phased Vocals 1"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Jazz Vocal 1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Rockin' Lead Gtr"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Room Mic Gtr Amp"  ProgramChange="21"/>
+          <Patch Number="22"  Name="UltraWide Guitar"  ProgramChange="22"/>
+          <Patch Number="23"  Name="TuffButNice Gtr"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Vintage Tube Amp"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Rockabilly Gtr 1"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Fast Tremolo Amp"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Metal Rhythm Gtr"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Wah Lead Guitar"  ProgramChange="28"/>
+          <Patch Number="29"  Name="SuperFunk Guitar"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Big Acoustic Guitar"  ProgramChange="30"/>
+          <Patch Number="31"  Name="NY Studio Gtr"  ProgramChange="31"/>
+          <Patch Number="32"  Name="LA Studio Gtr"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Studio Tremolo"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Rock Bass &amp; Lead"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Mellow Jazz Gtr"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Rhythm-DDL Gtr"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Comp-DDL Guitar"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Weird Phase Gtr"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Rockabilly Gtr 2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Slammin' Bass"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Super Chorus"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Super Phase-DDL"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Parallelograms"  ProgramChange="43"/>
+          <Patch Number="44"  Name="16-Band EQ"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Modulation Mania"  ProgramChange="45"/>
+          <Patch Number="46"  Name="32 Voice Chorus"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Chorus-Phaser"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Twilight Tone"  ProgramChange="48"/>
+          <Patch Number="49"  Name="CV-Wet Thunder!"  ProgramChange="49"/>
+          <Patch Number="50"  Name="String Section"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Quartet Chamber"  ProgramChange="51"/>
+          <Patch Number="52"  Name="MassiveVerb 3"  ProgramChange="52"/>
+          <Patch Number="53"  Name="MassiveVerb 4"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Mega-Kick Verb"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Mega-Snare Verb"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Mega-Toms Verb"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Backwards Verb"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Wet Vocal Chain"  ProgramChange="58"/>
+          <Patch Number="59"  Name="TightVocalChain"  ProgramChange="59"/>
+          <Patch Number="60"  Name="De-esVocalChain"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Wide Vocal Chain"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Jazz Vocal Chain"  ProgramChange="62"/>
+          <Patch Number="63"  Name="'57 Vocal Snooth"  ProgramChange="63"/>
+          <Patch Number="64"  Name="'57 Vocal Rap"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Excited Vocals"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Pop Vocal Chain"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Phased Vocals"  ProgramChange="67"/>
+          <Patch Number="68"  Name="MetalMaster Gtr"  ProgramChange="68"/>
+          <Patch Number="69"  Name="MonsterLead Gtr"  ProgramChange="69"/>
+          <Patch Number="70"  Name="CloseMic Gtr Amp"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Arena Rock Gtr"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Blues Lead Gtr"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Practice Amp"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Rhtyhm Guitar"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Jimi's Wava"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Ballas Lead Gtr"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Jazzy Rhythm Gtr"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Crystal Guitar"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Super Clean Gtr"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Studio Chords"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Studio Tube Amp"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Super Bass"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Brass FX Chain"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Piano FX Chain"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Winds FX Chain"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Clean EP Chain"  ProgramChange="86"/>
+          <Patch Number="87"  Name="BurningSax Chain"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Vibes FX Chain"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Choir FX Chain"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Crystal Tines"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Dirty Organ"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Sunday Organ"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Nasty Harmony"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Sweet Harmony"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Mega Flanger"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Mega Phaser"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Mega Chorus"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Dense Mist"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Guitar Tuner 4U"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DP/4+ Config RAM/ROM Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="MonoInVocalSetup"  ProgramChange="0"/>
+          <Patch Number="1"  Name="StereoVocalSetup"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Rock Gtr Setup"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Stereo In Keybds"  ProgramChange="3"/>
+          <Patch Number="4"  Name="PitchSwept Chain"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Lead Vox	BG Vox"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Drums	Vocals"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Kik&amp;Snr	Toms"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Drums	Keys"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Horns	Vocals"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Keybds	Vocals"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Strings	Brass"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Guitar	Bass"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Drums	Bass"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Bloom	Room"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Kik Snr	Toms"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Kik Snr	Cymbals"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Kik Snr	Vocals"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Drms Bs	Keybds"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Bas Voc	Keybds"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Bas Kys	Guitar"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Rm1 Rm2	Hall"  ProgramChange="21"/>
+          <Patch Number="22"  Name="DDL Plt	VoxVerb"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Cho Taps	LushVox"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Pan Phs	Harmoniz"  ProgramChange="24"/>
+          <Patch Number="25"  Name="LeadGtr	Vocals"  ProgramChange="25"/>
+          <Patch Number="26"  Name="CleanGtr	Vocals"  ProgramChange="26"/>
+          <Patch Number="27"  Name="E.Piano	VocalFX"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Fretles	SoftPad"  ProgramChange="28"/>
+          <Patch Number="29"  Name="HornRev	Vocals"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Inverse	NonLin"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Ducker	Harmoniz"  ProgramChange="31"/>
+          <Patch Number="32"  Name="De-essed	DDL&amp;Rev"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Kik Sn	RevDDL"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Kik Snr	Percus"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Brs Bels	VocalFX"  ProgramChange="35"/>
+          <Patch Number="36"  Name="DDL Plt	Guitar"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Flg Slap	Phaser"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Phase Hrmo Verb"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Comp EQ	VocalFX"  ProgramChange="39"/>
+          <Patch Number="40"  Name="DDL Plt	Flangr"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Box Room	LongDDL"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Albumizer EQs"  ProgramChange="42"/>
+          <Patch Number="43"  Name="4 Mono Reverbs"  ProgramChange="43"/>
+          <Patch Number="44"  Name="The Kitters"  ProgramChange="44"/>
+          <Patch Number="45"  Name="The Pad Maker"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Arpeggios"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Final Frontier"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Outness"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Lunar Self-Gen"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Select 4U Psets"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Select 2U Psets"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Select 1U Psets"  ProgramChange="52"/>
+          <Patch Number="53"  Name="1 Src: Mono In"  ProgramChange="53"/>
+          <Patch Number="54"  Name="1 Src: Stereo In"  ProgramChange="54"/>
+          <Patch Number="55"  Name="2 Src: Stereo In"  ProgramChange="55"/>
+          <Patch Number="56"  Name="2 Src: Mono In"  ProgramChange="56"/>
+          <Patch Number="57"  Name="3 Src:Stereo Out"  ProgramChange="57"/>
+          <Patch Number="58"  Name="3 Src:M+M+S Out"  ProgramChange="58"/>
+          <Patch Number="59"  Name="4 Src:Stereo Out"  ProgramChange="59"/>
+          <Patch Number="60"  Name="4 Src:4 Mono Out"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Vocoder Preset"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Vocoder Preset 2"  ProgramChange="62"/>
+          <Patch Number="63"  Name="All Purp Mixdown"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Rock Mixdown"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Modern Mixdown"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Dance Mixdown"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Rockabily Mixdown"  ProgramChange="67"/>
+          <Patch Number="68"  Name="R&amp;B Mixdown"  ProgramChange="68"/>
+          <Patch Number="69"  Name="BigBallad Mixdown"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Jingle Mixdown"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Jazz Mixdown"  ProgramChange="71"/>
+          <Patch Number="72"  Name="4 Vocal Effects"  ProgramChange="72"/>
+          <Patch Number="73"  Name="4 Vocal Compres"  ProgramChange="73"/>
+          <Patch Number="74"  Name="2 EQs 2 Limiters"  ProgramChange="74"/>
+          <Patch Number="75"  Name="4 In-line FX"  ProgramChange="75"/>
+          <Patch Number="76"  Name="4 Regenerators"  ProgramChange="76"/>
+          <Patch Number="77"  Name="4 Fast Gates"  ProgramChange="77"/>
+          <Patch Number="78"  Name="4 Loudness EQ's"  ProgramChange="78"/>
+          <Patch Number="79"  Name="4 Mono DDLs"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Large Halls"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Oil Drums"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Small Ambience"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Medium Amb 1"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Gated Verbs D/B"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Non Lin Colors"  ProgramChange="85"/>
+          <Patch Number="86"  Name="My College Dorm"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Rectangle Halls"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Wood Rooms"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Elec Drum Rooms"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Concrete Rooms"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Medium Amb"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Travel Ambience"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Tiles Ambience"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Big Amp In Room"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Domino's Strat"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Pedal-Wah Guitar"  ProgramChange="96"/>
+          <Patch Number="97"  Name="2 Big Ster.Verbs"  ProgramChange="97"/>
+          <Patch Number="98"  Name="ExhoPlx FlngVerb"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Vocal Remover"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>
