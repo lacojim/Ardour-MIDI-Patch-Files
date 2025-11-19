@@ -1,4 +1,4 @@
-# Karl Ardour MIDI Definition Files
+# Karl's Ardour MIDI Definition Files
 
 ## 🎬 Introduction:
 
