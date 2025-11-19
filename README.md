@@ -4,9 +4,7 @@
 
 ---
 
-Presented here are 201 additional files that are not currently included in Ardour. 
-Created with a TCL script converting Cakewalk .ins instrument definition files to .midnam format.  Obviously it is impossible to go out and buy 200 keyboards to test these so hopefully those of you with some of these devices can test and report back. Please provide feedback on what does and does not work to:
-**k_swisher at shentel dot net** and I will attempt to make fixes.
+Presented here are 201 additional files that are not currently included in Ardour. Created with a TCL script converting Cakewalk .ins instrument definition files to .midnam format.  Obviously it is impossible to go out and buy 200+ keyboards to test these so hopefully those of you with some of these devices can test and report back. Please provide feedback on what does and does not work to: **k_swisher at shentel dot net** and I will attempt to make fixes.
 
 ---
 
@@ -36,14 +34,8 @@ A full compatibility table is available here:
 
 ---
 
-I'm still learning the Ardour MIDI instrument file format.  I notice
-some .midnam files have SysEx lines and other do not.  I don't know
-why yet.  Some files have more than one set.  Others have patches arranged
-in catagories.  Very nice but these files here are basic.  Having something
-for your device that does work is better than having nothing at all. I
-would add as much as I can to these files after I learn what and how to do
-it.  Could even add more files to this.  I have about 20 other .ins Cakewalk
-files that I deem incomplete at this time.
+I'm still learning the Ardour MIDI instrument file format.  I notice some .midnam files have SysEx lines and other do not. I don't know why yet. Some files have more than one set.  Others have patches arranged in catagories.  Very nice but these files here are basic.  Having something for your device that does work is better than having nothing at all. I
+would add as much as I can to these files after I learn what and how to do it.  Could even add more files to this.  I have about 20 other .ins Cakewalk files that I deem incomplete at this time.
 
 ---
 
