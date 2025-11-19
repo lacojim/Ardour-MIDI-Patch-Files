@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Technics</Manufacturer>
+    <Model>PR307</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Technics PR307 Bank #0">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Harpischord"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Banjo"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Jazz Organ"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Oboe"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Soprano Sax"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Square Lead"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Fantasia"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Seashore"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Bright Piano"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Classic Guitar"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Strings"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Chior Aah"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Brass"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Piccolo"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Acoustic Bass"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Rock Kit 1"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Cembalo"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Mandolin"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Full Drawers"  ProgramChange="6"/>
+          <Patch Number="7"  Name="English Horn"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Alto Sax"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Saw Lead"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Polysynth"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Bird Tweet"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Piano 1 Oct"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Bright Ac.Gtr"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Soft Strings"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Pop Vocal Aah"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Octave Brass"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Jazz Flute"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Mellow A.Bass"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Rock Kit 2"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #10">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Tubular Bells"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Koto"  ProgramChange="5"/>
+          <Patch Number="6"  Name="TheatreOrgan2"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Harmonium"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Soft Clarinet"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Synth Glocken"  ProgramChange="9"/>
+          <Patch Number="10"  Name="SynthEnsemble"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Fret Noise"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Modern E.P 3"  ProgramChange="12"/>
+          <Patch Number="13"  Name="DistortionGuitar"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Celllo"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Click Vox"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Synth Brass"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Whistle"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Smack Bass"  ProgramChange="18"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #11">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="TinkleBell"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Shamisen"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Pipe Organ 2"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Mel.Accordian"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Clasi.Clarinet"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Nylon Synth"  ProgramChange="9"/>
+          <Patch Number="10"  Name="String Pad"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Breath Noise"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Piano &amp; Strings"  ProgramChange="12"/>
+          <Patch Number="13"  Name="OverdriveGtr"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Bowed Strings"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Orch Ensemble"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Syn.BrassEns."  ProgramChange="16"/>
+          <Patch Number="17"  Name="SynthCalliope"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Bass &amp; Lead"  ProgramChange="18"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #12">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="12"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="10"  Name="Glitter"  ProgramChange="10"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #13">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="13"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="10"  Name="Mellow Brass"  ProgramChange="10"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #14">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="14"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="10"  Name="Ice Rain"  ProgramChange="10"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #15">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="15"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="10"  Name="Soundtrack"  ProgramChange="10"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #16">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="10"  Name="Goblins"  ProgramChange="10"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #17">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="17"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="10"  Name="Atmosphere"  ProgramChange="10"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Synth Clavi"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Harp"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Jazz Drawers"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Bassoon"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Mellow Alto"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Lead Voice"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Spacy Pad"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Telephone"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Piano 2 Oct"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Jazz Guitar"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Octave Strings"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Vocal Ooh"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Trumpet"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Classic Flute"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Electric Bass"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Light Rock Kit 1"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #3">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="GlokenSpiel"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Music Box"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Pop Organ 1"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Bri.Accordian"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Tenor Sax"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Pluck Organ"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Crystal Ens"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Applause"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Rock Piano"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Bright Solid"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Pizzicato"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Vocal Doo"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Mute Trumpet"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Alto Flute"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Mute Bass"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Soul Kit"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #4">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="VibraPhone"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Steel Drum"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Pipe Organ 1"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Musette"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Breathy Tenor"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Synthynet"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Metal Pad"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Agogo"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Honly Tonk"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Country Gtr"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Violin"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Mellow Ens."  ProgramChange="15"/>
+          <Patch Number="16"  Name="Flugel Horn"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Pan Flute"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Slap Bass 1"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Jazz Kit"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #5">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Marimba"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Timpani"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Pipe Flute"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Harmonica"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Jazz Clarinet"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Gtr Harmonics"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Dream"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Wood Block"  ProgramChange="11"/>
+          <Patch Number="12"  Name="E. Piano 2"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Hawaiian Guitar"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Country Fiddle"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Orch Pad"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Trombone"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Shakuhachi"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Fretless Bass"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Brush Kit"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #6">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="6"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Clavi"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Orchestra Hit"  ProgramChange="5"/>
+          <Patch Number="6"  Name="16' &amp; 1'"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Wood Wind Ens"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Rock Tenor"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Chiffer Lead"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Sweep Pad"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Taiko Drum"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Midi Grand"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Folk Guitar"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Slow Strings"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Synth Vocal"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Brass &amp; Synth"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Alto Ensemble"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Picked E.Bass"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Orchestral Kit"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #7">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="7"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Celesta"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Kalimba"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Pop Organ 2"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Bagpipe"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Baritone Sax"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Charang"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Mist"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Melodic Tom"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Jangle Piano"  ProgramChange="12"/>
+          <Patch Number="13"  Name="12 String Guitar"  ProgramChange="13"/>
+          <Patch Number="14"  Name="TremoloStrings"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Humming"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Close Fr.Horn"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Recorder"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Bright E.Bass"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Trad Kit"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #8">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="8"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Xylophone"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Sitar"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Rock Organ"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Shanai"  ProgramChange="7"/>
+          <Patch Number="8"  Name="DistortionSax"  ProgramChange="8"/>
+          <Patch Number="9"  Name="5th Wave"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Click Echo"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Synth Drum"  ProgramChange="11"/>
+          <Patch Number="12"  Name="E. Grand"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Mellow Solid"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Syth Strings"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Air Vox"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Open Fr.Horn"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Ocarina"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Synth Chopper"  ProgramChange="18"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics PR307 Bank #9">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="9"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Upright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.Piano 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Modern E.P 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="AfricanMallet"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Dulcimer"  ProgramChange="5"/>
+          <Patch Number="6"  Name="TheatreOrgan 1"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Bandoneon"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Synth Sax"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Chopper Flute"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Star Theme"  ProgramChange="10"/>
+          <Patch Number="11"  Name="ReverseCymbal"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Modern E.P 2"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Mute Guitar"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Viola"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Halo Vox"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Tuba"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Blown Bottle"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Slap Bass 2"  ProgramChange="18"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

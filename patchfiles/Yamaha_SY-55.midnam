@@ -1,0 +1,307 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Yamaha</Manufacturer>
+    <Model>SY-55</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Yamaha SY-55 Factory Patches">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="01 Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="02 Voyager"  ProgramChange="1"/>
+          <Patch Number="2"  Name="03 Pro55Brass"  ProgramChange="2"/>
+          <Patch Number="3"  Name="04 Elektrodes"  ProgramChange="3"/>
+          <Patch Number="4"  Name="05 Zaratustra"  ProgramChange="4"/>
+          <Patch Number="5"  Name="06 DawnChorus"  ProgramChange="5"/>
+          <Patch Number="6"  Name="07 GX Dream"  ProgramChange="6"/>
+          <Patch Number="7"  Name="08 GrooveKing"  ProgramChange="7"/>
+          <Patch Number="8"  Name="09 DistGuitar"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10 ZenAirBell"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11 FullString"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12 Jazz Man"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13 ClassPiano"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14 Rock Piano"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15 DX E.Piano"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16 Hard EP"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17 Cry Clav"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18 Funky Clav"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19 Deep Organ"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20 Warm Organ"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21 Trumpet"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22 Stab Brass"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23 Big Band"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24 Orch Brass"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25 SynthBrass"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26 Flute"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27 Saxophone"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28 FolkGuitar"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29 12 String"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30 MuteGuitar"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31 SingleCoil"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32 Pick Bass"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33 Thumb Bass"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34 SynBadBass"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35 VCO Bass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36 Violin"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37 ChamberStr"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38 VCF String"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39 Nova Quire"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40 Vibraphone"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41 Takerimba"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42 Glocken"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43 DigiBell"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44 Oriental"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45 VCO Lead"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46 Spirit VCF"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47 OZ Lead"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48 Get Lucky"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49 Gamma Band"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50 Metal Reed"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51 Modomatic"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52 DataStream"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53 Mystichoir"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54 St.Michael"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55 Scatter"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56 Triton"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57 Amazon"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58 SatinGlass"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59 BrassChime"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60 Piano Mist"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61 Xanady"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62 WdBass Duo"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63 Drum Set 1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64 Drum Set 2"  ProgramChange="63"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Bass Drum 2"/>
+     <Note Number="38"  Name="8=Bass Drum 3"/>
+     <Note Number="39"  Name="9=Bass Drum 3"/>
+     <Note Number="40"  Name="0=Tom 2"/>
+     <Note Number="41"  Name="1=Tom 2"/>
+     <Note Number="42"  Name="2=Tom 2"/>
+     <Note Number="43"  Name="3=Tom 2"/>
+     <Note Number="44"  Name="4=Bass Drum 2"/>
+     <Note Number="45"  Name="5=Bass Drum 1"/>
+     <Note Number="46"  Name="6=Snare Drum 3"/>
+     <Note Number="47"  Name="7=Tom 1"/>
+     <Note Number="48"  Name="8=Tom 1"/>
+     <Note Number="49"  Name="9=Snare Drum 2"/>
+     <Note Number="50"  Name="0=Tom 1"/>
+     <Note Number="51"  Name="1=Rim"/>
+     <Note Number="52"  Name="2=Snare Drum 1"/>
+     <Note Number="53"  Name="3=Tom 1"/>
+     <Note Number="54"  Name="4=Claps"/>
+     <Note Number="55"  Name="5=Cowbell"/>
+     <Note Number="56"  Name="6=Shaker"/>
+     <Note Number="57"  Name="7=Closed Hi-Hat"/>
+     <Note Number="58"  Name="8=Crash"/>
+     <Note Number="59"  Name="9=Open Hi-Hat"/>
+     <Note Number="60"  Name="0=Crash"/>
+     <Note Number="61"  Name="1=Crash"/>
+     <Note Number="62"  Name="2=Ride"/>
+     <Note Number="63"  Name="3=Ride"/>
+     <Note Number="64"  Name="4=Tube"/>
+     <Note Number="65"  Name="5=Tube"/>
+     <Note Number="66"  Name="6=tube"/>
+     <Note Number="67"  Name="7=Popping"/>
+     <Note Number="68"  Name="8=Popping"/>
+     <Note Number="69"  Name="9=Claps"/>
+     <Note Number="70"  Name="0=Claps"/>
+     <Note Number="71"  Name="1=Vibe Np"/>
+     <Note Number="72"  Name="2=Vibe Np"/>
+     <Note Number="73"  Name="3=Bamboo"/>
+     <Note Number="74"  Name="4=Ride"/>
+     <Note Number="75"  Name="5=Shaker"/>
+     <Note Number="76"  Name="6=Styroll"/>
+     <Note Number="77"  Name="7=Bottle"/>
+     <Note Number="78"  Name="8=Bottle"/>
+     <Note Number="79"  Name="9=Bottle"/>
+     <Note Number="80"  Name="0=Bell Mix"/>
+     <Note Number="81"  Name="1=Vocal Ga"/>
+     <Note Number="82"  Name="2=Vocal Ga"/>
+     <Note Number="83"  Name="3=Bulb"/>
+     <Note Number="84"  Name="4=Syn Bass"/>
+     <Note Number="85"  Name="5=Syn Bass"/>
+     <Note Number="86"  Name="6=Syn Bass"/>
+     <Note Number="87"  Name="7=Syn Bass"/>
+     <Note Number="88"  Name="8=Syn Bass"/>
+     <Note Number="89"  Name="9=Syn Bass"/>
+     <Note Number="90"  Name="0=Syn Bass"/>
+     <Note Number="91"  Name="1=Syn Bass"/>
+     <Note Number="92"  Name="2=Syn Bass"/>
+     <Note Number="93"  Name="3=Syn Bass"/>
+     <Note Number="94"  Name="4=Syn Bass"/>
+     <Note Number="95"  Name="5=Syn Bass"/>
+     <Note Number="96"  Name="6=Syn Bass"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Bass Drum 1"/>
+     <Note Number="38"  Name="8=Bass Drum 3"/>
+     <Note Number="39"  Name="9=Bass Drum 3"/>
+     <Note Number="40"  Name="0=Tom 1"/>
+     <Note Number="41"  Name="1=Tom 1"/>
+     <Note Number="42"  Name="2=Tom 1"/>
+     <Note Number="43"  Name="3=Tom 1"/>
+     <Note Number="44"  Name="4=Bass Drum 1"/>
+     <Note Number="45"  Name="5=Bass Drum 2"/>
+     <Note Number="46"  Name="6=Snare Drum 3"/>
+     <Note Number="47"  Name="7=Tom 2"/>
+     <Note Number="48"  Name="8=Tom2"/>
+     <Note Number="49"  Name="9=Snare Drum 1"/>
+     <Note Number="50"  Name="0=Tom 2"/>
+     <Note Number="51"  Name="1=Rim"/>
+     <Note Number="52"  Name="2=Snare Drum 2"/>
+     <Note Number="53"  Name="3=Tom 2"/>
+     <Note Number="54"  Name="4=Claps"/>
+     <Note Number="55"  Name="5=Cowbell"/>
+     <Note Number="56"  Name="6=Shaker"/>
+     <Note Number="57"  Name="7=Crash"/>
+     <Note Number="58"  Name="8=Open Hi-Hat"/>
+     <Note Number="59"  Name="9=Crash"/>
+     <Note Number="60"  Name="0=Crash"/>
+     <Note Number="61"  Name="1=Ride"/>
+     <Note Number="62"  Name="2=Ride"/>
+     <Note Number="63"  Name="3=Tube"/>
+     <Note Number="64"  Name="4=Tube"/>
+     <Note Number="65"  Name="5=Tube"/>
+     <Note Number="66"  Name="6=Tube"/>
+     <Note Number="67"  Name="7=Popping"/>
+     <Note Number="68"  Name="8=Popping"/>
+     <Note Number="69"  Name="9=Claps"/>
+     <Note Number="70"  Name="0=Claps"/>
+     <Note Number="71"  Name="1=Vibe Np"/>
+     <Note Number="72"  Name="2=Vibe Np"/>
+     <Note Number="73"  Name="3=Bamboo"/>
+     <Note Number="74"  Name="4=Ride"/>
+     <Note Number="75"  Name="5=Shaker"/>
+     <Note Number="76"  Name="6=Styroll"/>
+     <Note Number="77"  Name="7=Bottle"/>
+     <Note Number="78"  Name="8=Bottle"/>
+     <Note Number="79"  Name="9=Bottle"/>
+     <Note Number="80"  Name="0=Bell Mix"/>
+     <Note Number="81"  Name="1=Vocal Ga"/>
+     <Note Number="82"  Name="2=Vocal Ga"/>
+     <Note Number="83"  Name="3=Bulb"/>
+     <Note Number="84"  Name="4=Syn Bass"/>
+     <Note Number="85"  Name="5=Syn Bass"/>
+     <Note Number="86"  Name="6=Syn Bass"/>
+     <Note Number="87"  Name="7=Syn Bass"/>
+     <Note Number="88"  Name="8=Syn Bass"/>
+     <Note Number="89"  Name="9=Syn Bass"/>
+     <Note Number="90"  Name="0=Syn Bass"/>
+     <Note Number="91"  Name="1=Syn Bass"/>
+     <Note Number="92"  Name="2=Syn Bass"/>
+     <Note Number="93"  Name="3=Syn Bass"/>
+     <Note Number="94"  Name="4=Syn Bass"/>
+     <Note Number="95"  Name="5=Syn Bass"/>
+     <Note Number="96"  Name="6=Syn Bass"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Bass Drum 2"/>
+     <Note Number="38"  Name="8=Bass Drum 3"/>
+     <Note Number="39"  Name="9=Bass Drum 3"/>
+     <Note Number="40"  Name="0=Tom 2"/>
+     <Note Number="41"  Name="1=Tom 2"/>
+     <Note Number="42"  Name="2=Tom 2"/>
+     <Note Number="43"  Name="3=Tom 2"/>
+     <Note Number="44"  Name="4=Bass Drum 2"/>
+     <Note Number="45"  Name="5=Bass Drum 1"/>
+     <Note Number="46"  Name="6=Snare Drum 3"/>
+     <Note Number="47"  Name="7=Tom 1"/>
+     <Note Number="48"  Name="8=Tom 1"/>
+     <Note Number="49"  Name="9=Snare Drum 2"/>
+     <Note Number="50"  Name="0=Tom 1"/>
+     <Note Number="51"  Name="1=Rim"/>
+     <Note Number="52"  Name="2=Snare Drum 1"/>
+     <Note Number="53"  Name="3=Tom 1"/>
+     <Note Number="54"  Name="4=Claps"/>
+     <Note Number="55"  Name="5=Cowbell"/>
+     <Note Number="56"  Name="6=Shaker"/>
+     <Note Number="57"  Name="7=Closed Hi-Hat"/>
+     <Note Number="58"  Name="8=Crash"/>
+     <Note Number="59"  Name="9=Open Hi-Hat"/>
+     <Note Number="60"  Name="0=Crash"/>
+     <Note Number="61"  Name="1=Crash"/>
+     <Note Number="62"  Name="2=Ride"/>
+     <Note Number="63"  Name="3=Ride"/>
+     <Note Number="64"  Name="4=Tube"/>
+     <Note Number="65"  Name="5=Tube"/>
+     <Note Number="66"  Name="6=tube"/>
+     <Note Number="67"  Name="7=Popping"/>
+     <Note Number="68"  Name="8=Popping"/>
+     <Note Number="69"  Name="9=Claps"/>
+     <Note Number="70"  Name="0=Claps"/>
+     <Note Number="71"  Name="1=Vibe Np"/>
+     <Note Number="72"  Name="2=Vibe Np"/>
+     <Note Number="73"  Name="3=Bamboo"/>
+     <Note Number="74"  Name="4=Ride"/>
+     <Note Number="75"  Name="5=Shaker"/>
+     <Note Number="76"  Name="6=Styroll"/>
+     <Note Number="77"  Name="7=Bottle"/>
+     <Note Number="78"  Name="8=Bottle"/>
+     <Note Number="79"  Name="9=Bottle"/>
+     <Note Number="80"  Name="0=Bell Mix"/>
+     <Note Number="81"  Name="1=Vocal Ga"/>
+     <Note Number="82"  Name="2=Vocal Ga"/>
+     <Note Number="83"  Name="3=Bulb"/>
+     <Note Number="84"  Name="4=Syn Bass"/>
+     <Note Number="85"  Name="5=Syn Bass"/>
+     <Note Number="86"  Name="6=Syn Bass"/>
+     <Note Number="87"  Name="7=Syn Bass"/>
+     <Note Number="88"  Name="8=Syn Bass"/>
+     <Note Number="89"  Name="9=Syn Bass"/>
+     <Note Number="90"  Name="0=Syn Bass"/>
+     <Note Number="91"  Name="1=Syn Bass"/>
+     <Note Number="92"  Name="2=Syn Bass"/>
+     <Note Number="93"  Name="3=Syn Bass"/>
+     <Note Number="94"  Name="4=Syn Bass"/>
+     <Note Number="95"  Name="5=Syn Bass"/>
+     <Note Number="96"  Name="6=Syn Bass"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

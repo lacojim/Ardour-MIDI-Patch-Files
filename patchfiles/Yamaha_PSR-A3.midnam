@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Yamaha</Manufacturer>
+    <Model>PSR-A3</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Yamaha PSR-A3 Panel Voice A">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Bright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Honky-Tonk Piano"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Funky Electric Piano"  ProgramChange="3"/>
+          <Patch Number="4"  Name="DX Electric Piano"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Midi Grand Piano"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Hyper Electric Piano"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Dream Electric Piano"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Bell Electric Piano"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Ice Electric Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Tremolo Electric Piano"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Harpsichord"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Harpsichord Coupled"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Clavi"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Wah Clavi"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Celesta"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Vibraphone"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Marimba"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Glockenspiel"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Xylophone"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha PSR-A3 Panel Voice B">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Rain Hold"  ProgramChange="0"/>
+          <Patch Number="1"  Name="70's Lead"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Synth Clavi"  ProgramChange="2"/>
+          <Patch Number="13"  Name="Organ Harmonics 5 1/3"  ProgramChange="13"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha PSR-A3 Arabic 96">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="96"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="19"  Name="Arabic Organ"  ProgramChange="19"/>
+          <Patch Number="23"  Name="Arabic Accordion"  ProgramChange="23"/>
+          <Patch Number="50"  Name="Wataryat"  ProgramChange="50"/>
+          <Patch Number="61"  Name="Arabic Brass"  ProgramChange="61"/>
+          <Patch Number="74"  Name="Mijwez"  ProgramChange="74"/>
+          <Patch Number="73"  Name="Nay"  ProgramChange="73"/>
+          <Patch Number="75"  Name="Kawala"  ProgramChange="75"/>
+          <Patch Number="109"  Name="Argoul"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Kaman"  ProgramChange="110"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha PSR-A3 Arabic 97">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="97"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="15"  Name="Santuri"  ProgramChange="15"/>
+          <Patch Number="25"  Name="Bouzouk"  ProgramChange="25"/>
+          <Patch Number="71"  Name="Mizmar"  ProgramChange="71"/>
+          <Patch Number="106"  Name="Baglamas"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Kanoun"  ProgramChange="107"/>
+          <Patch Number="110"  Name="Rababa"  ProgramChange="110"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha PSR-A3 Arabic 98">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="98"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="25"  Name="Bouzouki"  ProgramChange="25"/>
+          <Patch Number="105"  Name="Oud"  ProgramChange="105"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha PSR-A3 Arabic 99">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="99"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="105"  Name="Oud with tremolo"  ProgramChange="105"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="42"  Name="2=Hi Q 2"/>
+     <Note Number="31"  Name="1=Snare Drum Rock H"/>
+     <Note Number="33"  Name="3=Bass Drum M"/>
+     <Note Number="35"  Name="5=Bass Drum Analog L"/>
+     <Note Number="36"  Name="6=Bass Drum Analog H"/>
+     <Note Number="37"  Name="7=Analog Side Stick"/>
+     <Note Number="38"  Name="8=Analog Snare L"/>
+     <Note Number="40"  Name="0=Analog Snare H"/>
+     <Note Number="41"  Name="1=Analog Tom 1"/>
+     <Note Number="42"  Name="2=Analog HH Closed 1"/>
+     <Note Number="43"  Name="3=Analog Tom 2"/>
+     <Note Number="44"  Name="4=Analog HH Closed 2"/>
+     <Note Number="45"  Name="5=Analog Tom 3"/>
+     <Note Number="46"  Name="6=Analog HH Open"/>
+     <Note Number="47"  Name="7=Analog Tom 4"/>
+     <Note Number="48"  Name="8=Analog Tom 5"/>
+     <Note Number="49"  Name="9=Analog Cymbal"/>
+     <Note Number="50"  Name="0=Analog Tom 6"/>
+     <Note Number="56"  Name="6=Analog Cowbell"/>
+     <Note Number="62"  Name="2=Analog Conga H"/>
+     <Note Number="63"  Name="3=Analog Conga M"/>
+     <Note Number="64"  Name="4=Analog Conga L"/>
+     <Note Number="70"  Name="0=Analog Maracas"/>
+     <Note Number="75"  Name="5=Analog Claves"/>
+     <Note Number="78"  Name="8=Scratch Push"/>
+     <Note Number="79"  Name="9=Scratch Pull"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=BD Jazz"/>
+     <Note Number="38"  Name="8=Brush Slap"/>
+     <Note Number="40"  Name="0=Brush Tap"/>
+     <Note Number="41"  Name="1=Brush Tom 1"/>
+     <Note Number="43"  Name="3=Brush Tom 2"/>
+     <Note Number="45"  Name="5=Brush Tom 3"/>
+     <Note Number="47"  Name="7=Brush Tom 4"/>
+     <Note Number="48"  Name="8=Brush Tom 5"/>
+     <Note Number="50"  Name="0=Brush Tom 6"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="30"  Name="0=Hi Q 2"/>
+     <Note Number="31"  Name="1=AnSD Snappy"/>
+     <Note Number="33"  Name="3=AnSD Dance-1"/>
+     <Note Number="34"  Name="4=AnSD Open Rim"/>
+     <Note Number="35"  Name="5=AnBD Dance-2"/>
+     <Note Number="36"  Name="6=AnBD Dance-3"/>
+     <Note Number="37"  Name="7=Analog Side Stick"/>
+     <Note Number="38"  Name="8=AnSD Q"/>
+     <Note Number="40"  Name="0=AnSD Ana+Acoustic"/>
+     <Note Number="41"  Name="1=Analog Tom 1"/>
+     <Note Number="42"  Name="2=Analog HH Closed 3"/>
+     <Note Number="43"  Name="3=Analog Tom 2"/>
+     <Note Number="44"  Name="4=Analog HH Closed 4"/>
+     <Note Number="45"  Name="5=Analog Tom 3"/>
+     <Note Number="46"  Name="6=Analog HH Open 2"/>
+     <Note Number="47"  Name="7=Analog Tom 4"/>
+     <Note Number="48"  Name="8=Analog Tom 5"/>
+     <Note Number="49"  Name="9=Analog Cymbal"/>
+     <Note Number="50"  Name="0=Analog Tom 6"/>
+     <Note Number="56"  Name="6=Analog Cowbell"/>
+     <Note Number="62"  Name="2=Analog Conga H"/>
+     <Note Number="63"  Name="3=Analog Conga M"/>
+     <Note Number="64"  Name="4=Analog Conga L"/>
+     <Note Number="70"  Name="0=Analog Maracas"/>
+     <Note Number="75"  Name="5=Analog Claves"/>
+     <Note Number="78"  Name="8=Scratch Push"/>
+     <Note Number="79"  Name="9=Scratch Pull"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="30"  Name="0=Hi Q"/>
+     <Note Number="31"  Name="1=Snare M"/>
+     <Note Number="33"  Name="3=Bass Drum H 4"/>
+     <Note Number="35"  Name="5=BD Rock"/>
+     <Note Number="36"  Name="6=BD Gate"/>
+     <Note Number="38"  Name="8=SD Rock L"/>
+     <Note Number="40"  Name="0=SD Rock H"/>
+     <Note Number="41"  Name="1=E Tom 1"/>
+     <Note Number="43"  Name="3=E Tom 2"/>
+     <Note Number="45"  Name="5=E Tom 3"/>
+     <Note Number="47"  Name="7=E Tom 4"/>
+     <Note Number="48"  Name="8=E Tom 5"/>
+     <Note Number="50"  Name="0=E Tom 6"/>
+     <Note Number="78"  Name="8=Scratch Push"/>
+     <Note Number="79"  Name="9=Scratch Pull"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=BD Jazz"/>
+     <Note Number="38"  Name="8=SD Jazz L"/>
+     <Note Number="40"  Name="0=SD Jazz M"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="35"  Name="5=Bass Drum H"/>
+     <Note Number="36"  Name="6=BD Rock"/>
+     <Note Number="38"  Name="8=SD Rock L"/>
+     <Note Number="40"  Name="0=SD Rock Rim"/>
+     <Note Number="41"  Name="1=Rock Tom 1"/>
+     <Note Number="43"  Name="3=Rock Tom 2"/>
+     <Note Number="45"  Name="5=Rock Tom 3"/>
+     <Note Number="47"  Name="7=Rock Tom 4"/>
+     <Note Number="48"  Name="8=Rock Tom 5"/>
+     <Note Number="50"  Name="0=Rock Tom 6"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="40"  Name="0=SD Room H"/>
+     <Note Number="41"  Name="1=Room Tom 1"/>
+     <Note Number="43"  Name="3=Room Tom 2"/>
+     <Note Number="45"  Name="5=Room Tom 3"/>
+     <Note Number="47"  Name="7=Room Tom 4"/>
+     <Note Number="48"  Name="8=Room Tom 5"/>
+     <Note Number="50"  Name="0=Room Tom 6"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="35"  Name="5=Gran Cassa"/>
+     <Note Number="36"  Name="6=Gran Cassa Mute"/>
+     <Note Number="38"  Name="8=Marching Sn M"/>
+     <Note Number="40"  Name="0=Marching Sn H"/>
+     <Note Number="41"  Name="1=Jazz Tom 1"/>
+     <Note Number="43"  Name="3=Jazz Tom 2"/>
+     <Note Number="45"  Name="5=Jazz Tom 3"/>
+     <Note Number="47"  Name="7=Jazz Tom 4"/>
+     <Note Number="48"  Name="8=Jazz Tom 5"/>
+     <Note Number="49"  Name="9=Hand Cym. Open L"/>
+     <Note Number="51"  Name="1=Hand Cym. Short L"/>
+     <Note Number="57"  Name="7=Hand Cym. Open H"/>
+     <Note Number="59"  Name="9=Hand Cym. Short H"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

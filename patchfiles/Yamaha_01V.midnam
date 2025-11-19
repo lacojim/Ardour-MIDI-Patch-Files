@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Yamaha</Manufacturer>
+    <Model>01V</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Yamaha 01V">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="1"  Name="FADER CH 1"  ProgramChange="1"/>
+          <Patch Number="2"  Name="FADER CH 2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="FADER CH 3"  ProgramChange="3"/>
+          <Patch Number="4"  Name="FADER CH 4"  ProgramChange="4"/>
+          <Patch Number="5"  Name="FADER CH 5"  ProgramChange="5"/>
+          <Patch Number="6"  Name="FADER CH 6"  ProgramChange="6"/>
+          <Patch Number="7"  Name="FADER CH 7"  ProgramChange="7"/>
+          <Patch Number="8"  Name="FADER CH 8"  ProgramChange="8"/>
+          <Patch Number="9"  Name="FADER CH 9"  ProgramChange="9"/>
+          <Patch Number="10"  Name="FADER CH 10"  ProgramChange="10"/>
+          <Patch Number="11"  Name="FADER CH 11"  ProgramChange="11"/>
+          <Patch Number="12"  Name="FADER CH 12"  ProgramChange="12"/>
+          <Patch Number="13"  Name="FADER CH 13-14"  ProgramChange="13"/>
+          <Patch Number="14"  Name="FADER CH 15-16"  ProgramChange="14"/>
+          <Patch Number="15"  Name="FADER RETURN 1"  ProgramChange="15"/>
+          <Patch Number="16"  Name="FADER RETURN 2"  ProgramChange="16"/>
+          <Patch Number="17"  Name="FADER MASTER AUX 1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="FADER MASTER AUX 2"  ProgramChange="18"/>
+          <Patch Number="19"  Name="FADER MASTER AUX 3"  ProgramChange="19"/>
+          <Patch Number="20"  Name="FADER MASTER AUX 4"  ProgramChange="20"/>
+          <Patch Number="21"  Name="FADER MASTER BUS 1"  ProgramChange="21"/>
+          <Patch Number="22"  Name="FADER MASTER BUS 2"  ProgramChange="22"/>
+          <Patch Number="23"  Name="FADER MASTER BUS 3"  ProgramChange="23"/>
+          <Patch Number="24"  Name="FADER MASTER BUS 4"  ProgramChange="24"/>
+          <Patch Number="25"  Name="FADER MAST EFFECT 1"  ProgramChange="25"/>
+          <Patch Number="26"  Name="FADER MAST EFFECT 2"  ProgramChange="26"/>
+          <Patch Number="27"  Name="FADER MASTER ST OUT"  ProgramChange="27"/>
+          <Patch Number="28"  Name="ON CH 1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="ON CH 2"  ProgramChange="29"/>
+          <Patch Number="30"  Name="ON CH 3"  ProgramChange="30"/>
+          <Patch Number="31"  Name="ON CH 4"  ProgramChange="31"/>
+          <Patch Number="32"  Name="no assign"  ProgramChange="32"/>
+          <Patch Number="33"  Name="ON CH 5"  ProgramChange="33"/>
+          <Patch Number="34"  Name="ON CH 6"  ProgramChange="34"/>
+          <Patch Number="35"  Name="ON CH 7"  ProgramChange="35"/>
+          <Patch Number="36"  Name="ON CH 8"  ProgramChange="36"/>
+          <Patch Number="37"  Name="ON CH 9"  ProgramChange="37"/>
+          <Patch Number="38"  Name="ON CH 10"  ProgramChange="38"/>
+          <Patch Number="39"  Name="ON CH 11"  ProgramChange="39"/>
+          <Patch Number="40"  Name="ON CH 12"  ProgramChange="40"/>
+          <Patch Number="41"  Name="ON CH 13-14"  ProgramChange="41"/>
+          <Patch Number="42"  Name="ON CH 15-16"  ProgramChange="42"/>
+          <Patch Number="43"  Name="ON RETURN 1"  ProgramChange="43"/>
+          <Patch Number="44"  Name="ON RETURN 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="ON MASTER AUX 1"  ProgramChange="45"/>
+          <Patch Number="46"  Name="ON MASTER AUX 2"  ProgramChange="46"/>
+          <Patch Number="47"  Name="ON MASTER AUX 3"  ProgramChange="47"/>
+          <Patch Number="48"  Name="ON MASTER AUX 4"  ProgramChange="48"/>
+          <Patch Number="49"  Name="ON MASTER BUS 1"  ProgramChange="49"/>
+          <Patch Number="50"  Name="ON MASTER BUS 2"  ProgramChange="50"/>
+          <Patch Number="51"  Name="ON MASTER BUS 3"  ProgramChange="51"/>
+          <Patch Number="52"  Name="ON MASTER BUS 4"  ProgramChange="52"/>
+          <Patch Number="53"  Name="ON MAST EFFECT 1"  ProgramChange="53"/>
+          <Patch Number="54"  Name="ON MAST EFFECT 2"  ProgramChange="54"/>
+          <Patch Number="55"  Name="ON MAST ST OUT"  ProgramChange="55"/>
+          <Patch Number="56"  Name="PAN CH 1"  ProgramChange="56"/>
+          <Patch Number="57"  Name="PAN CH 2"  ProgramChange="57"/>
+          <Patch Number="58"  Name="PAN CH 3"  ProgramChange="58"/>
+          <Patch Number="59"  Name="PAN CH 4"  ProgramChange="59"/>
+          <Patch Number="60"  Name="PAN CH 5"  ProgramChange="60"/>
+          <Patch Number="61"  Name="PAN CH 6"  ProgramChange="61"/>
+          <Patch Number="62"  Name="PAN CH 7"  ProgramChange="62"/>
+          <Patch Number="63"  Name="PAN CH 8"  ProgramChange="63"/>
+          <Patch Number="64"  Name="PAN CH 9"  ProgramChange="64"/>
+          <Patch Number="65"  Name="PAN CH 10"  ProgramChange="65"/>
+          <Patch Number="66"  Name="PAN CH 11"  ProgramChange="66"/>
+          <Patch Number="67"  Name="PAN CH 12"  ProgramChange="67"/>
+          <Patch Number="68"  Name="PAN CH 13"  ProgramChange="68"/>
+          <Patch Number="69"  Name="PAN CH 14"  ProgramChange="69"/>
+          <Patch Number="70"  Name="PAN CH 15"  ProgramChange="70"/>
+          <Patch Number="71"  Name="PAN CH 16"  ProgramChange="71"/>
+          <Patch Number="72"  Name="PAN RETURN 1 L"  ProgramChange="72"/>
+          <Patch Number="73"  Name="PAN RETURN 1 R"  ProgramChange="73"/>
+          <Patch Number="74"  Name="PAN RETURN 2 L"  ProgramChange="74"/>
+          <Patch Number="75"  Name="PAN RETURN 2 R"  ProgramChange="75"/>
+          <Patch Number="76"  Name="PAN BALANCE ST OUT"  ProgramChange="76"/>
+          <Patch Number="77"  Name="FADER EFF1 SEND CH 1"  ProgramChange="77"/>
+          <Patch Number="78"  Name="FADER EFF1 SEND CH 2"  ProgramChange="78"/>
+          <Patch Number="79"  Name="FADER EFF1 SEND CH 3"  ProgramChange="79"/>
+          <Patch Number="80"  Name="FADER EFF1 SEND CH 4"  ProgramChange="80"/>
+          <Patch Number="81"  Name="FADER EFF1 SEND CH 5"  ProgramChange="81"/>
+          <Patch Number="82"  Name="FADER EFF1 SEND CH 6"  ProgramChange="82"/>
+          <Patch Number="83"  Name="FADER EFF1 SEND CH 7"  ProgramChange="83"/>
+          <Patch Number="84"  Name="FADER EFF1 SEND CH 8"  ProgramChange="84"/>
+          <Patch Number="85"  Name="FADER EFF1 SEND CH 9"  ProgramChange="85"/>
+          <Patch Number="86"  Name="FADER EFF1 SEND CH 10"  ProgramChange="86"/>
+          <Patch Number="87"  Name="FADER EFF1 SEND CH 11"  ProgramChange="87"/>
+          <Patch Number="88"  Name="FADER EFF1 SEND CH 12"  ProgramChange="88"/>
+          <Patch Number="89"  Name="FAD EFF1 SEND CH 13-14"  ProgramChange="89"/>
+          <Patch Number="90"  Name="FAD EFF1 SEND CH 15-16"  ProgramChange="90"/>
+          <Patch Number="91"  Name="FADER EFF2 SEND CH 1"  ProgramChange="91"/>
+          <Patch Number="92"  Name="FADER EFF2 SEND CH 2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="FADER EFF2 SEND CH 3"  ProgramChange="93"/>
+          <Patch Number="94"  Name="FADER EFF2 SEND CH 4"  ProgramChange="94"/>
+          <Patch Number="95"  Name="FADER EFF2 SEND CH 5"  ProgramChange="95"/>
+          <Patch Number="102"  Name="FADER EFF2 SEND CH 6"  ProgramChange="102"/>
+          <Patch Number="103"  Name="FADER EFF2 SEND CH 7"  ProgramChange="103"/>
+          <Patch Number="104"  Name="FADER EFF2 SEND CH 8"  ProgramChange="104"/>
+          <Patch Number="105"  Name="FADER EFF2 SEND CH 9"  ProgramChange="105"/>
+          <Patch Number="106"  Name="FADER EFF2 SEND CH 10"  ProgramChange="106"/>
+          <Patch Number="107"  Name="FADER EFF2 SEND CH 11"  ProgramChange="107"/>
+          <Patch Number="108"  Name="FADER EFF2 SEND CH 12"  ProgramChange="108"/>
+          <Patch Number="109"  Name="FAD EFF2 SEND CH 13-14"  ProgramChange="109"/>
+          <Patch Number="110"  Name="FAD EFF2 SEND CH 15-16"  ProgramChange="110"/>
+          <Patch Number="111"  Name="FADER CH 17"  ProgramChange="111"/>
+          <Patch Number="112"  Name="FADER CH 18"  ProgramChange="112"/>
+          <Patch Number="113"  Name="FADER CH 19"  ProgramChange="113"/>
+          <Patch Number="114"  Name="FADER CH 20"  ProgramChange="114"/>
+          <Patch Number="115"  Name="FADER CH 21"  ProgramChange="115"/>
+          <Patch Number="116"  Name="FADER CH 22"  ProgramChange="116"/>
+          <Patch Number="117"  Name="FADER CH 23"  ProgramChange="117"/>
+          <Patch Number="118"  Name="FADER CH 24"  ProgramChange="118"/>
+          <Patch Number="119"  Name="user"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

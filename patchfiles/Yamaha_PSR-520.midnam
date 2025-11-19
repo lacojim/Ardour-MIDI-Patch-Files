@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Yamaha</Manufacturer>
+    <Model>PSR-520</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Yamaha PSR-520 - Panel Voice A">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="01 Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="02 Bright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="03 Honky-Tonk Piano"  ProgramChange="2"/>
+          <Patch Number="3"  Name="04 Funky Electric Piano"  ProgramChange="3"/>
+          <Patch Number="4"  Name="05 DX Electric Piano"  ProgramChange="4"/>
+          <Patch Number="5"  Name="06 Midi Grand Piano"  ProgramChange="5"/>
+          <Patch Number="6"  Name="07 Hyper Electric Piano"  ProgramChange="6"/>
+          <Patch Number="7"  Name="08 Dream Electric Piano"  ProgramChange="7"/>
+          <Patch Number="8"  Name="09 Bell Electric Piano"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10 Ice Electric Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11 Tremelo Electric Piano"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12 Harpsichord"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13 Harpsichord Coupled"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14 Clavi"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15 Wah Clavi"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16 Celesta"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17 Vibraphone"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18 Marimba"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19 Glockenspiel"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20 Xylophone"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21 Tubular Bells"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22 Timpani"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23 Steel Drums"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24 Dulcimer"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25 Music Box"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26 Kalimba"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27 Jazz Organ 1"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28 Jazz Organ 2"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29 Drawbar Organ"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30 Full Organ"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31 Click Organ"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32 Rock Organ 1"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33 Rock Organ 2"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34 16'+2' Organ"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35 16'+4' Organ"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36 Church Organ"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37 Reed Organ"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38 Musette Accordian"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39 Traditional Accordian"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40 Soft Accordian"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41 Tango Accordian"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42 Bandoneon"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43 Classical Guitar"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44 Folk Guitar"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45 12Strings Guitar"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46 Jazz Guitar"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47 Octave Guitar"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48 Hawaiian Guitar"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49 Clean Guitar"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50 Tremolo Guitar"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51 Muted Guitar"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52 Guitar Harmonics"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53 Overdriven Guitar"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54 Distortion Guitar"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55 Acoustic Bass"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56 Finger Bass"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57 Pick Bass"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58 Fretless Bass"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59 Slap Bass"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60 Synth Bass 1"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61 Synth Bass 2"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62 Techno Bass"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63 Violin"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64 Viola"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65 Cello"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66 Contrabass"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67 Banjo"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68 Shamisen"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69 Koto"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70 Harp"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71 Sitar"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72 Strings 1"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73 Strings 2"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74 Chamber Strings"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75 Synth Strings"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76 Slow Strings"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77 Tremelo Strings"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78 Violin w/Strings"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79 Pizzicato Strings"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80 Choir"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81 Choir Aahs"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82 Choir Oohs"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83 Synth Choir"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84 Voyager"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85 Orchestra Hit"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86 Trumpet"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87 Flugel Horn"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88 Muted Trumpet"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89 Trombone"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90 Trombone Section"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91 French Horn"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92 Tuba"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93 Brass Section"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94 Brass+Sax"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95 Brass+Trombone"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96 Brass+Trumpet"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97 Synth Brass 1"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98 Synth Brass 2"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99 Soprano Sax"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Alto Sax"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 Breathy Alto Sax"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 Tenor Sax"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Breathy Tenor Sax"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Baritone Sax"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Sax+Clarinet"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Sax+Trombone"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 Oboe"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 English Horn"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 Bassoon"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 Clarinet"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 Harmonica"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Shanai"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Bagpipe"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Piccolo"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 Flute"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Pan Flute"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 Recorder"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Blown Bottle"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 Shakuhachi"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 Whistle"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 Ocarina"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 Square Lead"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 Sawtooth Lead"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 Voice Lead"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 Crystal"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 Brightness"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 Sub Aqua"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 Analog Lead"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha PSR-520 - Panel Voice B">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="129 Rain Hold"  ProgramChange="0"/>
+          <Patch Number="1"  Name="130 70's Lead"  ProgramChange="1"/>
+          <Patch Number="2"  Name="131 Synth Clavi"  ProgramChange="2"/>
+          <Patch Number="3"  Name="132 Fantasia"  ProgramChange="3"/>
+          <Patch Number="4"  Name="133 Bell Pad"  ProgramChange="4"/>
+          <Patch Number="5"  Name="134 Xenon Pad"  ProgramChange="5"/>
+          <Patch Number="6"  Name="135 Angels"  ProgramChange="6"/>
+          <Patch Number="7"  Name="136 Transform"  ProgramChange="7"/>
+          <Patch Number="8"  Name="137 Atmosphere"  ProgramChange="8"/>
+          <Patch Number="9"  Name="138 Shining"  ProgramChange="9"/>
+          <Patch Number="10"  Name="139 Dark Moon"  ProgramChange="10"/>
+          <Patch Number="11"  Name="140 Cyber Pad"  ProgramChange="11"/>
+          <Patch Number="12"  Name="141 Sci-Fi"  ProgramChange="12"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

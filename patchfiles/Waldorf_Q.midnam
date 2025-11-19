@@ -1,0 +1,646 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Waldorf</Manufacturer>
+    <Model>Q</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Q - Sound A">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="A001-HornsOfJericho"  ProgramChange="0"/>
+          <Patch Number="1"  Name="A002-Attacke"  ProgramChange="1"/>
+          <Patch Number="2"  Name="A003-MI5 Pad"  ProgramChange="2"/>
+          <Patch Number="3"  Name="A004-Simple Saw"  ProgramChange="3"/>
+          <Patch Number="4"  Name="A005-Q-Sweep2"  ProgramChange="4"/>
+          <Patch Number="5"  Name="A006-Clock&amp;Bells"  ProgramChange="5"/>
+          <Patch Number="6"  Name="A007-Bandsweep"  ProgramChange="6"/>
+          <Patch Number="7"  Name="A008-Fiftyfive"  ProgramChange="7"/>
+          <Patch Number="8"  Name="A009-Liquid Strg"  ProgramChange="8"/>
+          <Patch Number="9"  Name="A010-Gum Bass"  ProgramChange="9"/>
+          <Patch Number="10"  Name="A011-Slow Wavetrip"  ProgramChange="10"/>
+          <Patch Number="11"  Name="A012-Expensive"  ProgramChange="11"/>
+          <Patch Number="12"  Name="A013-Mono Sync"  ProgramChange="12"/>
+          <Patch Number="13"  Name="A014-CombTutorial"  ProgramChange="13"/>
+          <Patch Number="14"  Name="A015-Antarktis2000"  ProgramChange="14"/>
+          <Patch Number="15"  Name="A016-Panreduction"  ProgramChange="15"/>
+          <Patch Number="16"  Name="A017-CS100"  ProgramChange="16"/>
+          <Patch Number="17"  Name="A018-TributeTo DX"  ProgramChange="17"/>
+          <Patch Number="18"  Name="A019-Demolition"  ProgramChange="18"/>
+          <Patch Number="19"  Name="A020-JMX vs. DeLeon"  ProgramChange="19"/>
+          <Patch Number="20"  Name="A021-PWM Pad 2000"  ProgramChange="20"/>
+          <Patch Number="21"  Name="A022-Cleanline 303"  ProgramChange="21"/>
+          <Patch Number="22"  Name="A023-Slow Strings1"  ProgramChange="22"/>
+          <Patch Number="23"  Name="A024-Stuermer 2"  ProgramChange="23"/>
+          <Patch Number="24"  Name="A025-PhenixAstero"  ProgramChange="24"/>
+          <Patch Number="25"  Name="A026-QubikSound"  ProgramChange="25"/>
+          <Patch Number="26"  Name="A027-ArpHeaven"  ProgramChange="26"/>
+          <Patch Number="27"  Name="A028-Liquid Mel"  ProgramChange="27"/>
+          <Patch Number="28"  Name="A029-TschingHisCan"  ProgramChange="28"/>
+          <Patch Number="29"  Name="A030-Enough Power"  ProgramChange="29"/>
+          <Patch Number="30"  Name="A031-Replik.Dream"  ProgramChange="30"/>
+          <Patch Number="31"  Name="A032-Waterfone2000"  ProgramChange="31"/>
+          <Patch Number="32"  Name="A033-wave@waldorf.ne"  ProgramChange="32"/>
+          <Patch Number="33"  Name="A034-The Beginning"  ProgramChange="33"/>
+          <Patch Number="34"  Name="A035-Q Tables"  ProgramChange="34"/>
+          <Patch Number="35"  Name="A036-Polaris"  ProgramChange="35"/>
+          <Patch Number="36"  Name="A037-Baraka"  ProgramChange="36"/>
+          <Patch Number="37"  Name="A038-Buzzer 1"  ProgramChange="37"/>
+          <Patch Number="38"  Name="A039-Onyx"  ProgramChange="38"/>
+          <Patch Number="39"  Name="A040-Brownies"  ProgramChange="39"/>
+          <Patch Number="40"  Name="A041-Caspoly"  ProgramChange="40"/>
+          <Patch Number="41"  Name="A042-Minor Chord"  ProgramChange="41"/>
+          <Patch Number="42"  Name="A043-Quintage"  ProgramChange="42"/>
+          <Patch Number="43"  Name="A044-Bright Syn 1"  ProgramChange="43"/>
+          <Patch Number="44"  Name="A045-Jazz Percssn"  ProgramChange="44"/>
+          <Patch Number="45"  Name="A046-Dirty Organ1"  ProgramChange="45"/>
+          <Patch Number="46"  Name="A047-Saw Lead"  ProgramChange="46"/>
+          <Patch Number="47"  Name="A048-Saw 1 Osc"  ProgramChange="47"/>
+          <Patch Number="48"  Name="A049-Mayday Solo"  ProgramChange="48"/>
+          <Patch Number="49"  Name="A050-LoFi Lead"  ProgramChange="49"/>
+          <Patch Number="50"  Name="A051-Dr.Dre"  ProgramChange="50"/>
+          <Patch Number="51"  Name="A052-Zombie Nation"  ProgramChange="51"/>
+          <Patch Number="52"  Name="A053-Dr.Motte"  ProgramChange="52"/>
+          <Patch Number="53"  Name="A054-Stuermer 3"  ProgramChange="53"/>
+          <Patch Number="54"  Name="A055-Satte Sache"  ProgramChange="54"/>
+          <Patch Number="55"  Name="A056-Crunchy Nuts"  ProgramChange="55"/>
+          <Patch Number="56"  Name="A057-Wells'Tripod"  ProgramChange="56"/>
+          <Patch Number="57"  Name="A058-Phat Beat"  ProgramChange="57"/>
+          <Patch Number="58"  Name="A059-Highpass Pad"  ProgramChange="58"/>
+          <Patch Number="59"  Name="A060-Ikea Arsvik"  ProgramChange="59"/>
+          <Patch Number="60"  Name="A061-Big Beat Sync"  ProgramChange="60"/>
+          <Patch Number="61"  Name="A062-D.K.Dent Solo1"  ProgramChange="61"/>
+          <Patch Number="62"  Name="A063-DollarBells"  ProgramChange="62"/>
+          <Patch Number="63"  Name="A064-Acronaut"  ProgramChange="63"/>
+          <Patch Number="64"  Name="A065-Full Brass"  ProgramChange="64"/>
+          <Patch Number="65"  Name="A066-TrumPete"  ProgramChange="65"/>
+          <Patch Number="66"  Name="A067-Comb Clavi"  ProgramChange="66"/>
+          <Patch Number="67"  Name="A068-Qvation"  ProgramChange="67"/>
+          <Patch Number="68"  Name="A069-Alphaville ?!"  ProgramChange="68"/>
+          <Patch Number="69"  Name="A070-PPG Nylons"  ProgramChange="69"/>
+          <Patch Number="70"  Name="A071-Bad Flute"  ProgramChange="70"/>
+          <Patch Number="71"  Name="A072-Pizzicated"  ProgramChange="71"/>
+          <Patch Number="72"  Name="A073-Celli"  ProgramChange="72"/>
+          <Patch Number="73"  Name="A074-Violas"  ProgramChange="73"/>
+          <Patch Number="74"  Name="A075-Violins"  ProgramChange="74"/>
+          <Patch Number="75"  Name="A076-StringOrchid"  ProgramChange="75"/>
+          <Patch Number="76"  Name="A077-BackStrings"  ProgramChange="76"/>
+          <Patch Number="77"  Name="A078-TripleStrings"  ProgramChange="77"/>
+          <Patch Number="78"  Name="A079-WideWarmWash"  ProgramChange="78"/>
+          <Patch Number="79"  Name="A080-Faiza Strg"  ProgramChange="79"/>
+          <Patch Number="80"  Name="A081-Dark Strings"  ProgramChange="80"/>
+          <Patch Number="81"  Name="A082-GabrielsPad"  ProgramChange="81"/>
+          <Patch Number="82"  Name="A083-SlowThinPhase"  ProgramChange="82"/>
+          <Patch Number="83"  Name="A084-Silk Pad 2"  ProgramChange="83"/>
+          <Patch Number="84"  Name="A085-Padagogy"  ProgramChange="84"/>
+          <Patch Number="85"  Name="A086-Noise Pad"  ProgramChange="85"/>
+          <Patch Number="86"  Name="A087-KlingKlang"  ProgramChange="86"/>
+          <Patch Number="87"  Name="A088-JPad"  ProgramChange="87"/>
+          <Patch Number="88"  Name="A089-FORoMANTic"  ProgramChange="88"/>
+          <Patch Number="89"  Name="A090-Hiph Sweep"  ProgramChange="89"/>
+          <Patch Number="90"  Name="A091-Choir Pad"  ProgramChange="90"/>
+          <Patch Number="91"  Name="A092-Om mani padme"  ProgramChange="91"/>
+          <Patch Number="92"  Name="A093-Melanchton"  ProgramChange="92"/>
+          <Patch Number="93"  Name="A094-Dreamware"  ProgramChange="93"/>
+          <Patch Number="94"  Name="A095-S&amp;H&amp;Pad&amp;Nice"  ProgramChange="94"/>
+          <Patch Number="95"  Name="A096-Slow Motion"  ProgramChange="95"/>
+          <Patch Number="96"  Name="A097-Singing Glass"  ProgramChange="96"/>
+          <Patch Number="97"  Name="A098-Sphaer"  ProgramChange="97"/>
+          <Patch Number="98"  Name="A099-Not guilty!"  ProgramChange="98"/>
+          <Patch Number="99"  Name="A100-ARCTICA"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Q - Sound B">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="B001-Buzzer 3"  ProgramChange="0"/>
+          <Patch Number="1"  Name="B002-ClickChords"  ProgramChange="1"/>
+          <Patch Number="2"  Name="B003-Hard On Floor"  ProgramChange="2"/>
+          <Patch Number="3"  Name="B004-Clockworx"  ProgramChange="3"/>
+          <Patch Number="4"  Name="B005-DanceSequence"  ProgramChange="4"/>
+          <Patch Number="5"  Name="B006-Bassline 303"  ProgramChange="5"/>
+          <Patch Number="6"  Name="B007-Another One"  ProgramChange="6"/>
+          <Patch Number="7"  Name="B008-Brighter Than"  ProgramChange="7"/>
+          <Patch Number="8"  Name="B009-J106 Xiox"  ProgramChange="8"/>
+          <Patch Number="9"  Name="B010-Mantra"  ProgramChange="9"/>
+          <Patch Number="10"  Name="B011-Rhythmic Hold"  ProgramChange="10"/>
+          <Patch Number="11"  Name="B012-Physical FM"  ProgramChange="11"/>
+          <Patch Number="12"  Name="B013-Harp 2000"  ProgramChange="12"/>
+          <Patch Number="13"  Name="B014-WarinthARPa"  ProgramChange="13"/>
+          <Patch Number="14"  Name="B015-TechTrigger"  ProgramChange="14"/>
+          <Patch Number="15"  Name="B016-Groove On"  ProgramChange="15"/>
+          <Patch Number="16"  Name="B017-PWM ResoBass"  ProgramChange="16"/>
+          <Patch Number="17"  Name="B018-MM Fat Boy"  ProgramChange="17"/>
+          <Patch Number="18"  Name="B019-Data Bass"  ProgramChange="18"/>
+          <Patch Number="19"  Name="B020-Fat Dad"  ProgramChange="19"/>
+          <Patch Number="20"  Name="B021-Dirty Bass"  ProgramChange="20"/>
+          <Patch Number="21"  Name="B022-Pulse Bass 6"  ProgramChange="21"/>
+          <Patch Number="22"  Name="B023-BassPhase"  ProgramChange="22"/>
+          <Patch Number="23"  Name="B024-FilterFM Bass"  ProgramChange="23"/>
+          <Patch Number="24"  Name="B025-Jamiro-Q-ai"  ProgramChange="24"/>
+          <Patch Number="25"  Name="B026-Dust Brothers"  ProgramChange="25"/>
+          <Patch Number="26"  Name="B027-BassTARD"  ProgramChange="26"/>
+          <Patch Number="27"  Name="B028-Fat Square"  ProgramChange="27"/>
+          <Patch Number="28"  Name="B029-Ultra Sub"  ProgramChange="28"/>
+          <Patch Number="29"  Name="B030-NoAttackBass"  ProgramChange="29"/>
+          <Patch Number="30"  Name="B031-First:The Bass"  ProgramChange="30"/>
+          <Patch Number="31"  Name="B032-Bass-Piano"  ProgramChange="31"/>
+          <Patch Number="32"  Name="B033-E-Qiano"  ProgramChange="32"/>
+          <Patch Number="33"  Name="B034-ElectricGrand"  ProgramChange="33"/>
+          <Patch Number="34"  Name="B035-FM-Rhodes 1"  ProgramChange="34"/>
+          <Patch Number="35"  Name="B036-Rhodos Corso"  ProgramChange="35"/>
+          <Patch Number="36"  Name="B037-Unpredictable"  ProgramChange="36"/>
+          <Patch Number="37"  Name="B038-DeeB"  ProgramChange="37"/>
+          <Patch Number="38"  Name="B039-Soft Leader"  ProgramChange="38"/>
+          <Patch Number="39"  Name="B040-Modern Clavi"  ProgramChange="39"/>
+          <Patch Number="40"  Name="B041-Ring Sequel"  ProgramChange="40"/>
+          <Patch Number="41"  Name="B042-Pick It!"  ProgramChange="41"/>
+          <Patch Number="42"  Name="B043-Straight"  ProgramChange="42"/>
+          <Patch Number="43"  Name="B044-TelegraphSyn"  ProgramChange="43"/>
+          <Patch Number="44"  Name="B045-Dukelead"  ProgramChange="44"/>
+          <Patch Number="45"  Name="B046-Iceland"  ProgramChange="45"/>
+          <Patch Number="46"  Name="B047-Tron Flutes"  ProgramChange="46"/>
+          <Patch Number="47"  Name="B048-Zelluloid"  ProgramChange="47"/>
+          <Patch Number="48"  Name="B049-Bells"  ProgramChange="48"/>
+          <Patch Number="49"  Name="B050-Hansaplast"  ProgramChange="49"/>
+          <Patch Number="50"  Name="B051-Broadway"  ProgramChange="50"/>
+          <Patch Number="51"  Name="B052-Wartofsky"  ProgramChange="51"/>
+          <Patch Number="52"  Name="B053-Cassandra"  ProgramChange="52"/>
+          <Patch Number="53"  Name="B054-No. 5 lives"  ProgramChange="53"/>
+          <Patch Number="54"  Name="B055-Flinker"  ProgramChange="54"/>
+          <Patch Number="55"  Name="B056-FMBP Sweep"  ProgramChange="55"/>
+          <Patch Number="56"  Name="B057-Glidebells"  ProgramChange="56"/>
+          <Patch Number="57"  Name="B058-G-Quman"  ProgramChange="57"/>
+          <Patch Number="58"  Name="B059-HiFi Beast"  ProgramChange="58"/>
+          <Patch Number="59"  Name="B060-ProducersPad"  ProgramChange="59"/>
+          <Patch Number="60"  Name="B061-Late at night"  ProgramChange="60"/>
+          <Patch Number="61"  Name="B062-Make It Sweep"  ProgramChange="61"/>
+          <Patch Number="62"  Name="B063-Nimm Oel !!!"  ProgramChange="62"/>
+          <Patch Number="63"  Name="B064-Phazer PWM"  ProgramChange="63"/>
+          <Patch Number="64"  Name="B065-Shadow2"  ProgramChange="64"/>
+          <Patch Number="65"  Name="B066-TheWidestEver"  ProgramChange="65"/>
+          <Patch Number="66"  Name="B067-Q-rious?"  ProgramChange="66"/>
+          <Patch Number="67"  Name="B068-Transformer"  ProgramChange="67"/>
+          <Patch Number="68"  Name="B069-Background"  ProgramChange="68"/>
+          <Patch Number="69"  Name="B070-Paranoia"  ProgramChange="69"/>
+          <Patch Number="70"  Name="B071-Simple&amp;Sold"  ProgramChange="70"/>
+          <Patch Number="71"  Name="B072-The Fog"  ProgramChange="71"/>
+          <Patch Number="72"  Name="B073-Tyrell Corp"  ProgramChange="72"/>
+          <Patch Number="73"  Name="B074-Glas"  ProgramChange="73"/>
+          <Patch Number="74"  Name="B075-AdventurBell"  ProgramChange="74"/>
+          <Patch Number="75"  Name="B076-Bells"  ProgramChange="75"/>
+          <Patch Number="76"  Name="B077-Chordial"  ProgramChange="76"/>
+          <Patch Number="77"  Name="B078-Bandsalat"  ProgramChange="77"/>
+          <Patch Number="78"  Name="B079-Buzzer 2"  ProgramChange="78"/>
+          <Patch Number="79"  Name="B080-Highmel"  ProgramChange="79"/>
+          <Patch Number="80"  Name="B081-Meteor"  ProgramChange="80"/>
+          <Patch Number="81"  Name="B082-Tandem"  ProgramChange="81"/>
+          <Patch Number="82"  Name="B083-Indish"  ProgramChange="82"/>
+          <Patch Number="83"  Name="B084-Chinese Tune"  ProgramChange="83"/>
+          <Patch Number="84"  Name="B085-OBX Purple5"  ProgramChange="84"/>
+          <Patch Number="85"  Name="B086-IQ7"  ProgramChange="85"/>
+          <Patch Number="86"  Name="B087-Liquid War"  ProgramChange="86"/>
+          <Patch Number="87"  Name="B088-No Drive"  ProgramChange="87"/>
+          <Patch Number="88"  Name="B089-Dopehead 4"  ProgramChange="88"/>
+          <Patch Number="89"  Name="B090-Not so bad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="B091-Qontexxt"  ProgramChange="90"/>
+          <Patch Number="91"  Name="B092-SEX sells!"  ProgramChange="91"/>
+          <Patch Number="92"  Name="B093-Space Guitar"  ProgramChange="92"/>
+          <Patch Number="93"  Name="B094-Telepromter"  ProgramChange="93"/>
+          <Patch Number="94"  Name="B095-VintageSpring"  ProgramChange="94"/>
+          <Patch Number="95"  Name="B096-Big Sync"  ProgramChange="95"/>
+          <Patch Number="96"  Name="B097-Dirty Larry"  ProgramChange="96"/>
+          <Patch Number="97"  Name="B098-Crunchy"  ProgramChange="97"/>
+          <Patch Number="98"  Name="B099-Grizzle"  ProgramChange="98"/>
+          <Patch Number="99"  Name="B100-Hooked on Q"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Q - Sound C">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="C001-UltraFatPoly"  ProgramChange="0"/>
+          <Patch Number="1"  Name="C002-Up to 5 OSC"  ProgramChange="1"/>
+          <Patch Number="2"  Name="C003-Ouch!"  ProgramChange="2"/>
+          <Patch Number="3"  Name="C004-Steroid"  ProgramChange="3"/>
+          <Patch Number="4"  Name="C005-HouseBrass"  ProgramChange="4"/>
+          <Patch Number="5"  Name="C006-Up And Down"  ProgramChange="5"/>
+          <Patch Number="6"  Name="C007-PowerLead"  ProgramChange="6"/>
+          <Patch Number="7"  Name="C008-Stuermer 1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="C009-Pulse Bass 2"  ProgramChange="8"/>
+          <Patch Number="9"  Name="C010-Ass age:101"  ProgramChange="9"/>
+          <Patch Number="10"  Name="C011-CascadeVCF"  ProgramChange="10"/>
+          <Patch Number="11"  Name="C012-Juicy Bass"  ProgramChange="11"/>
+          <Patch Number="12"  Name="C013-Knurrhahn"  ProgramChange="12"/>
+          <Patch Number="13"  Name="C014-Mars Mouse"  ProgramChange="13"/>
+          <Patch Number="14"  Name="C015-HitwerQ"  ProgramChange="14"/>
+          <Patch Number="15"  Name="C016-Narrow Sub"  ProgramChange="15"/>
+          <Patch Number="16"  Name="C017-Pisa Bass"  ProgramChange="16"/>
+          <Patch Number="17"  Name="C018-Pulse Bass 1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="C019-Pulse Bass 4"  ProgramChange="18"/>
+          <Patch Number="19"  Name="C020-Pulse P66"  ProgramChange="19"/>
+          <Patch Number="20"  Name="C021-Q-Bass"  ProgramChange="20"/>
+          <Patch Number="21"  Name="C022-Q-Tip"  ProgramChange="21"/>
+          <Patch Number="22"  Name="C023-Real Bass"  ProgramChange="22"/>
+          <Patch Number="23"  Name="C024-Sawproof 2"  ProgramChange="23"/>
+          <Patch Number="24"  Name="C025-Shark Bass2!"  ProgramChange="24"/>
+          <Patch Number="25"  Name="C026-Sounds BP"  ProgramChange="25"/>
+          <Patch Number="26"  Name="C027-Yo mom!"  ProgramChange="26"/>
+          <Patch Number="27"  Name="C028-Sub Bass"  ProgramChange="27"/>
+          <Patch Number="28"  Name="C029-Blubby 126bpm"  ProgramChange="28"/>
+          <Patch Number="29"  Name="C030-Fade to clear"  ProgramChange="29"/>
+          <Patch Number="30"  Name="C031-GeeGaGooQ"  ProgramChange="30"/>
+          <Patch Number="31"  Name="C032-KrautedHaus"  ProgramChange="31"/>
+          <Patch Number="32"  Name="C033-PheeGaDee"  ProgramChange="32"/>
+          <Patch Number="33"  Name="C034-Pluck U2 MW"  ProgramChange="33"/>
+          <Patch Number="34"  Name="C035-SqrBassSwing"  ProgramChange="34"/>
+          <Patch Number="35"  Name="C036-Vince Clark 2"  ProgramChange="35"/>
+          <Patch Number="36"  Name="C037-Yust noise"  ProgramChange="36"/>
+          <Patch Number="37"  Name="C038-ARP->Voc->5FX"  ProgramChange="37"/>
+          <Patch Number="38"  Name="C039-Bee Drum"  ProgramChange="38"/>
+          <Patch Number="39"  Name="C040-ClipDrum"  ProgramChange="39"/>
+          <Patch Number="40"  Name="C041-Electric Drum"  ProgramChange="40"/>
+          <Patch Number="41"  Name="C042-El Bass Drum"  ProgramChange="41"/>
+          <Patch Number="42"  Name="C043-Q 808"  ProgramChange="42"/>
+          <Patch Number="43"  Name="C044-Rotterdrum"  ProgramChange="43"/>
+          <Patch Number="44"  Name="C045-Q BD 4"  ProgramChange="44"/>
+          <Patch Number="45"  Name="C046-El Snare Drum"  ProgramChange="45"/>
+          <Patch Number="46"  Name="C047-E-Snare 3"  ProgramChange="46"/>
+          <Patch Number="47"  Name="C048-Fast Snare"  ProgramChange="47"/>
+          <Patch Number="48"  Name="C049-Metalic Snare"  ProgramChange="48"/>
+          <Patch Number="49"  Name="C050-Noisy Snare"  ProgramChange="49"/>
+          <Patch Number="50"  Name="C051-Noisy Snare 2"  ProgramChange="50"/>
+          <Patch Number="51"  Name="C052-Reso Snare"  ProgramChange="51"/>
+          <Patch Number="52"  Name="C053-SrReductionSD"  ProgramChange="52"/>
+          <Patch Number="53"  Name="C054-SimmonsSnare"  ProgramChange="53"/>
+          <Patch Number="54"  Name="C055-TR66 Snare"  ProgramChange="54"/>
+          <Patch Number="55"  Name="C056-Eperc A"  ProgramChange="55"/>
+          <Patch Number="56"  Name="C057-Eperc B"  ProgramChange="56"/>
+          <Patch Number="57"  Name="C058-open HH"  ProgramChange="57"/>
+          <Patch Number="58"  Name="C059-El HiHat op"  ProgramChange="58"/>
+          <Patch Number="59"  Name="C060-HH Open"  ProgramChange="59"/>
+          <Patch Number="60"  Name="C061-HH Closed 2"  ProgramChange="60"/>
+          <Patch Number="61"  Name="C062-TR66 Hihat"  ProgramChange="61"/>
+          <Patch Number="62"  Name="C063-El HiHat clsd"  ProgramChange="62"/>
+          <Patch Number="63"  Name="C064-Percy Noises"  ProgramChange="63"/>
+          <Patch Number="64"  Name="C065-Fat Zaps"  ProgramChange="64"/>
+          <Patch Number="65"  Name="C066-Laser Shot"  ProgramChange="65"/>
+          <Patch Number="66"  Name="C067-FM Noises"  ProgramChange="66"/>
+          <Patch Number="67"  Name="C068-Zap Snap"  ProgramChange="67"/>
+          <Patch Number="68"  Name="C069-Strom"  ProgramChange="68"/>
+          <Patch Number="69"  Name="C070-TR66 Sidestk"  ProgramChange="69"/>
+          <Patch Number="70"  Name="C071-African Perc."  ProgramChange="70"/>
+          <Patch Number="71"  Name="C072-Conga"  ProgramChange="71"/>
+          <Patch Number="72"  Name="C073-Claps 1"  ProgramChange="72"/>
+          <Patch Number="73"  Name="C074-Quiro"  ProgramChange="73"/>
+          <Patch Number="74"  Name="C075-Noise Reverse"  ProgramChange="74"/>
+          <Patch Number="75"  Name="C076-Chinese Gong"  ProgramChange="75"/>
+          <Patch Number="76"  Name="C077-FM Noises"  ProgramChange="76"/>
+          <Patch Number="77"  Name="C078-LFO Speeddwn"  ProgramChange="77"/>
+          <Patch Number="78"  Name="C079-LFO Speedup"  ProgramChange="78"/>
+          <Patch Number="79"  Name="C080-Open Sesam"  ProgramChange="79"/>
+          <Patch Number="80"  Name="C081-Tuxedosun"  ProgramChange="80"/>
+          <Patch Number="81"  Name="C082-THX Spot"  ProgramChange="81"/>
+          <Patch Number="82"  Name="C083-Househarp"  ProgramChange="82"/>
+          <Patch Number="83"  Name="C084-Help"  ProgramChange="83"/>
+          <Patch Number="84"  Name="C085-Cpt. Future 2"  ProgramChange="84"/>
+          <Patch Number="85"  Name="C086-Alien Syn"  ProgramChange="85"/>
+          <Patch Number="86"  Name="C087-S.O.S"  ProgramChange="86"/>
+          <Patch Number="87"  Name="C088-Spiders2000"  ProgramChange="87"/>
+          <Patch Number="88"  Name="C089-FromOutaSpace"  ProgramChange="88"/>
+          <Patch Number="89"  Name="C090-Voc. Strings"  ProgramChange="89"/>
+          <Patch Number="90"  Name="C091-VocoderComb"  ProgramChange="90"/>
+          <Patch Number="91"  Name="C092-Mindblast VC"  ProgramChange="91"/>
+          <Patch Number="92"  Name="C093-Voc. Strings 2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="C094-Vocoder Crazy"  ProgramChange="93"/>
+          <Patch Number="94"  Name="C095-Vocoder Mod"  ProgramChange="94"/>
+          <Patch Number="95"  Name="C096-Voc. Robot"  ProgramChange="95"/>
+          <Patch Number="96"  Name="C097-Extern FX 1"  ProgramChange="96"/>
+          <Patch Number="97"  Name="C098-Extern FX 2"  ProgramChange="97"/>
+          <Patch Number="98"  Name="C099-External Through"  ProgramChange="98"/>
+          <Patch Number="99"  Name="C100-Init Sound"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Q - Card">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="X001"  ProgramChange="0"/>
+          <Patch Number="1"  Name="X002"  ProgramChange="1"/>
+          <Patch Number="2"  Name="X003"  ProgramChange="2"/>
+          <Patch Number="3"  Name="X004"  ProgramChange="3"/>
+          <Patch Number="4"  Name="X005"  ProgramChange="4"/>
+          <Patch Number="5"  Name="X006"  ProgramChange="5"/>
+          <Patch Number="6"  Name="X007"  ProgramChange="6"/>
+          <Patch Number="7"  Name="X008"  ProgramChange="7"/>
+          <Patch Number="8"  Name="X009"  ProgramChange="8"/>
+          <Patch Number="9"  Name="X010"  ProgramChange="9"/>
+          <Patch Number="10"  Name="X011"  ProgramChange="10"/>
+          <Patch Number="11"  Name="X012"  ProgramChange="11"/>
+          <Patch Number="12"  Name="X013"  ProgramChange="12"/>
+          <Patch Number="13"  Name="X014"  ProgramChange="13"/>
+          <Patch Number="14"  Name="X015"  ProgramChange="14"/>
+          <Patch Number="15"  Name="X016"  ProgramChange="15"/>
+          <Patch Number="16"  Name="X017"  ProgramChange="16"/>
+          <Patch Number="17"  Name="X018"  ProgramChange="17"/>
+          <Patch Number="18"  Name="X019"  ProgramChange="18"/>
+          <Patch Number="19"  Name="X020"  ProgramChange="19"/>
+          <Patch Number="20"  Name="X021"  ProgramChange="20"/>
+          <Patch Number="21"  Name="X022"  ProgramChange="21"/>
+          <Patch Number="22"  Name="X023"  ProgramChange="22"/>
+          <Patch Number="23"  Name="X024"  ProgramChange="23"/>
+          <Patch Number="24"  Name="X025"  ProgramChange="24"/>
+          <Patch Number="25"  Name="X026"  ProgramChange="25"/>
+          <Patch Number="26"  Name="X027"  ProgramChange="26"/>
+          <Patch Number="27"  Name="X028"  ProgramChange="27"/>
+          <Patch Number="28"  Name="X029"  ProgramChange="28"/>
+          <Patch Number="29"  Name="X030"  ProgramChange="29"/>
+          <Patch Number="30"  Name="X031"  ProgramChange="30"/>
+          <Patch Number="31"  Name="X032"  ProgramChange="31"/>
+          <Patch Number="32"  Name="X033"  ProgramChange="32"/>
+          <Patch Number="33"  Name="X034"  ProgramChange="33"/>
+          <Patch Number="34"  Name="X035"  ProgramChange="34"/>
+          <Patch Number="35"  Name="X036"  ProgramChange="35"/>
+          <Patch Number="36"  Name="X037"  ProgramChange="36"/>
+          <Patch Number="37"  Name="X038"  ProgramChange="37"/>
+          <Patch Number="38"  Name="X039"  ProgramChange="38"/>
+          <Patch Number="39"  Name="X040"  ProgramChange="39"/>
+          <Patch Number="40"  Name="X041"  ProgramChange="40"/>
+          <Patch Number="41"  Name="X042"  ProgramChange="41"/>
+          <Patch Number="42"  Name="X043"  ProgramChange="42"/>
+          <Patch Number="43"  Name="X044"  ProgramChange="43"/>
+          <Patch Number="44"  Name="X045"  ProgramChange="44"/>
+          <Patch Number="45"  Name="X046"  ProgramChange="45"/>
+          <Patch Number="46"  Name="X047"  ProgramChange="46"/>
+          <Patch Number="47"  Name="X048"  ProgramChange="47"/>
+          <Patch Number="48"  Name="X049"  ProgramChange="48"/>
+          <Patch Number="49"  Name="X050"  ProgramChange="49"/>
+          <Patch Number="50"  Name="X051"  ProgramChange="50"/>
+          <Patch Number="51"  Name="X052"  ProgramChange="51"/>
+          <Patch Number="52"  Name="X053"  ProgramChange="52"/>
+          <Patch Number="53"  Name="X054"  ProgramChange="53"/>
+          <Patch Number="54"  Name="X055"  ProgramChange="54"/>
+          <Patch Number="55"  Name="X056"  ProgramChange="55"/>
+          <Patch Number="56"  Name="X057"  ProgramChange="56"/>
+          <Patch Number="57"  Name="X058"  ProgramChange="57"/>
+          <Patch Number="58"  Name="X059"  ProgramChange="58"/>
+          <Patch Number="59"  Name="X060"  ProgramChange="59"/>
+          <Patch Number="60"  Name="X061"  ProgramChange="60"/>
+          <Patch Number="61"  Name="X062"  ProgramChange="61"/>
+          <Patch Number="62"  Name="X063"  ProgramChange="62"/>
+          <Patch Number="63"  Name="X064"  ProgramChange="63"/>
+          <Patch Number="64"  Name="X065"  ProgramChange="64"/>
+          <Patch Number="65"  Name="X066"  ProgramChange="65"/>
+          <Patch Number="66"  Name="X067"  ProgramChange="66"/>
+          <Patch Number="67"  Name="X068"  ProgramChange="67"/>
+          <Patch Number="68"  Name="X069"  ProgramChange="68"/>
+          <Patch Number="69"  Name="X070"  ProgramChange="69"/>
+          <Patch Number="70"  Name="X071"  ProgramChange="70"/>
+          <Patch Number="71"  Name="X072"  ProgramChange="71"/>
+          <Patch Number="72"  Name="X073"  ProgramChange="72"/>
+          <Patch Number="73"  Name="X074"  ProgramChange="73"/>
+          <Patch Number="74"  Name="X075"  ProgramChange="74"/>
+          <Patch Number="75"  Name="X076"  ProgramChange="75"/>
+          <Patch Number="76"  Name="X077"  ProgramChange="76"/>
+          <Patch Number="77"  Name="X078"  ProgramChange="77"/>
+          <Patch Number="78"  Name="X079"  ProgramChange="78"/>
+          <Patch Number="79"  Name="X080"  ProgramChange="79"/>
+          <Patch Number="80"  Name="X081"  ProgramChange="80"/>
+          <Patch Number="81"  Name="X082"  ProgramChange="81"/>
+          <Patch Number="82"  Name="X083"  ProgramChange="82"/>
+          <Patch Number="83"  Name="X084"  ProgramChange="83"/>
+          <Patch Number="84"  Name="X085"  ProgramChange="84"/>
+          <Patch Number="85"  Name="X086"  ProgramChange="85"/>
+          <Patch Number="86"  Name="X087"  ProgramChange="86"/>
+          <Patch Number="87"  Name="X088"  ProgramChange="87"/>
+          <Patch Number="88"  Name="X089"  ProgramChange="88"/>
+          <Patch Number="89"  Name="X090"  ProgramChange="89"/>
+          <Patch Number="90"  Name="X091"  ProgramChange="90"/>
+          <Patch Number="91"  Name="X092"  ProgramChange="91"/>
+          <Patch Number="92"  Name="X093"  ProgramChange="92"/>
+          <Patch Number="93"  Name="X094"  ProgramChange="93"/>
+          <Patch Number="94"  Name="X095"  ProgramChange="94"/>
+          <Patch Number="95"  Name="X096"  ProgramChange="95"/>
+          <Patch Number="96"  Name="X097"  ProgramChange="96"/>
+          <Patch Number="97"  Name="X098"  ProgramChange="97"/>
+          <Patch Number="98"  Name="X099"  ProgramChange="98"/>
+          <Patch Number="99"  Name="X100"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Q - Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="D01-AnalogDrum Map"  ProgramChange="0"/>
+          <Patch Number="1"  Name="D02-DistoDrums"  ProgramChange="1"/>
+          <Patch Number="2"  Name="D03-Init Drummap 1.0"  ProgramChange="2"/>
+          <Patch Number="3"  Name="D04-Init Drummap 1.0"  ProgramChange="3"/>
+          <Patch Number="4"  Name="D05-Init Drummap 1.0"  ProgramChange="4"/>
+          <Patch Number="5"  Name="D06-Init Drummap 1.0"  ProgramChange="5"/>
+          <Patch Number="6"  Name="D07-Init Drummap 1.0"  ProgramChange="6"/>
+          <Patch Number="7"  Name="D08-Init Drummap 1.0"  ProgramChange="7"/>
+          <Patch Number="8"  Name="D09-Init Drummap 1.0"  ProgramChange="8"/>
+          <Patch Number="9"  Name="D10-Init Drummap 1.0"  ProgramChange="9"/>
+          <Patch Number="10"  Name="D11-Init Drummap 1.0"  ProgramChange="10"/>
+          <Patch Number="11"  Name="D12-Init Drummap 1.0"  ProgramChange="11"/>
+          <Patch Number="12"  Name="D13-Init Drummap 1.0"  ProgramChange="12"/>
+          <Patch Number="13"  Name="D14-Init Drummap 1.0"  ProgramChange="13"/>
+          <Patch Number="14"  Name="D15-Init Drummap 1.0"  ProgramChange="14"/>
+          <Patch Number="15"  Name="D16-Init Drummap 1.0"  ProgramChange="15"/>
+          <Patch Number="16"  Name="D17-Init Drummap 1.0"  ProgramChange="16"/>
+          <Patch Number="17"  Name="D18-Init Drummap 1.0"  ProgramChange="17"/>
+          <Patch Number="18"  Name="D19-Init Drummap 1.0"  ProgramChange="18"/>
+          <Patch Number="19"  Name="D20-Init Drummap 1.0"  ProgramChange="19"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Q - Pattern">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="P001-Init Ptrn 08 St."  ProgramChange="0"/>
+          <Patch Number="1"  Name="P002-Init Ptrn 16 St."  ProgramChange="1"/>
+          <Patch Number="2"  Name="P003-Init Ptrn 24 St."  ProgramChange="2"/>
+          <Patch Number="3"  Name="P004-Init Ptrn 32 St."  ProgramChange="3"/>
+          <Patch Number="4"  Name="P005-Poly Ptrn 08 St."  ProgramChange="4"/>
+          <Patch Number="5"  Name="P006-Poly Ptrn 16 St."  ProgramChange="5"/>
+          <Patch Number="6"  Name="P007-Poly Ptrn 24 St."  ProgramChange="6"/>
+          <Patch Number="7"  Name="P008-Poly Ptrn 32 St."  ProgramChange="7"/>
+          <Patch Number="8"  Name="P009-MonoBassl.16S"  ProgramChange="8"/>
+          <Patch Number="9"  Name="P010-MonoBassl.32S"  ProgramChange="9"/>
+          <Patch Number="10"  Name="P011-PolyPtrn 16S."  ProgramChange="10"/>
+          <Patch Number="11"  Name="P012-PolyPtrn 32S."  ProgramChange="11"/>
+          <Patch Number="12"  Name="P013-Drums 4/4beat"  ProgramChange="12"/>
+          <Patch Number="13"  Name="P014-Drums EBeat 1"  ProgramChange="13"/>
+          <Patch Number="14"  Name="P015-Drums 3/4beat"  ProgramChange="14"/>
+          <Patch Number="15"  Name="P016-Mono Leadline"  ProgramChange="15"/>
+          <Patch Number="16"  Name="P017-Mono Line 32"  ProgramChange="16"/>
+          <Patch Number="17"  Name="P018-CR Beat 4/4"  ProgramChange="17"/>
+          <Patch Number="18"  Name="P019-SimpleBass 32"  ProgramChange="18"/>
+          <Patch Number="19"  Name="P020-Pop Melo 32"  ProgramChange="19"/>
+          <Patch Number="20"  Name="P021-Drums Pop 4/4"  ProgramChange="20"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Q - Multi">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="M001-Start me!"  ProgramChange="0"/>
+          <Patch Number="1"  Name="M002-Depeche Pop"  ProgramChange="1"/>
+          <Patch Number="2"  Name="M003-Electric Beat"  ProgramChange="2"/>
+          <Patch Number="3"  Name="M004-Space Night"  ProgramChange="3"/>
+          <Patch Number="4"  Name="M005-The Wavetrip"  ProgramChange="4"/>
+          <Patch Number="5"  Name="M006-The5thElement"  ProgramChange="5"/>
+          <Patch Number="6"  Name="M007-Polyphon TB"  ProgramChange="6"/>
+          <Patch Number="7"  Name="M008-More than Wide"  ProgramChange="7"/>
+          <Patch Number="8"  Name="M009-Textures"  ProgramChange="8"/>
+          <Patch Number="9"  Name="M010-Get in Trance!"  ProgramChange="9"/>
+          <Patch Number="10"  Name="M011-Bass+Pad"  ProgramChange="10"/>
+          <Patch Number="11"  Name="M012-Nice and Clear"  ProgramChange="11"/>
+          <Patch Number="12"  Name="M013-Cpt. Kaos"  ProgramChange="12"/>
+          <Patch Number="13"  Name="M014-Use Ext.Signal"  ProgramChange="13"/>
+          <Patch Number="14"  Name="M015-Sequencer Multi"  ProgramChange="14"/>
+          <Patch Number="15"  Name="M016-Free Multi V1.0"  ProgramChange="15"/>
+          <Patch Number="16"  Name="M017-Free Multi V1.0"  ProgramChange="16"/>
+          <Patch Number="17"  Name="M018-Free Multi V1.0"  ProgramChange="17"/>
+          <Patch Number="18"  Name="M019-Free Multi V1.0"  ProgramChange="18"/>
+          <Patch Number="19"  Name="M020-Free Multi V1.0"  ProgramChange="19"/>
+          <Patch Number="20"  Name="M021-Free Multi V1.0"  ProgramChange="20"/>
+          <Patch Number="21"  Name="M022-Free Multi V1.0"  ProgramChange="21"/>
+          <Patch Number="22"  Name="M023-Free Multi V1.0"  ProgramChange="22"/>
+          <Patch Number="23"  Name="M024-Free Multi V1.0"  ProgramChange="23"/>
+          <Patch Number="24"  Name="M025-Free Multi V1.0"  ProgramChange="24"/>
+          <Patch Number="25"  Name="M026-Free Multi V1.0"  ProgramChange="25"/>
+          <Patch Number="26"  Name="M027-Free Multi V1.0"  ProgramChange="26"/>
+          <Patch Number="27"  Name="M028-Free Multi V1.0"  ProgramChange="27"/>
+          <Patch Number="28"  Name="M029-Free Multi V1.0"  ProgramChange="28"/>
+          <Patch Number="29"  Name="M030-Free Multi V1.0"  ProgramChange="29"/>
+          <Patch Number="30"  Name="M031-Free Multi V1.0"  ProgramChange="30"/>
+          <Patch Number="31"  Name="M032-Free Multi V1.0"  ProgramChange="31"/>
+          <Patch Number="32"  Name="M033-Free Multi V1.0"  ProgramChange="32"/>
+          <Patch Number="33"  Name="M034-Free Multi V1.0"  ProgramChange="33"/>
+          <Patch Number="34"  Name="M035-Free Multi V1.0"  ProgramChange="34"/>
+          <Patch Number="35"  Name="M036-Free Multi V1.0"  ProgramChange="35"/>
+          <Patch Number="36"  Name="M037-Free Multi V1.0"  ProgramChange="36"/>
+          <Patch Number="37"  Name="M038-Free Multi V1.0"  ProgramChange="37"/>
+          <Patch Number="38"  Name="M039-Free Multi V1.0"  ProgramChange="38"/>
+          <Patch Number="39"  Name="M040-Free Multi V1.0"  ProgramChange="39"/>
+          <Patch Number="40"  Name="M041-Free Multi V1.0"  ProgramChange="40"/>
+          <Patch Number="41"  Name="M042-Free Multi V1.0"  ProgramChange="41"/>
+          <Patch Number="42"  Name="M043-Free Multi V1.0"  ProgramChange="42"/>
+          <Patch Number="43"  Name="M044-Free Multi V1.0"  ProgramChange="43"/>
+          <Patch Number="44"  Name="M045-Free Multi V1.0"  ProgramChange="44"/>
+          <Patch Number="45"  Name="M046-Free Multi V1.0"  ProgramChange="45"/>
+          <Patch Number="46"  Name="M047-Free Multi V1.0"  ProgramChange="46"/>
+          <Patch Number="47"  Name="M048-Free Multi V1.0"  ProgramChange="47"/>
+          <Patch Number="48"  Name="M049-Free Multi V1.0"  ProgramChange="48"/>
+          <Patch Number="49"  Name="M050-Free Multi V1.0"  ProgramChange="49"/>
+          <Patch Number="50"  Name="M051-Free Multi V1.0"  ProgramChange="50"/>
+          <Patch Number="51"  Name="M052-Free Multi V1.0"  ProgramChange="51"/>
+          <Patch Number="52"  Name="M053-Free Multi V1.0"  ProgramChange="52"/>
+          <Patch Number="53"  Name="M054-Free Multi V1.0"  ProgramChange="53"/>
+          <Patch Number="54"  Name="M055-Free Multi V1.0"  ProgramChange="54"/>
+          <Patch Number="55"  Name="M056-Free Multi V1.0"  ProgramChange="55"/>
+          <Patch Number="56"  Name="M057-Free Multi V1.0"  ProgramChange="56"/>
+          <Patch Number="57"  Name="M058-Free Multi V1.0"  ProgramChange="57"/>
+          <Patch Number="58"  Name="M059-Free Multi V1.0"  ProgramChange="58"/>
+          <Patch Number="59"  Name="M060-Free Multi V1.0"  ProgramChange="59"/>
+          <Patch Number="60"  Name="M061-Free Multi V1.0"  ProgramChange="60"/>
+          <Patch Number="61"  Name="M062-Free Multi V1.0"  ProgramChange="61"/>
+          <Patch Number="62"  Name="M063-Free Multi V1.0"  ProgramChange="62"/>
+          <Patch Number="63"  Name="M064-Free Multi V1.0"  ProgramChange="63"/>
+          <Patch Number="64"  Name="M065-Free Multi V1.0"  ProgramChange="64"/>
+          <Patch Number="65"  Name="M066-Free Multi V1.0"  ProgramChange="65"/>
+          <Patch Number="66"  Name="M067-Free Multi V1.0"  ProgramChange="66"/>
+          <Patch Number="67"  Name="M068-Free Multi V1.0"  ProgramChange="67"/>
+          <Patch Number="68"  Name="M069-Free Multi V1.0"  ProgramChange="68"/>
+          <Patch Number="69"  Name="M070-Free Multi V1.0"  ProgramChange="69"/>
+          <Patch Number="70"  Name="M071-Free Multi V1.0"  ProgramChange="70"/>
+          <Patch Number="71"  Name="M072-Free Multi V1.0"  ProgramChange="71"/>
+          <Patch Number="72"  Name="M073-Free Multi V1.0"  ProgramChange="72"/>
+          <Patch Number="73"  Name="M074-Free Multi V1.0"  ProgramChange="73"/>
+          <Patch Number="74"  Name="M075-Free Multi V1.0"  ProgramChange="74"/>
+          <Patch Number="75"  Name="M076-Free Multi V1.0"  ProgramChange="75"/>
+          <Patch Number="76"  Name="M077-Free Multi V1.0"  ProgramChange="76"/>
+          <Patch Number="77"  Name="M078-Free Multi V1.0"  ProgramChange="77"/>
+          <Patch Number="78"  Name="M079-Free Multi V1.0"  ProgramChange="78"/>
+          <Patch Number="79"  Name="M080-Free Multi V1.0"  ProgramChange="79"/>
+          <Patch Number="80"  Name="M081-Free Multi V1.0"  ProgramChange="80"/>
+          <Patch Number="81"  Name="M082-Free Multi V1.0"  ProgramChange="81"/>
+          <Patch Number="82"  Name="M083-Free Multi V1.0"  ProgramChange="82"/>
+          <Patch Number="83"  Name="M084-Free Multi V1.0"  ProgramChange="83"/>
+          <Patch Number="84"  Name="M085-Free Multi V1.0"  ProgramChange="84"/>
+          <Patch Number="85"  Name="M086-Free Multi V1.0"  ProgramChange="85"/>
+          <Patch Number="86"  Name="M087-Free Multi V1.0"  ProgramChange="86"/>
+          <Patch Number="87"  Name="M088-Free Multi V1.0"  ProgramChange="87"/>
+          <Patch Number="88"  Name="M089-Free Multi V1.0"  ProgramChange="88"/>
+          <Patch Number="89"  Name="M090-Free Multi V1.0"  ProgramChange="89"/>
+          <Patch Number="90"  Name="M091-Free Multi V1.0"  ProgramChange="90"/>
+          <Patch Number="91"  Name="M092-Free Multi V1.0"  ProgramChange="91"/>
+          <Patch Number="92"  Name="M093-Free Multi V1.0"  ProgramChange="92"/>
+          <Patch Number="93"  Name="M094-Free Multi V1.0"  ProgramChange="93"/>
+          <Patch Number="94"  Name="M095-Free Multi V1.0"  ProgramChange="94"/>
+          <Patch Number="95"  Name="M096-Free Multi V1.0"  ProgramChange="95"/>
+          <Patch Number="96"  Name="M097-Free Multi V1.0"  ProgramChange="96"/>
+          <Patch Number="97"  Name="M098-Free Multi V1.0"  ProgramChange="97"/>
+          <Patch Number="98"  Name="M099-Free Multi V1.0"  ProgramChange="98"/>
+          <Patch Number="99"  Name="M100-Free Multi V1.0"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

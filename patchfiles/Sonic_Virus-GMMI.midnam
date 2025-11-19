@@ -1,0 +1,2297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Sonic</Manufacturer>
+    <Model>Virus-GMMI</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Bank 0 GM 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="9FT Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Dance Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="CP-70 Piano"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Honky Tonk Piano"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Rhodes Piano"  ProgramChange="4"/>
+          <Patch Number="5"  Name="FM Piano"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsicord 1"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Clavinet"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Celesta 1"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Glockenspiel 1"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Music Box 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vibes 1"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Marimba 1"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Xylophone"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Tubular Bell 1"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Dulcimer"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Analog Organ"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Perc Organ"  ProgramChange="17"/>
+          <Patch Number="18"  Name="B3 Fast Organ"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Church Organ"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Reed Organ"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Russian Accordion"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Harmonica"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Bandeon"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Nylon Guitar"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Steel Guitar"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Jazz Guitar"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Clean Guitar"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Muted Guitar"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Overdrive Guitar 1"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Distortion Guitar"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Guitar Harmonics"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Syn AcBass"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Finger Bass"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Wood Bass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Fretless Bass"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Slap Bass 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Slap Bass 2"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Analog Bass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Wow Bass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Violin 1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Viola"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Cello"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Contrabass"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Tremolo Strings"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Pizzicato"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Harp"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Timpani"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Dance Strings"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Slow DStrings"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Synth Strings 1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Matrix Strings"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Choir Aahh"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Voice Doo"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Voice"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Orchestra Hit 1"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Trumpet"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Trombone"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Tuba-Flugel"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Muted Trumpet"  ProgramChange="59"/>
+          <Patch Number="60"  Name="French Horns"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brass Section"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Synth Brass 1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Synth Brass 2"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Soprano Sax"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Alto Sax Alina"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Tenor Sax"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Bariton Sax"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Oboe"  ProgramChange="68"/>
+          <Patch Number="69"  Name="English Horn"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Bassoon"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Clarinet"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Piccolo"  ProgramChange="72"/>
+          <Patch Number="73"  Name="China Flute"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Tenor Recorder"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Pan Pipe"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Bottle"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Shakuhachi"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Analog Whistle"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Ocarina"  ProgramChange="79"/>
+          <Patch Number="80"  Name="MKS-30 Square"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Saw Wave"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Caliope Lead"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Chiffer Lead"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Charang"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Solo Vox"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Buzz Fifth"  ProgramChange="86"/>
+          <Patch Number="87"  Name="MKS-30 Bass&amp;Lead"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Fantasy"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Warm Pad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Reso Lead"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Choir Pad"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Bowed Pad"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Metal Pad"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Halo Pad"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Sweep Pad"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Ice Rain Pad"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Space Pad"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Crystal"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Atmosphere"  ProgramChange="99"/>
+          <Patch Number="100"  Name="JD PAD"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Goblins"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Ohh-Ahh"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Piramids"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Sitar"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Banjo"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Shamisen"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Balalayka"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Kalimba"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Bag Pipe"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Fiddle"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Shannai"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Bell Chimes"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Syn Agogo"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Steel Drums"  ProgramChange="114"/>
+          <Patch Number="115"  Name="WoodBlock"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Surdo Drums"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Melodic Tom"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synth Drum"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Guitar Noise"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Breath Noise"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Seashore"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Birds"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Telephone"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Helicopter"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Applause"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Gunshot"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Bank 1 GM 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Grand Piano 2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Pop Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="ElGrand Piano"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Pop Honky !!!"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Fender Rhodes"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Space EP"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsicord 2"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Analog Clavinet"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Analog Celesta"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Glockenspiel 2"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Music Box 2"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vibes 2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Marimba 2"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Xylophone 2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Tubular Bell 2"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Dulcimer 2"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Dance Organ"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Perc Organ 2"  ProgramChange="17"/>
+          <Patch Number="18"  Name="B3 Fast Organ2"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Church Organ 2"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Reed Organ 2"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Accordian"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Russian Harmoshka"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Concertina"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Chemical Guitar"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Acoustic Guitar"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Jazz Guitar 2"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Clean Telecaster"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Muted Guitar 2"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Overdrive Guitar 2"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Distortion Guitar 2"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Guitar Harm 2"  ProgramChange="31"/>
+          <Patch Number="32"  Name="ACB Bass"  ProgramChange="32"/>
+          <Patch Number="33"  Name="SynFinger Bass"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Metal Bass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Syn Fretless"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Moog Bass"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Psicho Bass"  ProgramChange="37"/>
+          <Patch Number="38"  Name="FM Bass 2"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Mix Bass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Square Violin"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Saw Viola"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Saw Cello"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Square Contrabass"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Light Trem Strings"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Pizzicato 2"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Chemical Harp"  ProgramChange="46"/>
+          <Patch Number="47"  Name="FTimpani"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Light Strings"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Slow LStrings"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Analog Strings"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Sint Strings 4"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Mix Choir"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Voice Oohs"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Voice 2"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Orchestra Hit 2"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Trumpet 2"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Trombone 2"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Tuba 2"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Muted Trumpet 2"  ProgramChange="59"/>
+          <Patch Number="60"  Name="French Horn 2"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brass 2"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Synth Brass 3"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Synth Brass 4"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Soprano Sax 2"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Breathy Alto Sax"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Tenor Sax 2"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Baritone Sax 2"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Oboe 2"  ProgramChange="68"/>
+          <Patch Number="69"  Name="English Horn 2"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Bassoon 2"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Clarinet 2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Piccolo 2"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Flute 2"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Recorder 2"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Pan Keys"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Bottle 2"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Shakuhachi 2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Whistle 2"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Ocarina 2"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Square Mono"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Saw Rave"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Bottle Caliope"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Pan Chiff"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Charang 2"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Synth Voice"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Analog Fifth"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Bass&amp;Buzz"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Magic Fantasy"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Light Pad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="SQ Lead"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Choir Pad 2"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Bowed Wind"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Metal Milky"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Ohh Pad"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Sq Sweep"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Caliope Rain"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Stars Pad"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Light Crystal"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Acoustic Sphere"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Dstr Pad"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Milky Goblins"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Drops Choir"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Magic Knight"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Sitar Pad"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Banjo Lead"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Over Shamisen"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Acid Balalayka"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Kalimba Tone"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Bag w Reed"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Acid Fiddle"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Shannai Sec"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Tormoz Bell"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Agogo Bell"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Acid Steel Drum"  ProgramChange="114"/>
+          <Patch Number="115"  Name="WoodBlock 2"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Pitch Surdo Drums"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Melodic Tom 2"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synth Drum 2"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Dirty Rev Cymbal"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Guitar Noise 2"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Alien Breath Noise"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Alien Seashore"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Alien Birds"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Waterphone"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Helicopter 2"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Applause 2"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Big BOOM"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Bank 2 Synth GM">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Met Grand Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Dance Piano2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="El Grand Piano"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Wild Honky tonk"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Met Rhodes Piano"  ProgramChange="4"/>
+          <Patch Number="5"  Name="El Piano"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsicord 3"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Clavinet 3"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Celesta-Piano"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Glockencel"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Music Box 3"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vibraphone 3"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Marimba 3"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Xylophone 3"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Tubular Bell 3"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Dulcimer 3"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Dance Organ 3"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Perc Organ 3"  ProgramChange="17"/>
+          <Patch Number="18"  Name="B3 Rave Organ"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Analog Church Organ"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Reed Organ 3"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Acid Accordion"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Acid Harmonica"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Bacardeon"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Nylon Guitar 3"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Steel Guitar 3"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Jazz Guitar 3"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Clean Guitar 3"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Muted Guitar 3"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Overdrive Guitar 3"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Distortion Guitar 3"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Guitar Harmonics 3"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Syn AcBass 3"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Finger Bass 3"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Wood Bass 3"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Fretless Bass 3"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Slap Bass 1-3"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Slap Bass 2-3"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Analog Bass 3"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Wow Bass 3"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Violonil"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Dark Viola"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Flutchello"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Contrabass Sect"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Matrix Strings Trem"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Pizzicato 3"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Harpsich"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Timpani 3"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Strings 3"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Slow Strings 3"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Synth Strings 5"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Synth Strings 6"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Choir Aahhs 3"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Voice Doo 3"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Voice 3"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Orchestra Hit 3"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Trumpet 3"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Trombone 3"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Tuba-Flugel 3"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Muted Trumpet 3"  ProgramChange="59"/>
+          <Patch Number="60"  Name="French Horns 3"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brass Section 3"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Synth Brass 5"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Synth Brass 6"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Sop Sax Section"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Alto Sax Section"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Tenor Sax Section"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Bari Sax Section"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Oboe Section"  ProgramChange="68"/>
+          <Patch Number="69"  Name="English Horn 3"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Bassoon Section"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Clarinet Section"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Piccolo Section"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Flute Section"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Recorder Section"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Pan Flute Section"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Pan Bottle"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Shakuhachi Section"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Whistle 3"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Ocarina Section"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Square 3"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Metal Saw Wave"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Caliope 3"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Chiffer Lead 3"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Charang 3"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Vox Doo"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Fifth 3"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Bass&amp;Lead 3"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Pan Fantasy"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Warm Rave Pad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Clav Lead"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Choir Pad 3"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Bowed 3"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Metal Voice"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Rave Pad"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Sweep Pad 3"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Ice Stars Pad"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Warm Space"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Ice Crystal"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Stratosphere"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Buzz Pad"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Magic Goblins"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Ohh-Ahh 3"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Night Rain"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Balanjo"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Banharp"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Shamisbal"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Balalayka Box"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Kalim Bell"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Bag Bay"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Fiddle Pad"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Shaboy"  ProgramChange="111"/>
+          <Patch Number="112"  Name="BellSSSS"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Agogo Synth"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Steel Drums 3"  ProgramChange="114"/>
+          <Patch Number="115"  Name="WoodBlock 3"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Surdo Drums 3"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Melodic Tom 3"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synth Drum 3"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Cymbal 3"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Noise Synth"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Breath Synth"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Sea Rain"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Birds Pad"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Magic Telephone"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Helicopter???"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Applause 3"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Gunshot 3"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Bank 3 Gluk GM">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Met Grand Piano 2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Dance Piano 3"  ProgramChange="1"/>
+          <Patch Number="2"  Name="El Grand Piano3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Acid Honky tonk"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Wood Rhodes Piano"  ProgramChange="4"/>
+          <Patch Number="5"  Name="VElectro Piano"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsichord 4"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Clavinet 4"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Celesta 4"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Glockenspiel 4"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Music Box 4"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vibes 4"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Marimba 4"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Xylophone 4"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Tubular Bell 4"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Dulsimer 4"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Rave Organ"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Perc Rave Organ"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Saw Rock Organ"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Pipe Rave Organ"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Reed Rave Organ"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Accordion 4"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Harmonica 4"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Bancertina"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Chemical Guitar 2"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Hard Steel Guitar"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Jazz Guitar 4"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Clean Guitar 4"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Muted Guitar 4"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Overdrive Guitar 4"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Distortion Guitar 4"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Guitar Harmonics 4"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Tech Bass"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Attack Bass"  ProgramChange="33"/>
+          <Patch Number="34"  Name="GL Bass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Nylon Bass"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Wet Bass"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Dzin Bass"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Mbass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="VS Bass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Gluk Violin"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Gluk Viola"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Gluk Cello"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Marcato Contrabass"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Marcato Trem String"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Pizzicato 5"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Harp 5"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Timpani 4"  ProgramChange="47"/>
+          <Patch Number="48"  Name="New Strings"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Slow New Strings"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Synth Strings 7"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Synth Strings 8"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Acid Choir"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Voice Doo 4"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Nata Voice"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Orchestra Hit 4"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Trumpet 4"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Trombone 4"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Tuba 4"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Mute Trumpet 4"  ProgramChange="59"/>
+          <Patch Number="60"  Name="French Horns 4"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brass Section 4"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Synth Brass 7"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Synth Brass 8"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Soprano Sax 4"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Alto Sax 4"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Tenor Sax 4"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Baritone Sax 4"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Oboe 4"  ProgramChange="68"/>
+          <Patch Number="69"  Name="English Horn 4"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Bassoon 4"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Clarinet 4"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Piccolo 4"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Flute 4"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Recorder 4"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Pan Pipe 4"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Bottle Blow"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Shakuhachi 4"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Whistle 4"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Ocarina 4"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Square 4"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Saw Wave 4"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Caliope 4"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Chiffer Lead 4"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Metal Charang"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Nata Vox"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Analog Fifth 2"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Bass&amp;Buzz 2"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Acid Fantasy"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Tele Pad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Reso Lead 2"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Choir Pad 4"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Bowed Pad 4"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Metal Pad 4"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Halo Pad 4"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Sweep Pad 4"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Ice Rain Pad 4"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Acid Space"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Crystal 4"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Acid Sphere"  ProgramChange="99"/>
+          <Patch Number="100"  Name="DST Pad"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Nut Goblins"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Ahhs-Ahhs"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Old Piramids"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Acid Sitar"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Banjo pizz"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Shamisen Pad"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Balalayka pizz"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Dark Kalimba"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Bag Pipe Bot"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Fiddle Vib"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Shannai 4"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Acid Chimes"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Dark Agogo"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Steel Drum 4"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Dark WoodBlock"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Dark Surdo Drum"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Melodic Tom 4"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Synt Drum 4"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Reverse Tape Dn"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Guitar Noise 4"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Breath Noise 4"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Seashore 4"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Birds Up"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Telephone 4"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Helicopter 4"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Applause 4"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Wind"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Bank 4 Variations 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Piano-Strings"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Dance Piano 4"  ProgramChange="1"/>
+          <Patch Number="2"  Name="CP-70 Piano-Strings"  ProgramChange="2"/>
+          <Patch Number="3"  Name="New Honky tonk"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Jazz Rhodes Piano"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Rhodes Box"  ProgramChange="5"/>
+          <Patch Number="73"  Name="Flute Tong 1"  ProgramChange="73"/>
+          <Patch Number="119"  Name="Reverse Tape"  ProgramChange="119"/>
+          <Patch Number="127"  Name="Wind 2"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Bank 4 Variations 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Magic Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Dance Piano 5"  ProgramChange="1"/>
+          <Patch Number="2"  Name="El Grand Piano 4"  ProgramChange="2"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Bank 125 Effects">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="125"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Wind Bells"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Wind Bells Up"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Wind Bells Down"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Wind Bells 2"  ProgramChange="3"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Bank 126 Scratches">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="126"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="All Scratches 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="All Scratches 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Scratch 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Scratch 2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Scratch 3"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Scratch 4"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Scratch 5"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Scratch 6"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Scratch 7"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Scratch 8"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Scratch 9"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Scratch 10"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Scratch 11"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Scratch 12"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Scratch 13"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Scratch 14"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Scratch 15"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Scratch 16"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Scratch 17"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Scratch 18"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Scratch 19"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Scratch 20"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Scratch 21"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Scratch 22"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Scratch 23"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Scratch 24"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Scratch 25"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Scratch 26"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Scratch 27"  ProgramChange="28"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="35"  Name="5=BD 01(L)"/>
+     <Note Number="36"  Name="6=36 BD 4-1 Lv(L)"/>
+     <Note Number="37"  Name="7=Live Stick(R)"/>
+     <Note Number="38"  Name="8=Snare 01(L)"/>
+     <Note Number="39"  Name="9=39 808 Claps(L)"/>
+     <Note Number="40"  Name="0=Live Snare 1(L)"/>
+     <Note Number="41"  Name="1=Tom Ac Lw(L)"/>
+     <Note Number="42"  Name="2=42 HH Cl Ch(L)"/>
+     <Note Number="43"  Name="3=Tom Ac Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(L)"/>
+     <Note Number="45"  Name="5=Tom Ac Md(L)"/>
+     <Note Number="46"  Name="6=46 HH Brush Op(L)"/>
+     <Note Number="47"  Name="7=Tom Ac Md(L)"/>
+     <Note Number="48"  Name="8=Tom Ac Hi(L)"/>
+     <Note Number="49"  Name="9=49 Crash Cym1(L)"/>
+     <Note Number="50"  Name="0=Tom Ac Hi(L)"/>
+     <Note Number="51"  Name="1=51 Ride 1(R)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Splash Cym(L)"/>
+     <Note Number="56"  Name="6=Cowbell 2(L)"/>
+     <Note Number="57"  Name="7=57 Crash Cym2(L)"/>
+     <Note Number="58"  Name="8=37 Rim Shot(L)"/>
+     <Note Number="59"  Name="9=59 Ride Ping(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi1(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl1(L)"/>
+     <Note Number="63"  Name="3=63 Conga Low(L)"/>
+     <Note Number="64"  Name="4=64 Gonga Tone(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="35"  Name="5=35 BD 2 Lv(L)"/>
+     <Note Number="36"  Name="6=36 BD 4-1 Lv(L)"/>
+     <Note Number="37"  Name="7=Live Stick(R)"/>
+     <Note Number="38"  Name="8=Live Snare 1(L)"/>
+     <Note Number="40"  Name="0=Live Snare 2(L)"/>
+     <Note Number="41"  Name="1=Tom D Lw(L)"/>
+     <Note Number="42"  Name="2=42 HH Cl Ch(L)"/>
+     <Note Number="43"  Name="3=Tom D Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(L)"/>
+     <Note Number="45"  Name="5=Tom D Md(L)"/>
+     <Note Number="46"  Name="6=46 HH Brush Op(L)"/>
+     <Note Number="47"  Name="7=Tom D Md(L)"/>
+     <Note Number="48"  Name="8=Tom D Hi(L)"/>
+     <Note Number="49"  Name="9=49 Crash Cym1(L)"/>
+     <Note Number="50"  Name="0=Tom D Hi(L)"/>
+     <Note Number="51"  Name="1=51 Ride 1(R)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Ride Bell(L)"/>
+     <Note Number="54"  Name="4=37 Rim Shot(L)"/>
+     <Note Number="55"  Name="5=37 Rim Shot(L)"/>
+     <Note Number="56"  Name="6=37 Rim Shot(L)"/>
+     <Note Number="57"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="58"  Name="8=37 Rim Shot(L)"/>
+     <Note Number="59"  Name="9=59 Ride Ping(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD 07(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 SD03(L)"/>
+     <Note Number="39"  Name="9=39 Claps 01(L)"/>
+     <Note Number="40"  Name="0=40 SD33(L)"/>
+     <Note Number="41"  Name="1=43 Analog Tom Lw (L)"/>
+     <Note Number="42"  Name="2=42 HH Closd(L)"/>
+     <Note Number="43"  Name="3=43 Analog Tom Lw (L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=47 Analog Tom Md (L)"/>
+     <Note Number="46"  Name="6=46 OPHH 03(L)"/>
+     <Note Number="47"  Name="7=47 Analog Tom Md (L)"/>
+     <Note Number="48"  Name="8=50 Analog Tom Hi (L)"/>
+     <Note Number="49"  Name="9=49 El Crash(L)"/>
+     <Note Number="50"  Name="0=50 Analog Tom Hi (L)"/>
+     <Note Number="51"  Name="1=51 909Ridecymb(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Low(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl(L)"/>
+     <Note Number="63"  Name="3=63 Conga Hi(L)"/>
+     <Note Number="64"  Name="4=64 Low Conga(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 Gr BD 2(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Gr Snare 1(L)"/>
+     <Note Number="39"  Name="9=39 Claps 08(L)"/>
+     <Note Number="40"  Name="0=40 Gr Snare 2(L)"/>
+     <Note Number="41"  Name="1=43 Gr Tom Lw(L)"/>
+     <Note Number="42"  Name="2=42 Gr HH Cl(L)"/>
+     <Note Number="43"  Name="3=43 Gr Tom Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=47 Gr Tom Md(L)"/>
+     <Note Number="46"  Name="6=46 Gr HH Op(L)"/>
+     <Note Number="47"  Name="7=47 Gr Tom Md(L)"/>
+     <Note Number="48"  Name="8=50 Gr Tom Hi(L)"/>
+     <Note Number="49"  Name="9=49 Gr Crash 1(L)"/>
+     <Note Number="50"  Name="0=50 Gr Tom Hi(L)"/>
+     <Note Number="51"  Name="1=51 Gr Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Gr Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash El 808(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 Mod BD 2(L)"/>
+     <Note Number="37"  Name="7=37 Mod Stick(L)"/>
+     <Note Number="38"  Name="8=38 Mod Snare 1(L)"/>
+     <Note Number="39"  Name="9=39 Claps 26(L)"/>
+     <Note Number="40"  Name="0=40 Mod Snare 2(L)"/>
+     <Note Number="41"  Name="1=43 Mod Tom Lw(L)"/>
+     <Note Number="42"  Name="2=42 HH Cl 808(L)"/>
+     <Note Number="43"  Name="3=43 Mod Tom Lw(L)"/>
+     <Note Number="44"  Name="4=44 CR HH Ft(R)"/>
+     <Note Number="45"  Name="5=45 Mod Tom Md(L)"/>
+     <Note Number="46"  Name="6=46 Mod HH Op(L)"/>
+     <Note Number="47"  Name="7=45 Mod Tom Md(L)"/>
+     <Note Number="48"  Name="8=50 Mod Tom Hi(L)"/>
+     <Note Number="49"  Name="9=49 Mod Crash 1(L)"/>
+     <Note Number="50"  Name="0=50 Mod Tom Hi(L)"/>
+     <Note Number="51"  Name="1=51 Mod Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Mod Ride 2(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Mod Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD Voc(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare Voc(L)"/>
+     <Note Number="39"  Name="9=39 Claps 34(L)"/>
+     <Note Number="40"  Name="0=40 Snare Voc(L)"/>
+     <Note Number="41"  Name="1=Tom D Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl Voc(L)"/>
+     <Note Number="43"  Name="3=Tom D Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=Tom D Md(L)"/>
+     <Note Number="46"  Name="6=HH Op Voc(L)"/>
+     <Note Number="47"  Name="7=Tom D Md(L)"/>
+     <Note Number="48"  Name="8=Tom D Hi(L)"/>
+     <Note Number="49"  Name="9=49 Gr Crash 1(L)"/>
+     <Note Number="50"  Name="0=Tom D Hi(L)"/>
+     <Note Number="51"  Name="1=51 Gr Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Mod Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash El 808(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 Conga Hi 808(L)"/>
+     <Note Number="61"  Name="1=61 Conga Lw 808(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Slap 808(L)"/>
+     <Note Number="63"  Name="3=63 Conga 1 808(L)"/>
+     <Note Number="64"  Name="4=64 Conga 2 808(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD Ul(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare Ul 1(L)"/>
+     <Note Number="39"  Name="9=39 Claps 01(L)"/>
+     <Note Number="40"  Name="0=40 Snare Ul 2(L)"/>
+     <Note Number="41"  Name="1=43 Gr Tom Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl Ul(L)"/>
+     <Note Number="43"  Name="3=43 Gr Tom Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=47 Gr Tom Md(L)"/>
+     <Note Number="46"  Name="6=HH Op Ul(L)"/>
+     <Note Number="47"  Name="7=47 Gr Tom Md(L)"/>
+     <Note Number="48"  Name="8=50 Gr Tom Hi(L)"/>
+     <Note Number="49"  Name="9=49 Mod Crash 1(L)"/>
+     <Note Number="50"  Name="0=50 Gr Tom Hi(L)"/>
+     <Note Number="51"  Name="1=51 Mod Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Mod Ride 2(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi1(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl1(L)"/>
+     <Note Number="63"  Name="3=63 Conga Low(L)"/>
+     <Note Number="64"  Name="4=64 Gonga Tone(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=35 BD 05(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare Sl(L)"/>
+     <Note Number="39"  Name="9=39 Claps 26(L)"/>
+     <Note Number="40"  Name="0=40 Snare Sl(L)"/>
+     <Note Number="41"  Name="1=43 Analog Tom Lw (L)"/>
+     <Note Number="42"  Name="2=HH Cl Voc(L)"/>
+     <Note Number="43"  Name="3=43 Analog Tom Lw (L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=47 Analog Tom Md (L)"/>
+     <Note Number="46"  Name="6=HH Op Voc(L)"/>
+     <Note Number="47"  Name="7=47 Analog Tom Md (L)"/>
+     <Note Number="48"  Name="8=50 Analog Tom Hi (L)"/>
+     <Note Number="49"  Name="9=49 Gr Crash 1(L)"/>
+     <Note Number="50"  Name="0=50 Analog Tom Hi (L)"/>
+     <Note Number="51"  Name="1=51 Gr Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Mod Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash El 808(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 Conga Hi 808(L)"/>
+     <Note Number="61"  Name="1=61 Conga Lw 808(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Slap 808(L)"/>
+     <Note Number="63"  Name="3=63 Conga 1 808(L)"/>
+     <Note Number="64"  Name="4=64 Conga 2 808(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD Sim(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare Sim(L)"/>
+     <Note Number="39"  Name="9=39 Claps 26(L)"/>
+     <Note Number="40"  Name="0=40 Snare Sim(L)"/>
+     <Note Number="41"  Name="1=Tom Sim Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl Sim(L)"/>
+     <Note Number="43"  Name="3=Tom Sim Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=Tom Sim Md(L)"/>
+     <Note Number="46"  Name="6=HH Op Sim(L)"/>
+     <Note Number="47"  Name="7=Tom Sim Md(L)"/>
+     <Note Number="48"  Name="8=Tom Sim Hi(L)"/>
+     <Note Number="49"  Name="9=49 El Crash(L)"/>
+     <Note Number="50"  Name="0=Tom Sim Hi(L)"/>
+     <Note Number="51"  Name="1=51 909Ridecymb(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Mod Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Low(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl(L)"/>
+     <Note Number="63"  Name="3=63 Conga Hi(L)"/>
+     <Note Number="64"  Name="4=64 Low Conga(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD 03(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare 03(L)"/>
+     <Note Number="39"  Name="9=39 Claps 01(L)"/>
+     <Note Number="40"  Name="0=40 Snare 03(L)"/>
+     <Note Number="41"  Name="1=41 Tom 1 808(L)"/>
+     <Note Number="42"  Name="2=HH Cl 03(L)"/>
+     <Note Number="43"  Name="3=41 Tom 1 808(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=45 Tom 3 808(L)"/>
+     <Note Number="46"  Name="6=HH Op 03(L)"/>
+     <Note Number="47"  Name="7=45 Tom 3 808(L)"/>
+     <Note Number="48"  Name="8=48 Tom 5 808(L)"/>
+     <Note Number="49"  Name="9=49 El Crash(L)"/>
+     <Note Number="50"  Name="0=48 Tom 5 808(L)"/>
+     <Note Number="51"  Name="1=51 909Ridecymb(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi1(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl1(L)"/>
+     <Note Number="63"  Name="3=63 Conga Low(L)"/>
+     <Note Number="64"  Name="4=64 Gonga Tone(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD 04(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare 04(L)"/>
+     <Note Number="39"  Name="9=39 Claps 34(L)"/>
+     <Note Number="40"  Name="0=40 Snare 04(L)"/>
+     <Note Number="41"  Name="1=Tom Ac Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl 04(L)"/>
+     <Note Number="43"  Name="3=Tom Ac Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=Tom Ac Md(L)"/>
+     <Note Number="46"  Name="6=HH Op 04(L)"/>
+     <Note Number="47"  Name="7=Tom Ac Md(L)"/>
+     <Note Number="48"  Name="8=Tom Ac Hi(L)"/>
+     <Note Number="49"  Name="9=49 Gr Crash 1(L)"/>
+     <Note Number="50"  Name="0=Tom Ac Hi(L)"/>
+     <Note Number="51"  Name="1=51 Gr Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Mod Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash El 808(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 Conga Hi 808(L)"/>
+     <Note Number="61"  Name="1=61 Conga Lw 808(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Slap 808(L)"/>
+     <Note Number="63"  Name="3=63 Conga 1 808(L)"/>
+     <Note Number="64"  Name="4=64 Conga 2 808(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD 05(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare 05(L)"/>
+     <Note Number="39"  Name="9=39 Claps 08(L)"/>
+     <Note Number="40"  Name="0=40 Snare 05(L)"/>
+     <Note Number="41"  Name="1=Tom Sim Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl 05(L)"/>
+     <Note Number="43"  Name="3=Tom Sim Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=Tom Sim Md(L)"/>
+     <Note Number="46"  Name="6=HH Op 05(L)"/>
+     <Note Number="47"  Name="7=Tom Sim Md(L)"/>
+     <Note Number="48"  Name="8=Tom Sim Hi(L)"/>
+     <Note Number="49"  Name="9=49 Mod Crash 1(L)"/>
+     <Note Number="50"  Name="0=Tom Sim Hi(L)"/>
+     <Note Number="51"  Name="1=51 Mod Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Mod Ride 2(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Gr Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD 06(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare 06(L)"/>
+     <Note Number="39"  Name="9=39 808 Claps(L)"/>
+     <Note Number="40"  Name="0=40 Snare 06(L)"/>
+     <Note Number="41"  Name="1=41 909lowtom(L)"/>
+     <Note Number="42"  Name="2=HH Cl 06(L)"/>
+     <Note Number="43"  Name="3=41 909lowtom(L)"/>
+     <Note Number="44"  Name="4=39 Claps 34(L)"/>
+     <Note Number="45"  Name="5=45 909midtom(L)"/>
+     <Note Number="46"  Name="6=HH Op 06(L)"/>
+     <Note Number="47"  Name="7=45 909midtom(L)"/>
+     <Note Number="48"  Name="8=48 909hitom(L)"/>
+     <Note Number="49"  Name="9=49 El Crash(L)"/>
+     <Note Number="50"  Name="0=48 909hitom(L)"/>
+     <Note Number="51"  Name="1=51 909Ridecymb(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Mod Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 Conga Hi 808(L)"/>
+     <Note Number="61"  Name="1=61 Conga Lw 808(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Slap 808(L)"/>
+     <Note Number="63"  Name="3=63 Conga 1 808(L)"/>
+     <Note Number="64"  Name="4=64 Conga 2 808(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD Ul(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare Rb(L)"/>
+     <Note Number="39"  Name="9=39 808 Claps(L)"/>
+     <Note Number="40"  Name="0=40 Snare RB(L)"/>
+     <Note Number="41"  Name="1=43 Analog Tom Lw (L)"/>
+     <Note Number="42"  Name="2=HH Cl Ul(L)"/>
+     <Note Number="43"  Name="3=43 Analog Tom Lw (L)"/>
+     <Note Number="44"  Name="4=39 Claps 34(L)"/>
+     <Note Number="45"  Name="5=47 Analog Tom Md (L)"/>
+     <Note Number="46"  Name="6=HH Op Ul(R)"/>
+     <Note Number="47"  Name="7=47 Analog Tom Md (R)"/>
+     <Note Number="48"  Name="8=50 Analog Tom Hi (L)"/>
+     <Note Number="49"  Name="9=49 Gr Crash 1(L)"/>
+     <Note Number="50"  Name="0=50 Analog Tom Hi (R)"/>
+     <Note Number="51"  Name="1=51 Gr Ride 1(R)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(R)"/>
+     <Note Number="54"  Name="4=39 Claps 01(L)"/>
+     <Note Number="55"  Name="5=39 Claps 01(L)"/>
+     <Note Number="56"  Name="6=39 Claps 01(L)"/>
+     <Note Number="57"  Name="7=57 Crash El 808(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=35 BD Voc(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare Fat(L)"/>
+     <Note Number="39"  Name="9=39 Claps 08(L)"/>
+     <Note Number="40"  Name="0=40 Snare Fat(L)"/>
+     <Note Number="41"  Name="1=43 Gr Tom Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl Voc(L)"/>
+     <Note Number="43"  Name="3=43 Gr Tom Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=47 Gr Tom Md(L)"/>
+     <Note Number="46"  Name="6=HH Op Voc(L)"/>
+     <Note Number="47"  Name="7=47 Gr Tom Md(L)"/>
+     <Note Number="48"  Name="8=50 Gr Tom Hi(L)"/>
+     <Note Number="49"  Name="9=49 Mod Crash 1(L)"/>
+     <Note Number="50"  Name="0=50 Gr Tom Hi(L)"/>
+     <Note Number="51"  Name="1=51 Mod Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Mod Ride 2(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Gr Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=35 BD Sim(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare Fat(L)"/>
+     <Note Number="39"  Name="9=39 Claps 26(L)"/>
+     <Note Number="40"  Name="0=38 Snare Sim(L)"/>
+     <Note Number="41"  Name="1=Tom Sim Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl Sim(L)"/>
+     <Note Number="43"  Name="3=Tom Sim Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=Tom Sim Md(L)"/>
+     <Note Number="46"  Name="6=HH Op Sim(L)"/>
+     <Note Number="47"  Name="7=Tom Sim Md(L)"/>
+     <Note Number="48"  Name="8=Tom Sim Hi(L)"/>
+     <Note Number="49"  Name="9=49 El Crash(L)"/>
+     <Note Number="50"  Name="0=Tom Sim Hi(L)"/>
+     <Note Number="51"  Name="1=51 909Ridecymb(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Mod Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Low(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl(L)"/>
+     <Note Number="63"  Name="3=63 Conga Hi(L)"/>
+     <Note Number="64"  Name="4=64 Low Conga(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="35"  Name="5=35 BD P1(L)"/>
+     <Note Number="36"  Name="6=36 BD P1(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare P1(L)"/>
+     <Note Number="39"  Name="9=39 808 Claps(L)"/>
+     <Note Number="40"  Name="0=40 Snare P1(L)"/>
+     <Note Number="41"  Name="1=43 Gr Tom Lw(L)"/>
+     <Note Number="42"  Name="2=42 HAT Cl P1(L)"/>
+     <Note Number="43"  Name="3=43 Gr Tom Lw(L)"/>
+     <Note Number="44"  Name="4=39 Claps 34(L)"/>
+     <Note Number="45"  Name="5=47 Gr Tom Md(L)"/>
+     <Note Number="46"  Name="6=46 HH Op P1(L)"/>
+     <Note Number="47"  Name="7=47 Gr Tom Md(L)"/>
+     <Note Number="48"  Name="8=50 Gr Tom Hi(L)"/>
+     <Note Number="49"  Name="9=49 Crash Cym1(L)"/>
+     <Note Number="50"  Name="0=50 Gr Tom Hi(L)"/>
+     <Note Number="51"  Name="1=51 Ride 1(R)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Splash Cym(L)"/>
+     <Note Number="56"  Name="6=Cowbell 2(L)"/>
+     <Note Number="57"  Name="7=57 Crash Cym2(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride Ping(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi1(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl1(L)"/>
+     <Note Number="63"  Name="3=63 Conga Low(L)"/>
+     <Note Number="64"  Name="4=64 Gonga Tone(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD P2(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare P2(L)"/>
+     <Note Number="39"  Name="9=39 Claps 34(L)"/>
+     <Note Number="40"  Name="0=40 Snare P2(L)"/>
+     <Note Number="41"  Name="1=Tom D Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl P2(L)"/>
+     <Note Number="43"  Name="3=Tom D Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=Tom D Md(L)"/>
+     <Note Number="46"  Name="6=HH Op P2(L)"/>
+     <Note Number="47"  Name="7=Tom D Md(L)"/>
+     <Note Number="48"  Name="8=Tom D Hi(L)"/>
+     <Note Number="49"  Name="9=49 Gr Crash 1(L)"/>
+     <Note Number="50"  Name="0=Tom D Hi(L)"/>
+     <Note Number="51"  Name="1=51 Gr Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Mod Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash El 808(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD Sim(L)"/>
+     <Note Number="37"  Name="7=37 909Rimsh(L)"/>
+     <Note Number="38"  Name="8=38 909Snare(L)"/>
+     <Note Number="39"  Name="9=39 808 Claps(L)"/>
+     <Note Number="40"  Name="0=40 Snare RB(L)"/>
+     <Note Number="41"  Name="1=Tom Ac Lw(L)"/>
+     <Note Number="42"  Name="2=42 HH Cl 808(L)"/>
+     <Note Number="43"  Name="3=Tom Ac Lw(L)"/>
+     <Note Number="44"  Name="4=44 CR HH Ft(R)"/>
+     <Note Number="45"  Name="5=Tom Ac Md(L)"/>
+     <Note Number="46"  Name="6=46 Mod HH Op(L)"/>
+     <Note Number="47"  Name="7=Tom Ac Md(L)"/>
+     <Note Number="48"  Name="8=Tom Ac Hi(L)"/>
+     <Note Number="49"  Name="9=49 Gr Crash 1(L)"/>
+     <Note Number="50"  Name="0=Tom Ac Hi(L)"/>
+     <Note Number="51"  Name="1=51 Gr Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=Cowbell 2(L)"/>
+     <Note Number="57"  Name="7=57 Crash El 808(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas 02(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="35"  Name="5=35 Mod BD 1(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=Live Snare 2(R)"/>
+     <Note Number="39"  Name="9=39 808 Claps(L)"/>
+     <Note Number="40"  Name="0=40 Snare 2 808(L)"/>
+     <Note Number="41"  Name="1=Tom Ac Lw(L)"/>
+     <Note Number="42"  Name="2=42 HH Cl Ch(L)"/>
+     <Note Number="43"  Name="3=Tom Ac Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(L)"/>
+     <Note Number="45"  Name="5=Tom Ac Md(L)"/>
+     <Note Number="46"  Name="6=46 HH Brush Op(L)"/>
+     <Note Number="47"  Name="7=Tom Ac Md(L)"/>
+     <Note Number="48"  Name="8=Tom Ac Hi(L)"/>
+     <Note Number="49"  Name="9=49 Crash Cym1(L)"/>
+     <Note Number="50"  Name="0=Tom Ac Hi(L)"/>
+     <Note Number="51"  Name="1=51 Ride 1(R)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Splash Cym(L)"/>
+     <Note Number="56"  Name="6=Cowbell 2(L)"/>
+     <Note Number="57"  Name="7=57 Crash Cym2(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride Ping(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi1(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl1(L)"/>
+     <Note Number="63"  Name="3=63 Conga Low(L)"/>
+     <Note Number="64"  Name="4=64 Gonga Tone(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=35 BD Sim(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare P2(L)"/>
+     <Note Number="39"  Name="9=39 Claps 26(L)"/>
+     <Note Number="40"  Name="0=Snare Fly(L)"/>
+     <Note Number="41"  Name="1=43 Mod Tom Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl P2(L)"/>
+     <Note Number="43"  Name="3=43 Mod Tom Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=45 Mod Tom Md(L)"/>
+     <Note Number="46"  Name="6=HH Op P2(L)"/>
+     <Note Number="47"  Name="7=45 Mod Tom Md(L)"/>
+     <Note Number="48"  Name="8=50 Mod Tom Hi(L)"/>
+     <Note Number="49"  Name="9=49 Mod Crash 1(L)"/>
+     <Note Number="50"  Name="0=50 Mod Tom Hi(L)"/>
+     <Note Number="51"  Name="1=51 Mod Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Mod Ride 2(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Mod Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Low(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl(L)"/>
+     <Note Number="63"  Name="3=63 Conga Hi(L)"/>
+     <Note Number="64"  Name="4=64 Low Conga(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD 05(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=Snare Fly(L)"/>
+     <Note Number="39"  Name="9=39 Claps 01(L)"/>
+     <Note Number="40"  Name="0=40 Snare 05(L)"/>
+     <Note Number="41"  Name="1=43 Analog Tom Lw (L)"/>
+     <Note Number="42"  Name="2=HH Cl 05(L)"/>
+     <Note Number="43"  Name="3=43 Analog Tom Lw (L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=47 Analog Tom Md (L)"/>
+     <Note Number="46"  Name="6=HH Op 05(L)"/>
+     <Note Number="47"  Name="7=47 Analog Tom Md (L)"/>
+     <Note Number="48"  Name="8=50 Analog Tom Hi (L)"/>
+     <Note Number="49"  Name="9=49 El Crash(L)"/>
+     <Note Number="50"  Name="0=50 Analog Tom Hi (L)"/>
+     <Note Number="51"  Name="1=51 909Ridecymb(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi1(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl1(L)"/>
+     <Note Number="63"  Name="3=63 Conga Low(L)"/>
+     <Note Number="64"  Name="4=64 Gonga Tone(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=35 BD 04(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Gr Snare 1(L)"/>
+     <Note Number="39"  Name="9=39 Claps 08(L)"/>
+     <Note Number="40"  Name="0=40 Snare 04(L)"/>
+     <Note Number="41"  Name="1=43 Gr Tom Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl 020(L)"/>
+     <Note Number="43"  Name="3=43 Gr Tom Lw(L)"/>
+     <Note Number="44"  Name="4=44 CR HH Ft(R)"/>
+     <Note Number="45"  Name="5=47 Gr Tom Md(L)"/>
+     <Note Number="46"  Name="6=HH Op 020(L)"/>
+     <Note Number="47"  Name="7=47 Gr Tom Md(L)"/>
+     <Note Number="48"  Name="8=50 Gr Tom Hi(L)"/>
+     <Note Number="49"  Name="9=49 El Crash(L)"/>
+     <Note Number="50"  Name="0=50 Gr Tom Hi(L)"/>
+     <Note Number="51"  Name="1=51 909Ridecymb(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Gr Cowbell(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD 04(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare 04(L)"/>
+     <Note Number="39"  Name="9=39 Claps 26(L)"/>
+     <Note Number="40"  Name="0=40 Snare 04(L)"/>
+     <Note Number="41"  Name="1=43 Gr Tom Lw(L)"/>
+     <Note Number="42"  Name="2=HH Cl 020(L)"/>
+     <Note Number="43"  Name="3=43 Gr Tom Lw(L)"/>
+     <Note Number="44"  Name="4=44 CR HH Ft(R)"/>
+     <Note Number="45"  Name="5=47 Gr Tom Md(L)"/>
+     <Note Number="46"  Name="6=HH Op 020(L)"/>
+     <Note Number="47"  Name="7=47 Gr Tom Md(L)"/>
+     <Note Number="48"  Name="8=50 Gr Tom Hi(L)"/>
+     <Note Number="49"  Name="9=49 Mod Crash 1(L)"/>
+     <Note Number="50"  Name="0=50 Gr Tom Hi(L)"/>
+     <Note Number="51"  Name="1=51 Mod Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Mod Ride 2(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=39 Claps 26(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi1(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl1(L)"/>
+     <Note Number="63"  Name="3=63 Conga Low(L)"/>
+     <Note Number="64"  Name="4=64 Gonga Tone(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 909Kick(L)"/>
+     <Note Number="37"  Name="7=37 909Rimsh(L)"/>
+     <Note Number="38"  Name="8=38 909Snare(L)"/>
+     <Note Number="39"  Name="9=39 808 Claps(L)"/>
+     <Note Number="40"  Name="0=40 Snare7 909(L)"/>
+     <Note Number="41"  Name="1=41 909lowtom(L)"/>
+     <Note Number="42"  Name="2=42 Cl HH 909(L)"/>
+     <Note Number="43"  Name="3=41 909lowtom(L)"/>
+     <Note Number="44"  Name="4=44 HH El Ft(R)"/>
+     <Note Number="45"  Name="5=45 909midtom(L)"/>
+     <Note Number="46"  Name="6=46 HH Opn 909(L)"/>
+     <Note Number="47"  Name="7=45 909midtom(L)"/>
+     <Note Number="48"  Name="8=48 909hitom(L)"/>
+     <Note Number="49"  Name="9=49 El Crash(L)"/>
+     <Note Number="50"  Name="0=48 909hitom(L)"/>
+     <Note Number="51"  Name="1=51 909Ridecymb(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Gr Ride Bell(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=Cowbell 2(L)"/>
+     <Note Number="57"  Name="7=57 Crash 07(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 909Hibongop(L)"/>
+     <Note Number="61"  Name="1=61 909Lobongop(L)"/>
+     <Note Number="62"  Name="2=62 909Hicongsl(L)"/>
+     <Note Number="63"  Name="3=63 909Hicongop(L)"/>
+     <Note Number="64"  Name="4=64 909Locongop(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="70"  Name="0=70 Maracas 02(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 BD 2 808(L)"/>
+     <Note Number="37"  Name="7=37 Rim Snare 808(L)"/>
+     <Note Number="38"  Name="8=38 Snare 1 808(L)"/>
+     <Note Number="39"  Name="9=39 808 Claps(L)"/>
+     <Note Number="40"  Name="0=40 Snare 2 808(L)"/>
+     <Note Number="41"  Name="1=41 Tom 1 808(L)"/>
+     <Note Number="42"  Name="2=42 HH Cl 808(L)"/>
+     <Note Number="43"  Name="3=41 Tom 1 808(L)"/>
+     <Note Number="44"  Name="4=44 CR HH Ft(R)"/>
+     <Note Number="45"  Name="5=45 Tom 3 808(L)"/>
+     <Note Number="46"  Name="6=46 HH Op 808(L)"/>
+     <Note Number="47"  Name="7=45 Tom 3 808(L)"/>
+     <Note Number="48"  Name="8=48 Tom 5 808(L)"/>
+     <Note Number="49"  Name="9=49 Crash 1808(L)"/>
+     <Note Number="50"  Name="0=48 Tom 5 808(L)"/>
+     <Note Number="51"  Name="1=51 Ride 1 808(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Synt RBell(L)"/>
+     <Note Number="54"  Name="4=54 Gr Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Cowbell 808(L)"/>
+     <Note Number="57"  Name="7=57 Crash El 808(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 Conga Hi 808(L)"/>
+     <Note Number="61"  Name="1=61 Conga Lw 808(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Slap 808(L)"/>
+     <Note Number="63"  Name="3=63 Conga 1 808(L)"/>
+     <Note Number="64"  Name="4=64 Conga 2 808(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="70"  Name="0=70 Maracas 02(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=36 CR BD 2(L)"/>
+     <Note Number="37"  Name="7=37 CR Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 CR Snare 1(L)"/>
+     <Note Number="39"  Name="9=37 Rim Shot(L)"/>
+     <Note Number="40"  Name="0=40 CR Snare 2(L)"/>
+     <Note Number="41"  Name="1=41 CR Tom 1(L)"/>
+     <Note Number="42"  Name="2=42 CR HH Cl(L)"/>
+     <Note Number="43"  Name="3=41 CR Tom 1(L)"/>
+     <Note Number="44"  Name="4=44 CR HH Ft(R)"/>
+     <Note Number="45"  Name="5=45 CR Tom 3(L)"/>
+     <Note Number="46"  Name="6=46 CR HH Op(L)"/>
+     <Note Number="47"  Name="7=45 CR Tom 3(L)"/>
+     <Note Number="48"  Name="8=48 CR Tom 5(L)"/>
+     <Note Number="49"  Name="9=49 Crash 1808(L)"/>
+     <Note Number="50"  Name="0=48 CR Tom 5(R)"/>
+     <Note Number="51"  Name="1=51 Ride 1 808(L)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Synt RBell(L)"/>
+     <Note Number="54"  Name="4=54 CR Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Mod Splash(L)"/>
+     <Note Number="56"  Name="6=56 Cowbell 808(L)"/>
+     <Note Number="57"  Name="7=57 Crash El 808(L)"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Synth PRide(L)"/>
+     <Note Number="60"  Name="0=60 Conga Hi 808(L)"/>
+     <Note Number="61"  Name="1=61 Conga Lw 808(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Slap 808(L)"/>
+     <Note Number="63"  Name="3=63 Conga 1 808(L)"/>
+     <Note Number="64"  Name="4=64 Conga 2 808(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="35"  Name="5=36 BD 4-2 Lv(L)"/>
+     <Note Number="36"  Name="6=36 Gr BD 2(L)"/>
+     <Note Number="38"  Name="8=38 Gr Snare 1(L)"/>
+     <Note Number="40"  Name="0=Live Snare 2(L)"/>
+     <Note Number="41"  Name="1=Tom Ac Lw(L)"/>
+     <Note Number="42"  Name="2=42 HH Closd(L)"/>
+     <Note Number="43"  Name="3=Tom Ac Lw(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(R)"/>
+     <Note Number="45"  Name="5=Tom Ac Md(L)"/>
+     <Note Number="46"  Name="6=46 OPHH 03(L)"/>
+     <Note Number="47"  Name="7=Tom Ac Md(L)"/>
+     <Note Number="48"  Name="8=Tom Ac Hi(L)"/>
+     <Note Number="49"  Name="9=49 Crash Cym1(L)"/>
+     <Note Number="50"  Name="0=Tom Ac Hi(L)"/>
+     <Note Number="51"  Name="1=51 Ride 1(R)"/>
+     <Note Number="52"  Name="2=52 Elec China(L)"/>
+     <Note Number="53"  Name="3=53 Ride Bell(L)"/>
+     <Note Number="54"  Name="4=37 Rim Shot(L)"/>
+     <Note Number="55"  Name="5=37 Rim Shot(L)"/>
+     <Note Number="56"  Name="6=37 Rim Shot(L)"/>
+     <Note Number="57"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="58"  Name="8=37 Rim Shot(L)"/>
+     <Note Number="59"  Name="9=59 Ride Ping(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi1(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl1(L)"/>
+     <Note Number="63"  Name="3=63 Conga Low(L)"/>
+     <Note Number="64"  Name="4=64 Gonga Tone(L)"/>
+     <Note Number="65"  Name="5=65 Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="35"  Name="5=35 BD Brush(L)"/>
+     <Note Number="36"  Name="6=36 BD Br 10(L)"/>
+     <Note Number="37"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="38"  Name="8=38 Snare BR #(L)"/>
+     <Note Number="39"  Name="9=38 Snare Brush 1#(L)"/>
+     <Note Number="40"  Name="0=40 Brush Swrl#(L)"/>
+     <Note Number="41"  Name="1=#Brush Tom(L)"/>
+     <Note Number="42"  Name="2=42 HH Brush Cl(L)"/>
+     <Note Number="43"  Name="3=#Brush Tom(L)"/>
+     <Note Number="44"  Name="4=44 HH Foot BR(L)"/>
+     <Note Number="45"  Name="5=#Brush Tom(L)"/>
+     <Note Number="46"  Name="6=46 HH Brush Op(L)"/>
+     <Note Number="47"  Name="7=#Brush Tom(R)"/>
+     <Note Number="48"  Name="8=#Brush Tom(R)"/>
+     <Note Number="49"  Name="9=49 Brush Cymbal 1(L)"/>
+     <Note Number="50"  Name="0=#Brush Tom(R)"/>
+     <Note Number="51"  Name="1=51 Brush Ride 1(L)"/>
+     <Note Number="52"  Name="2=52 China Crash M1(L)"/>
+     <Note Number="53"  Name="3=53 Ride Bell1(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine(L)"/>
+     <Note Number="55"  Name="5=55 Splash Symbal(L)"/>
+     <Note Number="56"  Name="6=56 Cowbell1(L)"/>
+     <Note Number="57"  Name="7=57 Brush Cymbal 2(L)"/>
+     <Note Number="58"  Name="8=19 Finger Slap(L)"/>
+     <Note Number="59"  Name="9=59 Brush Ride 2(L)"/>
+     <Note Number="60"  Name="0=60 Bongo Hi Br(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw Br(L)"/>
+     <Note Number="62"  Name="2=62 Conga Slap Br(L)"/>
+     <Note Number="63"  Name="3=63 Conga Hi Br(R)"/>
+     <Note Number="64"  Name="4=64 Conga Lw Br(L)"/>
+     <Note Number="65"  Name="5=65 Br Timbale Hi(L)"/>
+     <Note Number="66"  Name="6=66 Br Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=37 Rim Shot(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=44 HH Foot BR(L)"/>
+     <Note Number="29"  Name="9=46 HH Brush Op(L)"/>
+     <Note Number="30"  Name="0=51 Ride 1(R)"/>
+     <Note Number="31"  Name="1=37 Mod Stick(L)"/>
+     <Note Number="32"  Name="2=37 Rim Snare 808(L)"/>
+     <Note Number="33"  Name="3=37 CR Rim Shot(L)"/>
+     <Note Number="34"  Name="4=80 Mute Syn Trian(L)"/>
+     <Note Number="35"  Name="5=BD 01(L)"/>
+     <Note Number="36"  Name="6=36 BD 4-1 Lv(L)"/>
+     <Note Number="37"  Name="7=Live Stick(L)"/>
+     <Note Number="38"  Name="8=Snare 01(L)"/>
+     <Note Number="39"  Name="9=85 Castanet(L)"/>
+     <Note Number="40"  Name="0=Live Snare 1(L)"/>
+     <Note Number="41"  Name="1=Timpani F3(L)"/>
+     <Note Number="42"  Name="2=Timpani F3(L)"/>
+     <Note Number="43"  Name="3=Timpani F3(L)"/>
+     <Note Number="44"  Name="4=Timpani F3(L)"/>
+     <Note Number="45"  Name="5=Timpani F3(L)"/>
+     <Note Number="46"  Name="6=Timpani F3(L)"/>
+     <Note Number="47"  Name="7=Timpani F3(L)"/>
+     <Note Number="48"  Name="8=Timpani F3(L)"/>
+     <Note Number="49"  Name="9=Timpani F3(L)"/>
+     <Note Number="50"  Name="0=Timpani F3(L)"/>
+     <Note Number="51"  Name="1=Timpani F3(L)"/>
+     <Note Number="52"  Name="2=Timpani F3(L)"/>
+     <Note Number="53"  Name="3=Timpani F3(L)"/>
+     <Note Number="54"  Name="4=54 Tambourine Hi1(L)"/>
+     <Note Number="55"  Name="5=55 Splash Cym(L)"/>
+     <Note Number="56"  Name="6=Cowbell 2(L)"/>
+     <Note Number="57"  Name="7=59 Piatti"/>
+     <Note Number="58"  Name="8=58 Vibraslap(L)"/>
+     <Note Number="59"  Name="9=59 Piatti"/>
+     <Note Number="60"  Name="0=60 Bongo Hi1(L)"/>
+     <Note Number="61"  Name="1=61 Bongo Lw(L)"/>
+     <Note Number="62"  Name="2=62 Bongo Sl1(L)"/>
+     <Note Number="63"  Name="3=63 Conga Low(L)"/>
+     <Note Number="64"  Name="4=64 Gonga Tone(L)"/>
+     <Note Number="65"  Name="5=37 Rim Shot(L)"/>
+     <Note Number="66"  Name="6=66 Timbale Lw(L)"/>
+     <Note Number="67"  Name="7=67 Syn Agogo H(L)"/>
+     <Note Number="68"  Name="8=67 Syn Agogo H(L)"/>
+     <Note Number="69"  Name="9=69 Cabasa(L)"/>
+     <Note Number="70"  Name="0=70 Maracas Bk(L)"/>
+     <Note Number="71"  Name="1=71 Whistle Hi(R)"/>
+     <Note Number="72"  Name="2=72 Whistle Long(L)"/>
+     <Note Number="73"  Name="3=73 Guiro Synth Sh(L)"/>
+     <Note Number="74"  Name="4=74 Guiro Synth Lo(L)"/>
+     <Note Number="75"  Name="5=75 Clave(L)"/>
+     <Note Number="76"  Name="6=76 Hi WoodBl(L)"/>
+     <Note Number="77"  Name="7=76 Hi WoodBl(L)"/>
+     <Note Number="78"  Name="8=78 Cuica H(L)"/>
+     <Note Number="79"  Name="9=79 Cuica Low(L)"/>
+     <Note Number="80"  Name="0=80 Mute Syn Trian(L)"/>
+     <Note Number="81"  Name="1=81 Syn Triangle(L)"/>
+     <Note Number="82"  Name="2=82 Shaker(L)"/>
+     <Note Number="83"  Name="3=83 Jingle Bell(L)"/>
+     <Note Number="84"  Name="4=84 Bell Tree(L)"/>
+     <Note Number="85"  Name="5=85 Castanet(L)"/>
+     <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
+     <Note Number="87"  Name="7=87 Open Surdo(L)"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

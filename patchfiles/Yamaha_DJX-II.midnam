@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Yamaha</Manufacturer>
+    <Model>DJX-II</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="DJXII Bank 0">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="000"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="1"  Name="1 Bright Piano"  ProgramChange="1"/>
+          <Patch Number="7"  Name="7 Clavi"  ProgramChange="7"/>
+          <Patch Number="9"  Name="9 Glocken"  ProgramChange="9"/>
+          <Patch Number="11"  Name="11 Vibes"  ProgramChange="11"/>
+          <Patch Number="12"  Name="12 Marimba"  ProgramChange="12"/>
+          <Patch Number="17"  Name="17 Perc Org"  ProgramChange="17"/>
+          <Patch Number="26"  Name="26 Jazz"  ProgramChange="26"/>
+          <Patch Number="27"  Name="27 Clean 2"  ProgramChange="27"/>
+          <Patch Number="30"  Name="30 Distort"  ProgramChange="30"/>
+          <Patch Number="32"  Name="32 AcousBass"  ProgramChange="32"/>
+          <Patch Number="35"  Name="35 Fretless"  ProgramChange="35"/>
+          <Patch Number="38"  Name="38 SynthBass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 SynBass"  ProgramChange="39"/>
+          <Patch Number="48"  Name="48 String 2"  ProgramChange="48"/>
+          <Patch Number="49"  Name="49 String 3"  ProgramChange="49"/>
+          <Patch Number="52"  Name="52 Choir Aah"  ProgramChange="52"/>
+          <Patch Number="56"  Name="56 Trumpet"  ProgramChange="56"/>
+          <Patch Number="59"  Name="59 MuteTrump"  ProgramChange="59"/>
+          <Patch Number="61"  Name="61 BrssSect"  ProgramChange="61"/>
+          <Patch Number="62"  Name="62 SynthBrss1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="63 SynthBrss2"  ProgramChange="63"/>
+          <Patch Number="65"  Name="65 Alto Sax"  ProgramChange="65"/>
+          <Patch Number="73"  Name="73 Flute"  ProgramChange="73"/>
+          <Patch Number="82"  Name="82 CalliopeLd"  ProgramChange="82"/>
+          <Patch Number="89"  Name="89 Warm Pad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="90 Poly Synth"  ProgramChange="90"/>
+          <Patch Number="92"  Name="92 Bowed Pad"  ProgramChange="92"/>
+          <Patch Number="94"  Name="94 Halo Pad"  ProgramChange="94"/>
+          <Patch Number="95"  Name="95 Sweep Pad"  ProgramChange="95"/>
+          <Patch Number="96"  Name="96 Rain"  ProgramChange="96"/>
+          <Patch Number="101"  Name="101 Goblins"  ProgramChange="101"/>
+          <Patch Number="102"  Name="102 Echos"  ProgramChange="102"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 112">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="112"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="4"  Name="4 Funky EP"  ProgramChange="4"/>
+          <Patch Number="17"  Name="17 Jazz Org"  ProgramChange="17"/>
+          <Patch Number="18"  Name="18 Rock Org"  ProgramChange="18"/>
+          <Patch Number="27"  Name="27 Clean Gtr"  ProgramChange="27"/>
+          <Patch Number="28"  Name="28 Muted Gtr"  ProgramChange="28"/>
+          <Patch Number="30"  Name="30 Dist 5th"  ProgramChange="30"/>
+          <Patch Number="33"  Name="33 Fingr Bass"  ProgramChange="33"/>
+          <Patch Number="34"  Name="34 Pick Bass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="35 Fretless"  ProgramChange="35"/>
+          <Patch Number="38"  Name="38 SynthBass1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Analg Bass"  ProgramChange="39"/>
+          <Patch Number="48"  Name="48 String 1"  ProgramChange="48"/>
+          <Patch Number="50"  Name="50 Syn Strgs"  ProgramChange="50"/>
+          <Patch Number="61"  Name="61 Bright Brs"  ProgramChange="61"/>
+          <Patch Number="73"  Name="73 Coco Flute"  ProgramChange="73"/>
+          <Patch Number="80"  Name="80 Sqr Lead 1"  ProgramChange="80"/>
+          <Patch Number="81"  Name="81 Saw Lead"  ProgramChange="81"/>
+          <Patch Number="83"  Name="83 Cut Glass"  ProgramChange="83"/>
+          <Patch Number="84"  Name="84 Adrenaline"  ProgramChange="84"/>
+          <Patch Number="85"  Name="85 Fragile"  ProgramChange="85"/>
+          <Patch Number="87"  Name="87 Killer S"  ProgramChange="87"/>
+          <Patch Number="90"  Name="90 Sequenza"  ProgramChange="90"/>
+          <Patch Number="91"  Name="91 Trance"  ProgramChange="91"/>
+          <Patch Number="94"  Name="94 Insomnia"  ProgramChange="94"/>
+          <Patch Number="95"  Name="95 Wave 2001"  ProgramChange="95"/>
+          <Patch Number="126"  Name="126 Turntable"  ProgramChange="126"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 113">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="113"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="16"  Name="16 Cheez Organ"  ProgramChange="16"/>
+          <Patch Number="26"  Name="26 Octave Guitar"  ProgramChange="26"/>
+          <Patch Number="27"  Name="27 60's Clean"  ProgramChange="27"/>
+          <Patch Number="38"  Name="38 Techno Bass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Blip Bass"  ProgramChange="39"/>
+          <Patch Number="50"  Name="50 StringPad"  ProgramChange="50"/>
+          <Patch Number="55"  Name="55 Sharp Hit"  ProgramChange="55"/>
+          <Patch Number="62"  Name="62 Jump Brass"  ProgramChange="62"/>
+          <Patch Number="80"  Name="80 Square Lead 2"  ProgramChange="80"/>
+          <Patch Number="81"  Name="81 Sawtooth Lead 2"  ProgramChange="81"/>
+          <Patch Number="84"  Name="84 Talkbox"  ProgramChange="84"/>
+          <Patch Number="91"  Name="91 Amber"  ProgramChange="91"/>
+          <Patch Number="115"  Name="115 Claps-X"  ProgramChange="115"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 114">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="114"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="17"  Name="17 MissU"  ProgramChange="17"/>
+          <Patch Number="38"  Name="38 Bassline"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Snap Bass"  ProgramChange="39"/>
+          <Patch Number="62"  Name="62 Techno Brass"  ProgramChange="62"/>
+          <Patch Number="84"  Name="84 Acid Sync"  ProgramChange="84"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 115">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="115"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="17"  Name="17 R&amp;B Organ"  ProgramChange="17"/>
+          <Patch Number="38"  Name="38 Fish 303"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Old Mini"  ProgramChange="39"/>
+          <Patch Number="80"  Name="80 Psyche"  ProgramChange="80"/>
+          <Patch Number="81"  Name="81 Seq Ana"  ProgramChange="81"/>
+          <Patch Number="84"  Name="84 Fuzzline"  ProgramChange="84"/>
+          <Patch Number="87"  Name="87 Happy Vibes"  ProgramChange="87"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 116">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="116"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="38"  Name="38 Kickin'B"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Power Bass"  ProgramChange="39"/>
+          <Patch Number="80"  Name="80 Alien"  ProgramChange="80"/>
+          <Patch Number="81"  Name="81 Fat"  ProgramChange="81"/>
+          <Patch Number="87"  Name="87 TriTouch"  ProgramChange="87"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 117">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="117"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="38"  Name="38 Nu Floor"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Dub Bass"  ProgramChange="39"/>
+          <Patch Number="80"  Name="80 MC-Line"  ProgramChange="80"/>
+          <Patch Number="81"  Name="81 Scary"  ProgramChange="81"/>
+          <Patch Number="87"  Name="87 Choppy"  ProgramChange="87"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 118">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="118"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="38"  Name="38 H-Bass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Factory"  ProgramChange="39"/>
+          <Patch Number="81"  Name="81 Stab"  ProgramChange="81"/>
+          <Patch Number="87"  Name="87 Reso-X"  ProgramChange="87"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 119">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="119"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="38"  Name="38 Nu Swing"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Hyper"  ProgramChange="39"/>
+          <Patch Number="81"  Name="81 Robot Lead"  ProgramChange="81"/>
+          <Patch Number="87"  Name="87 Sync"  ProgramChange="87"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 120">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="120"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="38"  Name="38 Hard Syn"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Dist Syn"  ProgramChange="39"/>
+          <Patch Number="81"  Name="81 Move It"  ProgramChange="81"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 121">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="121"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="38"  Name="38 Sin Bass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Techno"  ProgramChange="39"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 122">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="122"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="38"  Name="38 OB Bass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="39 Sub Osc"  ProgramChange="39"/>
+          <Patch Number="81"  Name="81 Break It"  ProgramChange="81"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="DJXII Bank 123">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="123"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="0 AintGoinOut1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="1 AintGoinOut2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="2 Beat"  ProgramChange="2"/>
+          <Patch Number="3"  Name="3 ClapYrHnds"  ProgramChange="3"/>
+          <Patch Number="4"  Name="4 Clib"  ProgramChange="4"/>
+          <Patch Number="5"  Name="5 ComOn"  ProgramChange="5"/>
+          <Patch Number="6"  Name="6 DJ"  ProgramChange="6"/>
+          <Patch Number="7"  Name="7 FeelTheBass1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="8 FeelTheBass2"  ProgramChange="8"/>
+          <Patch Number="9"  Name="9 FeelTheBass3"  ProgramChange="9"/>
+          <Patch Number="10"  Name="10 Huhh"  ProgramChange="10"/>
+          <Patch Number="11"  Name="11 KickinIt"  ProgramChange="11"/>
+          <Patch Number="12"  Name="12 Massive"  ProgramChange="12"/>
+          <Patch Number="13"  Name="13 MoveIt"  ProgramChange="13"/>
+          <Patch Number="14"  Name="14 MyFlow1"  ProgramChange="14"/>
+          <Patch Number="15"  Name="15 MyFlow2"  ProgramChange="15"/>
+          <Patch Number="16"  Name="16 MyFlow3"  ProgramChange="16"/>
+          <Patch Number="17"  Name="17 OK"  ProgramChange="17"/>
+          <Patch Number="18"  Name="18 Peace"  ProgramChange="18"/>
+          <Patch Number="19"  Name="19 PlayThat1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="20 PlayThat2"  ProgramChange="20"/>
+          <Patch Number="21"  Name="21 PlayThat3"  ProgramChange="21"/>
+          <Patch Number="22"  Name="22 RespectIs1"  ProgramChange="22"/>
+          <Patch Number="23"  Name="23 RespectIs2"  ProgramChange="23"/>
+          <Patch Number="24"  Name="24 RespectIs3"  ProgramChange="24"/>
+          <Patch Number="25"  Name="25 Scratchin"  ProgramChange="25"/>
+          <Patch Number="26"  Name="26 TheHouse"  ProgramChange="26"/>
+          <Patch Number="27"  Name="27 Uuh"  ProgramChange="27"/>
+          <Patch Number="28"  Name="28 WhatsGoin1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="29 WhatsGoin2"  ProgramChange="29"/>
+          <Patch Number="30"  Name="30 WhatsGoin3"  ProgramChange="30"/>
+          <Patch Number="31"  Name="31 Wow"  ProgramChange="31"/>
+          <Patch Number="32"  Name="32 YeahWhats1"  ProgramChange="32"/>
+          <Patch Number="33"  Name="33 YeahWhats2"  ProgramChange="33"/>
+          <Patch Number="34"  Name="34 YeahWhats3"  ProgramChange="34"/>
+          <Patch Number="35"  Name="35 YoBaby1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="36 YoBaby2"  ProgramChange="36"/>
+          <Patch Number="40"  Name="40 Iamyour1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="41 Iamyour2"  ProgramChange="41"/>
+          <Patch Number="42"  Name="42 Iamyour3"  ProgramChange="42"/>
+          <Patch Number="44"  Name="44 FeelThe1"  ProgramChange="44"/>
+          <Patch Number="45"  Name="45 FeelThe1"  ProgramChange="45"/>
+          <Patch Number="46"  Name="46 FeelThe1"  ProgramChange="46"/>
+          <Patch Number="48"  Name="48 RockTheHs1"  ProgramChange="48"/>
+          <Patch Number="49"  Name="49 RockTheHs2"  ProgramChange="49"/>
+          <Patch Number="50"  Name="50 RockTheHs3"  ProgramChange="50"/>
+          <Patch Number="52"  Name="52 TheRealBs1"  ProgramChange="52"/>
+          <Patch Number="53"  Name="53 TheRealBs2"  ProgramChange="53"/>
+          <Patch Number="54"  Name="54 TheRealBs3"  ProgramChange="54"/>
+          <Patch Number="56"  Name="56 Reverse"  ProgramChange="56"/>
+          <Patch Number="64"  Name="64 DrumLoopH1"  ProgramChange="64"/>
+          <Patch Number="65"  Name="65 DrumLoopH2"  ProgramChange="65"/>
+          <Patch Number="66"  Name="66 DrumLoopH3"  ProgramChange="66"/>
+          <Patch Number="67"  Name="67 DrumLoopH4"  ProgramChange="67"/>
+          <Patch Number="68"  Name="68 DrumLoopT1"  ProgramChange="68"/>
+          <Patch Number="69"  Name="69 DrumLoopT2"  ProgramChange="69"/>
+          <Patch Number="70"  Name="70 DrumLoopT3"  ProgramChange="70"/>
+          <Patch Number="71"  Name="71 DrumLoopT4"  ProgramChange="71"/>
+          <Patch Number="80"  Name="80 Scratch 1F"  ProgramChange="80"/>
+          <Patch Number="81"  Name="81 Scratch 1B"  ProgramChange="81"/>
+          <Patch Number="82"  Name="82 Scratch 2F"  ProgramChange="82"/>
+          <Patch Number="83"  Name="83 Scratch 2B"  ProgramChange="83"/>
+          <Patch Number="84"  Name="84 Scratch 3F"  ProgramChange="84"/>
+          <Patch Number="85"  Name="85 Scratch 3B"  ProgramChange="85"/>
+          <Patch Number="86"  Name="86 Scratch 4F"  ProgramChange="86"/>
+          <Patch Number="87"  Name="87 Scratch 4B"  ProgramChange="87"/>
+          <Patch Number="96"  Name="96 DJXII"  ProgramChange="96"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>TC Electronic</Manufacturer>
+    <Model>D-TWO</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="T.C. Electronic D-Two Factory">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="D-Two Delay"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Straight 2290 Delay"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Dynamic Delay"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Dynamite Pink Punk"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Chorused Delay"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Big E Slapback"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Phase Reversed Echo"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Reversed Slap"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Tape Echo"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Low Cut 1/8th Notes"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Mono Radio"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Degraded Panning"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Shuffled 1/16th"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Left/Right Slapback"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Guitar Slapped"  ProgramChange="14"/>
+          <Patch Number="15"  Name="GTR Lead The Way"  ProgramChange="15"/>
+          <Patch Number="16"  Name="My Old Echoplex"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Double Tap Flange"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Slapback Flanger"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Fat Flanger"  ProgramChange="19"/>
+          <Patch Number="20"  Name="The Stereo Chorus"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Ambient Chorus"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Fat Guitar"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Giant Mockup in 3/4"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Beauty In The Beats"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Dark and Long"  ProgramChange="25"/>
+          <Patch Number="26"  Name="1/16th Stab"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Rightfield"  ProgramChange="27"/>
+          <Patch Number="28"  Name="New Jock Swing"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Rhythm Engine"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Groovey Breaker"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Heavy Accent"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Syncopated Beatbox"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Short Shuffled 1/16"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Shuffle Hat"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Marmite on the keys"  ProgramChange="35"/>
+          <Patch Number="36"  Name="EHCOecho..echo...CHO"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Reversed Chunks"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Two Bar 1/8 Pattern"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Last Man Standing"  ProgramChange="39"/>
+          <Patch Number="40"  Name="The End"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Jungle Fever"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Dark Triplets"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Fast Triplets"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Moving Hat"  ProgramChange="44"/>
+          <Patch Number="45"  Name="D-Two In The House"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Shuffle Your Feet"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Stabbed In The Back"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Flying Stabs"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Reversed Semi Bar"  ProgramChange="49"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="T.C. Electronic D-Two User">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="User Preset 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="User Preset 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="User Preset 3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="User Preset 4"  ProgramChange="3"/>
+          <Patch Number="4"  Name="User Preset 5"  ProgramChange="4"/>
+          <Patch Number="5"  Name="User Preset 6"  ProgramChange="5"/>
+          <Patch Number="6"  Name="User Preset 7"  ProgramChange="6"/>
+          <Patch Number="7"  Name="User Preset 8"  ProgramChange="7"/>
+          <Patch Number="8"  Name="User Preset 9"  ProgramChange="8"/>
+          <Patch Number="9"  Name="User Preset 10"  ProgramChange="9"/>
+          <Patch Number="10"  Name="User Preset 11"  ProgramChange="10"/>
+          <Patch Number="11"  Name="User Preset 12"  ProgramChange="11"/>
+          <Patch Number="12"  Name="User Preset 13"  ProgramChange="12"/>
+          <Patch Number="13"  Name="User Preset 14"  ProgramChange="13"/>
+          <Patch Number="14"  Name="User Preset 15"  ProgramChange="14"/>
+          <Patch Number="15"  Name="User Preset 16"  ProgramChange="15"/>
+          <Patch Number="16"  Name="User Preset 17"  ProgramChange="16"/>
+          <Patch Number="17"  Name="User Preset 18"  ProgramChange="17"/>
+          <Patch Number="18"  Name="User Preset 19"  ProgramChange="18"/>
+          <Patch Number="19"  Name="User Preset 20"  ProgramChange="19"/>
+          <Patch Number="20"  Name="User Preset 21"  ProgramChange="20"/>
+          <Patch Number="21"  Name="User Preset 22"  ProgramChange="21"/>
+          <Patch Number="22"  Name="User Preset 23"  ProgramChange="22"/>
+          <Patch Number="23"  Name="User Preset 24"  ProgramChange="23"/>
+          <Patch Number="24"  Name="User Preset 25"  ProgramChange="24"/>
+          <Patch Number="25"  Name="User Preset 26"  ProgramChange="25"/>
+          <Patch Number="26"  Name="User Preset 27"  ProgramChange="26"/>
+          <Patch Number="27"  Name="User Preset 28"  ProgramChange="27"/>
+          <Patch Number="28"  Name="User Preset 29"  ProgramChange="28"/>
+          <Patch Number="29"  Name="User Preset 30"  ProgramChange="29"/>
+          <Patch Number="30"  Name="User Preset 31"  ProgramChange="30"/>
+          <Patch Number="31"  Name="User Preset 32"  ProgramChange="31"/>
+          <Patch Number="32"  Name="User Preset 33"  ProgramChange="32"/>
+          <Patch Number="33"  Name="User Preset 34"  ProgramChange="33"/>
+          <Patch Number="34"  Name="User Preset 35"  ProgramChange="34"/>
+          <Patch Number="35"  Name="User Preset 36"  ProgramChange="35"/>
+          <Patch Number="36"  Name="User Preset 37"  ProgramChange="36"/>
+          <Patch Number="37"  Name="User Preset 38"  ProgramChange="37"/>
+          <Patch Number="38"  Name="User Preset 39"  ProgramChange="38"/>
+          <Patch Number="39"  Name="User Preset 40"  ProgramChange="39"/>
+          <Patch Number="40"  Name="User Preset 41"  ProgramChange="40"/>
+          <Patch Number="41"  Name="User Preset 42"  ProgramChange="41"/>
+          <Patch Number="42"  Name="User Preset 43"  ProgramChange="42"/>
+          <Patch Number="43"  Name="User Preset 44"  ProgramChange="43"/>
+          <Patch Number="44"  Name="User Preset 45"  ProgramChange="44"/>
+          <Patch Number="45"  Name="User Preset 46"  ProgramChange="45"/>
+          <Patch Number="46"  Name="User Preset 47"  ProgramChange="46"/>
+          <Patch Number="47"  Name="User Preset 48"  ProgramChange="47"/>
+          <Patch Number="48"  Name="User Preset 49"  ProgramChange="48"/>
+          <Patch Number="49"  Name="User Preset 50"  ProgramChange="49"/>
+          <Patch Number="50"  Name="User Preset 51"  ProgramChange="50"/>
+          <Patch Number="51"  Name="User Preset 52"  ProgramChange="51"/>
+          <Patch Number="52"  Name="User Preset 53"  ProgramChange="52"/>
+          <Patch Number="53"  Name="User Preset 54"  ProgramChange="53"/>
+          <Patch Number="54"  Name="User Preset 55"  ProgramChange="54"/>
+          <Patch Number="55"  Name="User Preset 56"  ProgramChange="55"/>
+          <Patch Number="56"  Name="User Preset 57"  ProgramChange="56"/>
+          <Patch Number="57"  Name="User Preset 58"  ProgramChange="57"/>
+          <Patch Number="58"  Name="User Preset 59"  ProgramChange="58"/>
+          <Patch Number="59"  Name="User Preset 60"  ProgramChange="59"/>
+          <Patch Number="60"  Name="User Preset 61"  ProgramChange="60"/>
+          <Patch Number="61"  Name="User Preset 62"  ProgramChange="61"/>
+          <Patch Number="62"  Name="User Preset 63"  ProgramChange="62"/>
+          <Patch Number="63"  Name="User Preset 64"  ProgramChange="63"/>
+          <Patch Number="64"  Name="User Preset 65"  ProgramChange="64"/>
+          <Patch Number="65"  Name="User Preset 66"  ProgramChange="65"/>
+          <Patch Number="66"  Name="User Preset 67"  ProgramChange="66"/>
+          <Patch Number="67"  Name="User Preset 68"  ProgramChange="67"/>
+          <Patch Number="68"  Name="User Preset 69"  ProgramChange="68"/>
+          <Patch Number="69"  Name="User Preset 70"  ProgramChange="69"/>
+          <Patch Number="70"  Name="User Preset 71"  ProgramChange="70"/>
+          <Patch Number="71"  Name="User Preset 72"  ProgramChange="71"/>
+          <Patch Number="72"  Name="User Preset 73"  ProgramChange="72"/>
+          <Patch Number="73"  Name="User Preset 74"  ProgramChange="73"/>
+          <Patch Number="74"  Name="User Preset 75"  ProgramChange="74"/>
+          <Patch Number="75"  Name="User Preset 76"  ProgramChange="75"/>
+          <Patch Number="76"  Name="User Preset 77"  ProgramChange="76"/>
+          <Patch Number="77"  Name="User Preset 78"  ProgramChange="77"/>
+          <Patch Number="78"  Name="User Preset 79"  ProgramChange="78"/>
+          <Patch Number="79"  Name="User Preset 80"  ProgramChange="79"/>
+          <Patch Number="80"  Name="User Preset 81"  ProgramChange="80"/>
+          <Patch Number="81"  Name="User Preset 82"  ProgramChange="81"/>
+          <Patch Number="82"  Name="User Preset 83"  ProgramChange="82"/>
+          <Patch Number="83"  Name="User Preset 84"  ProgramChange="83"/>
+          <Patch Number="84"  Name="User Preset 85"  ProgramChange="84"/>
+          <Patch Number="85"  Name="User Preset 86"  ProgramChange="85"/>
+          <Patch Number="86"  Name="User Preset 87"  ProgramChange="86"/>
+          <Patch Number="87"  Name="User Preset 88"  ProgramChange="87"/>
+          <Patch Number="88"  Name="User Preset 89"  ProgramChange="88"/>
+          <Patch Number="89"  Name="User Preset 90"  ProgramChange="89"/>
+          <Patch Number="90"  Name="User Preset 91"  ProgramChange="90"/>
+          <Patch Number="91"  Name="User Preset 92"  ProgramChange="91"/>
+          <Patch Number="92"  Name="User Preset 93"  ProgramChange="92"/>
+          <Patch Number="93"  Name="User Preset 94"  ProgramChange="93"/>
+          <Patch Number="94"  Name="User Preset 95"  ProgramChange="94"/>
+          <Patch Number="95"  Name="User Preset 96"  ProgramChange="95"/>
+          <Patch Number="96"  Name="User Preset 97"  ProgramChange="96"/>
+          <Patch Number="97"  Name="User Preset 98"  ProgramChange="97"/>
+          <Patch Number="98"  Name="User Preset 99"  ProgramChange="98"/>
+          <Patch Number="99"  Name="User Preset 100"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

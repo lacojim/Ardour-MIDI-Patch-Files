@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Yamaha</Manufacturer>
+    <Model>QY-10</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Yamaha QY-10 Tones">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="RckPiano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="El.Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Tine Pno"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Clavinet"  ProgramChange="3"/>
+          <Patch Number="4"  Name="RckOrgan"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Organ"  ProgramChange="5"/>
+          <Patch Number="6"  Name="HiStrEns"  ProgramChange="6"/>
+          <Patch Number="7"  Name="LoStrEns"  ProgramChange="7"/>
+          <Patch Number="8"  Name="BrassEns"  ProgramChange="8"/>
+          <Patch Number="9"  Name="ElecGuit"  ProgramChange="9"/>
+          <Patch Number="10"  Name="DistGuit"  ProgramChange="10"/>
+          <Patch Number="11"  Name="MuteGuit"  ProgramChange="11"/>
+          <Patch Number="12"  Name="ElecFolk"  ProgramChange="12"/>
+          <Patch Number="13"  Name="JazzBass"  ProgramChange="13"/>
+          <Patch Number="14"  Name="PickBass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="SlapBass"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Syn Bass"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Moogy"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Marimba"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Vibes"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Xylophne"  ProgramChange="20"/>
+          <Patch Number="21"  Name="SynBraPd"  ProgramChange="21"/>
+          <Patch Number="22"  Name="SynStrPd"  ProgramChange="22"/>
+          <Patch Number="23"  Name="SynComp"  ProgramChange="23"/>
+          <Patch Number="24"  Name="BowedBel"  ProgramChange="24"/>
+          <Patch Number="25"  Name="PercComp"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Trumpet"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Breathy"  ProgramChange="27"/>
+          <Patch Number="28"  Name="SynLead1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="SynLead2"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Drum Set"  ProgramChange="30"/>
+          <Patch Number="31"  Name="OFF"  ProgramChange="31"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Bass Drum 2"/>
+     <Note Number="38"  Name="8=Snare 1"/>
+     <Note Number="39"  Name="9=Snare 2"/>
+     <Note Number="40"  Name="0=Low Tom"/>
+     <Note Number="41"  Name="1=Mid Tom"/>
+     <Note Number="42"  Name="2=High Tom"/>
+     <Note Number="43"  Name="3=Claps"/>
+     <Note Number="44"  Name="4=Crash"/>
+     <Note Number="45"  Name="5=Rim"/>
+     <Note Number="46"  Name="6=Ride"/>
+     <Note Number="47"  Name="7=Closed Hi-Hat"/>
+     <Note Number="48"  Name="8=Open Hi-Hat"/>
+     <Note Number="60"  Name="0=Bass Drum 3"/>
+     <Note Number="61"  Name="1=Cowbell"/>
+     <Note Number="62"  Name="2=Snare 3"/>
+     <Note Number="63"  Name="3=Snare 4"/>
+     <Note Number="64"  Name="4=Low Conga"/>
+     <Note Number="65"  Name="5=High Conga"/>
+     <Note Number="66"  Name="6=Mid Conga"/>
+     <Note Number="67"  Name="7=Low Agogo"/>
+     <Note Number="68"  Name="8=High Agogo"/>
+     <Note Number="69"  Name="9=Low Timbale"/>
+     <Note Number="70"  Name="0=High Timbale"/>
+     <Note Number="71"  Name="1=Hi Hat 2"/>
+     <Note Number="72"  Name="2=Shaker"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Yamaha</Manufacturer>
+    <Model>TG-33</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Yamaha TG-33 Bank 1 Tones">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="11 Pro33"  ProgramChange="0"/>
+          <Patch Number="1"  Name="12 Echo"  ProgramChange="1"/>
+          <Patch Number="2"  Name="13 BelSt"  ProgramChange="2"/>
+          <Patch Number="3"  Name="14 Full"  ProgramChange="3"/>
+          <Patch Number="4"  Name="15 Ice"  ProgramChange="4"/>
+          <Patch Number="5"  Name="16 Dandy"  ProgramChange="5"/>
+          <Patch Number="6"  Name="17 Arkle"  ProgramChange="6"/>
+          <Patch Number="7"  Name="18 BrVec"  ProgramChange="7"/>
+          <Patch Number="8"  Name="21 Matrix"  ProgramChange="8"/>
+          <Patch Number="9"  Name="22 Gut"  ProgramChange="9"/>
+          <Patch Number="10"  Name="23 Omni"  ProgramChange="10"/>
+          <Patch Number="11"  Name="24 OilEd"  ProgramChange="11"/>
+          <Patch Number="12"  Name="25 Ace"  ProgramChange="12"/>
+          <Patch Number="13"  Name="26 Quire"  ProgramChange="13"/>
+          <Patch Number="14"  Name="27 Digit"  ProgramChange="14"/>
+          <Patch Number="15"  Name="28 Swell"  ProgramChange="15"/>
+          <Patch Number="16"  Name="31 Groov"  ProgramChange="16"/>
+          <Patch Number="17"  Name="32 Airy"  ProgramChange="17"/>
+          <Patch Number="18"  Name="33 Solid"  ProgramChange="18"/>
+          <Patch Number="19"  Name="34 Sweep"  ProgramChange="19"/>
+          <Patch Number="20"  Name="35 Drops"  ProgramChange="20"/>
+          <Patch Number="21"  Name="36 Euro"  ProgramChange="21"/>
+          <Patch Number="22"  Name="37 Decay"  ProgramChange="22"/>
+          <Patch Number="23"  Name="38 Steel"  ProgramChange="23"/>
+          <Patch Number="24"  Name="41 Rude"  ProgramChange="24"/>
+          <Patch Number="25"  Name="42 Bellz"  ProgramChange="25"/>
+          <Patch Number="26"  Name="43 Pluck"  ProgramChange="26"/>
+          <Patch Number="27"  Name="44 Glass"  ProgramChange="27"/>
+          <Patch Number="28"  Name="45 Wood"  ProgramChange="28"/>
+          <Patch Number="29"  Name="46 Wire"  ProgramChange="29"/>
+          <Patch Number="30"  Name="47 Cave"  ProgramChange="30"/>
+          <Patch Number="31"  Name="48 Wispa"  ProgramChange="31"/>
+          <Patch Number="32"  Name="51 Sync"  ProgramChange="32"/>
+          <Patch Number="33"  Name="52 VCO"  ProgramChange="33"/>
+          <Patch Number="34"  Name="53 Chic"  ProgramChange="34"/>
+          <Patch Number="35"  Name="54 Mini"  ProgramChange="35"/>
+          <Patch Number="36"  Name="55 Wisul"  ProgramChange="36"/>
+          <Patch Number="37"  Name="56 Blues"  ProgramChange="37"/>
+          <Patch Number="38"  Name="57 Cosmo"  ProgramChange="38"/>
+          <Patch Number="39"  Name="58 Super"  ProgramChange="39"/>
+          <Patch Number="40"  Name="61 Vecta"  ProgramChange="40"/>
+          <Patch Number="41"  Name="62 NuAge"  ProgramChange="41"/>
+          <Patch Number="42"  Name="63 Hit"  ProgramChange="42"/>
+          <Patch Number="43"  Name="64 Glace"  ProgramChange="43"/>
+          <Patch Number="44"  Name="65 Astro"  ProgramChange="44"/>
+          <Patch Number="45"  Name="66 Vger"  ProgramChange="45"/>
+          <Patch Number="46"  Name="67 Hitch"  ProgramChange="46"/>
+          <Patch Number="47"  Name="68 Indus"  ProgramChange="47"/>
+          <Patch Number="48"  Name="71 Mount"  ProgramChange="48"/>
+          <Patch Number="49"  Name="72 5.PM"  ProgramChange="49"/>
+          <Patch Number="50"  Name="73 FlyBy"  ProgramChange="50"/>
+          <Patch Number="51"  Name="74 Fear"  ProgramChange="51"/>
+          <Patch Number="52"  Name="75 Wolves"  ProgramChange="52"/>
+          <Patch Number="53"  Name="76 Hades"  ProgramChange="53"/>
+          <Patch Number="54"  Name="77 Neuro"  ProgramChange="54"/>
+          <Patch Number="55"  Name="78 Angel"  ProgramChange="55"/>
+          <Patch Number="56"  Name="81 MrSeq"  ProgramChange="56"/>
+          <Patch Number="57"  Name="82 It"  ProgramChange="57"/>
+          <Patch Number="58"  Name="83 Id"  ProgramChange="58"/>
+          <Patch Number="59"  Name="84 Wrapa"  ProgramChange="59"/>
+          <Patch Number="60"  Name="85 TG809"  ProgramChange="60"/>
+          <Patch Number="61"  Name="86 Devol"  ProgramChange="61"/>
+          <Patch Number="62"  Name="87 Kit"  ProgramChange="62"/>
+          <Patch Number="63"  Name="88 SFX"  ProgramChange="63"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Multi 64-79 (11-28)">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="64"  Name="Multi I-11"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Multi I-12"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Multi I-13"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Multi I-14"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Multi I-15"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Multi I-16"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Multi I-17"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Multi I-18"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Multi I-21"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Multi I-22"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Multi I-23"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Multi I-24"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Multi I-25"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Multi I-26"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Multi I-27"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Multi I-28"  ProgramChange="79"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Multi Card 1/2 or Internal">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="33"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Multi Internal/Card 1/2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="32"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="64"  Name="Multi I-11"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Multi I-12"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Multi I-13"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Multi I-14"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Multi I-15"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Multi I-16"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Multi I-17"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Multi I-18"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Multi I-21"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Multi I-22"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Multi I-23"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Multi I-24"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Multi I-25"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Multi I-26"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Multi I-27"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Multi I-28"  ProgramChange="79"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Multi Preset 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="34"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="11 Pro33"  ProgramChange="0"/>
+          <Patch Number="1"  Name="12 Echo"  ProgramChange="1"/>
+          <Patch Number="2"  Name="13 BelSt"  ProgramChange="2"/>
+          <Patch Number="3"  Name="14 Full"  ProgramChange="3"/>
+          <Patch Number="4"  Name="15 Ice"  ProgramChange="4"/>
+          <Patch Number="5"  Name="16 Dandy"  ProgramChange="5"/>
+          <Patch Number="6"  Name="17 Arkle"  ProgramChange="6"/>
+          <Patch Number="7"  Name="18 BrVec"  ProgramChange="7"/>
+          <Patch Number="8"  Name="21 Matrix"  ProgramChange="8"/>
+          <Patch Number="9"  Name="22 Gut"  ProgramChange="9"/>
+          <Patch Number="10"  Name="23 Omni"  ProgramChange="10"/>
+          <Patch Number="11"  Name="24 OilEd"  ProgramChange="11"/>
+          <Patch Number="12"  Name="25 Ace"  ProgramChange="12"/>
+          <Patch Number="13"  Name="26 Quire"  ProgramChange="13"/>
+          <Patch Number="14"  Name="27 Digit"  ProgramChange="14"/>
+          <Patch Number="15"  Name="28 Swell"  ProgramChange="15"/>
+          <Patch Number="16"  Name="31 Groov"  ProgramChange="16"/>
+          <Patch Number="17"  Name="32 Airy"  ProgramChange="17"/>
+          <Patch Number="18"  Name="33 Solid"  ProgramChange="18"/>
+          <Patch Number="19"  Name="34 Sweep"  ProgramChange="19"/>
+          <Patch Number="20"  Name="35 Drops"  ProgramChange="20"/>
+          <Patch Number="21"  Name="36 Euro"  ProgramChange="21"/>
+          <Patch Number="22"  Name="37 Decay"  ProgramChange="22"/>
+          <Patch Number="23"  Name="38 Steel"  ProgramChange="23"/>
+          <Patch Number="24"  Name="41 Rude"  ProgramChange="24"/>
+          <Patch Number="25"  Name="42 Bellz"  ProgramChange="25"/>
+          <Patch Number="26"  Name="43 Pluck"  ProgramChange="26"/>
+          <Patch Number="27"  Name="44 Glass"  ProgramChange="27"/>
+          <Patch Number="28"  Name="45 Wood"  ProgramChange="28"/>
+          <Patch Number="29"  Name="46 Wire"  ProgramChange="29"/>
+          <Patch Number="30"  Name="47 Cave"  ProgramChange="30"/>
+          <Patch Number="31"  Name="48 Wispa"  ProgramChange="31"/>
+          <Patch Number="32"  Name="51 Sync"  ProgramChange="32"/>
+          <Patch Number="33"  Name="52 VCO"  ProgramChange="33"/>
+          <Patch Number="34"  Name="53 Chic"  ProgramChange="34"/>
+          <Patch Number="35"  Name="54 Mini"  ProgramChange="35"/>
+          <Patch Number="36"  Name="55 Wisul"  ProgramChange="36"/>
+          <Patch Number="37"  Name="56 Blues"  ProgramChange="37"/>
+          <Patch Number="38"  Name="57 Cosmo"  ProgramChange="38"/>
+          <Patch Number="39"  Name="58 Super"  ProgramChange="39"/>
+          <Patch Number="40"  Name="61 Vecta"  ProgramChange="40"/>
+          <Patch Number="41"  Name="62 NuAge"  ProgramChange="41"/>
+          <Patch Number="42"  Name="63 Hit"  ProgramChange="42"/>
+          <Patch Number="43"  Name="64 Glace"  ProgramChange="43"/>
+          <Patch Number="44"  Name="65 Astro"  ProgramChange="44"/>
+          <Patch Number="45"  Name="66 Vger"  ProgramChange="45"/>
+          <Patch Number="46"  Name="67 Hitch"  ProgramChange="46"/>
+          <Patch Number="47"  Name="68 Indus"  ProgramChange="47"/>
+          <Patch Number="48"  Name="71 Mount"  ProgramChange="48"/>
+          <Patch Number="49"  Name="72 5.PM"  ProgramChange="49"/>
+          <Patch Number="50"  Name="73 FlyBy"  ProgramChange="50"/>
+          <Patch Number="51"  Name="74 Fear"  ProgramChange="51"/>
+          <Patch Number="52"  Name="75 Wolves"  ProgramChange="52"/>
+          <Patch Number="53"  Name="76 Hades"  ProgramChange="53"/>
+          <Patch Number="54"  Name="77 Neuro"  ProgramChange="54"/>
+          <Patch Number="55"  Name="78 Angel"  ProgramChange="55"/>
+          <Patch Number="56"  Name="81 MrSeq"  ProgramChange="56"/>
+          <Patch Number="57"  Name="82 It"  ProgramChange="57"/>
+          <Patch Number="58"  Name="83 Id"  ProgramChange="58"/>
+          <Patch Number="59"  Name="84 Wrapa"  ProgramChange="59"/>
+          <Patch Number="60"  Name="85 TG809"  ProgramChange="60"/>
+          <Patch Number="61"  Name="86 Devol"  ProgramChange="61"/>
+          <Patch Number="62"  Name="87 Kit"  ProgramChange="62"/>
+          <Patch Number="63"  Name="88 SFX"  ProgramChange="63"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Multi Preset 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="37"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="11 Arland"  ProgramChange="0"/>
+          <Patch Number="1"  Name="12 Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="13 Malet"  ProgramChange="2"/>
+          <Patch Number="3"  Name="14 ApStr"  ProgramChange="3"/>
+          <Patch Number="4"  Name="15 DX6op"  ProgramChange="4"/>
+          <Patch Number="5"  Name="16 Pin"  ProgramChange="5"/>
+          <Patch Number="6"  Name="17 NewDX"  ProgramChange="6"/>
+          <Patch Number="7"  Name="18 Fosta"  ProgramChange="7"/>
+          <Patch Number="8"  Name="21 Gospl"  ProgramChange="8"/>
+          <Patch Number="9"  Name="22 Rock"  ProgramChange="9"/>
+          <Patch Number="10"  Name="23 Pipe"  ProgramChange="10"/>
+          <Patch Number="11"  Name="24 Perc"  ProgramChange="11"/>
+          <Patch Number="12"  Name="25 Squez"  ProgramChange="12"/>
+          <Patch Number="13"  Name="26 Hrpsi"  ProgramChange="13"/>
+          <Patch Number="14"  Name="27 Celst"  ProgramChange="14"/>
+          <Patch Number="15"  Name="28 Clavi"  ProgramChange="15"/>
+          <Patch Number="16"  Name="31 Slap"  ProgramChange="16"/>
+          <Patch Number="17"  Name="32 Atack"  ProgramChange="17"/>
+          <Patch Number="18"  Name="33 Seq"  ProgramChange="18"/>
+          <Patch Number="19"  Name="34 Trad"  ProgramChange="19"/>
+          <Patch Number="20"  Name="35 Pick"  ProgramChange="20"/>
+          <Patch Number="21"  Name="36 Syn"  ProgramChange="21"/>
+          <Patch Number="22"  Name="37 Rezz"  ProgramChange="22"/>
+          <Patch Number="23"  Name="38 Unisn"  ProgramChange="23"/>
+          <Patch Number="24"  Name="41 Fingr"  ProgramChange="24"/>
+          <Patch Number="25"  Name="42 Fretls"  ProgramChange="25"/>
+          <Patch Number="26"  Name="43 Wood"  ProgramChange="26"/>
+          <Patch Number="27"  Name="44 Folky"  ProgramChange="27"/>
+          <Patch Number="28"  Name="45 12Str"  ProgramChange="28"/>
+          <Patch Number="29"  Name="46 Mute"  ProgramChange="29"/>
+          <Patch Number="30"  Name="47 Nylon"  ProgramChange="30"/>
+          <Patch Number="31"  Name="48 Dist"  ProgramChange="31"/>
+          <Patch Number="32"  Name="51 Power"  ProgramChange="32"/>
+          <Patch Number="33"  Name="52 Fanfr"  ProgramChange="33"/>
+          <Patch Number="34"  Name="53 Class"  ProgramChange="34"/>
+          <Patch Number="35"  Name="54 Reeds"  ProgramChange="35"/>
+          <Patch Number="36"  Name="55 Chill"  ProgramChange="36"/>
+          <Patch Number="37"  Name="56 Zeus"  ProgramChange="37"/>
+          <Patch Number="38"  Name="57 Moot"  ProgramChange="38"/>
+          <Patch Number="39"  Name="58 Analog"  ProgramChange="39"/>
+          <Patch Number="40"  Name="61 FrHorn"  ProgramChange="40"/>
+          <Patch Number="41"  Name="62 Trmpt"  ProgramChange="41"/>
+          <Patch Number="42"  Name="63 Tromb"  ProgramChange="42"/>
+          <Patch Number="43"  Name="64 Sax"  ProgramChange="43"/>
+          <Patch Number="44"  Name="65 Pan"  ProgramChange="44"/>
+          <Patch Number="45"  Name="66 Oboe"  ProgramChange="45"/>
+          <Patch Number="46"  Name="67 Clart"  ProgramChange="46"/>
+          <Patch Number="47"  Name="68 Flute"  ProgramChange="47"/>
+          <Patch Number="48"  Name="71 Arco"  ProgramChange="48"/>
+          <Patch Number="49"  Name="72 Chmbr"  ProgramChange="49"/>
+          <Patch Number="50"  Name="73 Full"  ProgramChange="50"/>
+          <Patch Number="51"  Name="74 Pizza"  ProgramChange="51"/>
+          <Patch Number="52"  Name="75 CelSt"  ProgramChange="52"/>
+          <Patch Number="53"  Name="76 Exel"  ProgramChange="53"/>
+          <Patch Number="54"  Name="77 Synth"  ProgramChange="54"/>
+          <Patch Number="55"  Name="78 Eroid"  ProgramChange="55"/>
+          <Patch Number="56"  Name="81 Modrn"  ProgramChange="56"/>
+          <Patch Number="57"  Name="82 Duwop"  ProgramChange="57"/>
+          <Patch Number="58"  Name="83 Itopy"  ProgramChange="58"/>
+          <Patch Number="59"  Name="84 Astiz"  ProgramChange="59"/>
+          <Patch Number="60"  Name="85 Marim"  ProgramChange="60"/>
+          <Patch Number="61"  Name="86 Vibes"  ProgramChange="61"/>
+          <Patch Number="62"  Name="87 Bells"  ProgramChange="62"/>
+          <Patch Number="63"  Name="88 Clang"  ProgramChange="63"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Multi/Card 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="17"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Multi/Card 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="20"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Voice Internal">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Voice Preset 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="11 Pro33"  ProgramChange="0"/>
+          <Patch Number="1"  Name="12 Echo"  ProgramChange="1"/>
+          <Patch Number="2"  Name="13 BelSt"  ProgramChange="2"/>
+          <Patch Number="3"  Name="14 Full"  ProgramChange="3"/>
+          <Patch Number="4"  Name="15 Ice"  ProgramChange="4"/>
+          <Patch Number="5"  Name="16 Dandy"  ProgramChange="5"/>
+          <Patch Number="6"  Name="17 Arkle"  ProgramChange="6"/>
+          <Patch Number="7"  Name="18 BrVec"  ProgramChange="7"/>
+          <Patch Number="8"  Name="21 Matrix"  ProgramChange="8"/>
+          <Patch Number="9"  Name="22 Gut"  ProgramChange="9"/>
+          <Patch Number="10"  Name="23 Omni"  ProgramChange="10"/>
+          <Patch Number="11"  Name="24 OilEd"  ProgramChange="11"/>
+          <Patch Number="12"  Name="25 Ace"  ProgramChange="12"/>
+          <Patch Number="13"  Name="26 Quire"  ProgramChange="13"/>
+          <Patch Number="14"  Name="27 Digit"  ProgramChange="14"/>
+          <Patch Number="15"  Name="28 Swell"  ProgramChange="15"/>
+          <Patch Number="16"  Name="31 Groov"  ProgramChange="16"/>
+          <Patch Number="17"  Name="32 Airy"  ProgramChange="17"/>
+          <Patch Number="18"  Name="33 Solid"  ProgramChange="18"/>
+          <Patch Number="19"  Name="34 Sweep"  ProgramChange="19"/>
+          <Patch Number="20"  Name="35 Drops"  ProgramChange="20"/>
+          <Patch Number="21"  Name="36 Euro"  ProgramChange="21"/>
+          <Patch Number="22"  Name="37 Decay"  ProgramChange="22"/>
+          <Patch Number="23"  Name="38 Steel"  ProgramChange="23"/>
+          <Patch Number="24"  Name="41 Rude"  ProgramChange="24"/>
+          <Patch Number="25"  Name="42 Bellz"  ProgramChange="25"/>
+          <Patch Number="26"  Name="43 Pluck"  ProgramChange="26"/>
+          <Patch Number="27"  Name="44 Glass"  ProgramChange="27"/>
+          <Patch Number="28"  Name="45 Wood"  ProgramChange="28"/>
+          <Patch Number="29"  Name="46 Wire"  ProgramChange="29"/>
+          <Patch Number="30"  Name="47 Cave"  ProgramChange="30"/>
+          <Patch Number="31"  Name="48 Wispa"  ProgramChange="31"/>
+          <Patch Number="32"  Name="51 Sync"  ProgramChange="32"/>
+          <Patch Number="33"  Name="52 VCO"  ProgramChange="33"/>
+          <Patch Number="34"  Name="53 Chic"  ProgramChange="34"/>
+          <Patch Number="35"  Name="54 Mini"  ProgramChange="35"/>
+          <Patch Number="36"  Name="55 Wisul"  ProgramChange="36"/>
+          <Patch Number="37"  Name="56 Blues"  ProgramChange="37"/>
+          <Patch Number="38"  Name="57 Cosmo"  ProgramChange="38"/>
+          <Patch Number="39"  Name="58 Super"  ProgramChange="39"/>
+          <Patch Number="40"  Name="61 Vecta"  ProgramChange="40"/>
+          <Patch Number="41"  Name="62 NuAge"  ProgramChange="41"/>
+          <Patch Number="42"  Name="63 Hit"  ProgramChange="42"/>
+          <Patch Number="43"  Name="64 Glace"  ProgramChange="43"/>
+          <Patch Number="44"  Name="65 Astro"  ProgramChange="44"/>
+          <Patch Number="45"  Name="66 Vger"  ProgramChange="45"/>
+          <Patch Number="46"  Name="67 Hitch"  ProgramChange="46"/>
+          <Patch Number="47"  Name="68 Indus"  ProgramChange="47"/>
+          <Patch Number="48"  Name="71 Mount"  ProgramChange="48"/>
+          <Patch Number="49"  Name="72 5.PM"  ProgramChange="49"/>
+          <Patch Number="50"  Name="73 FlyBy"  ProgramChange="50"/>
+          <Patch Number="51"  Name="74 Fear"  ProgramChange="51"/>
+          <Patch Number="52"  Name="75 Wolves"  ProgramChange="52"/>
+          <Patch Number="53"  Name="76 Hades"  ProgramChange="53"/>
+          <Patch Number="54"  Name="77 Neuro"  ProgramChange="54"/>
+          <Patch Number="55"  Name="78 Angel"  ProgramChange="55"/>
+          <Patch Number="56"  Name="81 MrSeq"  ProgramChange="56"/>
+          <Patch Number="57"  Name="82 It"  ProgramChange="57"/>
+          <Patch Number="58"  Name="83 Id"  ProgramChange="58"/>
+          <Patch Number="59"  Name="84 Wrapa"  ProgramChange="59"/>
+          <Patch Number="60"  Name="85 TG809"  ProgramChange="60"/>
+          <Patch Number="61"  Name="86 Devol"  ProgramChange="61"/>
+          <Patch Number="62"  Name="87 Kit"  ProgramChange="62"/>
+          <Patch Number="63"  Name="88 SFX"  ProgramChange="63"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Voice Preset 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="11 Arland"  ProgramChange="0"/>
+          <Patch Number="1"  Name="12 Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="13 Malet"  ProgramChange="2"/>
+          <Patch Number="3"  Name="14 ApStr"  ProgramChange="3"/>
+          <Patch Number="4"  Name="15 DX6op"  ProgramChange="4"/>
+          <Patch Number="5"  Name="16 Pin"  ProgramChange="5"/>
+          <Patch Number="6"  Name="17 NewDX"  ProgramChange="6"/>
+          <Patch Number="7"  Name="18 Fosta"  ProgramChange="7"/>
+          <Patch Number="8"  Name="21 Gospl"  ProgramChange="8"/>
+          <Patch Number="9"  Name="22 Rock"  ProgramChange="9"/>
+          <Patch Number="10"  Name="23 Pipe"  ProgramChange="10"/>
+          <Patch Number="11"  Name="24 Perc"  ProgramChange="11"/>
+          <Patch Number="12"  Name="25 Squez"  ProgramChange="12"/>
+          <Patch Number="13"  Name="26 Hrpsi"  ProgramChange="13"/>
+          <Patch Number="14"  Name="27 Celst"  ProgramChange="14"/>
+          <Patch Number="15"  Name="28 Clavi"  ProgramChange="15"/>
+          <Patch Number="16"  Name="31 Slap"  ProgramChange="16"/>
+          <Patch Number="17"  Name="32 Atack"  ProgramChange="17"/>
+          <Patch Number="18"  Name="33 Seq"  ProgramChange="18"/>
+          <Patch Number="19"  Name="34 Trad"  ProgramChange="19"/>
+          <Patch Number="20"  Name="35 Pick"  ProgramChange="20"/>
+          <Patch Number="21"  Name="36 Syn"  ProgramChange="21"/>
+          <Patch Number="22"  Name="37 Rezz"  ProgramChange="22"/>
+          <Patch Number="23"  Name="38 Unisn"  ProgramChange="23"/>
+          <Patch Number="24"  Name="41 Fingr"  ProgramChange="24"/>
+          <Patch Number="25"  Name="42 Fretls"  ProgramChange="25"/>
+          <Patch Number="26"  Name="43 Wood"  ProgramChange="26"/>
+          <Patch Number="27"  Name="44 Folky"  ProgramChange="27"/>
+          <Patch Number="28"  Name="45 12Str"  ProgramChange="28"/>
+          <Patch Number="29"  Name="46 Mute"  ProgramChange="29"/>
+          <Patch Number="30"  Name="47 Nylon"  ProgramChange="30"/>
+          <Patch Number="31"  Name="48 Dist"  ProgramChange="31"/>
+          <Patch Number="32"  Name="51 Power"  ProgramChange="32"/>
+          <Patch Number="33"  Name="52 Fanfr"  ProgramChange="33"/>
+          <Patch Number="34"  Name="53 Class"  ProgramChange="34"/>
+          <Patch Number="35"  Name="54 Reeds"  ProgramChange="35"/>
+          <Patch Number="36"  Name="55 Chill"  ProgramChange="36"/>
+          <Patch Number="37"  Name="56 Zeus"  ProgramChange="37"/>
+          <Patch Number="38"  Name="57 Moot"  ProgramChange="38"/>
+          <Patch Number="39"  Name="58 Analog"  ProgramChange="39"/>
+          <Patch Number="40"  Name="61 FrHorn"  ProgramChange="40"/>
+          <Patch Number="41"  Name="62 Trmpt"  ProgramChange="41"/>
+          <Patch Number="42"  Name="63 Tromb"  ProgramChange="42"/>
+          <Patch Number="43"  Name="64 Sax"  ProgramChange="43"/>
+          <Patch Number="44"  Name="65 Pan"  ProgramChange="44"/>
+          <Patch Number="45"  Name="66 Oboe"  ProgramChange="45"/>
+          <Patch Number="46"  Name="67 Clart"  ProgramChange="46"/>
+          <Patch Number="47"  Name="68 Flute"  ProgramChange="47"/>
+          <Patch Number="48"  Name="71 Arco"  ProgramChange="48"/>
+          <Patch Number="49"  Name="72 Chmbr"  ProgramChange="49"/>
+          <Patch Number="50"  Name="73 Full"  ProgramChange="50"/>
+          <Patch Number="51"  Name="74 Pizza"  ProgramChange="51"/>
+          <Patch Number="52"  Name="75 CelSt"  ProgramChange="52"/>
+          <Patch Number="53"  Name="76 Exel"  ProgramChange="53"/>
+          <Patch Number="54"  Name="77 Synth"  ProgramChange="54"/>
+          <Patch Number="55"  Name="78 Eroid"  ProgramChange="55"/>
+          <Patch Number="56"  Name="81 Modrn"  ProgramChange="56"/>
+          <Patch Number="57"  Name="82 Duwop"  ProgramChange="57"/>
+          <Patch Number="58"  Name="83 Itopy"  ProgramChange="58"/>
+          <Patch Number="59"  Name="84 Astiz"  ProgramChange="59"/>
+          <Patch Number="60"  Name="85 Marim"  ProgramChange="60"/>
+          <Patch Number="61"  Name="86 Vibes"  ProgramChange="61"/>
+          <Patch Number="62"  Name="87 Bells"  ProgramChange="62"/>
+          <Patch Number="63"  Name="88 Clang"  ProgramChange="63"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Voice/Card 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha TG-33 Voice/Card 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Triangle closed"/>
+     <Note Number="38"  Name="8=SD 1"/>
+     <Note Number="39"  Name="9=Triangle open"/>
+     <Note Number="40"  Name="0=E. Tom 1"/>
+     <Note Number="41"  Name="1=E. Tom 2"/>
+     <Note Number="42"  Name="2=E. Tom 3"/>
+     <Note Number="43"  Name="3=E. Tom 4"/>
+     <Note Number="44"  Name="4=BD 2"/>
+     <Note Number="45"  Name="5=BD 3"/>
+     <Note Number="46"  Name="6=Cross Sticks"/>
+     <Note Number="47"  Name="7=Tom 1"/>
+     <Note Number="48"  Name="8=Tom 2"/>
+     <Note Number="49"  Name="9=SD 2"/>
+     <Note Number="50"  Name="0=Tom 3"/>
+     <Note Number="51"  Name="1=Rim"/>
+     <Note Number="52"  Name="2=SD 3"/>
+     <Note Number="53"  Name="3=Tom 4"/>
+     <Note Number="54"  Name="4=Claps"/>
+     <Note Number="55"  Name="5=Cowbell 1"/>
+     <Note Number="56"  Name="6=Shaker"/>
+     <Note Number="57"  Name="7=HH closed"/>
+     <Note Number="58"  Name="8=Crash 1"/>
+     <Note Number="59"  Name="9=HH open"/>
+     <Note Number="60"  Name="0=Crash 2"/>
+     <Note Number="61"  Name="1=Splash"/>
+     <Note Number="62"  Name="2=Cup"/>
+     <Note Number="63"  Name="3=Ride"/>
+     <Note Number="64"  Name="4=Low Conga"/>
+     <Note Number="65"  Name="5=High Conga"/>
+     <Note Number="66"  Name="6=Mute Conga"/>
+     <Note Number="67"  Name="7=DigiAtack"/>
+     <Note Number="68"  Name="8=Ooo!"/>
+     <Note Number="69"  Name="9=Low Timbales"/>
+     <Note Number="70"  Name="0=High Timbales"/>
+     <Note Number="71"  Name="1=Tambourine"/>
+     <Note Number="72"  Name="2=Finger snaps"/>
+     <Note Number="73"  Name="3=Claves"/>
+     <Note Number="74"  Name="4=Low Agogo"/>
+     <Note Number="75"  Name="5=High Agogo"/>
+     <Note Number="76"  Name="6=Low Cuica"/>
+     <Note Number="77"  Name="7=High Cuica"/>
+     <Note Number="78"  Name="8=Low Whistle"/>
+     <Note Number="79"  Name="9=High Whistle"/>
+     <Note Number="80"  Name="0=Bamboo"/>
+     <Note Number="81"  Name="1=Bottle"/>
+     <Note Number="82"  Name="2=Cowbell 2"/>
+     <Note Number="83"  Name="3=Crash"/>
+     <Note Number="84"  Name="4=SD 4"/>
+     <Note Number="85"  Name="5=Low Scratch"/>
+     <Note Number="86"  Name="6=SD 5"/>
+     <Note Number="87"  Name="7=High Scratch"/>
+     <Note Number="88"  Name="8=Reverse Cymbal"/>
+     <Note Number="89"  Name="9=Slam 1"/>
+     <Note Number="90"  Name="0=Coin"/>
+     <Note Number="91"  Name="1=Slam 2"/>
+     <Note Number="92"  Name="2=Water Drop"/>
+     <Note Number="93"  Name="3=Low Timpani"/>
+     <Note Number="94"  Name="4=Cracker"/>
+     <Note Number="95"  Name="5=High Timpani"/>
+     <Note Number="96"  Name="6=Metal Hit"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Triangle closed"/>
+     <Note Number="38"  Name="8=SD 1"/>
+     <Note Number="39"  Name="9=Triangle open"/>
+     <Note Number="40"  Name="0=E. Tom 1"/>
+     <Note Number="41"  Name="1=E. Tom 2"/>
+     <Note Number="42"  Name="2=E. Tom 3"/>
+     <Note Number="43"  Name="3=E. Tom 4"/>
+     <Note Number="44"  Name="4=BD 2"/>
+     <Note Number="45"  Name="5=BD 3"/>
+     <Note Number="46"  Name="6=Cross Sticks"/>
+     <Note Number="47"  Name="7=Tom 1"/>
+     <Note Number="48"  Name="8=Tom 2"/>
+     <Note Number="49"  Name="9=SD 2"/>
+     <Note Number="50"  Name="0=Tom 3"/>
+     <Note Number="51"  Name="1=Rim"/>
+     <Note Number="52"  Name="2=SD 3"/>
+     <Note Number="53"  Name="3=Tom 4"/>
+     <Note Number="54"  Name="4=Claps"/>
+     <Note Number="55"  Name="5=Cowbell 1"/>
+     <Note Number="56"  Name="6=Shaker"/>
+     <Note Number="57"  Name="7=HH closed"/>
+     <Note Number="58"  Name="8=Crash 1"/>
+     <Note Number="59"  Name="9=HH open"/>
+     <Note Number="60"  Name="0=Crash 2"/>
+     <Note Number="61"  Name="1=Splash"/>
+     <Note Number="62"  Name="2=Cup"/>
+     <Note Number="63"  Name="3=Ride"/>
+     <Note Number="64"  Name="4=Low Conga"/>
+     <Note Number="65"  Name="5=High Conga"/>
+     <Note Number="66"  Name="6=Mute Conga"/>
+     <Note Number="67"  Name="7=DigiAtack"/>
+     <Note Number="68"  Name="8=Ooo!"/>
+     <Note Number="69"  Name="9=Low Timbales"/>
+     <Note Number="70"  Name="0=High Timbales"/>
+     <Note Number="71"  Name="1=Tambourine"/>
+     <Note Number="72"  Name="2=Finger snaps"/>
+     <Note Number="73"  Name="3=Claves"/>
+     <Note Number="74"  Name="4=Low Agogo"/>
+     <Note Number="75"  Name="5=High Agogo"/>
+     <Note Number="76"  Name="6=Low Cuica"/>
+     <Note Number="77"  Name="7=High Cuica"/>
+     <Note Number="78"  Name="8=Low Whistle"/>
+     <Note Number="79"  Name="9=High Whistle"/>
+     <Note Number="80"  Name="0=Bamboo"/>
+     <Note Number="81"  Name="1=Bottle"/>
+     <Note Number="82"  Name="2=Cowbell 2"/>
+     <Note Number="83"  Name="3=Crash"/>
+     <Note Number="84"  Name="4=SD 4"/>
+     <Note Number="85"  Name="5=Low Scratch"/>
+     <Note Number="86"  Name="6=SD 5"/>
+     <Note Number="87"  Name="7=High Scratch"/>
+     <Note Number="88"  Name="8=Reverse Cymbal"/>
+     <Note Number="89"  Name="9=Slam 1"/>
+     <Note Number="90"  Name="0=Coin"/>
+     <Note Number="91"  Name="1=Slam 2"/>
+     <Note Number="92"  Name="2=Water Drop"/>
+     <Note Number="93"  Name="3=Low Timpani"/>
+     <Note Number="94"  Name="4=Cracker"/>
+     <Note Number="95"  Name="5=High Timpani"/>
+     <Note Number="96"  Name="6=Metal Hit"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

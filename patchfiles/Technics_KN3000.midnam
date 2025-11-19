@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Technics</Manufacturer>
+    <Model>KN3000</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Technics KN3000 Bank 0">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Harpsichord"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Hawaiian Guitar 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Jazz Organ"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Sopranosax"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Square Lead"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Mellow Ensemble"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Agogo"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-1"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Classical Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Symfony String"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Brass"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Picolo"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Acoustic Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Jazz Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Clavi"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Hawaiian Guitar 2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Full Drawbars"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Alto Sax"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Saw Lead"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Warm Synth Pad"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Wood Block"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-2"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Piano 1 Octave"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Spanisch Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Classical Strings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Brass &amp; Synth"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Jazz Flute"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Mellow Ac. Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Brush Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-3"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Synth Clavi"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Banjo"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Jazz Drawbars"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Mellow Alto Sax"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Sine Lead"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Mellow Ensemble"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Taiko Drum"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-3"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Piano 2 Octave"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Folk Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Slow Srings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Trumpet 1"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Classical Flute"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Electric Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Trad Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 3">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-4"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Glockenspiel"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Mandolin"  ProgramChange="2"/>
+          <Patch Number="3"  Name="16'&amp;1' Organ"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Tenor Sax"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Charang"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Spacy Pad"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Melodic Tom"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-4"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Honky-Tonk Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Jazz Guitar 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Pizzicato Strings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Harmon Mute Tpt"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Alto Flute"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Bright E. Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Standard Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 4">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-5"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Vibraphone"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Harp"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Pop Organ 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Breathy Tenor"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Chiffer Lead"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Metal Pad"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Synth Drum"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-5"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Electric Grand"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Bright Solid Gtr"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Synth Strings 1"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Flugel Horn"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Pan Flute 1"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Funky E. Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Room Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 5">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-6"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Marimba"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Orchestra Hit 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Pipe Organ 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Bariton Sax"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Charang"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Star Theme"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Reverse Cymball"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-6"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Midi Grand 1"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Clean Solid Gtr"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Violin"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Bright Trombone"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Recorder"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Fretless Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Light Rock Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 6">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="6"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-7"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Xylophone"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Timpani"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Theater Organ 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Jazz Clarinet 1"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Metallica Solo"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Bowed Glass"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Ice Rain"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-7"  ProgramChange="8"/>
+          <Patch Number="9"  Name="E.Piano 1"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Mute Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Cello"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Cup Mute Trombone"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Ocarina"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Picked E. Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Power Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 7">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="7"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-8"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Steel Drum"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Koto"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Bright Accordion"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Oboe"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Talking Lead"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Atmosphere"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Soundtrack"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-8"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Suitcase EP."  ProgramChange="9"/>
+          <Patch Number="10"  Name="Distortion Gtr"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vocal Ah"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Closed Fr. Horn"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Whistle"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Slap Bass 1"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Funk Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 8">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="8"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-9"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Celeste"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Kalimba"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Mellow Accordion"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Harmonica"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Digi Stack"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Fantasia"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Goblins"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-9"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Modern EP 1"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Overdrive Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vocal Ooh"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Open Fr. Horn"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Shakuhachi"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Analog Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Soul Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 9">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="9"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-10"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Bottle Marimba"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Metal Kalimba"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Musette"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Blues Harmonica"  ProgramChange="4"/>
+          <Patch Number="5"  Name="80's Solo"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Bell Pad"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Windy Sweep"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-10"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Modern EP 2"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Country Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vocal Doo"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Synth Brass 1"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Quena"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Wow Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Electric Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 10">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-11"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Cembalo"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Orchestra Hit 2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Mellow Drawbars"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Rock Tenor Sax"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Steamy Keys"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Dream"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Sleigh Bell"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-11"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Mellow Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Jazz Ac. Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Marcato Strings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Octave Brass"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Alto Ensemble"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Fushion E. Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Dance Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 11">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-12"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Harpsi Octave"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Music Box"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Pop Organ 2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Distorsion Sax"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Olymp Synth"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Mist"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Talking Drum"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-12"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Solo Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Guitar Harmonics"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Octave Strings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Mute Brass Ensemble"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Pan Flute 2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Mute Bass"  ProgramChange="14"/>
+          <Patch Number="15"  Name="House Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 12">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="12"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-13"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Vibes &amp; Jazz Guitar"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Christmass Piano"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Rock Organ"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Synth Sax"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Voco Synth"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Sweep Pad"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Frett Noise"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-13"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Rock Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="12 String Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Bass Strings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Trumpet 2"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Blown Bottle"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Slap Bass 2"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Synth Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 13">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="13"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-14"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Power Steel Drum"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Shamisen"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Organ Bass"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Jazz Clarinet 2"  ProgramChange="4"/>
+          <Patch Number="5"  Name="5TH Wave"  ProgramChange="5"/>
+          <Patch Number="6"  Name="HaloPad"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Breath Noise"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-14"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Midi Grand 2"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Electro Ac. Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Tremelo Strings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Orchest. Trumpet"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Ney"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Soul Bass 2"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Orchestral Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 14">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="14"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-15"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Tubelar Bells"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Sitar"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Pipe Organ 2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Mellow Clarinet"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Bass &amp; Lead"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Echo Drops"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Seashore"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-15"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Jangle Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Jazz Guitar 2"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Synth Strings 2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Straight Mute Tpt"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Shanai"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Synth Chopper"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Sound Effect Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 15">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="15"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-16"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Wind Chimes"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Gamelan 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Theatre Organ 2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Classic Clarinet"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Sleigh Synth"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Poly Synth"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Bird Tweet"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-16"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Elec. Piano 2"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Mellow Solid Gtr"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Jazz Violin"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Cornet"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Synth Recorder"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Wow Bass 2"  ProgramChange="14"/>
+          <Patch Number="15"  Name="User Kit"  ProgramChange="15"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 16">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-17"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Tinkle Bell"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Gamelan 2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Theatre Organ 3"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Bass Clarinet"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Talking Synth"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Mellow Synth Brass"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Telephone"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-17"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Tremelo E Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Fushion Solid Gtr"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Fiddle"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Mellow Trombone"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Synth Calilope"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Synth Chopper"  ProgramChange="14"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 17">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="17"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-18"  ProgramChange="0"/>
+          <Patch Number="1"  Name="African Mallet"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Dulcimer"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Theatre Organ 4"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Englisch Horn"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Synth Harp"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Voxmosphere"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Helicopter"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-18"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Wurly E.P."  ProgramChange="9"/>
+          <Patch Number="10"  Name="Funk Mute Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Viola"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Orchestral Tuba"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Knock Whistle"  ProgramChange="13"/>
+          <Patch Number="14"  Name="House Bass"  ProgramChange="14"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 18">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="18"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-19"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Carribean Mallet"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Kanun"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Harmonium"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Bassoon"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Afro Dance"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Wide Window"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Applause"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-19"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Modern E.P."  ProgramChange="9"/>
+          <Patch Number="10"  Name="Rock Harmonics"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Bowed Bass"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Marching Tuba"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Misty Flute"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Plastic Bass"  ProgramChange="14"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics KN3000 Bank 19">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="19"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Memory B-20"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Synth Glocken"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Cumbus"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Badoneon"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Bagpipe"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Digi Bells"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Dark Universe"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Gun Shot"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Memory A-20"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Bell Piano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Midi Guitar"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Humming Strings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Synth Brass 2"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Flutter Flute"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Dr. M. Bass"  ProgramChange="14"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

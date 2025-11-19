@@ -1,0 +1,1362 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Yamaha</Manufacturer>
+    <Model>DTXPRESS</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Yamaha DTXPRESS">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="GM Standard 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="GM Standard 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Acoustic"  ProgramChange="2"/>
+          <Patch Number="3"  Name="NewBeat"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Rock Kit"  ProgramChange="4"/>
+          <Patch Number="5"  Name="RockDry1"  ProgramChange="5"/>
+          <Patch Number="6"  Name="RockDry2"  ProgramChange="6"/>
+          <Patch Number="7"  Name="RockDry3"  ProgramChange="7"/>
+          <Patch Number="8"  Name="GM Room"  ProgramChange="8"/>
+          <Patch Number="9"  Name="RockDry4"  ProgramChange="9"/>
+          <Patch Number="10"  Name="BigReverb"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Ballade"  ProgramChange="11"/>
+          <Patch Number="12"  Name="BeBop"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Andora"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Room Kit"  ProgramChange="14"/>
+          <Patch Number="15"  Name="(IN)"  ProgramChange="15"/>
+          <Patch Number="16"  Name="GM Rock"  ProgramChange="16"/>
+          <Patch Number="17"  Name="In&amp;Out"  ProgramChange="17"/>
+          <Patch Number="18"  Name="HipFunky"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Dance 1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Dance 2"  ProgramChange="20"/>
+          <Patch Number="21"  Name="SoDance"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Manh"  ProgramChange="22"/>
+          <Patch Number="23"  Name="D@RK"  ProgramChange="23"/>
+          <Patch Number="24"  Name="GM Electric"  ProgramChange="24"/>
+          <Patch Number="25"  Name="GM Analog"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Oh!No!"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Latin/Tm"  ProgramChange="27"/>
+          <Patch Number="28"  Name="LatinPer"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Zebulon"  ProgramChange="29"/>
+          <Patch Number="30"  Name="World"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Reggae"  ProgramChange="31"/>
+          <Patch Number="32"  Name="GM Jazz"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Tabla"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Cocktail"  ProgramChange="34"/>
+          <Patch Number="35"  Name="JamKit99"  ProgramChange="35"/>
+          <Patch Number="36"  Name="GoesOn!?"  ProgramChange="36"/>
+          <Patch Number="37"  Name="InDaHood"  ProgramChange="37"/>
+          <Patch Number="38"  Name="GroovKit"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Bs.@Base"  ProgramChange="39"/>
+          <Patch Number="40"  Name="GM Brush"  ProgramChange="40"/>
+          <Patch Number="41"  Name="JungleNY"  ProgramChange="41"/>
+          <Patch Number="42"  Name="SnapKit"  ProgramChange="42"/>
+          <Patch Number="43"  Name="JumpBack"  ProgramChange="43"/>
+          <Patch Number="44"  Name="MondoKit"  ProgramChange="44"/>
+          <Patch Number="45"  Name="TorqKit"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Mystery"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Init Kit"  ProgramChange="47"/>
+          <Patch Number="48"  Name="GM Classical"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Init Kit"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Init Kit"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Init Kit"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Init Kit"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Init Kit"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Init Kit"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Init Kit"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Init Kit"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Init Kit"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Init Kit"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Init Kit"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Init Kit"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Init Kit"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Init Kit"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Init Kit"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Init Kit"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Init Kit"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Init Kit"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Init Kit"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Init Kit"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Init Kit"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Init Kit"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Init Kit"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Init Kit"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Init Kit"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Init Kit"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Init Kit"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Init Kit"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Init Kit"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Init Kit"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Init Kit"  ProgramChange="79"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=T Dry Hi"/>
+     <Note Number="3"  Name="3=T Dry Lo"/>
+     <Note Number="4"  Name="4=K BD DRY 1"/>
+     <Note Number="8"  Name="8=S MapleV65"/>
+     <Note Number="11"  Name="1=T Maple14"/>
+     <Note Number="13"  Name="3=T Maple14"/>
+     <Note Number="16"  Name="6=C RideDark"/>
+     <Note Number="17"  Name="7=H HHbrtcls"/>
+     <Note Number="23"  Name="3=H H OpnL2"/>
+     <Note Number="24"  Name="4=H H OpnL3"/>
+     <Note Number="25"  Name="5=H H OpnLK"/>
+     <Note Number="28"  Name="8=S RIMhipop"/>
+     <Note Number="29"  Name="9=C Sizzler"/>
+     <Note Number="30"  Name="0=K MapleAmb"/>
+     <Note Number="31"  Name="1=H H Pdl13"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="38"  Name="8=C ChinaHi"/>
+     <Note Number="40"  Name="0=C Clusher"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="120"  Name="0=s Manycure"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="2"  Name="2=E Ambush"/>
+     <Note Number="4"  Name="4=s Analog H"/>
+     <Note Number="12"  Name="2=H H TiCls2"/>
+     <Note Number="13"  Name="3=C C FX02"/>
+     <Note Number="15"  Name="5=E CoolSA"/>
+     <Note Number="18"  Name="8=C Ride'EM"/>
+     <Note Number="19"  Name="9=s Electrik"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="35"  Name="5=H CowNAn"/>
+     <Note Number="44"  Name="4=t ElectrcF"/>
+     <Note Number="46"  Name="6=H SplNB"/>
+     <Note Number="47"  Name="7=C ACym2"/>
+     <Note Number="49"  Name="9=H H OpnAMu"/>
+     <Note Number="50"  Name="0=H H OpnAn"/>
+     <Note Number="51"  Name="1=t ETMooRL"/>
+     <Note Number="71"  Name="1=T ACTomH"/>
+     <Note Number="72"  Name="2=T ACTomH"/>
+     <Note Number="73"  Name="3=T ACTomL"/>
+     <Note Number="83"  Name="3=E USS"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=T Dry1 Hi"/>
+     <Note Number="2"  Name="2=K 2HedMed2"/>
+     <Note Number="3"  Name="3=T Dry Lo"/>
+     <Note Number="5"  Name="5=S Binky"/>
+     <Note Number="6"  Name="6=C DeepDRK"/>
+     <Note Number="11"  Name="1=T Maple10"/>
+     <Note Number="13"  Name="3=T Maple14"/>
+     <Note Number="16"  Name="6=C RideDark"/>
+     <Note Number="17"  Name="7=H H HHbrtcls"/>
+     <Note Number="18"  Name="8=C Ride'EM"/>
+     <Note Number="23"  Name="3=H HOpnl2"/>
+     <Note Number="24"  Name="4=H H OpnL3"/>
+     <Note Number="25"  Name="5=H H OpnLK"/>
+     <Note Number="28"  Name="8=S RIMhipop"/>
+     <Note Number="29"  Name="9=C Sizzler"/>
+     <Note Number="31"  Name="1=H H Pdl13"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="39"  Name="9=C MinChina"/>
+     <Note Number="40"  Name="0=C Clusher"/>
+     <Note Number="41"  Name="1=P GONG"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="120"  Name="0=s Manycure"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="4"  Name="4=H H ClsA2"/>
+     <Note Number="5"  Name="5=H H ClsMu"/>
+     <Note Number="12"  Name="2=s AnSStick"/>
+     <Note Number="17"  Name="7=s Dance05"/>
+     <Note Number="19"  Name="9=s Electrik"/>
+     <Note Number="32"  Name="2=C RidB Lit"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="41"  Name="1=t ElectrcH"/>
+     <Note Number="42"  Name="2=t ElectrcM"/>
+     <Note Number="43"  Name="3=t ElectrcL"/>
+     <Note Number="44"  Name="4=C AngCym"/>
+     <Note Number="45"  Name="5=C Ride Anl"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="50"  Name="0=H OpnAn"/>
+     <Note Number="52"  Name="2=P Maracas3"/>
+     <Note Number="55"  Name="5=P Scrach"/>
+     <Note Number="56"  Name="6=P Shake1"/>
+     <Note Number="78"  Name="8=P Tambourn"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="14"  Name="4=P Surdo"/>
+     <Note Number="15"  Name="5=P HiQ"/>
+     <Note Number="16"  Name="6=P WHP"/>
+     <Note Number="17"  Name="7=P Scratch"/>
+     <Note Number="18"  Name="8=P Scratch"/>
+     <Note Number="19"  Name="9=P Finger Snap 2"/>
+     <Note Number="20"  Name="0=P Finger Snap 1"/>
+     <Note Number="21"  Name="1=P Mtron"/>
+     <Note Number="22"  Name="2=P MtBel"/>
+     <Note Number="23"  Name="3=P Wood Block"/>
+     <Note Number="24"  Name="4=P Wood Block"/>
+     <Note Number="25"  Name="5=S Brush Tap 2"/>
+     <Note Number="26"  Name="6=S Brush Sweep L"/>
+     <Note Number="27"  Name="7=S Brush Slap L"/>
+     <Note Number="28"  Name="8=S Brush Sweep H"/>
+     <Note Number="29"  Name="9=S Snare Roll 2"/>
+     <Note Number="30"  Name="0=P Castanet"/>
+     <Note Number="31"  Name="1=S Snare M"/>
+     <Note Number="32"  Name="2=S STK_HT"/>
+     <Note Number="33"  Name="3=B daftty 2"/>
+     <Note Number="34"  Name="4=S Open Rim C"/>
+     <Note Number="35"  Name="5=B GMM 2"/>
+     <Note Number="36"  Name="6=B Dry 1"/>
+     <Note Number="37"  Name="7=S SideStick 2"/>
+     <Note Number="38"  Name="8=S Wood Snare"/>
+     <Note Number="39"  Name="9=P Clap A"/>
+     <Note Number="40"  Name="0=S Snare H"/>
+     <Note Number="41"  Name="1=T DRY GM1"/>
+     <Note Number="42"  Name="2=C H ClsMU"/>
+     <Note Number="43"  Name="3=T DRY GM2"/>
+     <Note Number="44"  Name="4=C H PdlMu"/>
+     <Note Number="45"  Name="5=T DRY GM3"/>
+     <Note Number="46"  Name="6=C H OPMu"/>
+     <Note Number="47"  Name="7=T DRY GM4"/>
+     <Note Number="48"  Name="8=T DRY GM5"/>
+     <Note Number="49"  Name="9=C Crash"/>
+     <Note Number="50"  Name="0=T DRY GM6"/>
+     <Note Number="51"  Name="1=C Ride Lite"/>
+     <Note Number="52"  Name="2=C China"/>
+     <Note Number="53"  Name="3=C RideB Lite"/>
+     <Note Number="54"  Name="4=P Tambourine"/>
+     <Note Number="55"  Name="5=C Splash 1"/>
+     <Note Number="56"  Name="6=P CowB1"/>
+     <Note Number="57"  Name="7=C CrashB"/>
+     <Note Number="58"  Name="8=P Vibraslap"/>
+     <Note Number="59"  Name="9=C Sizzle Lite"/>
+     <Note Number="60"  Name="0=P BongHi"/>
+     <Note Number="61"  Name="1=P BongLo"/>
+     <Note Number="62"  Name="2=P CongaM"/>
+     <Note Number="63"  Name="3=P Conga"/>
+     <Note Number="64"  Name="4=P Conga"/>
+     <Note Number="65"  Name="5=P Timbale Hi"/>
+     <Note Number="66"  Name="6=P Timbale Lo"/>
+     <Note Number="67"  Name="7=P AgogoH2"/>
+     <Note Number="68"  Name="8=P AgogoH2"/>
+     <Note Number="69"  Name="9=P Cabasa"/>
+     <Note Number="70"  Name="0=P Maracas"/>
+     <Note Number="71"  Name="1=P SWhistH"/>
+     <Note Number="72"  Name="2=P SWhistL"/>
+     <Note Number="73"  Name="3=P Guiro Short"/>
+     <Note Number="74"  Name="4=P Guiro"/>
+     <Note Number="75"  Name="5=P Clavas"/>
+     <Note Number="76"  Name="6=P Wood Block"/>
+     <Note Number="77"  Name="7=P Wood Block"/>
+     <Note Number="78"  Name="8=P Cuica Hi"/>
+     <Note Number="79"  Name="9=P Cuica Lo"/>
+     <Note Number="80"  Name="0=P Triangle Mute"/>
+     <Note Number="81"  Name="1=P Triangle"/>
+     <Note Number="82"  Name="2=P Shake 1"/>
+     <Note Number="83"  Name="3=P Jingle Bell"/>
+     <Note Number="84"  Name="4=P Bell Tree"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="5"  Name="5=C CrshDRK"/>
+     <Note Number="16"  Name="6=C RideDark"/>
+     <Note Number="19"  Name="9=s Electrik"/>
+     <Note Number="23"  Name="3=H H OpnL2"/>
+     <Note Number="24"  Name="4=C RidesizB"/>
+     <Note Number="26"  Name="6=H H OpnLX1"/>
+     <Note Number="32"  Name="2=H H PdlDW"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="39"  Name="9=K Dbonzo2"/>
+     <Note Number="46"  Name="6=H H SplNB"/>
+     <Note Number="60"  Name="0=S Fat looz"/>
+     <Note Number="71"  Name="1=T ACtomH"/>
+     <Note Number="72"  Name="2=T ACTomM"/>
+     <Note Number="73"  Name="3=T ACTomL"/>
+     <Note Number="75"  Name="5=T Room 1 Hi"/>
+     <Note Number="76"  Name="6=T Room 1Mid"/>
+     <Note Number="77"  Name="7=T Room 1 Lo"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="14"  Name="4=P Surdo"/>
+     <Note Number="15"  Name="5=P HiQ"/>
+     <Note Number="16"  Name="6=P WHP"/>
+     <Note Number="17"  Name="7=P Scratch"/>
+     <Note Number="18"  Name="8=P Scratch"/>
+     <Note Number="19"  Name="9=P Finger Snap 2"/>
+     <Note Number="20"  Name="0=P Finger Snap 1"/>
+     <Note Number="21"  Name="1=P Mtron"/>
+     <Note Number="22"  Name="2=P MtBel"/>
+     <Note Number="23"  Name="3=P Wood Block"/>
+     <Note Number="24"  Name="4=P Wood Block"/>
+     <Note Number="25"  Name="5=S Brush Tap 2"/>
+     <Note Number="26"  Name="6=S Brush Sweep L"/>
+     <Note Number="27"  Name="7=S Brush Slap L"/>
+     <Note Number="28"  Name="8=S Brush Sweep H"/>
+     <Note Number="29"  Name="9=S Snare Roll"/>
+     <Note Number="30"  Name="0=P Castanet"/>
+     <Note Number="31"  Name="1=S Rock M"/>
+     <Note Number="32"  Name="2=S STK_HT"/>
+     <Note Number="33"  Name="3=B Gate 2"/>
+     <Note Number="34"  Name="4=S Open Rim"/>
+     <Note Number="35"  Name="5=B Kong1"/>
+     <Note Number="36"  Name="6=B Metal"/>
+     <Note Number="37"  Name="7=S SideStick 2"/>
+     <Note Number="38"  Name="8=S Beauty Rim"/>
+     <Note Number="39"  Name="9=P Clap A"/>
+     <Note Number="40"  Name="0=S 12 Soprano"/>
+     <Note Number="41"  Name="1=T Rock 1"/>
+     <Note Number="42"  Name="2=C H ClsMU"/>
+     <Note Number="43"  Name="3=T Rock 2"/>
+     <Note Number="44"  Name="4=C H PdlDW"/>
+     <Note Number="45"  Name="5=T Rock 3"/>
+     <Note Number="46"  Name="6=C H OpnL3"/>
+     <Note Number="47"  Name="7=T Rock 4"/>
+     <Note Number="48"  Name="8=T Rock 5"/>
+     <Note Number="49"  Name="9=C Crash"/>
+     <Note Number="50"  Name="0=T Rock 6"/>
+     <Note Number="51"  Name="1=C Ride Lite"/>
+     <Note Number="52"  Name="2=C China"/>
+     <Note Number="53"  Name="3=C RideB Lite"/>
+     <Note Number="54"  Name="4=P Tambourine"/>
+     <Note Number="55"  Name="5=C Splash 1"/>
+     <Note Number="56"  Name="6=P CowB1"/>
+     <Note Number="57"  Name="7=C CrashB"/>
+     <Note Number="58"  Name="8=P Vibraslap"/>
+     <Note Number="59"  Name="9=C Sizzle Rock"/>
+     <Note Number="60"  Name="0=P BongHi"/>
+     <Note Number="61"  Name="1=P BongLo"/>
+     <Note Number="62"  Name="2=P CongaM"/>
+     <Note Number="63"  Name="3=P Conga"/>
+     <Note Number="64"  Name="4=P Conga"/>
+     <Note Number="65"  Name="5=P Timbale Hi"/>
+     <Note Number="66"  Name="6=P Timbale Lo"/>
+     <Note Number="67"  Name="7=P AgogoH2"/>
+     <Note Number="68"  Name="8=P AgogoH2"/>
+     <Note Number="69"  Name="9=P Cabasa"/>
+     <Note Number="70"  Name="0=P Maracas"/>
+     <Note Number="71"  Name="1=P SWhistH"/>
+     <Note Number="72"  Name="2=P SWhistL"/>
+     <Note Number="73"  Name="3=P Guiro Short"/>
+     <Note Number="74"  Name="4=P Guiro"/>
+     <Note Number="75"  Name="5=P Clavas"/>
+     <Note Number="76"  Name="6=P Wood Block"/>
+     <Note Number="77"  Name="7=P Wood Block"/>
+     <Note Number="78"  Name="8=P Cuica Hi"/>
+     <Note Number="79"  Name="9=P Cuica Lo"/>
+     <Note Number="80"  Name="0=P Triangle Mute"/>
+     <Note Number="81"  Name="1=P Triangle"/>
+     <Note Number="82"  Name="2=P Shake 1"/>
+     <Note Number="83"  Name="3=P Jingle Bell"/>
+     <Note Number="84"  Name="4=P Bell Tree"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="3"  Name="3=C C  Crash"/>
+     <Note Number="7"  Name="7=K BD DRY 4"/>
+     <Note Number="10"  Name="0=H H QOpn13"/>
+     <Note Number="19"  Name="9=P Clvs"/>
+     <Note Number="26"  Name="6=P CongaM"/>
+     <Note Number="30"  Name="0=C SizzLit"/>
+     <Note Number="31"  Name="1=H H Pdl13"/>
+     <Note Number="32"  Name="2=C RidB Lit"/>
+     <Note Number="33"  Name="3=S 12Soprno"/>
+     <Note Number="34"  Name="4=H H PdlMu"/>
+     <Note Number="38"  Name="8=C ChinaHi"/>
+     <Note Number="41"  Name="1=C Splsh1"/>
+     <Note Number="47"  Name="7=H H Splsht"/>
+     <Note Number="81"  Name="1=P TimbH"/>
+     <Note Number="82"  Name="2=P TimbL"/>
+     <Note Number="90"  Name="0=P Udo L"/>
+     <Note Number="110"  Name="0=S S SStck2"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="17"  Name="7=S LiteSnr1"/>
+     <Note Number="19"  Name="9=T Jazz Hi"/>
+     <Note Number="20"  Name="0=T Jazz Mid"/>
+     <Note Number="21"  Name="1=H H OpnDWX"/>
+     <Note Number="22"  Name="2=T Jazz Flr"/>
+     <Note Number="23"  Name="3=C RidesizA"/>
+     <Note Number="24"  Name="4=T BrshJzMd"/>
+     <Note Number="26"  Name="6=T BrshJzFl"/>
+     <Note Number="31"  Name="1=H H Pdl13"/>
+     <Note Number="33"  Name="3=C CowB1"/>
+     <Note Number="35"  Name="5=C RidB Drk"/>
+     <Note Number="36"  Name="6=K BDersko1"/>
+     <Note Number="38"  Name="8=C ChinaHi"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="78"  Name="8=S Cool Dry"/>
+     <Note Number="79"  Name="9=S OpnRim"/>
+     <Note Number="100"  Name="0=s BrshAtak"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=T Dry1 Hi"/>
+     <Note Number="2"  Name="2=T Dry1 Mid"/>
+     <Note Number="3"  Name="3=T Dry1 Hi"/>
+     <Note Number="6"  Name="6=H ClsNB1"/>
+     <Note Number="11"  Name="1=K BD NN04C"/>
+     <Note Number="16"  Name="6=C RideDark"/>
+     <Note Number="23"  Name="3=H H OpnL2"/>
+     <Note Number="24"  Name="4=C RidesizB"/>
+     <Note Number="26"  Name="6=H H OpnLX1"/>
+     <Note Number="32"  Name="2=K 2HeadLo"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="35"  Name="5=H H PdlNB"/>
+     <Note Number="37"  Name="7=C China"/>
+     <Note Number="46"  Name="6=H H SplNB"/>
+     <Note Number="47"  Name="7=S RlMnatrl"/>
+     <Note Number="63"  Name="3=S SnareM"/>
+     <Note Number="83"  Name="3=T Night H"/>
+     <Note Number="84"  Name="4=T Night M"/>
+     <Note Number="85"  Name="5=T Night L"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="3"  Name="3=s AnaHit"/>
+     <Note Number="6"  Name="6=s AnaalogH1"/>
+     <Note Number="12"  Name="2=k BDDance9"/>
+     <Note Number="13"  Name="3=E CBRadi"/>
+     <Note Number="17"  Name="7=H HHbrtcls"/>
+     <Note Number="18"  Name="8=s Dance06"/>
+     <Note Number="20"  Name="0=e BDSUBSNK"/>
+     <Note Number="22"  Name="2=e SPIKER"/>
+     <Note Number="23"  Name="3=H H OpnL2"/>
+     <Note Number="24"  Name="4=s Brsh H"/>
+     <Note Number="25"  Name="5=H H OpnLK"/>
+     <Note Number="31"  Name="1=H H Pdl13"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="53"  Name="3=e DOPPLER"/>
+     <Note Number="74"  Name="4=e Vocal04"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="4"  Name="4=H H ClsMu"/>
+     <Note Number="5"  Name="5=H H ClsA2"/>
+     <Note Number="6"  Name="6=P AnMaracs"/>
+     <Note Number="7"  Name="7=K BDDance2"/>
+     <Note Number="21"  Name="1=t TEKK 2L"/>
+     <Note Number="23"  Name="3=t TEKK 3H"/>
+     <Note Number="24"  Name="4=t TEKK 3M"/>
+     <Note Number="30"  Name="0=s HiFive"/>
+     <Note Number="32"  Name="2=C RidB Lit"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="35"  Name="5=P CowBAn"/>
+     <Note Number="41"  Name="1=C C Splash"/>
+     <Note Number="44"  Name="4=C AngCym"/>
+     <Note Number="45"  Name="5=C Ride Anl"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="50"  Name="0=H H OpnAn"/>
+     <Note Number="55"  Name="5=P Scrash"/>
+     <Note Number="78"  Name="8=P Tambourn"/>
+     <Note Number="95"  Name="5=s Tekk3"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="4"  Name="4=L LITEOOP"/>
+     <Note Number="5"  Name="5=H H OPMU"/>
+     <Note Number="8"  Name="8=e JNGLSN8"/>
+     <Note Number="18"  Name="8=k Sub3"/>
+     <Note Number="32"  Name="2=k Walkik"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="34"  Name="4=H H PdlMu"/>
+     <Note Number="37"  Name="7=e GRONKER"/>
+     <Note Number="48"  Name="8=H Hpsplsh"/>
+     <Note Number="66"  Name="6=e UMK 47"/>
+     <Note Number="80"  Name="0=s S Gate1"/>
+     <Note Number="118"  Name="8=s Shotgun"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="5"  Name="5=H H ClsMu"/>
+     <Note Number="7"  Name="7=H H ClsTc1"/>
+     <Note Number="8"  Name="8=t Ana 2flr"/>
+     <Note Number="18"  Name="8=H H OPMu"/>
+     <Note Number="25"  Name="5=H H OpnLK"/>
+     <Note Number="32"  Name="2=C RidB Lit"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="36"  Name="6=C RidB Rc"/>
+     <Note Number="37"  Name="7=e MOSHER"/>
+     <Note Number="40"  Name="0=E INDcrash"/>
+     <Note Number="41"  Name="1=H Hpdlcls4"/>
+     <Note Number="43"  Name="3=H FTsplRK2"/>
+     <Note Number="118"  Name="8=S SnareLes"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="2"  Name="2=T Dry1 Mid"/>
+     <Note Number="4"  Name="4=T Dry1 Flr"/>
+     <Note Number="11"  Name="1=T Maple10"/>
+     <Note Number="13"  Name="3=T Maple14"/>
+     <Note Number="14"  Name="4=T Maple16"/>
+     <Note Number="16"  Name="6=C RideDark"/>
+     <Note Number="17"  Name="7=S Litesnr1"/>
+     <Note Number="19"  Name="9=K Maple20"/>
+     <Note Number="21"  Name="1=C RideRock"/>
+     <Note Number="23"  Name="3=H H OpnL2"/>
+     <Note Number="25"  Name="5=H H OpnLK"/>
+     <Note Number="32"  Name="2=H H PdlDW"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="36"  Name="6=K BDersko1"/>
+     <Note Number="37"  Name="7=C China"/>
+     <Note Number="48"  Name="8=H Hpsplsh 1"/>
+     <Note Number="79"  Name="9=S OpnRim"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="14"  Name="4=P Surdo"/>
+     <Note Number="15"  Name="5=P HiQ"/>
+     <Note Number="16"  Name="6=P WHP"/>
+     <Note Number="17"  Name="7=P Scratch"/>
+     <Note Number="18"  Name="8=P Scratch"/>
+     <Note Number="19"  Name="9=P Finger Snap 2"/>
+     <Note Number="20"  Name="0=P Finger Snap 1"/>
+     <Note Number="21"  Name="1=P Mtron"/>
+     <Note Number="22"  Name="2=P MtBel"/>
+     <Note Number="23"  Name="3=P Wood Block"/>
+     <Note Number="24"  Name="4=P Wood Block"/>
+     <Note Number="25"  Name="5=S Brush Tap 2"/>
+     <Note Number="26"  Name="6=S Brush Sweep L"/>
+     <Note Number="27"  Name="7=S Brush Slap L"/>
+     <Note Number="28"  Name="8=C Reverse"/>
+     <Note Number="29"  Name="9=S Snare Roll"/>
+     <Note Number="30"  Name="0=P HiQ"/>
+     <Note Number="31"  Name="1=S Rock L"/>
+     <Note Number="32"  Name="2=S STK_HT"/>
+     <Note Number="33"  Name="3=B NN04C"/>
+     <Note Number="34"  Name="4=S Open Rim"/>
+     <Note Number="35"  Name="5=B Analag Low"/>
+     <Note Number="36"  Name="6=B Analog High"/>
+     <Note Number="37"  Name="7=S Analog SideStick"/>
+     <Note Number="38"  Name="8=S Analog H1"/>
+     <Note Number="39"  Name="9=P Clap A"/>
+     <Note Number="40"  Name="0=S Analog L1"/>
+     <Note Number="41"  Name="1=T Analog Tom 1"/>
+     <Note Number="42"  Name="2=C H ClsA1"/>
+     <Note Number="43"  Name="3=T Analog Tom 2"/>
+     <Note Number="44"  Name="4=C H ClsA2"/>
+     <Note Number="45"  Name="5=T Analog Tom 3"/>
+     <Note Number="46"  Name="6=C H OpnAMu"/>
+     <Note Number="47"  Name="7=T Analog Tom 4"/>
+     <Note Number="48"  Name="8=T Analog Tom 5"/>
+     <Note Number="49"  Name="9=C AnalogCym"/>
+     <Note Number="50"  Name="0=T Analog Tom 6"/>
+     <Note Number="51"  Name="1=C Ride Lite"/>
+     <Note Number="52"  Name="2=C China"/>
+     <Note Number="53"  Name="3=C RideB Lite"/>
+     <Note Number="54"  Name="4=P Tambourine"/>
+     <Note Number="55"  Name="5=C Splash 1"/>
+     <Note Number="56"  Name="6=P CowBAn"/>
+     <Note Number="57"  Name="7=C CrashB"/>
+     <Note Number="58"  Name="8=P Vibraslap"/>
+     <Note Number="59"  Name="9=C Sizzle Lite"/>
+     <Note Number="60"  Name="0=P BongHi"/>
+     <Note Number="61"  Name="1=P BongLo"/>
+     <Note Number="62"  Name="2=P CongaBH"/>
+     <Note Number="63"  Name="3=P CongaBL"/>
+     <Note Number="64"  Name="4=P CongaBL"/>
+     <Note Number="65"  Name="5=P Timbale Hi"/>
+     <Note Number="66"  Name="6=P Timbale Lo"/>
+     <Note Number="67"  Name="7=P AgogoH2"/>
+     <Note Number="68"  Name="8=P AgogoH2"/>
+     <Note Number="69"  Name="9=P Cabasa"/>
+     <Note Number="70"  Name="0=P Analog Maracas"/>
+     <Note Number="71"  Name="1=P SWhistH"/>
+     <Note Number="72"  Name="2=P SWhistL"/>
+     <Note Number="73"  Name="3=P Guiro Short"/>
+     <Note Number="74"  Name="4=P Guiro"/>
+     <Note Number="75"  Name="5=P Clavas A"/>
+     <Note Number="76"  Name="6=P Wood Block"/>
+     <Note Number="77"  Name="7=P Wood Block"/>
+     <Note Number="78"  Name="8=P Scratch"/>
+     <Note Number="79"  Name="9=P Scratch"/>
+     <Note Number="80"  Name="0=P Triangle Mute"/>
+     <Note Number="81"  Name="1=P Triangle"/>
+     <Note Number="82"  Name="2=P Shake 1"/>
+     <Note Number="83"  Name="3=P Jingle Bell"/>
+     <Note Number="84"  Name="4=P Bell Tree"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="5"  Name="5=H H ClsMu"/>
+     <Note Number="8"  Name="8=H H ClsTc3"/>
+     <Note Number="9"  Name="9=C PaperThn"/>
+     <Note Number="18"  Name="8=H H OPMu"/>
+     <Note Number="19"  Name="9=T Jazz Hi"/>
+     <Note Number="27"  Name="7=H H OpnMU"/>
+     <Note Number="31"  Name="1=S MickCJBS"/>
+     <Note Number="32"  Name="2=T TOMMntrlM"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="34"  Name="4=H H PdlMu"/>
+     <Note Number="39"  Name="9=C MinChina"/>
+     <Note Number="41"  Name="1=C C Splsh1"/>
+     <Note Number="74"  Name="4=S TrashRIM"/>
+     <Note Number="79"  Name="9=P Tambrn"/>
+     <Note Number="81"  Name="1=P TimbH"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=C CrashB"/>
+     <Note Number="2"  Name="2=C BriteCrs"/>
+     <Note Number="6"  Name="6=T DRY GM5"/>
+     <Note Number="7"  Name="7=s AnalogL1"/>
+     <Note Number="8"  Name="8=T DRY GM3"/>
+     <Note Number="10"  Name="0=T DRY GM1"/>
+     <Note Number="12"  Name="2=K BDDance9"/>
+     <Note Number="17"  Name="7=k Sub2"/>
+     <Note Number="20"  Name="0=C Rider3"/>
+     <Note Number="24"  Name="4=t TEKK 3M"/>
+     <Note Number="25"  Name="5=t TEKK 3L"/>
+     <Note Number="26"  Name="6=H H OpnLX1"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="34"  Name="4=H H PdlMu"/>
+     <Note Number="43"  Name="3=s AnaWee"/>
+     <Note Number="45"  Name="5=C Ride Anl"/>
+     <Note Number="49"  Name="9=H H OpnAMu"/>
+     <Note Number="50"  Name="0=H H OpnAn"/>
+     <Note Number="64"  Name="4=e RUNNER"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=e JNGLSN1"/>
+     <Note Number="3"  Name="3=C C Crash"/>
+     <Note Number="5"  Name="5=H H ClsMu"/>
+     <Note Number="18"  Name="8=H H OPMu"/>
+     <Note Number="19"  Name="9=C RideLite"/>
+     <Note Number="24"  Name="4=k BDNIM1"/>
+     <Note Number="30"  Name="0=C SizzlLit"/>
+     <Note Number="32"  Name="2=C RidB Lit"/>
+     <Note Number="34"  Name="4=H H PdlMu"/>
+     <Note Number="37"  Name="7=C China"/>
+     <Note Number="46"  Name="6=e SEMILOOP"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="76"  Name="6=e FRAG14"/>
+     <Note Number="82"  Name="2=e FRAG05"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="14"  Name="4=P Surdo"/>
+     <Note Number="15"  Name="5=P HiQ"/>
+     <Note Number="16"  Name="6=P WHP"/>
+     <Note Number="17"  Name="7=P Scratch"/>
+     <Note Number="18"  Name="8=P Scratch"/>
+     <Note Number="19"  Name="9=P Finger Snap 2"/>
+     <Note Number="20"  Name="0=P Finger Snap 1"/>
+     <Note Number="21"  Name="1=P Mtron"/>
+     <Note Number="22"  Name="2=P MtBel"/>
+     <Note Number="23"  Name="3=P Wood Block"/>
+     <Note Number="24"  Name="4=P Wood Block"/>
+     <Note Number="25"  Name="5=S Brush Tap 2"/>
+     <Note Number="26"  Name="6=S Brush Sweep L"/>
+     <Note Number="27"  Name="7=S Brush Slap L"/>
+     <Note Number="28"  Name="8=C Reverse"/>
+     <Note Number="29"  Name="9=S Snare Roll"/>
+     <Note Number="30"  Name="0=P HiQ"/>
+     <Note Number="31"  Name="1=S Big Wood"/>
+     <Note Number="32"  Name="2=S STK_HT"/>
+     <Note Number="33"  Name="3=B GMH"/>
+     <Note Number="34"  Name="4=S Rim Nashy"/>
+     <Note Number="35"  Name="5=B Gate 3"/>
+     <Note Number="36"  Name="6=B Gate M"/>
+     <Note Number="37"  Name="7=S SideStick 2"/>
+     <Note Number="38"  Name="8=S Rock L"/>
+     <Note Number="39"  Name="9=P Clap A"/>
+     <Note Number="40"  Name="0=S Rock H"/>
+     <Note Number="41"  Name="1=T E-Tom 1"/>
+     <Note Number="42"  Name="2=C H ClsNB2"/>
+     <Note Number="43"  Name="3=T E-Tom 2"/>
+     <Note Number="44"  Name="4=C H Pdl13"/>
+     <Note Number="45"  Name="5=T E-Tom 3"/>
+     <Note Number="46"  Name="6=C H OpnL1"/>
+     <Note Number="47"  Name="7=T E-Tom 4"/>
+     <Note Number="48"  Name="8=T E-Tom 5"/>
+     <Note Number="49"  Name="9=C Crash"/>
+     <Note Number="50"  Name="0=T E-Tom 6"/>
+     <Note Number="51"  Name="1=C Ride Lite"/>
+     <Note Number="52"  Name="2=C China"/>
+     <Note Number="53"  Name="3=C RideB Lite"/>
+     <Note Number="54"  Name="4=P Tambourine"/>
+     <Note Number="55"  Name="5=C Splash 1"/>
+     <Note Number="56"  Name="6=P CowB1"/>
+     <Note Number="57"  Name="7=C CrashB"/>
+     <Note Number="58"  Name="8=P Vibraslap"/>
+     <Note Number="59"  Name="9=C Ride Rock"/>
+     <Note Number="60"  Name="0=P BongHi"/>
+     <Note Number="61"  Name="1=P BongLo"/>
+     <Note Number="62"  Name="2=P CongaM"/>
+     <Note Number="63"  Name="3=P Conga"/>
+     <Note Number="64"  Name="4=P Conga"/>
+     <Note Number="65"  Name="5=P Timbale Hi"/>
+     <Note Number="66"  Name="6=P Timbale Lo"/>
+     <Note Number="67"  Name="7=P AgogoH2"/>
+     <Note Number="68"  Name="8=P AgogoH2"/>
+     <Note Number="69"  Name="9=P Cabasa"/>
+     <Note Number="70"  Name="0=P Maracas"/>
+     <Note Number="71"  Name="1=P SWhistH"/>
+     <Note Number="72"  Name="2=P SWhistL"/>
+     <Note Number="73"  Name="3=P Guiro Short"/>
+     <Note Number="74"  Name="4=P Guiro"/>
+     <Note Number="75"  Name="5=P Clavas"/>
+     <Note Number="76"  Name="6=P Wood Block"/>
+     <Note Number="77"  Name="7=P Wood Block"/>
+     <Note Number="78"  Name="8=P Scratch"/>
+     <Note Number="79"  Name="9=P Scratch"/>
+     <Note Number="80"  Name="0=P Triangle Mute"/>
+     <Note Number="81"  Name="1=P Triangle"/>
+     <Note Number="82"  Name="2=P Shake 1"/>
+     <Note Number="83"  Name="3=P Jingle Bell"/>
+     <Note Number="84"  Name="4=P Bell Tree"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="14"  Name="4=P Surdo"/>
+     <Note Number="15"  Name="5=P HiQ"/>
+     <Note Number="16"  Name="6=P WHP"/>
+     <Note Number="17"  Name="7=P Scratch"/>
+     <Note Number="18"  Name="8=P Scratch"/>
+     <Note Number="19"  Name="9=P Finger Snap 2"/>
+     <Note Number="20"  Name="0=P Finger Snap 1"/>
+     <Note Number="21"  Name="1=P Mtron"/>
+     <Note Number="22"  Name="2=P MtBel"/>
+     <Note Number="23"  Name="3=P Wood Block"/>
+     <Note Number="24"  Name="4=P Wood Block"/>
+     <Note Number="25"  Name="5=S Brush Tap 2"/>
+     <Note Number="26"  Name="6=S Brush Sweep L"/>
+     <Note Number="27"  Name="7=S Brush Slap L"/>
+     <Note Number="28"  Name="8=S Brush Sweep H"/>
+     <Note Number="29"  Name="9=S Snare Roll"/>
+     <Note Number="30"  Name="0=P Castanet"/>
+     <Note Number="31"  Name="1=S Brush Slap L"/>
+     <Note Number="32"  Name="2=S STK_HT"/>
+     <Note Number="33"  Name="3=B GML"/>
+     <Note Number="34"  Name="4=S Open Rim"/>
+     <Note Number="35"  Name="5=B GMM"/>
+     <Note Number="36"  Name="6=B Soft"/>
+     <Note Number="37"  Name="7=S SideStick 2"/>
+     <Note Number="38"  Name="8=S Brush Slap L"/>
+     <Note Number="39"  Name="9=S Brush H"/>
+     <Note Number="40"  Name="0=S Brush Tap 2"/>
+     <Note Number="41"  Name="1=T Brush Jazz Flr"/>
+     <Note Number="42"  Name="2=C H ClsMU"/>
+     <Note Number="43"  Name="3=T Brush Jazz Flr"/>
+     <Note Number="44"  Name="4=C H PdlMu"/>
+     <Note Number="45"  Name="5=T Brush Jazz Low"/>
+     <Note Number="46"  Name="6=C H OPMu"/>
+     <Note Number="47"  Name="7=T Brush Jazz Mid"/>
+     <Note Number="48"  Name="8=T Brush Jazz Hi"/>
+     <Note Number="49"  Name="9=C Crash"/>
+     <Note Number="50"  Name="0=T Brush Jazz Hi"/>
+     <Note Number="51"  Name="1=C Ride Lite"/>
+     <Note Number="52"  Name="2=C China"/>
+     <Note Number="53"  Name="3=C RideB Lite"/>
+     <Note Number="54"  Name="4=P Tambourine"/>
+     <Note Number="55"  Name="5=C Splash 1"/>
+     <Note Number="56"  Name="6=P CowB1"/>
+     <Note Number="57"  Name="7=C CrashB"/>
+     <Note Number="58"  Name="8=P Vibraslap"/>
+     <Note Number="59"  Name="9=C Sizzle Lite"/>
+     <Note Number="60"  Name="0=P BongHi"/>
+     <Note Number="61"  Name="1=P BongLo"/>
+     <Note Number="62"  Name="2=P CongaM"/>
+     <Note Number="63"  Name="3=P Conga"/>
+     <Note Number="64"  Name="4=P Conga"/>
+     <Note Number="65"  Name="5=P Timbale Hi"/>
+     <Note Number="66"  Name="6=P Timbale Lo"/>
+     <Note Number="67"  Name="7=P AgogoH2"/>
+     <Note Number="68"  Name="8=P AgogoH2"/>
+     <Note Number="69"  Name="9=P Cabasa"/>
+     <Note Number="70"  Name="0=P Maracas"/>
+     <Note Number="71"  Name="1=P SWhistH"/>
+     <Note Number="72"  Name="2=P SWhistL"/>
+     <Note Number="73"  Name="3=P Guiro Short"/>
+     <Note Number="74"  Name="4=P Guiro"/>
+     <Note Number="75"  Name="5=P Clavas"/>
+     <Note Number="76"  Name="6=P Wood Block"/>
+     <Note Number="77"  Name="7=P Wood Block"/>
+     <Note Number="78"  Name="8=P Cuica Hi"/>
+     <Note Number="79"  Name="9=P Cuica Lo"/>
+     <Note Number="80"  Name="0=P Triangle Mute"/>
+     <Note Number="81"  Name="1=P Triangle"/>
+     <Note Number="82"  Name="2=P Shake 1"/>
+     <Note Number="83"  Name="3=P Jingle Bell"/>
+     <Note Number="84"  Name="4=P Bell Tree"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=H H Cls01"/>
+     <Note Number="3"  Name="3=C C Crash"/>
+     <Note Number="6"  Name="6=P AnMaracs"/>
+     <Note Number="8"  Name="8=K BD GMH"/>
+     <Note Number="9"  Name="9=C PaperThn"/>
+     <Note Number="12"  Name="2=P Bongo Lo"/>
+     <Note Number="14"  Name="4=S Hip Hop"/>
+     <Note Number="16"  Name="6=C RideDark"/>
+     <Note Number="18"  Name="8=H H OPMu"/>
+     <Note Number="23"  Name="3=C RidesizA"/>
+     <Note Number="26"  Name="6=H H OpnLX1"/>
+     <Note Number="30"  Name="0=P CongaS"/>
+     <Note Number="33"  Name="3=S 12Soprno"/>
+     <Note Number="34"  Name="4=P CowB2"/>
+     <Note Number="36"  Name="6=T Dry2 Mid"/>
+     <Note Number="37"  Name="7=T Dry2 Lo"/>
+     <Note Number="38"  Name="8=T Dry2 Flr"/>
+     <Note Number="48"  Name="8=H H Hpsplsh1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="14"  Name="4=P Surdo"/>
+     <Note Number="15"  Name="5=P HiQ"/>
+     <Note Number="16"  Name="6=P WHP"/>
+     <Note Number="17"  Name="7=P Scratch"/>
+     <Note Number="18"  Name="8=P Scratch"/>
+     <Note Number="19"  Name="9=P Finger Snap 2"/>
+     <Note Number="20"  Name="0=P Finger Snap 1"/>
+     <Note Number="21"  Name="1=P Mtron"/>
+     <Note Number="22"  Name="2=P MtBel"/>
+     <Note Number="23"  Name="3=P Wood Block"/>
+     <Note Number="24"  Name="4=P Wood Block"/>
+     <Note Number="25"  Name="5=S Brush Tap 2"/>
+     <Note Number="26"  Name="6=S Brush Sweep L"/>
+     <Note Number="27"  Name="7=S Brush Slap L"/>
+     <Note Number="28"  Name="8=S Brush Sweep H"/>
+     <Note Number="29"  Name="9=S Snare Roll"/>
+     <Note Number="30"  Name="0=P Castanet"/>
+     <Note Number="31"  Name="1=S Loosy"/>
+     <Note Number="32"  Name="2=S STK_HT"/>
+     <Note Number="33"  Name="3=B daftty 1"/>
+     <Note Number="34"  Name="4=S Open Rim"/>
+     <Note Number="35"  Name="5=B GMM"/>
+     <Note Number="36"  Name="6=B GMH"/>
+     <Note Number="37"  Name="7=S SideStick 2"/>
+     <Note Number="38"  Name="8=S Snare M"/>
+     <Note Number="39"  Name="9=P Clap A"/>
+     <Note Number="40"  Name="0=S Snare H"/>
+     <Note Number="41"  Name="1=T DRY GM1"/>
+     <Note Number="42"  Name="2=C H ClsMU"/>
+     <Note Number="43"  Name="3=T DRY GM2"/>
+     <Note Number="44"  Name="4=C H PdlMu"/>
+     <Note Number="45"  Name="5=T DRY GM3"/>
+     <Note Number="46"  Name="6=C H OPMu"/>
+     <Note Number="47"  Name="7=T DRY GM4"/>
+     <Note Number="48"  Name="8=T DRY GM5"/>
+     <Note Number="49"  Name="9=C Crash"/>
+     <Note Number="50"  Name="0=T DRY GM6"/>
+     <Note Number="51"  Name="1=C Ride Lite"/>
+     <Note Number="52"  Name="2=C China"/>
+     <Note Number="53"  Name="3=C RideB Lite"/>
+     <Note Number="54"  Name="4=P Tambourine"/>
+     <Note Number="55"  Name="5=C Splash 1"/>
+     <Note Number="56"  Name="6=P CowB1"/>
+     <Note Number="57"  Name="7=C CrashB"/>
+     <Note Number="58"  Name="8=P Vibraslap"/>
+     <Note Number="59"  Name="9=C Sizzle Lite"/>
+     <Note Number="60"  Name="0=P BongHi"/>
+     <Note Number="61"  Name="1=P BongLo"/>
+     <Note Number="62"  Name="2=P CongaM"/>
+     <Note Number="63"  Name="3=P Conga"/>
+     <Note Number="64"  Name="4=P Conga"/>
+     <Note Number="65"  Name="5=P Timbale Hi"/>
+     <Note Number="66"  Name="6=P Timbale Lo"/>
+     <Note Number="67"  Name="7=P AgogoH2"/>
+     <Note Number="68"  Name="8=P AgogoH2"/>
+     <Note Number="69"  Name="9=P Cabasa"/>
+     <Note Number="70"  Name="0=P Maracas"/>
+     <Note Number="71"  Name="1=P SWhistH"/>
+     <Note Number="72"  Name="2=P SWhistL"/>
+     <Note Number="73"  Name="3=P Guiro Short"/>
+     <Note Number="74"  Name="4=P Guiro"/>
+     <Note Number="75"  Name="5=P Clavas"/>
+     <Note Number="76"  Name="6=P Wood Block"/>
+     <Note Number="77"  Name="7=P Wood Block"/>
+     <Note Number="78"  Name="8=P Cuica Hi"/>
+     <Note Number="79"  Name="9=P Cuica Lo"/>
+     <Note Number="80"  Name="0=P Triangle Mute"/>
+     <Note Number="81"  Name="1=P Triangle"/>
+     <Note Number="82"  Name="2=P Shake 1"/>
+     <Note Number="83"  Name="3=P Jingle Bell"/>
+     <Note Number="84"  Name="4=P Bell Tree"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="2"  Name="2=H HCls13"/>
+     <Note Number="3"  Name="3=e JNGLSN3"/>
+     <Note Number="4"  Name="4=C C CrshAC"/>
+     <Note Number="5"  Name="5=H HClsMu"/>
+     <Note Number="18"  Name="8=H H OPMu"/>
+     <Note Number="28"  Name="8=S RIMhihop"/>
+     <Note Number="29"  Name="9=H HHRoKopn"/>
+     <Note Number="30"  Name="0=K MapleAmb"/>
+     <Note Number="32"  Name="2=C RidB Lit"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="36"  Name="6=H HPdTit"/>
+     <Note Number="42"  Name="2=e SCRUNCH"/>
+     <Note Number="43"  Name="3=H FTsplRK2"/>
+     <Note Number="45"  Name="5=E INDride2"/>
+     <Note Number="80"  Name="0=E TungDrum"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="3"  Name="3=P AgogoH2"/>
+     <Note Number="11"  Name="1=P Bongo Hi"/>
+     <Note Number="12"  Name="2=P Bongo Lo"/>
+     <Note Number="19"  Name="9=P Clvs"/>
+     <Note Number="21"  Name="1=P Conga"/>
+     <Note Number="25"  Name="5=P CongaH"/>
+     <Note Number="26"  Name="6=P ComgaM"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="38"  Name="8=P Cuical"/>
+     <Note Number="49"  Name="9=P LOg L"/>
+     <Note Number="70"  Name="0=P TablaO"/>
+     <Note Number="79"  Name="9=P Tambrn"/>
+     <Note Number="81"  Name="1=P TimbH"/>
+     <Note Number="82"  Name="2=P TimbL"/>
+     <Note Number="83"  Name="3=P TimCas"/>
+     <Note Number="86"  Name="6=P Triang"/>
+     <Note Number="89"  Name="9=P Udo H"/>
+     <Note Number="90"  Name="0=P Udo L"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="14"  Name="4=P Surdo"/>
+     <Note Number="15"  Name="5=P HiQ"/>
+     <Note Number="16"  Name="6=P WHP"/>
+     <Note Number="17"  Name="7=P Scratch"/>
+     <Note Number="18"  Name="8=P Scratch"/>
+     <Note Number="19"  Name="9=P Finger Snap 2"/>
+     <Note Number="20"  Name="0=P Finger Snap 1"/>
+     <Note Number="21"  Name="1=P Mtron"/>
+     <Note Number="22"  Name="2=P MtBel"/>
+     <Note Number="23"  Name="3=P Wood Block"/>
+     <Note Number="24"  Name="4=P Wood Block"/>
+     <Note Number="25"  Name="5=S Brush Tap 2"/>
+     <Note Number="26"  Name="6=S Brush Sweep L"/>
+     <Note Number="27"  Name="7=S Brush Slap L"/>
+     <Note Number="28"  Name="8=S Brush Sweep H"/>
+     <Note Number="29"  Name="9=S Snare Roll"/>
+     <Note Number="30"  Name="0=P Castanet"/>
+     <Note Number="31"  Name="1=S Snare M"/>
+     <Note Number="32"  Name="2=S STK_HT"/>
+     <Note Number="33"  Name="3=B GML"/>
+     <Note Number="34"  Name="4=S Open Rim"/>
+     <Note Number="35"  Name="5=B GMM"/>
+     <Note Number="36"  Name="6=B Kong1"/>
+     <Note Number="37"  Name="7=S SideStick 2"/>
+     <Note Number="38"  Name="8=S Wood Snare"/>
+     <Note Number="39"  Name="9=P Clap A"/>
+     <Note Number="40"  Name="0=S Snare H"/>
+     <Note Number="41"  Name="1=T Room 1"/>
+     <Note Number="42"  Name="2=C H ClsMU"/>
+     <Note Number="43"  Name="3=T Room 2"/>
+     <Note Number="44"  Name="4=C H PdlMu"/>
+     <Note Number="45"  Name="5=T Room 3"/>
+     <Note Number="46"  Name="6=C H OPMu"/>
+     <Note Number="47"  Name="7=T Room 4"/>
+     <Note Number="48"  Name="8=T Room 5"/>
+     <Note Number="49"  Name="9=C Crash"/>
+     <Note Number="50"  Name="0=T Room 6"/>
+     <Note Number="51"  Name="1=C Ride Lite"/>
+     <Note Number="52"  Name="2=C China"/>
+     <Note Number="53"  Name="3=C RideB Lite"/>
+     <Note Number="54"  Name="4=P Tambourine"/>
+     <Note Number="55"  Name="5=C Splash 1"/>
+     <Note Number="56"  Name="6=P CowB1"/>
+     <Note Number="57"  Name="7=C CrashB"/>
+     <Note Number="58"  Name="8=P Vibraslap"/>
+     <Note Number="59"  Name="9=C Sizzle Lite"/>
+     <Note Number="60"  Name="0=P BongHi"/>
+     <Note Number="61"  Name="1=P BongLo"/>
+     <Note Number="62"  Name="2=P CongaM"/>
+     <Note Number="63"  Name="3=P Conga"/>
+     <Note Number="64"  Name="4=P Conga"/>
+     <Note Number="65"  Name="5=P Timbale Hi"/>
+     <Note Number="66"  Name="6=P Timbale Lo"/>
+     <Note Number="67"  Name="7=P AgogoH2"/>
+     <Note Number="68"  Name="8=P AgogoH2"/>
+     <Note Number="69"  Name="9=P Cabasa"/>
+     <Note Number="70"  Name="0=P Maracas"/>
+     <Note Number="71"  Name="1=P SWhistH"/>
+     <Note Number="72"  Name="2=P SWhistL"/>
+     <Note Number="73"  Name="3=P Guiro Short"/>
+     <Note Number="74"  Name="4=P Guiro"/>
+     <Note Number="75"  Name="5=P Clavas"/>
+     <Note Number="76"  Name="6=P Wood Block"/>
+     <Note Number="77"  Name="7=P Wood Block"/>
+     <Note Number="78"  Name="8=P Cuica Hi"/>
+     <Note Number="79"  Name="9=P Cuica Lo"/>
+     <Note Number="80"  Name="0=P Triangle Mute"/>
+     <Note Number="81"  Name="1=P Triangle"/>
+     <Note Number="82"  Name="2=P Shake 1"/>
+     <Note Number="83"  Name="3=P Jingle Bell"/>
+     <Note Number="84"  Name="4=P Bell Tree"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=H H Cls01"/>
+     <Note Number="2"  Name="2=C BriteCrs"/>
+     <Note Number="6"  Name="6=T DRY GM5"/>
+     <Note Number="8"  Name="8=T DRY GM3"/>
+     <Note Number="10"  Name="0=T DRY GM1"/>
+     <Note Number="16"  Name="6=C RideDark"/>
+     <Note Number="20"  Name="0=C Rider3"/>
+     <Note Number="26"  Name="6=H H OpnLX1"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="34"  Name="4=H H PdlMu"/>
+     <Note Number="38"  Name="8=H Hpdlcls1"/>
+     <Note Number="43"  Name="3=K BD Metal"/>
+     <Note Number="46"  Name="6=S RiMetal"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="58"  Name="8=T Rock5"/>
+     <Note Number="60"  Name="0=T Rock 3"/>
+     <Note Number="61"  Name="1=T Rock 2"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="14"  Name="4=P Surdo"/>
+     <Note Number="15"  Name="5=P CongaBL"/>
+     <Note Number="16"  Name="6=P Tabla M"/>
+     <Note Number="17"  Name="7=P Tabla O"/>
+     <Note Number="18"  Name="8=P Tabla M"/>
+     <Note Number="19"  Name="9=P Tabla N"/>
+     <Note Number="20"  Name="0=P Tabla H"/>
+     <Note Number="21"  Name="1=P Log Lo"/>
+     <Note Number="22"  Name="2=P Log Lo"/>
+     <Note Number="23"  Name="3=P Log Hi"/>
+     <Note Number="24"  Name="4=P Log Hi"/>
+     <Note Number="25"  Name="5=S Brush Tap 2"/>
+     <Note Number="26"  Name="6=P Udo L"/>
+     <Note Number="27"  Name="7=P Udo L"/>
+     <Note Number="28"  Name="8=P Udo H"/>
+     <Note Number="29"  Name="9=P Udo H"/>
+     <Note Number="30"  Name="0=P Udo F"/>
+     <Note Number="31"  Name="1=S Philly Dry"/>
+     <Note Number="32"  Name="2=P Udo F"/>
+     <Note Number="33"  Name="3=B Room 2"/>
+     <Note Number="34"  Name="4=S Steel Rim"/>
+     <Note Number="35"  Name="5=B 2 Head Low"/>
+     <Note Number="36"  Name="6=B 2 Head High"/>
+     <Note Number="37"  Name="7=S SideStick 2"/>
+     <Note Number="38"  Name="8=S Blaaaghf"/>
+     <Note Number="39"  Name="9=P Clap A"/>
+     <Note Number="40"  Name="0=S Power Pic"/>
+     <Note Number="41"  Name="1=T Dry 1 Flr"/>
+     <Note Number="42"  Name="2=C H ClsNB1"/>
+     <Note Number="43"  Name="3=T Dry 1 Flr"/>
+     <Note Number="44"  Name="4=C H PdlNB"/>
+     <Note Number="45"  Name="5=T Dry 1 Flr"/>
+     <Note Number="46"  Name="6=C H Opn13"/>
+     <Note Number="47"  Name="7=T Dry 1 Low"/>
+     <Note Number="48"  Name="8=T Dry 1 Mid"/>
+     <Note Number="49"  Name="9=C FasCrash"/>
+     <Note Number="50"  Name="0=T Dry 1 Hi"/>
+     <Note Number="51"  Name="1=C Rider3"/>
+     <Note Number="52"  Name="2=C MinChina"/>
+     <Note Number="53"  Name="3=C RideB Lite"/>
+     <Note Number="54"  Name="4=P Tambourine"/>
+     <Note Number="55"  Name="5=C FX02"/>
+     <Note Number="56"  Name="6=P CowB2"/>
+     <Note Number="57"  Name="7=C Crash"/>
+     <Note Number="58"  Name="8=C HCymOpnM"/>
+     <Note Number="59"  Name="9=C Sizzle Rock"/>
+     <Note Number="60"  Name="0=P BongHi"/>
+     <Note Number="61"  Name="1=P BongLo"/>
+     <Note Number="62"  Name="2=P CongaS"/>
+     <Note Number="63"  Name="3=P CongaO"/>
+     <Note Number="64"  Name="4=P CongaO"/>
+     <Note Number="65"  Name="5=P Timbale Hi"/>
+     <Note Number="66"  Name="6=P Timbale Hi"/>
+     <Note Number="67"  Name="7=P AgogoH1"/>
+     <Note Number="68"  Name="8=P AgogoH1"/>
+     <Note Number="69"  Name="9=P Shake 1"/>
+     <Note Number="70"  Name="0=P Shake 1"/>
+     <Note Number="71"  Name="1=E TungDrum"/>
+     <Note Number="72"  Name="2=E TungDrum"/>
+     <Note Number="73"  Name="3=P TalkD"/>
+     <Note Number="74"  Name="4=P TalkD"/>
+     <Note Number="75"  Name="5=P TalkD"/>
+     <Note Number="76"  Name="6=P TalkD"/>
+     <Note Number="77"  Name="7=P TalkD"/>
+     <Note Number="78"  Name="8=E DIGERDO"/>
+     <Note Number="79"  Name="9=E TineDrum"/>
+     <Note Number="80"  Name="0=P Triangle Mute"/>
+     <Note Number="81"  Name="1=P Triangle"/>
+     <Note Number="82"  Name="2=P Shake 1"/>
+     <Note Number="83"  Name="3=P Jingle Bell"/>
+     <Note Number="84"  Name="4=E TineDrum"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=T Dry1 Hi"/>
+     <Note Number="2"  Name="2=T Dry1 Mid"/>
+     <Note Number="3"  Name="3=T Dry1 Lo"/>
+     <Note Number="6"  Name="6=T DRY GM5"/>
+     <Note Number="8"  Name="8=T DRY GM3"/>
+     <Note Number="10"  Name="0=T DRY GM1"/>
+     <Note Number="11"  Name="1=K BD NN04C"/>
+     <Note Number="15"  Name="5=S OldCan"/>
+     <Note Number="19"  Name="9=C RideLite"/>
+     <Note Number="20"  Name="0=C Rider3"/>
+     <Note Number="26"  Name="6=H H OpnLX1"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="34"  Name="4=H H PdlMu"/>
+     <Note Number="38"  Name="8=H Hpdlcls1"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="110"  Name="0=S SStck2"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=T  Dry1 Hi"/>
+     <Note Number="11"  Name="1=P Bongo Hi"/>
+     <Note Number="19"  Name="9=C RideLite"/>
+     <Note Number="26"  Name="6=H H OpnLX1"/>
+     <Note Number="31"  Name="1=s RIMpopr"/>
+     <Note Number="33"  Name="3=C Bell A"/>
+     <Note Number="34"  Name="4=P CowB2"/>
+     <Note Number="39"  Name="9=P EthWB"/>
+     <Note Number="41"  Name="1=C C Splsh1"/>
+     <Note Number="43"  Name="3=e VOLTAGE"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="50"  Name="0=e D&amp;FRAG20"/>
+     <Note Number="82"  Name="2=s S Gate3"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="14"  Name="4=T Night Mid"/>
+     <Note Number="15"  Name="5=T Night Low"/>
+     <Note Number="16"  Name="6=C HHRoKopn"/>
+     <Note Number="17"  Name="7=T Night Flr"/>
+     <Note Number="18"  Name="8=P Scratch"/>
+     <Note Number="19"  Name="9=P Finger Snap 2"/>
+     <Note Number="20"  Name="0=C FTsplsh1"/>
+     <Note Number="21"  Name="1=P Mtron"/>
+     <Note Number="22"  Name="2=P MtBel"/>
+     <Note Number="23"  Name="3=P Wood Block"/>
+     <Note Number="24"  Name="4=P Wood Block"/>
+     <Note Number="25"  Name="5=S Brush Tap 2"/>
+     <Note Number="26"  Name="6=S Brush Sweep L"/>
+     <Note Number="27"  Name="7=S Brush Slap L"/>
+     <Note Number="28"  Name="8=S Brush Sweep H"/>
+     <Note Number="29"  Name="9=S Snare Roll 2"/>
+     <Note Number="30"  Name="0=P Castanet"/>
+     <Note Number="31"  Name="1=S Ambient 1"/>
+     <Note Number="32"  Name="2=S STK_HT"/>
+     <Note Number="33"  Name="3=B 2 Head Low"/>
+     <Note Number="34"  Name="4=S Fat Brass Rim"/>
+     <Note Number="35"  Name="5=B 24 Dry"/>
+     <Note Number="36"  Name="6=B basic 2"/>
+     <Note Number="37"  Name="7=S SideStick 2"/>
+     <Note Number="38"  Name="8=S Sheet Metal"/>
+     <Note Number="39"  Name="9=P Clap A"/>
+     <Note Number="40"  Name="0=S Loosy"/>
+     <Note Number="41"  Name="1=T Room 1 Flr"/>
+     <Note Number="42"  Name="2=C H ClsNB1"/>
+     <Note Number="43"  Name="3=T Room 1 Flr"/>
+     <Note Number="44"  Name="4=C HHFTpdl1"/>
+     <Note Number="45"  Name="5=T Room 1 Low"/>
+     <Note Number="46"  Name="6=C HHRoKopn"/>
+     <Note Number="47"  Name="7=T Room 1 Mid"/>
+     <Note Number="48"  Name="8=T Room 1 Hi"/>
+     <Note Number="49"  Name="9=C CrashB"/>
+     <Note Number="50"  Name="0=T DRY GM6"/>
+     <Note Number="51"  Name="1=C Ride Lite"/>
+     <Note Number="52"  Name="2=C CrashAC"/>
+     <Note Number="53"  Name="3=C RideB Rock"/>
+     <Note Number="54"  Name="4=P Tambourine"/>
+     <Note Number="55"  Name="5=C China"/>
+     <Note Number="56"  Name="6=P CowB2"/>
+     <Note Number="57"  Name="7=C CrashB"/>
+     <Note Number="58"  Name="8=E TymKeepr"/>
+     <Note Number="59"  Name="9=C Sizzle Rock"/>
+     <Note Number="60"  Name="0=P BongHi"/>
+     <Note Number="61"  Name="1=P BongLo"/>
+     <Note Number="62"  Name="2=P CongaM"/>
+     <Note Number="63"  Name="3=P Conga"/>
+     <Note Number="64"  Name="4=P Conga"/>
+     <Note Number="65"  Name="5=P Timbale Hi"/>
+     <Note Number="66"  Name="6=P Timbale Lo"/>
+     <Note Number="67"  Name="7=P AgogoH2"/>
+     <Note Number="68"  Name="8=P AgogoH2"/>
+     <Note Number="69"  Name="9=P Cabasa"/>
+     <Note Number="70"  Name="0=E WetMetal"/>
+     <Note Number="71"  Name="1=P SWhistH"/>
+     <Note Number="72"  Name="2=E InsAmb"/>
+     <Note Number="73"  Name="3=E OrcHit1"/>
+     <Note Number="74"  Name="4=E BrsHit"/>
+     <Note Number="75"  Name="5=E OrcHit1"/>
+     <Note Number="76"  Name="6=E BrsHit"/>
+     <Note Number="77"  Name="7=P Wood Block"/>
+     <Note Number="78"  Name="8=P Cuica Hi"/>
+     <Note Number="79"  Name="9=P CongaG"/>
+     <Note Number="80"  Name="0=E FactryL"/>
+     <Note Number="81"  Name="1=E TakeOff"/>
+     <Note Number="82"  Name="2=E AlienSp poly"/>
+     <Note Number="83"  Name="3=C Bell A"/>
+     <Note Number="84"  Name="4=E LoMLoop"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="2"  Name="2=P AgogoH1"/>
+     <Note Number="3"  Name="3=P AgogoH2"/>
+     <Note Number="23"  Name="3=H H OpnL2"/>
+     <Note Number="26"  Name="6=P CongaM"/>
+     <Note Number="29"  Name="9=P CongaO"/>
+     <Note Number="30"  Name="0=P CongaS"/>
+     <Note Number="33"  Name="3=C Bell A"/>
+     <Note Number="46"  Name="6=P JingBell"/>
+     <Note Number="62"  Name="2=P Tabla B"/>
+     <Note Number="63"  Name="3=P Tabla BL"/>
+     <Note Number="65"  Name="5=P Tabla BV"/>
+     <Note Number="66"  Name="6=P Tabla OV"/>
+     <Note Number="67"  Name="7=P TablaH"/>
+     <Note Number="68"  Name="8=P TablaM"/>
+     <Note Number="69"  Name="9=P TablaN"/>
+     <Note Number="70"  Name="0=P TablaO"/>
+     <Note Number="88"  Name="8=P Udo F"/>
+     <Note Number="89"  Name="9=P Udo H"/>
+     <Note Number="90"  Name="0=P Udo L"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="3"  Name="3=H H ClsA1"/>
+     <Note Number="5"  Name="5=H H ClsMu"/>
+     <Note Number="9"  Name="9=L SNAPLOOP"/>
+     <Note Number="16"  Name="6=e JNGBASS6"/>
+     <Note Number="18"  Name="8=H H OPMu"/>
+     <Note Number="24"  Name="4=e PULSAR2"/>
+     <Note Number="32"  Name="2=C RidB Lit"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="36"  Name="6=H H PdTit"/>
+     <Note Number="39"  Name="9=e PEEPER"/>
+     <Note Number="40"  Name="0=e WYZOG"/>
+     <Note Number="43"  Name="3=H FTsplRK2"/>
+     <Note Number="44"  Name="4=E INDride"/>
+     <Note Number="50"  Name="0=H H OpnAn"/>
+     <Note Number="55"  Name="5=e TAMTAMY"/>
+     <Note Number="56"  Name="6=e PANKY"/>
+     <Note Number="64"  Name="4=e RUNNER"/>
+     <Note Number="84"  Name="4=e FRAG20"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="2"  Name="2=H H Cls 13"/>
+     <Note Number="3"  Name="3=C C Crash"/>
+     <Note Number="22"  Name="2=C RideRock"/>
+     <Note Number="29"  Name="9=H HHRoKopn"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="35"  Name="5=K BD KONG1"/>
+     <Note Number="37"  Name="7=H HHFTpdl1"/>
+     <Note Number="41"  Name="1=C C Splsh 1"/>
+     <Note Number="43"  Name="3=H FTsplRK2"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="58"  Name="8=T Rock 5"/>
+     <Note Number="59"  Name="9=T Rock 4"/>
+     <Note Number="60"  Name="0=T Rock 3"/>
+     <Note Number="83"  Name="3=T Night H"/>
+     <Note Number="84"  Name="4=T Night M"/>
+     <Note Number="85"  Name="5=T Night L"/>
+     <Note Number="96"  Name="6=S Fatbrim"/>
+     <Note Number="97"  Name="7=S Brass55"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=S Looosy"/>
+     <Note Number="6"  Name="6=T DRY GM5"/>
+     <Note Number="8"  Name="8=T DRY GM3"/>
+     <Note Number="10"  Name="0=T DRY GM1"/>
+     <Note Number="20"  Name="0=C Rider3"/>
+     <Note Number="26"  Name="6=H H OpnLX1"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="34"  Name="4=H H PdlMu"/>
+     <Note Number="36"  Name="6=E HipNs"/>
+     <Note Number="38"  Name="8=H Hpdlcls1"/>
+     <Note Number="39"  Name="9=e PEEPER"/>
+     <Note Number="43"  Name="3=C C FX01"/>
+     <Note Number="44"  Name="4=C AngCym"/>
+     <Note Number="45"  Name="5=C Ride Anl"/>
+     <Note Number="48"  Name="8=H Hpsplsh1"/>
+     <Note Number="64"  Name="4=e RUNNER"/>
+     <Note Number="74"  Name="4=e Vocal04"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=C CrashB"/>
+     <Note Number="19"  Name="9=K Maple20"/>
+     <Note Number="23"  Name="3=H H OpnL2"/>
+     <Note Number="24"  Name="4=C RidesizB"/>
+     <Note Number="25"  Name="5=H H OpnLK"/>
+     <Note Number="28"  Name="8=C SizzDrk"/>
+     <Note Number="32"  Name="2=H H PdlDW"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="37"  Name="7=C China"/>
+     <Note Number="48"  Name="8=H Hpsplsh 1"/>
+     <Note Number="71"  Name="1=T ACTomH"/>
+     <Note Number="72"  Name="2=T ACTomM"/>
+     <Note Number="73"  Name="3=T ACTomL"/>
+     <Note Number="75"  Name="5=T Room1 Hi"/>
+     <Note Number="76"  Name="6=T Room1 Mid"/>
+     <Note Number="78"  Name="8=T Room1Flr"/>
+     <Note Number="79"  Name="9=S OpnRim"/>
+     <Note Number="85"  Name="5=S ParadeS"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="6"  Name="6=T DRY GM5"/>
+     <Note Number="8"  Name="8=T DRY GM3"/>
+     <Note Number="10"  Name="0=T DRY GM1"/>
+     <Note Number="13"  Name="3=C C FXo2"/>
+     <Note Number="14"  Name="4=L SwignL"/>
+     <Note Number="20"  Name="0=L FavtoryLP"/>
+     <Note Number="26"  Name="6=H H OpnLX1"/>
+     <Note Number="45"  Name="5=P HiQ"/>
+     <Note Number="48"  Name="8=C HCymClsL"/>
+     <Note Number="55"  Name="5=P Scrach"/>
+     <Note Number="57"  Name="7=s Eno rim"/>
+     <Note Number="58"  Name="8=E OrcHt1"/>
+     <Note Number="59"  Name="9=P SlBell"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=P XfadeTri"/>
+     <Note Number="2"  Name="2=P AgogoH1"/>
+     <Note Number="19"  Name="9=C RideLite"/>
+     <Note Number="20"  Name="0=C Rider3"/>
+     <Note Number="26"  Name="6=H OpnLX1"/>
+     <Note Number="27"  Name="7=P CongaMV"/>
+     <Note Number="29"  Name="9=P CongaO"/>
+     <Note Number="31"  Name="1=S MickCJ8S"/>
+     <Note Number="33"  Name="3=H CowB1"/>
+     <Note Number="34"  Name="4=P CowB2"/>
+     <Note Number="51"  Name="1=P Maracas2"/>
+     <Note Number="80"  Name="0=P Timb"/>
+     <Note Number="81"  Name="1=P TimbH"/>
+     <Note Number="82"  Name="2=P TimbL"/>
+     <Note Number="102"  Name="2=S Latinrim"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="10"  Name="0=C ReverseC"/>
+     <Note Number="17"  Name="7=k Sub2"/>
+     <Note Number="18"  Name="8=S Tosh Sn"/>
+     <Note Number="23"  Name="3=H H OpnL2"/>
+     <Note Number="24"  Name="4=H H OpnL3"/>
+     <Note Number="25"  Name="5=H H OpnLK"/>
+     <Note Number="27"  Name="7=t AnaIndsH"/>
+     <Note Number="28"  Name="8=t AnaIndsM"/>
+     <Note Number="30"  Name="0=t AnaIndsF"/>
+     <Note Number="32"  Name="2=H H PdlDW"/>
+     <Note Number="33"  Name="3=P CowB1"/>
+     <Note Number="41"  Name="1=e D&amp;DFRAg11"/>
+     <Note Number="44"  Name="4=C AngCym"/>
+     <Note Number="45"  Name="5=C Ride Anl"/>
+     <Note Number="48"  Name="8=H Hpdplsh1"/>
+     <Note Number="54"  Name="4=e DUCKSTER"/>
+     <Note Number="58"  Name="8=e GOWAH"/>
+     <Note Number="65"  Name="5=e RADAMACU"/>
+     <Note Number="69"  Name="9=e WAKX PAD"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

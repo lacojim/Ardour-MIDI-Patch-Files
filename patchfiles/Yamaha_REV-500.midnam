@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Yamaha</Manufacturer>
+    <Model>REV-500</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Yamaha REV500 Factory">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1 [HALL] Large Hall 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2 [HALL] Large Hall 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3 [HALL] Empty Hall"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4 [HALL] Big Slap Hall"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5 [HALL] Arena"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6 [HALL] New Hall"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7 [HALL] Wonder Hall"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8 [HALL] Dark Hall"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9 [HALL] Church 1"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10 [HALL] Church 2"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11 [HALL] Medium Hall 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12 [HALL] Medium Hall 2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13 [HALL] Concert Hall"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14 [HALL] Small Hall 1"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15 [HALL] Small Hall 2"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16 [HALL] Gothic Hall"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17 [HALL] Ballde Voc 1"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18 [HALL] Ballade Voc 2"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19 [HALL] Rev for Pads"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20 [HALL] Ensemble Rev"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21 [HALL] Chorus Rev"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22 [HALL] Slapped Echo"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23 [HALL] Flutter Hall"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24 [HALL] Kick Gate"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25 [HALL] Snare Gate"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26 [ROOM] Large Room 1"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27 [ROOM] Large Room 2"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28 [ROOM] Live Gate Room"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29 [ROOM] Live Room 1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30 [ROOM] Live Room 2"  ProgramChange="29"/>
+          <Patch Number="30"  Name="21 [ROOM] Bath Room"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32 [ROOM] Medium Room"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33 [ROOM] Garage"  ProgramChange="32"/>
+          <Patch Number="33"  Name="24 [ROOM] Ring Studio"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35 [ROOM] Empty Store"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36 [ROOM] Add to Dry Mix"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37 [ROOM] Heavy Bottom"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38 [ROOM] Bright Room 1"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39 [ROOM] Bright Room 2"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40 [ROOM] Small Room"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41 [ROOM] Tiny Gate Room"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42 [ROOM] Wood Room"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43 [ROOM] Compact Room"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44 [ROOM] Soft Space"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45 [ROOM] Room Ambience"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46 [ROOM] Echo Vocal"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47 [ROOM] Tunnel 1"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48 [ROOM] Tunnel 2"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49 [ROOM] Opera"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50 [ROOM] Cathedral"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51 [PLATE] Basic Plate"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52 [PLATE] Beauty Plate"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53 [PLATE] LA Plate"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54 [PLATE] Delayed Spring"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55 [PLATE] Fat Plate"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56 [PLATE] Light Plate"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57 [PLATE] Thin Plate"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58 [PLATE] Rev with Tail"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59 [PLATE] Short Plate"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60 [PLATE] Perc. Plate 1"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61 [PLATE] Perc. Plate 2"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62 [PLATE] Long Plate 1"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63 [PLATE] Long Plate 2"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64 [PLATE] long Plate 3"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65 [PLATE] Vocal Plate 1"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66 [PLATE] Vocal Plate 2"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67 [PLATE] Vocalese"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68 [PLATE] Live Plate"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69 [PLATE] Industrial Rev"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70 [PLATE] Strings Rev"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71 [PLATE] Cave"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72 [PLATE] Super Long"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73 [PLATE] Mod Plate"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74 [PLATE] Water Reverb"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75 [PLATE] Gate Plate"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76 [SPECIAL] Flange Room"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77 [SPECIAL] Reverb Chorus"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78 [SPECIAL] Chorus Circles"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79 [SPECIAL] Rez Sweep Hall"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80 [SPECIAL] Shadow Reverb"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81 [SPECIAL] Sweep Reverb"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82 [SPECIAL] Rev Flang 1"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83 [SPECIAL] Rev Flange 2"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84 [SPECIAL] Heavy Flange"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85 [SPECIAL] Pan Reverb"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86 [SPECIAL] Rev Tremolo"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87 [SPECIAL] Skinny Plate"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88 [SPECIAL] Shake Shake"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89 [SPECIAL] Sample &amp; Hold"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90 [SPECIAL] Pan Feedback"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91 [SPECIAL] Long Echo"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92 [SPECIAL] Dyna Filter 1"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93 [SPECIAL] Dyna Filter 2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94 [SPECIAL] Dyna Filter 3"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95 [SPECIAL] Backward"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96 [SPECIAL] Insustry"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97 [SPECIAL] Natural Gate"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98 [SPECIAL] Drum Fizz Gate"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99 [SPECIAL] Techno Gate"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 [SPECIAL] Gate for Loop"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 [HALL] Large Hall 1"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 [HALL] Large Hall 2"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 [HALL] Empty Hall"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 [HALL] Big Slap Hall"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 [HALL] Arena"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 [HALL] New Hall"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 [HALL] Wonder Hall"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 [HALL] Dark Hall"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 [HALL] Church 1"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 [HALL] Church 2"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 [HALL] Medium Hall 1"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 [HALL] Medium Hall 2"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 [HALL] Concert Hall"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 [HALL] Small Hall 1"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 [HALL] Small Hall 2"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 [HALL] Gothic Hall"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 [HALL] Ballde Voc 1"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 [HALL] Ballade Voc 2"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 [HALL] Rev for Pads"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 [HALL] Ensemble Rev"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 [HALL] Chorus Rev"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 [HALL] Slapped Echo"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 [HALL] Flutter Hall"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 [HALL] Kick Gate"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 [HALL] Snare Gate"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 [ROOM] Large Room 1"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 [ROOM] Large Room 2"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 [ROOM] Live Gate Room"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>
