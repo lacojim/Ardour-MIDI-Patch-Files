@@ -1,0 +1,1249 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>VE-JV1E</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland VE-JV1E Patch JV-80 Preset AB">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10368"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 A.Piano 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 A.Piano 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 Mellow Piano"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Pop Piano 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Pop Piano 2"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Pop Piano 3"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 MIDIed Grand"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 Country Bar"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 Glist EPiano"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 MIDI EPiano"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 SA Rhodes"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 Dig Rhodes 1"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 Dig Rhodes 2"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 Stiky Rhodes"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 Guitr Rhodes"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 Nylon Rhodes"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Clav 1"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Clav 2"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Marimba"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 Marimba SW"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 Warm Vibe"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Vibe"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Wave Bells"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Vibrobell"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Pipe Organ 1"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Pipe Organ 2"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Pipe Organ 3"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 E.Organ 1"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 E.Organ 2"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Jazz Organ 1"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Jazz Organ 2"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Metal Organ"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Nylon Gtr 1"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 Flanged Nyln"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 Steel Guitar"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Picked Guitar"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 12 strings"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 Velo Harmnix"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 Nylon+Steel"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 SwitchOnMute"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 JC Start"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 Stratus"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Syn Strat"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Pop Strat"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 Clean Strat"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Funk Gtr"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Syn Guitar"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Overdrive"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Fretless"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 St Fretless"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 Woody Bass 1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Woody Bass 2"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Analog Bs 1"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 House Bass"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Hip Bass"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 RockOut Bass"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Slap Bass"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Thumpin Bass"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 Pick Bass"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Wonder Bass"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 Yowza Bass"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Rubber Bs 1"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Rubber Bs 2"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 Stereoww Bs"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 Pizzicato"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 Real Pizz"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Harp"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 SoarinString"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Warm Strings"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 Marcato"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 St Strings"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Orch Strings"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Slow Strings"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 Velo Strings"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 BrightStrngs"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 TremoloStrng"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Orch Stab 1"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Brite Stab"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 JP-8 Strings"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 String Synth"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 Wire Strings"  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 New Age Vox"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 Arasian Morn"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 Beauty Vox"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 Vento Voxx"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 Pvox Oooze"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 GlassVoices"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 Space Ahh"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 Trumpet"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 Trombone"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 Harmon Mute1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 Harmon Mute2"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 TeaJay Brass"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 Brass Sect 1"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 Brass Sect 2"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 Brass Swell"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 Brass Combo"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 Stab Brass"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 Soft Brass"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Horn Brass"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 French Horn"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 AltoLead Sax"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Alto Sax"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Tenor Sax 1"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Tenor Sax 2"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Sax Section"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 Sax Tp Tb"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 Flute Piccolo"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 Flute Mod"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 Ocarina"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 OverblownPan"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Air Lead"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Steel Drum"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Log Drum"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 Box Lead"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Soft Lead"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 Whistle"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Square Lead"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 Touch Lead"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 NightShade"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 Pizza Hutt"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 EP+Exp Pad"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 JP-8 Pad"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 Puff"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 SpaciosSweep"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 Big n Beefy"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 RevCymBend"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 Analog Seq"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland VE-JV1E Patch JV-1000 Preset AB">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10369"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 A.Piano 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 A.Piano 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 A.Piano 3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 A.Piano 4"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 A.Piano 1Tx4"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Rock Grand"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 MIDIed Grand"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 Pop Piano 1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 Country Bar"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 Stack Major"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 Pop Piano 2"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 RD Rhodes 1"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 Dig Rhodes 1"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 Dig Rhodes 2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 Stiky Rhodes"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 Guitr Rhodes"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Pop Piano 3"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Syn Piano"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Hu-Cut Ep"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 MIDI EPiano"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 Clav 1"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Pulse Klav"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Wire Klav"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Flange Clav"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Warm Vibe"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Vibe"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Marimba"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 Lumber Jacow"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Toy Box"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Steel Drum"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Islands"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 AfricaMetals"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Tria Bells"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 Wave Bells"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 Vibrobell"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Chime Inn"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 E.Organ"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 Jazz Organ 1"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 Jazz Organ 2"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 Rock Organe"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 Jazz Rattler"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 Fine Organ"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Metal Organ"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Organarimba"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 Pipe Organ 1"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Pipe Organ 2"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Church Organ"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Weddin Time"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Nylon Gtr 1"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 Nylon Gtr 2"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 Flanged Nyln"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 SteelGuitar1"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 SteelGuitar2"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Velo Harmnix"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 12 strings"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 Fake12string"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 JC Strat"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Clean Strat"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 Strata"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Stratus"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 SwitchOnMute"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Syn Strat"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Syn Guitar"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 Overdrive"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 Woody Bass 1"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 Woody Bass 2"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Hip Bass"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 Rock Bass"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Pick Bass"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 Thumpin Bass"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 Fretless 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Fretless 2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Analog Bs"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 House Bass"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 Wonder Bass"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 Yowza Bass"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Rubber Bs 1"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Rubber Bs 2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 Asid Bass"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 Doom Bass"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 St Strings"  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 Warm Strings"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 Slow Strings"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 SoarinString"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 Marcato"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 Big Stringer"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 Score String"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 TremoloStrng"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 JP Strings 1"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 JP Strings 2"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 SynStringer"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 String Synth"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 Pizzicato"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 Real Pizz"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 Pick It"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 Harp"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 Brass Sect 1"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 Brass Sect 2"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 Brass Combo"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Fake Brass"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 Stab Brass"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 Brass Swell"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Sax Section"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Horn Brass"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Trumpet 1"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Trumpet 2"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 Trombone"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 Harmon Mute1"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 Harmon Mute2"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 French Horn"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 Alto Sax 1"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Alto Sax 2"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Tenor Sax 1"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Tenor Sax 2"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 Flute Mod"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Piccolo"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 Air Lead"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Pan Pipe 1"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 Pan Pipe 2"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 OverBlownPan"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 Ocarina"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 Blow Square"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 Saku Pipe"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 Whistle 1"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 Whistle 2"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 Orch Stab 1"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 Brite Stab"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 Orch Stab 2"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland VE-JV1E Patch JV-1000 Preset CD">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10370"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 Saw Lead"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 Syn SAX Lead"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 Soft Lead 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Soft Lead 2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Harmo Lead"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Reso Lead"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 Pulse Lead"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 MMM Lead"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 Clav Lead"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 Square"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 OB Lead"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 High Lyle"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 VOX Lead 1"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 VOX Lead 2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 WhistlinAtom"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 Russiastan"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Touch Lead"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Digirez Lead"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Another Lead"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 A.T DCO Lead"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 Feed Leed"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Real Pulse"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Box Lead"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Chu Ning !"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Lorise"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Old man"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Duo saw"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 Wa-saw Phase"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Big Saw"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Old Saw"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Pollyanna"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Poly Portame"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Poly MG"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 Dist Line"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 Julia Pad"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Analog Horn"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 Warm Brass"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 Brass Pad"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 SoulfulBrass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 Ana Brass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 Pizeza Hutt"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 JV Pizzottle"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Blo East"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Spook Metal"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 Journey East"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Lite Delay"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Velocifex"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Rezitan"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Like Dee"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 Huff N Stuff"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 Bit World"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Meta Compa"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Stratosphere"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Les Rhythmo"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Heavens Door"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 World Peace"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Lovley World"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Williamsong"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 Son Of Atmos"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Autumn Breez"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 On The Wire"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Easternal"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Snake Up"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 Brassy Vox"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 Beauty Vox"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 New Age Vox"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Vento Vox"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 Pvox Oooze"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Vocal Oohz 2"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 JV Vox"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 Arasian Morn"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Love Trans"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Cosmo Vox 2"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 Aurora"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 Press-Cooker"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 YASURAGI"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Space Ahh"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Pick-a-Doodl"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 DooWah Diddy"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 Pop Voice"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 Analog Pad 1"  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 JP-8 Pad"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 Analog Pad 2"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 Analog Str"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 Analog Orch"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 SpaciosSweep"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 Story Pad"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 The Pad"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 Wire Strings"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 Rimms"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 Slo Ep"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 Glasswaves 1"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 Glasswaves 2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 Glass 1T"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 Glass Pad"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 Hardy Winery"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 Ebb tide Pad"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 Tangerine"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 MillenniumJV"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Fantacy Vox"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 Wisp Rush"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 Neurise"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Mouse Pad"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Nature Pad"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Slo Slagg"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Starsearch"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 Atlantis"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 Vortex CAfe"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 4thDimension"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 Hy Entropy"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 Mellowtron"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Power Saw"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Big n Beefy"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Canal Zone"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 Hie Cue"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Talking Pad"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 MMM Pad"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Low Wind"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 SuspendTrump"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 Andomida"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 The Scope"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 Hammer Bell"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 Flue Taloo"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 BeezleBreath"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 DistanceCall"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 Analog Seq"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 Reverse Mad"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 RevCymBend"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland VE-JV1E Patch JV-1000 I-04">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10371"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 Crystal Vox"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 MIDI Ripper"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 Soundtrack 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Poly Brass"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Nice Piano"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Blow Lead"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 Ultima Bass"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 Amazon Moon"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 Von Greece"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 BrightGuiter"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 Octava Strng"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 Brass Sect."  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 Blissful"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 Square Lead"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 Rubber Bs 3"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 X/Y/Z"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Pulsynswell"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Nylon Chorus"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Orch Power"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 Mistress Brs"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 Stackoid"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Sawteeth"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Slap !!!"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Kolor"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Shakusphere"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Rhythmatic"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Vocal Oohz"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 Hybrid Bones"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Fantasia JV"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Doo Lead"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Super JX Bs"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Echo Riser"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 sea Shore"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 Clean Strat"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 Mighty Pad"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Reso Brass"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 Jimmee Dee !"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 Sax Lead"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 Untamed Bass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 Morning"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 JV Heaven"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 Gtr Strings"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Wavox"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Afro Horn"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 West Coast"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Doctor Bob"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 5-Strng Bass"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 House Hunter"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Utakata"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 Classical Gt"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 ChuChu Vox"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Brass Attack"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Mr.Mellow!"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Belly Lead"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Mondo Bass"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 Ice Hall"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Ebb Tide"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Gtr Fantasia"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 Reso Swell"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Jam Brass"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 JV Rhodes"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Key Power !!"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Radio Bass"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 Arctic Winds"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 5th Pad"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 Analog LEad1"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Odyssey"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 Soft Brass 3"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Wind Lead 1"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 Strings+Brs"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 Fanta Rhodes"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Mad Lead VSw"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Doos"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 Analog Lead2"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 Enniumill 2"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 Poly Synth"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Castle Pipe"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Brass Pad"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 Space Harp"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 FEEDBACK PAD"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 StarryNight2"  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 Analog Lead3"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 Ana Celesta"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 AncientMarin"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 FXM Saw Lead"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 Analog Bass1"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 Stackoid 2"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 Ninja Ambush"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 Wind Sweep"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 HistoricLead"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 White Chime"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 Bright Synth"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 Analog Lead4"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 Stereoww Bs"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 Gaia Gear"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 Horrify Pad"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 Wind Vox"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 Square Lead"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 Rip Strat"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Wire Lead"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 P.Voice Solo"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 MIDI Bottom"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Ancient Gaia"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Spiral Air"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Fanta Vox"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Pulse Lead"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 PassingFlute"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 Poly Sweep"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 Africa"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 New Puff"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 GtMyDaughter"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Shadoezz"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Pursue Pad"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Blow Lead"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 Pulse Kira"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Big Whale"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 Glassy Zone"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Analog Lead5"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 AnbienceVibe"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 Neon Pad"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 Pulse Synth"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 Analog Lead6"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 Wine Pad"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 Analog Bass2"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 Megane Pad"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 UTAKATA 2"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 CrystalField"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 HELLOGOODBYE"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland VE-JV1E Performance JV-80 AB">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10368"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="1"  Name="01 Jazz Split"  ProgramChange="1"/>
+          <Patch Number="2"  Name="02 Softly......"  ProgramChange="2"/>
+          <Patch Number="3"  Name="03 Bossa nova"  ProgramChange="3"/>
+          <Patch Number="4"  Name="04 Jazzygroove"  ProgramChange="4"/>
+          <Patch Number="5"  Name="05 OLD Bar"  ProgramChange="5"/>
+          <Patch Number="6"  Name="06 FUNKY"  ProgramChange="6"/>
+          <Patch Number="7"  Name="07 Pop Fusion"  ProgramChange="7"/>
+          <Patch Number="8"  Name="08 Fusion Set"  ProgramChange="8"/>
+          <Patch Number="9"  Name="09 Heavy"  ProgramChange="9"/>
+          <Patch Number="10"  Name="10 Rokin Split"  ProgramChange="10"/>
+          <Patch Number="11"  Name="11 Brass Rock"  ProgramChange="11"/>
+          <Patch Number="12"  Name="12 Hard Wire"  ProgramChange="12"/>
+          <Patch Number="13"  Name="13 Perc Harmnix"  ProgramChange="13"/>
+          <Patch Number="14"  Name="14 Classy Piano"  ProgramChange="14"/>
+          <Patch Number="15"  Name="15 Perc Strings"  ProgramChange="15"/>
+          <Patch Number="16"  Name="16 PopOrchestra"  ProgramChange="16"/>
+          <Patch Number="65"  Name="65 GTR Players"  ProgramChange="65"/>
+          <Patch Number="66"  Name="66 Synth Plus"  ProgramChange="66"/>
+          <Patch Number="67"  Name="67 PianoEnsembl"  ProgramChange="67"/>
+          <Patch Number="68"  Name="68 Church Choir"  ProgramChange="68"/>
+          <Patch Number="69"  Name="69 YMBA Choir"  ProgramChange="69"/>
+          <Patch Number="70"  Name="70 THE MALLETS"  ProgramChange="70"/>
+          <Patch Number="71"  Name="71 South Shore"  ProgramChange="71"/>
+          <Patch Number="72"  Name="72 Guitar Club"  ProgramChange="72"/>
+          <Patch Number="73"  Name="73 for CompuMix"  ProgramChange="73"/>
+          <Patch Number="74"  Name="74 Introduction"  ProgramChange="74"/>
+          <Patch Number="75"  Name="75 House Sounds"  ProgramChange="75"/>
+          <Patch Number="76"  Name="76 Cosmo Space"  ProgramChange="76"/>
+          <Patch Number="77"  Name="77 Acoustics"  ProgramChange="77"/>
+          <Patch Number="78"  Name="78 Finale!!"  ProgramChange="78"/>
+          <Patch Number="79"  Name="79 Perseverance"  ProgramChange="79"/>
+          <Patch Number="80"  Name="80 NewListening"  ProgramChange="80"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland VE-JV1E Performance JV-1000 AB">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10369"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="1"  Name="01 Jazz Split /"  ProgramChange="1"/>
+          <Patch Number="2"  Name="02 Softly......"  ProgramChange="2"/>
+          <Patch Number="3"  Name="03 Bossa nova"  ProgramChange="3"/>
+          <Patch Number="4"  Name="04 Jazzygroove"  ProgramChange="4"/>
+          <Patch Number="5"  Name="05 OLD Bar/"  ProgramChange="5"/>
+          <Patch Number="6"  Name="06 FUNKY"  ProgramChange="6"/>
+          <Patch Number="7"  Name="07 Pop Fusion"  ProgramChange="7"/>
+          <Patch Number="8"  Name="08 Fusion Set"  ProgramChange="8"/>
+          <Patch Number="9"  Name="09 Heavy/"  ProgramChange="9"/>
+          <Patch Number="10"  Name="10 Rokin Split/"  ProgramChange="10"/>
+          <Patch Number="11"  Name="11 Brass Rock /"  ProgramChange="11"/>
+          <Patch Number="12"  Name="12 Hard Wire"  ProgramChange="12"/>
+          <Patch Number="13"  Name="13 Perc Harmnix"  ProgramChange="13"/>
+          <Patch Number="14"  Name="14 Classy Piano"  ProgramChange="14"/>
+          <Patch Number="15"  Name="15 Perc Strings"  ProgramChange="15"/>
+          <Patch Number="16"  Name="16 PopOrchestra"  ProgramChange="16"/>
+          <Patch Number="65"  Name="65 GTR Players"  ProgramChange="65"/>
+          <Patch Number="66"  Name="66 Synth Plus"  ProgramChange="66"/>
+          <Patch Number="67"  Name="67 PianoEnsembl"  ProgramChange="67"/>
+          <Patch Number="68"  Name="68 Church Choir"  ProgramChange="68"/>
+          <Patch Number="69"  Name="69 YMBA Choir"  ProgramChange="69"/>
+          <Patch Number="70"  Name="70 THE MALLETS/"  ProgramChange="70"/>
+          <Patch Number="71"  Name="71 South Shore"  ProgramChange="71"/>
+          <Patch Number="72"  Name="72 Guitar Club/"  ProgramChange="72"/>
+          <Patch Number="73"  Name="73 for CompuMix"  ProgramChange="73"/>
+          <Patch Number="74"  Name="74 Introduction"  ProgramChange="74"/>
+          <Patch Number="75"  Name="75 House Sounds"  ProgramChange="75"/>
+          <Patch Number="76"  Name="76 Cosmo Space"  ProgramChange="76"/>
+          <Patch Number="77"  Name="77 Acoustics"  ProgramChange="77"/>
+          <Patch Number="78"  Name="78 Finale!!"  ProgramChange="78"/>
+          <Patch Number="79"  Name="79 Perseverance"  ProgramChange="79"/>
+          <Patch Number="80"  Name="80 NewListening"  ProgramChange="80"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland VE-JV1E Performance JV-1000 CD">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10370"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="1"  Name="01 Pik-A-Dee"  ProgramChange="1"/>
+          <Patch Number="2"  Name="02 ProgresSplit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="03 Space Travel"  ProgramChange="3"/>
+          <Patch Number="4"  Name="04 Mondo Mono!!"  ProgramChange="4"/>
+          <Patch Number="5"  Name="05 Stringers"  ProgramChange="5"/>
+          <Patch Number="6"  Name="06 Wash Comp"  ProgramChange="6"/>
+          <Patch Number="7"  Name="07 Tinkle Wish"  ProgramChange="7"/>
+          <Patch Number="8"  Name="08 World 7"  ProgramChange="8"/>
+          <Patch Number="9"  Name="09 Dune"  ProgramChange="9"/>
+          <Patch Number="10"  Name="10 Braz Bande"  ProgramChange="10"/>
+          <Patch Number="11"  Name="11 Ethnotick"  ProgramChange="11"/>
+          <Patch Number="12"  Name="12 Lite JV"  ProgramChange="12"/>
+          <Patch Number="13"  Name="13 Rim Cue"  ProgramChange="13"/>
+          <Patch Number="14"  Name="14 Blo Hiss"  ProgramChange="14"/>
+          <Patch Number="15"  Name="15 Organic"  ProgramChange="15"/>
+          <Patch Number="16"  Name="16 So Lo"  ProgramChange="16"/>
+          <Patch Number="65"  Name="65 Space Vox"  ProgramChange="65"/>
+          <Patch Number="66"  Name="66 Ethnic Bomb"  ProgramChange="66"/>
+          <Patch Number="67"  Name="67 Fanta Brass"  ProgramChange="67"/>
+          <Patch Number="68"  Name="68 Retro Str"  ProgramChange="68"/>
+          <Patch Number="69"  Name="69 LittleWorld/"  ProgramChange="69"/>
+          <Patch Number="70"  Name="70 SFX"  ProgramChange="70"/>
+          <Patch Number="71"  Name="71 Wistle Lead/"  ProgramChange="71"/>
+          <Patch Number="72"  Name="72 Oriental Brs"  ProgramChange="72"/>
+          <Patch Number="73"  Name="73 Wire Keys"  ProgramChange="73"/>
+          <Patch Number="74"  Name="74 Cosmic Pad"  ProgramChange="74"/>
+          <Patch Number="75"  Name="75 Maturation"  ProgramChange="75"/>
+          <Patch Number="76"  Name="76 Poly Synth"  ProgramChange="76"/>
+          <Patch Number="77"  Name="77 Hyper Sonic"  ProgramChange="77"/>
+          <Patch Number="78"  Name="78 Stack Strngs"  ProgramChange="78"/>
+          <Patch Number="79"  Name="79 BellAtlantis"  ProgramChange="79"/>
+          <Patch Number="80"  Name="80 Reverse Fx"  ProgramChange="80"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland VE-JV1E Performance JV-1000 I-04">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10371"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="1"  Name="01 Milky Way"  ProgramChange="1"/>
+          <Patch Number="2"  Name="02 Black Hall"  ProgramChange="2"/>
+          <Patch Number="3"  Name="03 Aflo Brass"  ProgramChange="3"/>
+          <Patch Number="4"  Name="04 Movie Str"  ProgramChange="4"/>
+          <Patch Number="5"  Name="05 Analog Pad"  ProgramChange="5"/>
+          <Patch Number="6"  Name="06 Analog Bs/Ld"  ProgramChange="6"/>
+          <Patch Number="7"  Name="07 Pipe"  ProgramChange="7"/>
+          <Patch Number="8"  Name="08 Mad Station"  ProgramChange="8"/>
+          <Patch Number="9"  Name="09 Bell Pad"  ProgramChange="9"/>
+          <Patch Number="10"  Name="10 Analog Swell"  ProgramChange="10"/>
+          <Patch Number="11"  Name="11 Ripper Pad"  ProgramChange="11"/>
+          <Patch Number="12"  Name="12 Analog Brass"  ProgramChange="12"/>
+          <Patch Number="13"  Name="13 Analog Orch"  ProgramChange="13"/>
+          <Patch Number="14"  Name="14 Melancholy"  ProgramChange="14"/>
+          <Patch Number="15"  Name="15 Hamming Gtr"  ProgramChange="15"/>
+          <Patch Number="16"  Name="16 Chaos"  ProgramChange="16"/>
+          <Patch Number="65"  Name="65 Lead - Power"  ProgramChange="65"/>
+          <Patch Number="66"  Name="66 Intermission"  ProgramChange="66"/>
+          <Patch Number="67"  Name="67 CrystalDream"  ProgramChange="67"/>
+          <Patch Number="68"  Name="68 Lyrical Doos"  ProgramChange="68"/>
+          <Patch Number="69"  Name="69 Anbiance Brs"  ProgramChange="69"/>
+          <Patch Number="70"  Name="70 Planets."  ProgramChange="70"/>
+          <Patch Number="71"  Name="71 MarryChrisms"  ProgramChange="71"/>
+          <Patch Number="72"  Name="72 Enniumillius"  ProgramChange="72"/>
+          <Patch Number="73"  Name="73 Lead-Splash"  ProgramChange="73"/>
+          <Patch Number="74"  Name="74 Jupiter Rain"  ProgramChange="74"/>
+          <Patch Number="75"  Name="75 Past Times.."  ProgramChange="75"/>
+          <Patch Number="76"  Name="76 Heavy Rock."  ProgramChange="76"/>
+          <Patch Number="77"  Name="77 Hyper Sonic"  ProgramChange="77"/>
+          <Patch Number="78"  Name="78 Dominion"  ProgramChange="78"/>
+          <Patch Number="79"  Name="79 Prominence.."  ProgramChange="79"/>
+          <Patch Number="80"  Name="80 Multi Set"  ProgramChange="80"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=90's Snare"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=90's Snare"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed HAT 2"/>
+     <Note Number="45"  Name="5=Power Tom Hi"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Hi"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Tin Wave"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Spectrum 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Crash 1"/>
+     <Note Number="59"  Name="9=Piccolo SN"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=CGA Mute Lo"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Hi"/>
+     <Note Number="64"  Name="4=Conga Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Power Tom Lo"/>
+     <Note Number="68"  Name="8=LA Snare"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Cabasa Down"/>
+     <Note Number="72"  Name="2=Cabasa Cut"/>
+     <Note Number="73"  Name="3=Whack Snare"/>
+     <Note Number="74"  Name="4=Verb Kick"/>
+     <Note Number="75"  Name="5=Rim Shot"/>
+     <Note Number="76"  Name="6=Round Kick"/>
+     <Note Number="77"  Name="7=808 Kick"/>
+     <Note Number="78"  Name="8=Cabasa Down"/>
+     <Note Number="79"  Name="9=REV Steel DR"/>
+     <Note Number="80"  Name="0=REV Tin Wave"/>
+     <Note Number="81"  Name="1=REV SN 1"/>
+     <Note Number="82"  Name="2=REV SN 2"/>
+     <Note Number="83"  Name="3=REV SN 3"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=REV Kick 1"/>
+     <Note Number="86"  Name="6=Anklungs"/>
+     <Note Number="87"  Name="7=Rattles"/>
+     <Note Number="88"  Name="8=REV Cow Bell"/>
+     <Note Number="89"  Name="9=REV TAMB"/>
+     <Note Number="90"  Name="0=REV Conga"/>
+     <Note Number="91"  Name="1=REV Maracas"/>
+     <Note Number="92"  Name="2=REV Crash 1"/>
+     <Note Number="93"  Name="3=Steel Drums"/>
+     <Note Number="94"  Name="4=Wind Agogo"/>
+     <Note Number="95"  Name="5=Wind Agogo"/>
+     <Note Number="96"  Name="6=808 SNR 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=Piccolo SN"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=LA Snare"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed HAT 2"/>
+     <Note Number="45"  Name="5=Power Tom Lo"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Lo"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Crash 1"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Crash 1"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Cowbell 1"/>
+     <Note Number="59"  Name="9=Crash 1"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=Conga Hi"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Lo"/>
+     <Note Number="64"  Name="4=CGA Mute Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Timbale"/>
+     <Note Number="68"  Name="8=Timbale"/>
+     <Note Number="69"  Name="9=Agogo"/>
+     <Note Number="70"  Name="0=Agogo"/>
+     <Note Number="71"  Name="1=Cabasa Up"/>
+     <Note Number="72"  Name="2=Cabasa Down"/>
+     <Note Number="73"  Name="3=Maracas"/>
+     <Note Number="74"  Name="4=Cabasa Cut"/>
+     <Note Number="75"  Name="5=Tambourine"/>
+     <Note Number="76"  Name="6=Log Drum"/>
+     <Note Number="77"  Name="7=DIGI Bell 1"/>
+     <Note Number="78"  Name="8=DIGI Chime"/>
+     <Note Number="79"  Name="9=Steel Drums"/>
+     <Note Number="80"  Name="0=Anklungs"/>
+     <Note Number="81"  Name="1=Wind Chimes"/>
+     <Note Number="82"  Name="2=Rattles"/>
+     <Note Number="83"  Name="3=Round Kick"/>
+     <Note Number="84"  Name="4=808 Kick"/>
+     <Note Number="85"  Name="5=808 Kick"/>
+     <Note Number="86"  Name="6=808 SNR 1"/>
+     <Note Number="87"  Name="7=REV TAMB"/>
+     <Note Number="88"  Name="8=90's Snare"/>
+     <Note Number="89"  Name="9=Closed HAT 1"/>
+     <Note Number="90"  Name="0=Tin Wave"/>
+     <Note Number="91"  Name="1=Spectrum 1"/>
+     <Note Number="92"  Name="2=REV Steel DR"/>
+     <Note Number="93"  Name="3=REV Tin Wave"/>
+     <Note Number="94"  Name="4=REV SN 1"/>
+     <Note Number="95"  Name="5=REV Crash 1"/>
+     <Note Number="96"  Name="6=REV Cow Bell"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=90's Snare"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=90's Snare"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed HAT 2"/>
+     <Note Number="45"  Name="5=Power Tom Hi"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Hi"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Tin Wave"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Spectrum 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Crash 1"/>
+     <Note Number="59"  Name="9=Piccolo SN"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=CGA Mute Lo"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Hi"/>
+     <Note Number="64"  Name="4=Conga Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Power Tom Lo"/>
+     <Note Number="68"  Name="8=LA Snare"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Cabasa Down"/>
+     <Note Number="72"  Name="2=Cabasa Cut"/>
+     <Note Number="73"  Name="3=Whack Snare"/>
+     <Note Number="74"  Name="4=Verb Kick"/>
+     <Note Number="75"  Name="5=Rim Shot"/>
+     <Note Number="76"  Name="6=Round Kick"/>
+     <Note Number="77"  Name="7=808 Kick"/>
+     <Note Number="78"  Name="8=Cabasa Down"/>
+     <Note Number="79"  Name="9=REV Steel DR"/>
+     <Note Number="80"  Name="0=REV Tin Wave"/>
+     <Note Number="81"  Name="1=REV SN 1"/>
+     <Note Number="82"  Name="2=REV SN 2"/>
+     <Note Number="83"  Name="3=REV SN 3"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=REV Kick 1"/>
+     <Note Number="86"  Name="6=Anklungs"/>
+     <Note Number="87"  Name="7=Rattles"/>
+     <Note Number="88"  Name="8=REV Cow Bell"/>
+     <Note Number="89"  Name="9=REV TAMB"/>
+     <Note Number="90"  Name="0=REV Conga"/>
+     <Note Number="91"  Name="1=REV Maracas"/>
+     <Note Number="92"  Name="2=REV Crash 1"/>
+     <Note Number="93"  Name="3=Steel Drums"/>
+     <Note Number="94"  Name="4=Wind Agogo"/>
+     <Note Number="95"  Name="5=Wind Agogo"/>
+     <Note Number="96"  Name="6=808 SNR 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=Piccolo SN"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=LA Snare"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed HAT 2"/>
+     <Note Number="45"  Name="5=Power Tom Lo"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Lo"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Crash 1"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Crash 1"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Cowbell 1"/>
+     <Note Number="59"  Name="9=Crash 1"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=Conga Hi"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Lo"/>
+     <Note Number="64"  Name="4=CGA Mute Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Timbale"/>
+     <Note Number="68"  Name="8=Timbale"/>
+     <Note Number="69"  Name="9=Agogo"/>
+     <Note Number="70"  Name="0=Agogo"/>
+     <Note Number="71"  Name="1=Cabasa Up"/>
+     <Note Number="72"  Name="2=Cabasa Down"/>
+     <Note Number="73"  Name="3=Maracas"/>
+     <Note Number="74"  Name="4=Cabasa Cut"/>
+     <Note Number="75"  Name="5=Tambourine"/>
+     <Note Number="76"  Name="6=Log Drum"/>
+     <Note Number="77"  Name="7=DIGI Bell 1"/>
+     <Note Number="78"  Name="8=DIGI Chime"/>
+     <Note Number="79"  Name="9=Steel Drums"/>
+     <Note Number="80"  Name="0=Anklungs"/>
+     <Note Number="81"  Name="1=Wind Chimes"/>
+     <Note Number="82"  Name="2=Rattles"/>
+     <Note Number="83"  Name="3=Round Kick"/>
+     <Note Number="84"  Name="4=808 Kick"/>
+     <Note Number="85"  Name="5=808 Kick"/>
+     <Note Number="86"  Name="6=808 SNR 1"/>
+     <Note Number="87"  Name="7=REV TAMB"/>
+     <Note Number="88"  Name="8=90's Snare"/>
+     <Note Number="89"  Name="9=Closed HAT 1"/>
+     <Note Number="90"  Name="0=Tin Wave"/>
+     <Note Number="91"  Name="1=Spectrum 1"/>
+     <Note Number="92"  Name="2=REV Steel DR"/>
+     <Note Number="93"  Name="3=REV Tin Wave"/>
+     <Note Number="94"  Name="4=REV SN 1"/>
+     <Note Number="95"  Name="5=REV Crash 1"/>
+     <Note Number="96"  Name="6=REV Cow Bell"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=90's Snare"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=90's Snare"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed HAT 2"/>
+     <Note Number="45"  Name="5=Power Tom Hi"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Hi"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Ride Bell 1"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Spectrum 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Crash 1"/>
+     <Note Number="59"  Name="9=Piccolo SN"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=CGA Mute Lo"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Hi"/>
+     <Note Number="64"  Name="4=Conga Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Cross Stick1"/>
+     <Note Number="68"  Name="8=LA Snare"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Cabasa Down"/>
+     <Note Number="72"  Name="2=Cabasa Cut"/>
+     <Note Number="73"  Name="3=808 Kick"/>
+     <Note Number="74"  Name="4=808 Kick"/>
+     <Note Number="75"  Name="5=808 SNR 1"/>
+     <Note Number="76"  Name="6=808 SNR 1"/>
+     <Note Number="77"  Name="7=Wind Chimes"/>
+     <Note Number="78"  Name="8=Cabasa Down"/>
+     <Note Number="79"  Name="9=REV SN 1"/>
+     <Note Number="80"  Name="0=REV SN 3"/>
+     <Note Number="81"  Name="1=REV Tom"/>
+     <Note Number="82"  Name="2=REV SN 2"/>
+     <Note Number="83"  Name="3=REV Cow Bell"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=White Noise"/>
+     <Note Number="86"  Name="6=Anklungs"/>
+     <Note Number="87"  Name="7=Rattles"/>
+     <Note Number="88"  Name="8=Rattles"/>
+     <Note Number="89"  Name="9=REV Crash 1"/>
+     <Note Number="90"  Name="0=Cowbell 1"/>
+     <Note Number="91"  Name="1=REV Maracas"/>
+     <Note Number="92"  Name="2=REV Crash 1"/>
+     <Note Number="93"  Name="3=90's Snare"/>
+     <Note Number="94"  Name="4=Wind Agogo"/>
+     <Note Number="95"  Name="5=Closed HAT 1"/>
+     <Note Number="96"  Name="6=808 SNR 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=90's Snare"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=Piccolo SN"/>
+     <Note Number="41"  Name="1=Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed HAT 2"/>
+     <Note Number="45"  Name="5=Tom Hi"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Lo"/>
+     <Note Number="48"  Name="8=Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Ride 2"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=REV SN 2"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=LA Snare"/>
+     <Note Number="59"  Name="9=REV SN 4"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=CGA Mute Lo"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Hi"/>
+     <Note Number="64"  Name="4=Conga Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Cabasa Down"/>
+     <Note Number="72"  Name="2=Cabasa Cut"/>
+     <Note Number="73"  Name="3=Rattles"/>
+     <Note Number="74"  Name="4=Wind Chimes"/>
+     <Note Number="75"  Name="5=DIGI Bell 1"/>
+     <Note Number="76"  Name="6=REV SN 3"/>
+     <Note Number="77"  Name="7=808 Kick"/>
+     <Note Number="78"  Name="8=Spectrum 1"/>
+     <Note Number="79"  Name="9=808 SNR 1"/>
+     <Note Number="80"  Name="0=Spectrum 1"/>
+     <Note Number="81"  Name="1=808 Kick"/>
+     <Note Number="82"  Name="2=Spectrum 1"/>
+     <Note Number="83"  Name="3=Bright Kick"/>
+     <Note Number="84"  Name="4=808 Kick"/>
+     <Note Number="85"  Name="5=Round Kick"/>
+     <Note Number="86"  Name="6=Whack Snare"/>
+     <Note Number="87"  Name="7=Rim Shot"/>
+     <Note Number="88"  Name="8=LA Snare"/>
+     <Note Number="89"  Name="9=Brush Slap"/>
+     <Note Number="90"  Name="0=Pedal HAT 1"/>
+     <Note Number="91"  Name="1=Brush Swish"/>
+     <Note Number="92"  Name="2=Open Triangl"/>
+     <Note Number="93"  Name="3=Brush Roll"/>
+     <Note Number="94"  Name="4=Open Triangl"/>
+     <Note Number="95"  Name="5=Conga Lo"/>
+     <Note Number="96"  Name="6=Open HAT 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=90's Snare"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=LA Snare"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed HAT 2"/>
+     <Note Number="45"  Name="5=Power Tom Hi"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Hi"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Ride Bell 1"/>
+     <Note Number="53"  Name="3=REV SN 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=REV SN 2"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=REV SN 3"/>
+     <Note Number="58"  Name="8=Cowbell 1"/>
+     <Note Number="59"  Name="9=REV SN 4"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=CGA Mute Lo"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Hi"/>
+     <Note Number="64"  Name="4=Conga Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Cabasa Down"/>
+     <Note Number="72"  Name="2=Cabasa Cut"/>
+     <Note Number="73"  Name="3=808 Kick"/>
+     <Note Number="74"  Name="4=808 SNR 1"/>
+     <Note Number="75"  Name="5=DIGI Bell 1"/>
+     <Note Number="76"  Name="6=808 SNR 1"/>
+     <Note Number="77"  Name="7=808 Kick"/>
+     <Note Number="78"  Name="8=Spectrum 1"/>
+     <Note Number="79"  Name="9=808 Kick"/>
+     <Note Number="80"  Name="0=Spectrum 1"/>
+     <Note Number="81"  Name="1=808 Kick"/>
+     <Note Number="82"  Name="2=Spectrum 1"/>
+     <Note Number="83"  Name="3=808 Kick"/>
+     <Note Number="84"  Name="4=808 Kick"/>
+     <Note Number="85"  Name="5=Feedbackwave"/>
+     <Note Number="86"  Name="6=808 Kick"/>
+     <Note Number="87"  Name="7=Feedbackwave"/>
+     <Note Number="88"  Name="8=Pop Voice"/>
+     <Note Number="89"  Name="9=Pop Voice"/>
+     <Note Number="90"  Name="0=Wind Agogo"/>
+     <Note Number="91"  Name="1=Pop Voice"/>
+     <Note Number="92"  Name="2=Wind Agogo"/>
+     <Note Number="93"  Name="3=Open HAT 1"/>
+     <Note Number="94"  Name="4=Anklungs"/>
+     <Note Number="95"  Name="5=Open HAT 1"/>
+     <Note Number="96"  Name="6=Open HAT 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=Piccolo Snare"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=Rim Shot"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed HAT 2"/>
+     <Note Number="45"  Name="5=Power Tom Lo"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Lo"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Crash 1"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Cowbell 1"/>
+     <Note Number="59"  Name="9=Crash 1"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=CGA Mute Lo"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=CGA Mute Lo"/>
+     <Note Number="64"  Name="4=Conga Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Cabasa Down"/>
+     <Note Number="72"  Name="2=Cabasa Up"/>
+     <Note Number="73"  Name="3=Wave Scan"/>
+     <Note Number="74"  Name="4=White Noise"/>
+     <Note Number="75"  Name="5=White Noise"/>
+     <Note Number="76"  Name="6=MMM VOX"/>
+     <Note Number="77"  Name="7=Spark VOX"/>
+     <Note Number="78"  Name="8=Crash 1"/>
+     <Note Number="79"  Name="9=Synth Pulse2"/>
+     <Note Number="80"  Name="0=Crash 1"/>
+     <Note Number="81"  Name="1=Agogo"/>
+     <Note Number="82"  Name="2=Spectrum 1"/>
+     <Note Number="83"  Name="3=ORG Bell"/>
+     <Note Number="84"  Name="4=Feedbackwave"/>
+     <Note Number="85"  Name="5=Alto Sax 1"/>
+     <Note Number="86"  Name="6=Feedbackwave"/>
+     <Note Number="87"  Name="7=Tenor Sax 1"/>
+     <Note Number="88"  Name="8=Pop Voice"/>
+     <Note Number="89"  Name="9=SYN VOX 2"/>
+     <Note Number="90"  Name="0=ORG Bell"/>
+     <Note Number="91"  Name="1=Pop Voice"/>
+     <Note Number="92"  Name="2=Wind Chimes"/>
+     <Note Number="93"  Name="3=Pop Voice"/>
+     <Note Number="94"  Name="4=Anklungs"/>
+     <Note Number="95"  Name="5=Pop Voice"/>
+     <Note Number="96"  Name="6=Pop Voice"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>DEP-3</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland DEP-3 Effects Processor">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="01 Medium Room 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="02 Medium Room 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="03 Small Hall 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="04 Small Hall 2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="05 Medium Hall 1"  ProgramChange="4"/>
+          <Patch Number="5"  Name="06 Medium Hall 2"  ProgramChange="5"/>
+          <Patch Number="6"  Name="07 Large Hall 1"  ProgramChange="6"/>
+          <Patch Number="7"  Name="08 Vocal 1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="09 Vocal 2"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10 Vocal 3"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11 Gate Reverb 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12 Gate Reverb 2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13 Reverse Gate 1"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14 Reverse Gate 2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15 Medium Room 3"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16 Small Room 1"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17 Small Room 2"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18 Delay 1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19 Delay 2"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20 Long Reverb 1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21 Short Delay 1"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22 Single Delay"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23 Feedback Delay"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24 Passion"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25 Female Vocal"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26 Male Vocal"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27 TR-505"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28 RD-1000"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29 Pipe Organ"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30 Tunnel"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31 Baseball Stadium"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32 Drainage"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33 Long Reverb 2"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34 Nostalghia"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35 Lead Synth"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36 Clap"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37 Special 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38 Spring Reverb"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39 Digital Synthesizer"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40 Cathedral"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41 Medium Hall 3"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42 Medium Hall 4"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43 Small Hall 3"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44 Special 2"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45 Gate Reverb 3"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46 Gate Reverb 4"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47 Reverse Gate 3"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48 Reverse Gate 4"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49 Special 3"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50 Live Music House 1"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51 Live Music House 2"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52 Jazz Club"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53 Percussion"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54 Vibraphone"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55 Delay Reverb"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56 Milky Way"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57 Long Reverb 3"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58 Tom"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59 Brass"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60 Electric Piano"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61 Snare Drum"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62 Garage"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63 Landing"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64 Pigsty"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65 Container"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66 Medium Room 4"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67 Medium Room 5"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68 Reverse Gate 5"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69 Reverse Gate 6"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70 Small Hall 4"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71 Special 4"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72 Strings"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73 TR-808"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74 Special 5"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75 S-10"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76 Bass Drum"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77 Gate Reverb 5"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78 Gate Reverb 6"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79 Reverse Gate 7"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80 Reverse Gate 8"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81 Medium Room 6"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82 Medium Room 7"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83 Plate 1"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84 Guitar"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85 Long Reverb 4"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86 Plate 2"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87 Large Hall 2"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88 Large Hall 3"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89 Medium Hall 5"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90 Gate Reverb 7"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91 Reverse Gate 9"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92 Reverse Gate 10"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93 Short Delay 2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94 Special 6"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95 TR-707"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96 Short Reverb 1"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97 Short Reverb 2"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98 Small Hall 3"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99 Small Room 3"  ProgramChange="98"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="ROLAND DEP-5 FX Bank 01 - Factory Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1 REV: Natural Reverb"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2 REV: Concert Hall"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3 REV: Cathedral"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4 REV: Bright Room"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5 REV: Space"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6 REV: Plate"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7 REV: Total Balance"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8 NOL: Hard Gate"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9 NOL: Reverse Gate"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10 NOL: Pan Richochet"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11 NOL: Panning Bounce"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12 C&amp;D: Chorus"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13 C&amp;D: Flange"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14 C&amp;D: Pan Slaps"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15 CRN: Chorus Reverb 1"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16 CRN: Chorus Reverb 2"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17 CRN: Flanged Non Linear"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18 CRN: Bi Phaser"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19 SFX: Spinners"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20 SFX: Flanged Infinite"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21 SFX: Rise &amp; Fall"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22 SFX: Sublimation"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23 INS: Sax"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24 INS: Snare"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25 INS: Piano"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26 INS: Guitar"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27 INS: Muted Guitar"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28 INS: Bass"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29 INS: Voice"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30 P&amp;H: Concert Hall #1"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31 P&amp;H: Concert Hall #2"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32 P&amp;H: Long Hall"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33 P&amp;H: Almost Infinite"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34 P&amp;H: Auditorium"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35 P&amp;H: Plate #2"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36 P&amp;H: Predelay Long Hall"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37 ROO: Small Panning Room"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38 ROO: Small #1 Bright Room"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39 ROO: Large #1 Bright Room"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40 ROO: Tiled Room"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41 ROO: Bright Dome"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42 ROO: Kitchen #1"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43 ROO: Kitchen #2"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44 NLG: Pan Gate #1"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45 NLG: Long Gate"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46 NLG: Pan Gate #2"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47 NLG: Dense Gate #1"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48 NLG: Modulated Gate"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49 NLG: Modulated Pan Gate"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50 NLG: Non Linear Rm"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51 DEQ: Pan Slaps #1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52 DEQ: Panning Delay #1"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53 DEQ: Echo #1"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54 DEQ: Stereo Filtered Delay"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55 DEQ: EQ'd Slap"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56 DEQ: 1 Second Pan Echo"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57 CHO: Chorus 2"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58 CHO: Tremolo Leslie"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59 CHO: Harmonized Honky Tonk"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60 CHO: Chorus 3"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61 CHO: Flange #2"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62 CHO: Flange + Double"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63 CHO: Chorus + Double #1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64 C&amp;R: Flange Small Room 1"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65 C&amp;R: Chorus + Long Hall 1"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66 C&amp;R: Chorused Long Hall"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67 C&amp;R: Tremolo Room"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68 C&amp;R: Flange + Big Room"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69 C&amp;R: Chorus + Long Hall 2"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70 C&amp;R: Harmonized Large Room"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71 CNL: Chorused Pan Gate"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72 CNL: Flanged Pan Gate"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73 CNL: Regeneration Reverse Pan"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74 CNL: Flanged Non Linear Pan"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75 CNL: Chorused Gate"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76 CNL: Chorused #1 Non Linear Room"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77 CNL: Chorused #2 Non Linear Room"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78 RER: Reverse Bounce 1"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79 RER: Panning Bounce Gate"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80 RER: Reverse Bounce 2"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81 RER: Inverse Room 1"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82 RER: Inverse Room 2"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83 RER: Panning Inverse Room 1"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84 RER: Panning Inverse Room 2"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85 C&amp;D: Chorus &amp; Panning Delay 1"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86 C&amp;D: Chorus &amp; Stereo Slaps"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87 C&amp;D: Vibrato &amp; Echo"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88 C&amp;D: Slow Chorus Echo"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89 C&amp;D: Thick Chorus &amp; 1 Sec Pan Echoes"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90 C&amp;D: Flanging &amp; 2 Sec Echo"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91 C&amp;D: Chorus &amp; 120 BPM Pan Echo"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92 SPE: Metallic Tank #1"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93 SPE: Metallic Tank #2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94 SPE: Special Room #2"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95 SPE: Special #1"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96 SPE: Phased Long Room"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97 SPE: Delay Flanged &amp; Phased Long Room"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98 SPE: Modulated Phased Room"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99 TST: Test Parameter"  ProgramChange="98"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

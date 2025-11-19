@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>SPD-20</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland SPD-20 Patch">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 Drums &amp; Shaker"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 Latin Set"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 Orchestral"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Groove"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Amazon"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Brushes"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 Delay"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 Dance Chord"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 Indian"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 Tex-Mex"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 Standard 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 Standard 2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 Big Rock"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 Jazz"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 Funk"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 Power"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Rock"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Electronic"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Vintage Hex"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 TR-909"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 TR-808"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 CR-78/TR-808"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Dance Scratch"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Dance Mix"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Techno"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Techno Beat"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Techno Hit"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 Hip Hop"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Jungle"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Drums &amp; Synth"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Bongo &amp; Conga"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Timbales"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Cabasa &amp; Cuica"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 Berimbau"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 Samba"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Tabla Baya"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 Pot Drums"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 Madal &amp; Dholak"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 Sitar"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 Santoor"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 Tambura"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 African"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Kalimba"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Balaphone"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 Darbuka"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Doholla"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Hammer Dulcimer"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Japanese"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Korean"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 Chinese"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 Yang Qin"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Southeast Asian"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Gamelan"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Timpani"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Chimes &amp; Bells"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 Orchestra Hits"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Marimba"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Bass Marimba"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 Celesta"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Vibraphone"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 Xylophone"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Tubular Bells"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Steel Drum"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 Melodic Gong"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 Oriental"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 Choir"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Choir &amp; Bass"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 Strings &amp; Bass"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Brass"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 Melodic 1"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 Melodic 2"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Melodic 3"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Melodic 4"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 Whole Tone"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 One Shot Delay"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 Chorus+Delay"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Flanger+Reverb"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Metal Head"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 Chorus Chord"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 Wack-O"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 Flying"  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 Crime Scene"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 Holler"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 Voices"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 Loop Menu"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 Reversed Sounds"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 Ambience"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 Deep (Full Set)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 Recording (Full Set)"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 Vintage (Full Set)"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 Jazz (Full Set)"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 Jazz Brushes (Full Set)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 Analog (Full Set)"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 Kit Copy"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 Kit Copy"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 for Patch Expand 1"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 for Patch Expand 2"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 for Patch Expand 3"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 for Patch Expand 4"  ProgramChange="98"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Surdo Mute"/>
+     <Note Number="38"  Name="8=PandeiroL Lo"/>
+     <Note Number="39"  Name="9=PandieroL Rm"/>
+     <Note Number="40"  Name="0=Tamborim Opn"/>
+     <Note Number="41"  Name="1=Caixa Open1"/>
+     <Note Number="42"  Name="2=Caixa Roll"/>
+     <Note Number="43"  Name="3=Timbale Lo"/>
+     <Note Number="44"  Name="4=Timbale Side"/>
+     <Note Number="45"  Name="5=Timbale Hi"/>
+     <Note Number="46"  Name="6=Chekere 1"/>
+     <Note Number="47"  Name="7=Bongo 1 Lo"/>
+     <Note Number="48"  Name="8=Bongo 1 Hi"/>
+     <Note Number="49"  Name="9=Shaker 1"/>
+     <Note Number="50"  Name="0=Agogo 2 Lo"/>
+     <Note Number="51"  Name="1=Shaker 2"/>
+     <Note Number="52"  Name="2=Agogo 2 Hi"/>
+     <Note Number="53"  Name="3=Cowbell 2"/>
+     <Note Number="54"  Name="4=Cuica 2"/>
+     <Note Number="55"  Name="5=Guiro Long"/>
+     <Note Number="56"  Name="6=SambaWhistle"/>
+     <Note Number="57"  Name="7=Guiro Short"/>
+     <Note Number="58"  Name="8=Asian Gong 1"/>
+     <Note Number="59"  Name="9=Asian Gong 4"/>
+     <Note Number="60"  Name="0=Asian Gong 5"/>
+     <Note Number="61"  Name="1=Chenchen Opn"/>
+     <Note Number="62"  Name="2=Asian Gong 7"/>
+     <Note Number="63"  Name="3=Chenchen Cls"/>
+     <Note Number="64"  Name="4=Ban Gu 1"/>
+     <Note Number="65"  Name="5=Ban Gu 3"/>
+     <Note Number="66"  Name="6=RamaCymbal"/>
+     <Note Number="67"  Name="7=Udu Pot1 Lo"/>
+     <Note Number="68"  Name="8=Udo Pot2 Mut"/>
+     <Note Number="69"  Name="9=Udu Pot2 Lng"/>
+     <Note Number="70"  Name="0=TablaBayaSld"/>
+     <Note Number="71"  Name="1=TablaBaya Ge"/>
+     <Note Number="72"  Name="2=TablaBaya Ka"/>
+     <Note Number="73"  Name="3=TablaBaya Na"/>
+     <Note Number="74"  Name="4=TablaBayaTin"/>
+     <Note Number="75"  Name="5=Rek Dom"/>
+     <Note Number="76"  Name="6=Rek Tek"/>
+     <Note Number="77"  Name="7=Rek Open"/>
+     <Note Number="78"  Name="8=Rek Trill"/>
+     <Note Number="79"  Name="9=Bendir 2"/>
+     <Note Number="80"  Name="0=Sagat Open"/>
+     <Note Number="81"  Name="1=Sagat Close"/>
+     <Note Number="82"  Name="2=Log Drum 2"/>
+     <Note Number="83"  Name="3=Slit Drum"/>
+     <Note Number="84"  Name="4=TalkingDr Dn"/>
+     <Note Number="85"  Name="5=Afro Feet 1"/>
+     <Note Number="86"  Name="6=AfroDrum Rat"/>
+     <Note Number="87"  Name="7=Afro Clap"/>
+     <Note Number="88"  Name="8=Berimbau Opn"/>
+     <Note Number="89"  Name="9=Berimbau Mut"/>
+     <Note Number="90"  Name="0=Tsuzumi Lo"/>
+     <Note Number="91"  Name="1=Sime Taiko"/>
+     <Note Number="92"  Name="2=Tsuzumi Hi"/>
+     <Note Number="93"  Name="3=Hyoshigi"/>
+     <Note Number="94"  Name="4=Didgeridoo 1"/>
+     <Note Number="95"  Name="5=Clapstick"/>
+     <Note Number="96"  Name="6=Boomerang"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Berimbau Up"/>
+     <Note Number="64"  Name="4=Berimbau Dn"/>
+     <Note Number="65"  Name="5=Berimbau Mut"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=AfroDrum Op2"/>
+     <Note Number="64"  Name="4=AfroDrum Flm"/>
+     <Note Number="65"  Name="5=AfroDrum Rat"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=(Udu Lo Phrase)"/>
+     <Note Number="64"  Name="4=(Udu Hi Phrase)"/>
+     <Note Number="65"  Name="5=Udu Pot1 Lo"/>
+     <Note Number="67"  Name="7=Udu Pot1 Hi"/>
+     <Note Number="69"  Name="9=Udu Pot1 Slp"/>
+     <Note Number="71"  Name="1=Udu Pot1 Acc"/>
+     <Note Number="72"  Name="2=Udu Pot2 Lng"/>
+     <Note Number="74"  Name="4=Udu Pot2 Sht"/>
+     <Note Number="76"  Name="6=Udu Pot2 Mut"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="63"  Name="3=Chenchen Opn"/>
+     <Note Number="67"  Name="7=Chenchen Cls"/>
+     <Note Number="69"  Name="9=BaliCym Opn"/>
+     <Note Number="73"  Name="3=BaliCym Cls"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="63"  Name="3=Asian Gong 2"/>
+     <Note Number="67"  Name="7=Asian Gong 3"/>
+     <Note Number="69"  Name="9=Asian Gong 4"/>
+     <Note Number="73"  Name="3=Asian Gong 5"/>
+     <Note Number="77"  Name="7=Asian Gong 6"/>
+     <Note Number="81"  Name="1=Asian Gong 7"/>
+     <Note Number="83"  Name="3=REV Gong 5"/>
+     <Note Number="87"  Name="7=REV Gong 7"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Gu Hi"/>
+     <Note Number="64"  Name="4=Ban Gu 1"/>
+     <Note Number="65"  Name="5=Ban Gu 2"/>
+     <Note Number="67"  Name="7=Ban Gu 3"/>
+     <Note Number="69"  Name="9=Asian Gong 5"/>
+     <Note Number="71"  Name="1=Asian Gong 6"/>
+     <Note Number="72"  Name="2=Asian Gong 7"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Sime Taiko"/>
+     <Note Number="64"  Name="4=Tsuzumi Lo"/>
+     <Note Number="65"  Name="5=Tsuzumi Hi"/>
+     <Note Number="67"  Name="7=Ohkawa"/>
+     <Note Number="69"  Name="9=Hyoshigi"/>
+     <Note Number="71"  Name="1=Atarigane"/>
+     <Note Number="72"  Name="2=Yyoo Dude"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Doholla Sak"/>
+     <Note Number="64"  Name="4=Doholla Tak"/>
+     <Note Number="66"  Name="6=Doholla Roll"/>
+     <Note Number="67"  Name="7=Doholla Stop"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=(Tabla Loop 2)"/>
+     <Note Number="64"  Name="4=(Tabla Loop 3)"/>
+     <Note Number="65"  Name="5=(Tabla Loop 4)"/>
+     <Note Number="67"  Name="7=Tabla Bend"/>
+     <Note Number="68"  Name="8=Tabla Dom"/>
+     <Note Number="70"  Name="0=Tabla Tak"/>
+     <Note Number="72"  Name="2=Tabla Rim"/>
+     <Note Number="74"  Name="4=Tabla Roll"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Madal Din"/>
+     <Note Number="64"  Name="4=Madal Ta"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Dholak Ta"/>
+     <Note Number="64"  Name="4=Dholak Tun"/>
+     <Note Number="65"  Name="5=Dholak Na"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Rek Tek"/>
+     <Note Number="64"  Name="4=Rek Open"/>
+     <Note Number="65"  Name="5=Rek Trill"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Shaker Ptn (2)"/>
+     <Note Number="64"  Name="4=Shaker 1"/>
+     <Note Number="65"  Name="5=Shaker 2"/>
+     <Note Number="67"  Name="7=Shaker Ptn (2a)"/>
+     <Note Number="69"  Name="9=Chekere 1"/>
+     <Note Number="71"  Name="1=Chekere 2"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Caixa Open2"/>
+     <Note Number="64"  Name="4=Caixa Roll"/>
+     <Note Number="65"  Name="5=Caixa Mute"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Agogo 2 Hi"/>
+     <Note Number="64"  Name="4=Agogo 3 Lo"/>
+     <Note Number="65"  Name="5=Agogo 3 Hi"/>
+     <Note Number="67"  Name="7=Cowbell 1"/>
+     <Note Number="69"  Name="9=Cowbell 2"/>
+     <Note Number="71"  Name="1=Cowbell 3"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Bongo 1 Hi"/>
+     <Note Number="64"  Name="4=Bongo 2 Lo"/>
+     <Note Number="65"  Name="5=Bongo 2 Hi"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=(Samba Loop 2)"/>
+     <Note Number="64"  Name="4=(Samba Ptn)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=PandieroL Hi"/>
+     <Note Number="64"  Name="4=PandieroL Sp"/>
+     <Note Number="65"  Name="5=PandieroL Rm"/>
+     <Note Number="67"  Name="7=PandieroS Op"/>
+     <Note Number="69"  Name="9=PandieroS Sp"/>
+     <Note Number="71"  Name="1=PandieroS Rm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Surdo Open H"/>
+     <Note Number="64"  Name="4=Surdo Mute"/>
+     <Note Number="65"  Name="5=Surdo Rim"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="62"  Name="2=Jaw Harp Wow"/>
+     <Note Number="64"  Name="4=(REV Harp)"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="63"  Name="3=How Tribe"/>
+     <Note Number="67"  Name="7=Hey Brazil"/>
+     <Note Number="69"  Name="9=Yyoo Dude"/>
+     <Note Number="73"  Name="3=ZaghrutaLoop"/>
+     <Note Number="77"  Name="7=ZaghrutaStop"/>
+     <Note Number="80"  Name="0=Bull Scream"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

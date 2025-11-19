@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>RD-300</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland RD-300 Piano">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0 "  Name="1 Piano"  ProgramChange="0 "/>
+          <Patch Number="1 "  Name="2 Piano"  ProgramChange="1 "/>
+          <Patch Number="2 "  Name="3 Piano"  ProgramChange="2 "/>
+          <Patch Number="3 "  Name="HarpsiChord"  ProgramChange="3 "/>
+          <Patch Number="4 "  Name="Clavi"  ProgramChange="4 "/>
+          <Patch Number="5 "  Name="VibraPhone"  ProgramChange="5 "/>
+          <Patch Number="6 "  Name="1 E Piano"  ProgramChange="6 "/>
+          <Patch Number="7 "  Name="2 E Piano"  ProgramChange="7 "/>
+          <Patch Number="8 "  Name="1 Piano  /chorus"  ProgramChange="8 "/>
+          <Patch Number="9 "  Name="2 Piano  /chorus"  ProgramChange="9 "/>
+          <Patch Number="10"  Name="3 Piano  /chorus"  ProgramChange="10"/>
+          <Patch Number="11"  Name="HarpsiChord  /chorus"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Clavi  /chorus"  ProgramChange="12"/>
+          <Patch Number="13"  Name="VibraPhone  /chorus"  ProgramChange="13"/>
+          <Patch Number="14"  Name="1 E Piano  /chorus"  ProgramChange="14"/>
+          <Patch Number="15"  Name="2 E Piano  /chorus"  ProgramChange="15"/>
+          <Patch Number="16"  Name="1 Piano  /tremolo"  ProgramChange="16"/>
+          <Patch Number="17"  Name="2 Piano  /tremolo"  ProgramChange="17"/>
+          <Patch Number="18"  Name="3 Piano  /tremolo"  ProgramChange="18"/>
+          <Patch Number="19"  Name="HarpsiChord  /tremolo"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Clavi  /tremolo"  ProgramChange="20"/>
+          <Patch Number="21"  Name="VibraPhone  /tremolo"  ProgramChange="21"/>
+          <Patch Number="22"  Name="1 E Piano  /tremolo"  ProgramChange="22"/>
+          <Patch Number="23"  Name="2 E Piano  /tremolo"  ProgramChange="23"/>
+          <Patch Number="24"  Name="1 Piano  /chorus + tremolo"  ProgramChange="24"/>
+          <Patch Number="25"  Name="2 Piano  /chorus + tremolo"  ProgramChange="25"/>
+          <Patch Number="26"  Name="3 Piano  /chorus + tremolo"  ProgramChange="26"/>
+          <Patch Number="27"  Name="HarpsiChord  /chorus + tremolo"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Clavi  /chorus + tremolo"  ProgramChange="28"/>
+          <Patch Number="29"  Name="VibraPhone  /chorus + tremolo"  ProgramChange="29"/>
+          <Patch Number="30"  Name="1 E Piano  /chorus + tremolo"  ProgramChange="30"/>
+          <Patch Number="31"  Name="2 E Piano  /chorus +tremolo"  ProgramChange="31"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

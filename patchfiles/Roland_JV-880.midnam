@@ -1,0 +1,297 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>JV-880</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=__________"/>
+     <Note Number="38"  Name="8=__________"/>
+     <Note Number="39"  Name="9=__________"/>
+     <Note Number="40"  Name="0=__________"/>
+     <Note Number="41"  Name="1=__________"/>
+     <Note Number="42"  Name="2=__________"/>
+     <Note Number="43"  Name="3=__________"/>
+     <Note Number="44"  Name="4=__________"/>
+     <Note Number="45"  Name="5=__________"/>
+     <Note Number="46"  Name="6=__________"/>
+     <Note Number="47"  Name="7=__________"/>
+     <Note Number="48"  Name="8=__________"/>
+     <Note Number="49"  Name="9=__________"/>
+     <Note Number="50"  Name="0=__________"/>
+     <Note Number="51"  Name="1=__________"/>
+     <Note Number="52"  Name="2=__________"/>
+     <Note Number="53"  Name="3=__________"/>
+     <Note Number="54"  Name="4=__________"/>
+     <Note Number="55"  Name="5=__________"/>
+     <Note Number="56"  Name="6=__________"/>
+     <Note Number="57"  Name="7=__________"/>
+     <Note Number="58"  Name="8=__________"/>
+     <Note Number="59"  Name="9=__________"/>
+     <Note Number="60"  Name="0=__________"/>
+     <Note Number="61"  Name="1=__________"/>
+     <Note Number="62"  Name="2=__________"/>
+     <Note Number="63"  Name="3=__________"/>
+     <Note Number="64"  Name="4=__________"/>
+     <Note Number="65"  Name="5=__________"/>
+     <Note Number="66"  Name="6=__________"/>
+     <Note Number="67"  Name="7=__________"/>
+     <Note Number="68"  Name="8=__________"/>
+     <Note Number="69"  Name="9=__________"/>
+     <Note Number="70"  Name="0=__________"/>
+     <Note Number="71"  Name="1=__________"/>
+     <Note Number="72"  Name="2=__________"/>
+     <Note Number="73"  Name="3=__________"/>
+     <Note Number="74"  Name="4=__________"/>
+     <Note Number="75"  Name="5=__________"/>
+     <Note Number="76"  Name="6=__________"/>
+     <Note Number="77"  Name="7=__________"/>
+     <Note Number="78"  Name="8=__________"/>
+     <Note Number="79"  Name="9=__________"/>
+     <Note Number="80"  Name="0=__________"/>
+     <Note Number="81"  Name="1=__________"/>
+     <Note Number="82"  Name="2=__________"/>
+     <Note Number="83"  Name="3=__________"/>
+     <Note Number="84"  Name="4=__________"/>
+     <Note Number="85"  Name="5=__________"/>
+     <Note Number="86"  Name="6=__________"/>
+     <Note Number="87"  Name="7=__________"/>
+     <Note Number="88"  Name="8=__________"/>
+     <Note Number="89"  Name="9=__________"/>
+     <Note Number="90"  Name="0=__________"/>
+     <Note Number="91"  Name="1=__________"/>
+     <Note Number="92"  Name="2=__________"/>
+     <Note Number="93"  Name="3=__________"/>
+     <Note Number="94"  Name="4=__________"/>
+     <Note Number="95"  Name="5=__________"/>
+     <Note Number="96"  Name="6=__________"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=90's Snare"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=LA Snare"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed Hat 2"/>
+     <Note Number="45"  Name="5=Power Tom Hi"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Hi"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Ride Bell"/>
+     <Note Number="53"  Name="3=REV SN 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=REV SN 2"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=REV SN 3"/>
+     <Note Number="58"  Name="8=Cowbell 1"/>
+     <Note Number="59"  Name="9=REV SN 4"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=CGA Mut Lo"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Hi"/>
+     <Note Number="64"  Name="4=Conga Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Cabasa Down"/>
+     <Note Number="72"  Name="2=Maracas Cut"/>
+     <Note Number="73"  Name="3=808 Kick"/>
+     <Note Number="74"  Name="4=808 SNR 1"/>
+     <Note Number="75"  Name="5=DIGI Bell 1"/>
+     <Note Number="76"  Name="6=808 Snare 1"/>
+     <Note Number="77"  Name="7=808 Kick"/>
+     <Note Number="78"  Name="8=Spectrum 1"/>
+     <Note Number="79"  Name="9=808 Kick"/>
+     <Note Number="80"  Name="0=Spectrum 1"/>
+     <Note Number="81"  Name="1=808 Kick"/>
+     <Note Number="82"  Name="2=Spectrum 1"/>
+     <Note Number="83"  Name="3=808 Kick"/>
+     <Note Number="84"  Name="4=808 Kick"/>
+     <Note Number="85"  Name="5=Feedbackwave"/>
+     <Note Number="86"  Name="6=808 Kick"/>
+     <Note Number="87"  Name="7=Feedbckwave"/>
+     <Note Number="88"  Name="8=Pop Voice"/>
+     <Note Number="89"  Name="9=Pop Voice"/>
+     <Note Number="90"  Name="0=Wind Agogo"/>
+     <Note Number="91"  Name="1=Pop Voice"/>
+     <Note Number="92"  Name="2=Wind Agogo"/>
+     <Note Number="93"  Name="3=Open HAT 1"/>
+     <Note Number="94"  Name="4=Anklings"/>
+     <Note Number="95"  Name="5=Open HAT 1"/>
+     <Note Number="96"  Name="6=Open HAT 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=90's Snare"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=90's Snare"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed Hat 2"/>
+     <Note Number="45"  Name="5=Power Tom Hi"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Hi"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Tin Wave"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Spectrum 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Crash 1"/>
+     <Note Number="59"  Name="9=Piccolo SN"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=CGA Mut Lo"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Hi"/>
+     <Note Number="64"  Name="4=Conga Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Power Tom Lo"/>
+     <Note Number="68"  Name="8=LA Snare"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Cabasa Down"/>
+     <Note Number="72"  Name="2=Maracas Cut"/>
+     <Note Number="73"  Name="3=Whack Snare"/>
+     <Note Number="74"  Name="4=Verb Kick"/>
+     <Note Number="75"  Name="5=Rim Shot"/>
+     <Note Number="76"  Name="6=Round Kick"/>
+     <Note Number="77"  Name="7=808 Kick"/>
+     <Note Number="78"  Name="8=Cabasa Down"/>
+     <Note Number="79"  Name="9=Rev Steel DR"/>
+     <Note Number="80"  Name="0=REV Tin Wave"/>
+     <Note Number="81"  Name="1=REV SN 1"/>
+     <Note Number="82"  Name="2=REV SN 2"/>
+     <Note Number="83"  Name="3=REV SN 3"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=REV Kick"/>
+     <Note Number="86"  Name="6=Anklungs"/>
+     <Note Number="87"  Name="7=Rattles"/>
+     <Note Number="88"  Name="8=REV Cow Bell"/>
+     <Note Number="89"  Name="9=REV TAMB"/>
+     <Note Number="90"  Name="0=REV Conga"/>
+     <Note Number="91"  Name="1=REV Maracas"/>
+     <Note Number="92"  Name="2=REV Crash"/>
+     <Note Number="93"  Name="3=Steel Drum"/>
+     <Note Number="94"  Name="4=Wind Agogo"/>
+     <Note Number="95"  Name="5=Wind Agogo"/>
+     <Note Number="96"  Name="6=808 SNR 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick 1"/>
+     <Note Number="38"  Name="8=Piccolo Snare"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=LA Snare"/>
+     <Note Number="41"  Name="1=Power Tom Lo"/>
+     <Note Number="42"  Name="2=Closed HAT 1"/>
+     <Note Number="43"  Name="3=Power Tom Lo"/>
+     <Note Number="44"  Name="4=Closed Hat 2"/>
+     <Note Number="45"  Name="5=Power Tom Lo"/>
+     <Note Number="46"  Name="6=Open HAT 1"/>
+     <Note Number="47"  Name="7=Power Tom Lo"/>
+     <Note Number="48"  Name="8=Power Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Power Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=Crash 1"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Crash 1"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Cowbell 1"/>
+     <Note Number="59"  Name="9=Crash 1"/>
+     <Note Number="60"  Name="0=CGA Mute Hi"/>
+     <Note Number="61"  Name="1=Conga Hi"/>
+     <Note Number="62"  Name="2=CGA Slap"/>
+     <Note Number="63"  Name="3=Conga Lo"/>
+     <Note Number="64"  Name="4=CGA Mute Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Timbale"/>
+     <Note Number="68"  Name="8=Timbale"/>
+     <Note Number="69"  Name="9=Agogo"/>
+     <Note Number="70"  Name="0=Agogo"/>
+     <Note Number="71"  Name="1=Cabasa Up"/>
+     <Note Number="72"  Name="2=Cabasa Down"/>
+     <Note Number="73"  Name="3=Maracas"/>
+     <Note Number="74"  Name="4=Maracas Cut"/>
+     <Note Number="75"  Name="5=Tambourine"/>
+     <Note Number="76"  Name="6=Log Drum"/>
+     <Note Number="77"  Name="7=DIGI Bell 1"/>
+     <Note Number="78"  Name="8=DIGI Chime"/>
+     <Note Number="79"  Name="9=Steel Drums"/>
+     <Note Number="80"  Name="0=Anklungs"/>
+     <Note Number="81"  Name="1=Wind Chimes"/>
+     <Note Number="82"  Name="2=Rattles"/>
+     <Note Number="83"  Name="3=Round Kick"/>
+     <Note Number="84"  Name="4=808 Kick"/>
+     <Note Number="85"  Name="5=808 Kick"/>
+     <Note Number="86"  Name="6=808 SNR 1"/>
+     <Note Number="87"  Name="7=REV TAMB"/>
+     <Note Number="88"  Name="8=90's Snare"/>
+     <Note Number="89"  Name="9=Closed HAT 1"/>
+     <Note Number="90"  Name="0=Tin Wave"/>
+     <Note Number="91"  Name="1=Spectrum 1"/>
+     <Note Number="92"  Name="2=REV Steel DR"/>
+     <Note Number="93"  Name="3=REV Tin Wave"/>
+     <Note Number="94"  Name="4=REV SN 1"/>
+     <Note Number="95"  Name="5=REV Crash 1"/>
+     <Note Number="96"  Name="6=REV Cowbell"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -1,0 +1,421 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>Boss-GT6</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Boss GT-6 Bank 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="HARD VO LEAD"  ProgramChange="0"/>
+          <Patch Number="1"  Name="RIFF MERCHANT"  ProgramChange="1"/>
+          <Patch Number="2"  Name="HANKY PANKY"  ProgramChange="2"/>
+          <Patch Number="3"  Name="'60s ECHO LEAD"  ProgramChange="3"/>
+          <Patch Number="4"  Name="MK3 COMBO"  ProgramChange="4"/>
+          <Patch Number="5"  Name="LONG SUSTAIN"  ProgramChange="5"/>
+          <Patch Number="6"  Name="R'BILLY CRUNCH"  ProgramChange="6"/>
+          <Patch Number="7"  Name="FRETLESS"  ProgramChange="7"/>
+          <Patch Number="8"  Name="STEREO LEAD"  ProgramChange="8"/>
+          <Patch Number="9"  Name="FAT FUZZ"  ProgramChange="9"/>
+          <Patch Number="10"  Name="BLUSY PRO REVERB"  ProgramChange="10"/>
+          <Patch Number="11"  Name="TWIN CLEAN"  ProgramChange="11"/>
+          <Patch Number="12"  Name="AMERICAN DIST"  ProgramChange="12"/>
+          <Patch Number="13"  Name="WOMAN TONE"  ProgramChange="13"/>
+          <Patch Number="14"  Name="EARLY '60s UK"  ProgramChange="14"/>
+          <Patch Number="15"  Name="SYNTH FLUTE"  ProgramChange="15"/>
+          <Patch Number="16"  Name="DETUNE BG LEAD"  ProgramChange="16"/>
+          <Patch Number="17"  Name="GUV GS+STEREO FL"  ProgramChange="17"/>
+          <Patch Number="18"  Name="AMERICAN TWEED"  ProgramChange="18"/>
+          <Patch Number="19"  Name="CLEAR KY DLYPDL"  ProgramChange="19"/>
+          <Patch Number="20"  Name="FAT STRAT"  ProgramChange="20"/>
+          <Patch Number="21"  Name="SCREAM TWEED"  ProgramChange="21"/>
+          <Patch Number="22"  Name="UNI-V CRUNCH"  ProgramChange="22"/>
+          <Patch Number="23"  Name="SWEET VOICE"  ProgramChange="23"/>
+          <Patch Number="24"  Name="POWER DRIVE"  ProgramChange="24"/>
+          <Patch Number="25"  Name="R&amp;R DRIVE"  ProgramChange="25"/>
+          <Patch Number="26"  Name="BRIGHT TWEED"  ProgramChange="26"/>
+          <Patch Number="27"  Name="COUNTRY CLEAN"  ProgramChange="27"/>
+          <Patch Number="28"  Name="DIST + MS1959"  ProgramChange="28"/>
+          <Patch Number="29"  Name="WAH LEAD"  ProgramChange="29"/>
+          <Patch Number="30"  Name="TOUCH WAH"  ProgramChange="30"/>
+          <Patch Number="31"  Name="WOW WOW"  ProgramChange="31"/>
+          <Patch Number="32"  Name="OCTAVE STACK"  ProgramChange="32"/>
+          <Patch Number="33"  Name="'60s UK INST"  ProgramChange="33"/>
+          <Patch Number="34"  Name="FAT MATCH"  ProgramChange="34"/>
+          <Patch Number="35"  Name="CLEAN TWIN"  ProgramChange="35"/>
+          <Patch Number="36"  Name="TEMPO DELAY"  ProgramChange="36"/>
+          <Patch Number="37"  Name="CRUNCH  -> LEAD"  ProgramChange="37"/>
+          <Patch Number="38"  Name="COMP LEAD"  ProgramChange="38"/>
+          <Patch Number="39"  Name="GATED WAH"  ProgramChange="39"/>
+          <Patch Number="40"  Name="TUBE STACK"  ProgramChange="40"/>
+          <Patch Number="41"  Name="CLEAN JC-120"  ProgramChange="41"/>
+          <Patch Number="42"  Name="COUNTRY CRUNCH"  ProgramChange="42"/>
+          <Patch Number="43"  Name="MS1959 LEAD"  ProgramChange="43"/>
+          <Patch Number="44"  Name="3-STACK DRIVE"  ProgramChange="44"/>
+          <Patch Number="45"  Name="SPACY CLEAN"  ProgramChange="45"/>
+          <Patch Number="46"  Name="MS1959 CRUNCH"  ProgramChange="46"/>
+          <Patch Number="47"  Name="UNI-V FUZZ"  ProgramChange="47"/>
+          <Patch Number="48"  Name="TURBO OD LEAD"  ProgramChange="48"/>
+          <Patch Number="49"  Name="MILD FRETLESS Gt"  ProgramChange="49"/>
+          <Patch Number="50"  Name="VINTAGE OD-1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="TWEED LEAD"  ProgramChange="51"/>
+          <Patch Number="52"  Name="HI GAIN BOOSTER"  ProgramChange="52"/>
+          <Patch Number="53"  Name="7 STRING OCTAVE"  ProgramChange="53"/>
+          <Patch Number="54"  Name="FUZZ STACK"  ProgramChange="54"/>
+          <Patch Number="55"  Name="FINGER TAP"  ProgramChange="55"/>
+          <Patch Number="56"  Name="BIG R-FIER"  ProgramChange="56"/>
+          <Patch Number="57"  Name="MS HIGH GAIN"  ProgramChange="57"/>
+          <Patch Number="58"  Name="CRYING"  ProgramChange="58"/>
+          <Patch Number="59"  Name="HEAVY 5150"  ProgramChange="59"/>
+          <Patch Number="60"  Name="SUPER HI GAIN"  ProgramChange="60"/>
+          <Patch Number="61"  Name="R-MAN DIST"  ProgramChange="61"/>
+          <Patch Number="62"  Name="MUFF FUZZ"  ProgramChange="62"/>
+          <Patch Number="63"  Name="HiGain MS Backin"  ProgramChange="63"/>
+          <Patch Number="64"  Name="METAL ZONE"  ProgramChange="64"/>
+          <Patch Number="65"  Name="HARD DRIVE"  ProgramChange="65"/>
+          <Patch Number="66"  Name="HEAVY ZONE"  ProgramChange="66"/>
+          <Patch Number="67"  Name="VO STACK"  ProgramChange="67"/>
+          <Patch Number="68"  Name="CLASIC DIST"  ProgramChange="68"/>
+          <Patch Number="69"  Name="MATCH DIST"  ProgramChange="69"/>
+          <Patch Number="70"  Name="STACK DISTORTION"  ProgramChange="70"/>
+          <Patch Number="71"  Name="R-FIER METAL"  ProgramChange="71"/>
+          <Patch Number="72"  Name="WIDE DRIVE"  ProgramChange="72"/>
+          <Patch Number="73"  Name="MS SCOOP"  ProgramChange="73"/>
+          <Patch Number="74"  Name="HARD VO LEAD"  ProgramChange="74"/>
+          <Patch Number="75"  Name="MK3 COMBO"  ProgramChange="75"/>
+          <Patch Number="76"  Name="STEREO LEAD"  ProgramChange="76"/>
+          <Patch Number="77"  Name="AMERICAN DIST"  ProgramChange="77"/>
+          <Patch Number="78"  Name="DETUNE BG LEAD"  ProgramChange="78"/>
+          <Patch Number="79"  Name="FAT STRAT"  ProgramChange="79"/>
+          <Patch Number="80"  Name="POWER DRIVE"  ProgramChange="80"/>
+          <Patch Number="81"  Name="DIST + MS1959"  ProgramChange="81"/>
+          <Patch Number="82"  Name="OCTAVE STACK"  ProgramChange="82"/>
+          <Patch Number="83"  Name="TEMPO STACK"  ProgramChange="83"/>
+          <Patch Number="84"  Name="OD-1 + 2x2CHORUS"  ProgramChange="84"/>
+          <Patch Number="85"  Name="MT-2 STACK"  ProgramChange="85"/>
+          <Patch Number="86"  Name="HEAVY RECT"  ProgramChange="86"/>
+          <Patch Number="87"  Name="OVERDRIVE STACK"  ProgramChange="87"/>
+          <Patch Number="88"  Name="ST STACK"  ProgramChange="88"/>
+          <Patch Number="89"  Name="5150 DRIVE"  ProgramChange="89"/>
+          <Patch Number="90"  Name="OXY DRIVE"  ProgramChange="90"/>
+          <Patch Number="91"  Name="SHORT DELAY LEAD"  ProgramChange="91"/>
+          <Patch Number="92"  Name="HOT STACK"  ProgramChange="92"/>
+          <Patch Number="93"  Name="COOL AC DRIVE"  ProgramChange="93"/>
+          <Patch Number="94"  Name="DIST+MS HI GAIN"  ProgramChange="94"/>
+          <Patch Number="95"  Name="MATCH GUV"  ProgramChange="95"/>
+          <Patch Number="96"  Name="SCOOP'D METAL"  ProgramChange="96"/>
+          <Patch Number="97"  Name="VINTAGE DIST+"  ProgramChange="97"/>
+          <Patch Number="98"  Name="MT-2 + JC-120"  ProgramChange="98"/>
+          <Patch Number="99"  Name="SOUTHERN ROCK"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Boss GT-6 Bank 4">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="TWIN CLEAN"  ProgramChange="0"/>
+          <Patch Number="1"  Name="CLEAR SKY DLYPDL"  ProgramChange="1"/>
+          <Patch Number="2"  Name="COUNTRY CLEAN"  ProgramChange="2"/>
+          <Patch Number="3"  Name="CLEAR TWIN"  ProgramChange="3"/>
+          <Patch Number="4"  Name="MILD CLEAN JAZZ"  ProgramChange="4"/>
+          <Patch Number="5"  Name="JAZZY COMBO"  ProgramChange="5"/>
+          <Patch Number="6"  Name="SPACE PHASER"  ProgramChange="6"/>
+          <Patch Number="7"  Name="ULTRA CLEAN"  ProgramChange="7"/>
+          <Patch Number="8"  Name="DARK SIDE"  ProgramChange="8"/>
+          <Patch Number="9"  Name="TWIN CHORUS"  ProgramChange="9"/>
+          <Patch Number="10"  Name="TREMOLO TWIN"  ProgramChange="10"/>
+          <Patch Number="11"  Name="OCTAVE RING MOD"  ProgramChange="11"/>
+          <Patch Number="12"  Name="METAL PAN"  ProgramChange="12"/>
+          <Patch Number="13"  Name="SLICER &amp; DELAY"  ProgramChange="13"/>
+          <Patch Number="14"  Name="FRETLESS GT BASS"  ProgramChange="14"/>
+          <Patch Number="15"  Name="EXP SW A-RIFFinC"  ProgramChange="15"/>
+          <Patch Number="16"  Name="TALKING WAH"  ProgramChange="16"/>
+          <Patch Number="17"  Name="ETHEREAL"  ProgramChange="17"/>
+          <Patch Number="18"  Name="DELAY GATE"  ProgramChange="18"/>
+          <Patch Number="19"  Name="STEP PHASER"  ProgramChange="19"/>
+          <Patch Number="20"  Name="SLOW GEAR"  ProgramChange="20"/>
+          <Patch Number="21"  Name="SLICE &amp; FILTER"  ProgramChange="21"/>
+          <Patch Number="22"  Name="PEDAL BEND"  ProgramChange="22"/>
+          <Patch Number="23"  Name="FRETLESS"  ProgramChange="23"/>
+          <Patch Number="24"  Name="SYNTH FLUTE"  ProgramChange="24"/>
+          <Patch Number="25"  Name="SWEET VOICE"  ProgramChange="25"/>
+          <Patch Number="26"  Name="WOW WOW"  ProgramChange="26"/>
+          <Patch Number="27"  Name="GATED WAH"  ProgramChange="27"/>
+          <Patch Number="28"  Name="AUTORIFF KEY=D"  ProgramChange="28"/>
+          <Patch Number="29"  Name="OCTAVE RIFF"  ProgramChange="29"/>
+          <Patch Number="30"  Name="PEDAL OCT ECHO"  ProgramChange="30"/>
+          <Patch Number="31"  Name="RING FRETLESS"  ProgramChange="31"/>
+          <Patch Number="32"  Name="ULTRA RING FUZZ"  ProgramChange="32"/>
+          <Patch Number="33"  Name="SYNTH &amp; GUITAR"  ProgramChange="33"/>
+          <Patch Number="34"  Name="RING MOD BASS"  ProgramChange="34"/>
+          <Patch Number="35"  Name="SYNTH SITAR"  ProgramChange="35"/>
+          <Patch Number="36"  Name="STRINGS"  ProgramChange="36"/>
+          <Patch Number="37"  Name="ROTARY"  ProgramChange="37"/>
+          <Patch Number="38"  Name="SPACY ECHO"  ProgramChange="38"/>
+          <Patch Number="39"  Name="SYNTH BRASS"  ProgramChange="39"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Boss GT-6 Bank 3">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="7 STRING LEAD"  ProgramChange="0"/>
+          <Patch Number="1"  Name="HI GAIN LEAD"  ProgramChange="1"/>
+          <Patch Number="2"  Name="PEDAL BEND OD"  ProgramChange="2"/>
+          <Patch Number="3"  Name="UNI-V WAH"  ProgramChange="3"/>
+          <Patch Number="4"  Name="MILD STACK"  ProgramChange="4"/>
+          <Patch Number="5"  Name="PUREST"  ProgramChange="5"/>
+          <Patch Number="6"  Name="FUZZ + JC-120"  ProgramChange="6"/>
+          <Patch Number="7"  Name="FAT WAH"  ProgramChange="7"/>
+          <Patch Number="8"  Name="'80s METAL"  ProgramChange="8"/>
+          <Patch Number="9"  Name="R-FIRE RED"  ProgramChange="9"/>
+          <Patch Number="10"  Name="For 7STRING"  ProgramChange="10"/>
+          <Patch Number="11"  Name="SOUND ON SOUND"  ProgramChange="11"/>
+          <Patch Number="12"  Name="METAL LEAD"  ProgramChange="12"/>
+          <Patch Number="13"  Name="'60s FUZZ LEAD"  ProgramChange="13"/>
+          <Patch Number="14"  Name="I Can't Get FUZZ"  ProgramChange="14"/>
+          <Patch Number="15"  Name="'90s MILD LEAD"  ProgramChange="15"/>
+          <Patch Number="16"  Name="RECT METAL"  ProgramChange="16"/>
+          <Patch Number="17"  Name="WAH STACK"  ProgramChange="17"/>
+          <Patch Number="18"  Name="AUTO LICKER"  ProgramChange="18"/>
+          <Patch Number="19"  Name="RING MOD DRIVE"  ProgramChange="19"/>
+          <Patch Number="20"  Name="OCT FUZZ"  ProgramChange="20"/>
+          <Patch Number="21"  Name="WAH CYCLE"  ProgramChange="21"/>
+          <Patch Number="22"  Name="RIFF MERCHANT"  ProgramChange="22"/>
+          <Patch Number="23"  Name="LONG SUSTAIN"  ProgramChange="23"/>
+          <Patch Number="24"  Name="FAT FUZZ"  ProgramChange="24"/>
+          <Patch Number="25"  Name="WOMAN TONE"  ProgramChange="25"/>
+          <Patch Number="26"  Name="GUV DS+STEREO FL"  ProgramChange="26"/>
+          <Patch Number="27"  Name="SCREAM TWEED"  ProgramChange="27"/>
+          <Patch Number="28"  Name="R&amp;R DRIVE"  ProgramChange="28"/>
+          <Patch Number="29"  Name="WAH LEAD"  ProgramChange="29"/>
+          <Patch Number="30"  Name="'60s UK INST"  ProgramChange="30"/>
+          <Patch Number="31"  Name="CRUNCH -> LEAD"  ProgramChange="31"/>
+          <Patch Number="32"  Name="ROCK,MAN"  ProgramChange="32"/>
+          <Patch Number="33"  Name="BIG!"  ProgramChange="33"/>
+          <Patch Number="34"  Name="EXP PDL FEEDBACK"  ProgramChange="34"/>
+          <Patch Number="35"  Name="PIGMY AMP"  ProgramChange="35"/>
+          <Patch Number="36"  Name="HARMONY -3rd-6th"  ProgramChange="36"/>
+          <Patch Number="37"  Name="CTL PDL FEEDBACK"  ProgramChange="37"/>
+          <Patch Number="38"  Name="PEDAL OCTAVE UP"  ProgramChange="38"/>
+          <Patch Number="39"  Name="DEEP COMP LEAD"  ProgramChange="39"/>
+          <Patch Number="40"  Name="BOOST VO DRIVE"  ProgramChange="40"/>
+          <Patch Number="41"  Name="FAT VO WAH"  ProgramChange="41"/>
+          <Patch Number="42"  Name="UNI-V LEAD!"  ProgramChange="42"/>
+          <Patch Number="43"  Name="UNI-V BLUES"  ProgramChange="43"/>
+          <Patch Number="44"  Name="TALKING PEDAL"  ProgramChange="44"/>
+          <Patch Number="45"  Name="TURBO OVERDRIVE"  ProgramChange="45"/>
+          <Patch Number="46"  Name="FUNK CRY WAH"  ProgramChange="46"/>
+          <Patch Number="47"  Name="JC-160 CRUNCH"  ProgramChange="47"/>
+          <Patch Number="48"  Name="BLUES DRIVE"  ProgramChange="48"/>
+          <Patch Number="49"  Name="CRUNCH COMBO"  ProgramChange="49"/>
+          <Patch Number="50"  Name="OD-1 + VO DRIVE"  ProgramChange="50"/>
+          <Patch Number="51"  Name="VO DRIVE DELAY"  ProgramChange="51"/>
+          <Patch Number="52"  Name="BLUES"  ProgramChange="52"/>
+          <Patch Number="53"  Name="ANOTHER BRICK"  ProgramChange="53"/>
+          <Patch Number="54"  Name="MS CRUNCH"  ProgramChange="54"/>
+          <Patch Number="55"  Name="GT CRUNCH"  ProgramChange="55"/>
+          <Patch Number="56"  Name="COOL CRUNCH"  ProgramChange="56"/>
+          <Patch Number="57"  Name="SURF ROCK"  ProgramChange="57"/>
+          <Patch Number="58"  Name="FAT&amp;ROOM MATCH"  ProgramChange="58"/>
+          <Patch Number="59"  Name="'70s Punk"  ProgramChange="59"/>
+          <Patch Number="60"  Name="TREMOLO CRUNCH"  ProgramChange="60"/>
+          <Patch Number="61"  Name="TIGHT TWEED"  ProgramChange="61"/>
+          <Patch Number="62"  Name="CRUNCH PHASE"  ProgramChange="62"/>
+          <Patch Number="63"  Name="1959 DRIVE LEAD"  ProgramChange="63"/>
+          <Patch Number="64"  Name="CHICKEN PICKING"  ProgramChange="64"/>
+          <Patch Number="65"  Name="BASIC CRUNCH"  ProgramChange="65"/>
+          <Patch Number="66"  Name="BLUES LEAD"  ProgramChange="66"/>
+          <Patch Number="67"  Name="PEDAL UNI-V"  ProgramChange="67"/>
+          <Patch Number="68"  Name="GOOD JAZZ LEAD"  ProgramChange="68"/>
+          <Patch Number="69"  Name="ONESHOT RIFF"  ProgramChange="69"/>
+          <Patch Number="70"  Name="HANKY PANKY"  ProgramChange="70"/>
+          <Patch Number="71"  Name="R'BILLY CRUNCH"  ProgramChange="71"/>
+          <Patch Number="72"  Name="BLUSY PRO REVERB"  ProgramChange="72"/>
+          <Patch Number="73"  Name="EARLY '60s UK"  ProgramChange="73"/>
+          <Patch Number="74"  Name="AMERICAN TWEED"  ProgramChange="74"/>
+          <Patch Number="75"  Name="UNI-V CRUNCH"  ProgramChange="75"/>
+          <Patch Number="76"  Name="BRIGHT TWEED"  ProgramChange="76"/>
+          <Patch Number="77"  Name="TOUCH WAH"  ProgramChange="77"/>
+          <Patch Number="78"  Name="FAT MATCH"  ProgramChange="78"/>
+          <Patch Number="79"  Name="COMP LEAD"  ProgramChange="79"/>
+          <Patch Number="80"  Name="MATCH CRUNCH"  ProgramChange="80"/>
+          <Patch Number="81"  Name="TWIN UNI-V"  ProgramChange="81"/>
+          <Patch Number="82"  Name="CRUNCHY MS"  ProgramChange="82"/>
+          <Patch Number="83"  Name="AUSTIN BOOGIE"  ProgramChange="83"/>
+          <Patch Number="84"  Name="FRETLESS CRUNCH"  ProgramChange="84"/>
+          <Patch Number="85"  Name="RINGMOD ECHO"  ProgramChange="85"/>
+          <Patch Number="86"  Name="FRETLESS ECHO"  ProgramChange="86"/>
+          <Patch Number="87"  Name="PANNING TREMOLO"  ProgramChange="87"/>
+          <Patch Number="88"  Name="70'S FUNK WAH"  ProgramChange="88"/>
+          <Patch Number="89"  Name="CLEAN PHASER"  ProgramChange="89"/>
+          <Patch Number="90"  Name="TW CLEAN FLANGER"  ProgramChange="90"/>
+          <Patch Number="91"  Name="CLASSIC JC"  ProgramChange="91"/>
+          <Patch Number="92"  Name="CLEAN CRY"  ProgramChange="92"/>
+          <Patch Number="93"  Name="ACOUTSIC+JC-120"  ProgramChange="93"/>
+          <Patch Number="94"  Name="NICE CLEAN"  ProgramChange="94"/>
+          <Patch Number="95"  Name="SPACE ECHO"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Ac GUITAR"  ProgramChange="96"/>
+          <Patch Number="97"  Name="JC CLEAN ->LEAD"  ProgramChange="97"/>
+          <Patch Number="98"  Name="FAT CLEAN"  ProgramChange="98"/>
+          <Patch Number="99"  Name="'60s ECHO LEAD"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Boss GT-6 Bank 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="TUBE STACK"  ProgramChange="0"/>
+          <Patch Number="1"  Name="CLEAN JC-120"  ProgramChange="1"/>
+          <Patch Number="2"  Name="COUNTRY CRUNCH"  ProgramChange="2"/>
+          <Patch Number="3"  Name="MS1959 LEAD"  ProgramChange="3"/>
+          <Patch Number="4"  Name="3-STACK DRIVE"  ProgramChange="4"/>
+          <Patch Number="5"  Name="SPACY CLEAN"  ProgramChange="5"/>
+          <Patch Number="6"  Name="MS1959 CRUNCH"  ProgramChange="6"/>
+          <Patch Number="7"  Name="UNI-V FUZZ"  ProgramChange="7"/>
+          <Patch Number="8"  Name="TURBO OD LEAD"  ProgramChange="8"/>
+          <Patch Number="9"  Name="MILD FRETLESS Gt"  ProgramChange="9"/>
+          <Patch Number="10"  Name="VINTAGE OD-1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="TWEED LEAD"  ProgramChange="11"/>
+          <Patch Number="12"  Name="HI GAIN BOOSTER"  ProgramChange="12"/>
+          <Patch Number="13"  Name="7 STRING LEAD"  ProgramChange="13"/>
+          <Patch Number="14"  Name="BLUES DRIVE"  ProgramChange="14"/>
+          <Patch Number="15"  Name="70'S FUNK WAH"  ProgramChange="15"/>
+          <Patch Number="16"  Name="7 STRING OCTAVE"  ProgramChange="16"/>
+          <Patch Number="17"  Name="HI GAIN LEAD"  ProgramChange="17"/>
+          <Patch Number="18"  Name="CRUNCH COMBO"  ProgramChange="18"/>
+          <Patch Number="19"  Name="METAL PAN"  ProgramChange="19"/>
+          <Patch Number="20"  Name="FUZZ STACK"  ProgramChange="20"/>
+          <Patch Number="21"  Name="PEDAL BEND OD"  ProgramChange="21"/>
+          <Patch Number="22"  Name="OD-1 + VO DRIVE"  ProgramChange="22"/>
+          <Patch Number="23"  Name="CLEAN PHASER"  ProgramChange="23"/>
+          <Patch Number="24"  Name="FINGER TAP"  ProgramChange="24"/>
+          <Patch Number="25"  Name="UNI-V WAH"  ProgramChange="25"/>
+          <Patch Number="26"  Name="VO DRIVE DELAY"  ProgramChange="26"/>
+          <Patch Number="27"  Name="SLICER &amp; DELAY"  ProgramChange="27"/>
+          <Patch Number="28"  Name="BIG R-FIER"  ProgramChange="28"/>
+          <Patch Number="29"  Name="MILD STACK"  ProgramChange="29"/>
+          <Patch Number="30"  Name="BLUES"  ProgramChange="30"/>
+          <Patch Number="31"  Name="TW CLEAN FLANGER"  ProgramChange="31"/>
+          <Patch Number="32"  Name="MS HIGH GAIN"  ProgramChange="32"/>
+          <Patch Number="33"  Name="PUREST"  ProgramChange="33"/>
+          <Patch Number="34"  Name="ANOTHER BRICK"  ProgramChange="34"/>
+          <Patch Number="35"  Name="FRETLESS GT BASS"  ProgramChange="35"/>
+          <Patch Number="36"  Name="CRYING"  ProgramChange="36"/>
+          <Patch Number="37"  Name="FUZZ + JC-120"  ProgramChange="37"/>
+          <Patch Number="38"  Name="MS CRUNCH"  ProgramChange="38"/>
+          <Patch Number="39"  Name="CLASSIC JC"  ProgramChange="39"/>
+          <Patch Number="40"  Name="HEAVY 5150"  ProgramChange="40"/>
+          <Patch Number="41"  Name="FAT WAH"  ProgramChange="41"/>
+          <Patch Number="42"  Name="GT CRUNCH"  ProgramChange="42"/>
+          <Patch Number="43"  Name="EXP SW A-RIFFinC"  ProgramChange="43"/>
+          <Patch Number="44"  Name="SUPER HI GAIN"  ProgramChange="44"/>
+          <Patch Number="45"  Name="'80S METAL"  ProgramChange="45"/>
+          <Patch Number="46"  Name="COOL CRUNCH"  ProgramChange="46"/>
+          <Patch Number="47"  Name="CLEAN CRY"  ProgramChange="47"/>
+          <Patch Number="48"  Name="R-MAN DIST"  ProgramChange="48"/>
+          <Patch Number="49"  Name="R-FIRE RED"  ProgramChange="49"/>
+          <Patch Number="50"  Name="SURF ROCK"  ProgramChange="50"/>
+          <Patch Number="51"  Name="TALKING WAH"  ProgramChange="51"/>
+          <Patch Number="52"  Name="MUFF FUZZ"  ProgramChange="52"/>
+          <Patch Number="53"  Name="For 7STRING"  ProgramChange="53"/>
+          <Patch Number="54"  Name="FAT&amp;ROOM MATCH"  ProgramChange="54"/>
+          <Patch Number="55"  Name="ACOUSTIC+JC-120"  ProgramChange="55"/>
+          <Patch Number="56"  Name="HiGain MS Backin"  ProgramChange="56"/>
+          <Patch Number="57"  Name="SOUND ON SOUND"  ProgramChange="57"/>
+          <Patch Number="58"  Name="'70s Punk"  ProgramChange="58"/>
+          <Patch Number="59"  Name="ETHEREAL"  ProgramChange="59"/>
+          <Patch Number="60"  Name="METAL ZONE"  ProgramChange="60"/>
+          <Patch Number="61"  Name="METAL LEAD"  ProgramChange="61"/>
+          <Patch Number="62"  Name="TREMOLO CRUNCH"  ProgramChange="62"/>
+          <Patch Number="63"  Name="NICE CLEAN"  ProgramChange="63"/>
+          <Patch Number="64"  Name="HARD DRIVE"  ProgramChange="64"/>
+          <Patch Number="65"  Name="'60s FUZZ LEAD"  ProgramChange="65"/>
+          <Patch Number="66"  Name="TIGHT TWEED"  ProgramChange="66"/>
+          <Patch Number="67"  Name="DELAY GATE"  ProgramChange="67"/>
+          <Patch Number="68"  Name="HEAVY ZONE"  ProgramChange="68"/>
+          <Patch Number="69"  Name="I Can't Get FUZZ"  ProgramChange="69"/>
+          <Patch Number="70"  Name="CRUNCH PHASE"  ProgramChange="70"/>
+          <Patch Number="71"  Name="SPACE ECHO"  ProgramChange="71"/>
+          <Patch Number="72"  Name="VO STACK"  ProgramChange="72"/>
+          <Patch Number="73"  Name="'90s MILD LEAD"  ProgramChange="73"/>
+          <Patch Number="74"  Name="1959 DRIVE LEAD"  ProgramChange="74"/>
+          <Patch Number="75"  Name="STEP PHASER"  ProgramChange="75"/>
+          <Patch Number="76"  Name="CLASIC DIST"  ProgramChange="76"/>
+          <Patch Number="77"  Name="RECT METAL"  ProgramChange="77"/>
+          <Patch Number="78"  Name="CHICKEN PICKING"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Ac GUITAR"  ProgramChange="79"/>
+          <Patch Number="80"  Name="MATCH DIST"  ProgramChange="80"/>
+          <Patch Number="81"  Name="WAH STACK"  ProgramChange="81"/>
+          <Patch Number="82"  Name="BASIC CRUNCH"  ProgramChange="82"/>
+          <Patch Number="83"  Name="SLOW GEAR"  ProgramChange="83"/>
+          <Patch Number="84"  Name="STACK DISTORTION"  ProgramChange="84"/>
+          <Patch Number="85"  Name="AUTO LICKER"  ProgramChange="85"/>
+          <Patch Number="86"  Name="BLUES LEAD"  ProgramChange="86"/>
+          <Patch Number="87"  Name="JC CLEAN->LEAD"  ProgramChange="87"/>
+          <Patch Number="88"  Name="R-FIER METAL"  ProgramChange="88"/>
+          <Patch Number="89"  Name="RING MOD DRIVE"  ProgramChange="89"/>
+          <Patch Number="90"  Name="PEDAL UNI-V"  ProgramChange="90"/>
+          <Patch Number="91"  Name="SLICE &amp; FILTER"  ProgramChange="91"/>
+          <Patch Number="92"  Name="WILD DRIVE"  ProgramChange="92"/>
+          <Patch Number="93"  Name="OCT FUZZ"  ProgramChange="93"/>
+          <Patch Number="94"  Name="GOOD JAZZ LEAD"  ProgramChange="94"/>
+          <Patch Number="95"  Name="FAT CLEAN"  ProgramChange="95"/>
+          <Patch Number="96"  Name="MS SCOOP"  ProgramChange="96"/>
+          <Patch Number="97"  Name="WAH CYCLE"  ProgramChange="97"/>
+          <Patch Number="98"  Name="ONESHOT RIFF"  ProgramChange="98"/>
+          <Patch Number="99"  Name="PEDAL BEND"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>Boss-DR-770</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Boss DR-770">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="01 Standard"  ProgramChange="0"/>
+          <Patch Number="8"  Name="02 Room 1"  ProgramChange="8"/>
+          <Patch Number="16"  Name="03 Power 1"  ProgramChange="16"/>
+          <Patch Number="24"  Name="04 Elctro1"  ProgramChange="24"/>
+          <Patch Number="25"  Name="05 TR808 1"  ProgramChange="25"/>
+          <Patch Number="32"  Name="06 Jazz 1"  ProgramChange="32"/>
+          <Patch Number="40"  Name="07 Brushes"  ProgramChange="40"/>
+          <Patch Number="64"  Name="08 Ambient"  ProgramChange="64"/>
+          <Patch Number="65"  Name="09 Big"  ProgramChange="65"/>
+          <Patch Number="66"  Name="10 Exprsn"  ProgramChange="66"/>
+          <Patch Number="67"  Name="11 Power 2"  ProgramChange="67"/>
+          <Patch Number="68"  Name="12 Loud"  ProgramChange="68"/>
+          <Patch Number="69"  Name="13 Studio"  ProgramChange="69"/>
+          <Patch Number="70"  Name="14 Power 3"  ProgramChange="70"/>
+          <Patch Number="71"  Name="15 TR808 2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="16 TR909"  ProgramChange="72"/>
+          <Patch Number="73"  Name="17 Dance 1"  ProgramChange="73"/>
+          <Patch Number="74"  Name="18 Rock"  ProgramChange="74"/>
+          <Patch Number="75"  Name="19 Funk 1"  ProgramChange="75"/>
+          <Patch Number="76"  Name="20 Funk 2"  ProgramChange="76"/>
+          <Patch Number="77"  Name="21 HipHop"  ProgramChange="77"/>
+          <Patch Number="78"  Name="22 House"  ProgramChange="78"/>
+          <Patch Number="79"  Name="23 DrumnBs"  ProgramChange="79"/>
+          <Patch Number="80"  Name="24 Techno"  ProgramChange="80"/>
+          <Patch Number="81"  Name="25 Brazil"  ProgramChange="81"/>
+          <Patch Number="82"  Name="26 India"  ProgramChange="82"/>
+          <Patch Number="83"  Name="27 Room 2"  ProgramChange="83"/>
+          <Patch Number="84"  Name="28 Room 3"  ProgramChange="84"/>
+          <Patch Number="85"  Name="29 Fusion"  ProgramChange="85"/>
+          <Patch Number="86"  Name="30 Natural"  ProgramChange="86"/>
+          <Patch Number="87"  Name="31 Ballad"  ProgramChange="87"/>
+          <Patch Number="88"  Name="32 Groove"  ProgramChange="88"/>
+          <Patch Number="89"  Name="33 Boom"  ProgramChange="89"/>
+          <Patch Number="90"  Name="34 Jazz 2"  ProgramChange="90"/>
+          <Patch Number="91"  Name="35 Afro 1"  ProgramChange="91"/>
+          <Patch Number="92"  Name="36 HvyFunk"  ProgramChange="92"/>
+          <Patch Number="93"  Name="37 Folk"  ProgramChange="93"/>
+          <Patch Number="94"  Name="38 StdLyr"  ProgramChange="94"/>
+          <Patch Number="95"  Name="39 Blues"  ProgramChange="95"/>
+          <Patch Number="96"  Name="40 Gospel"  ProgramChange="96"/>
+          <Patch Number="97"  Name="41 Jazz 3"  ProgramChange="97"/>
+          <Patch Number="98"  Name="42 BigFunk"  ProgramChange="98"/>
+          <Patch Number="99"  Name="43 Samba"  ProgramChange="99"/>
+          <Patch Number="100"  Name="44 Reggae"  ProgramChange="100"/>
+          <Patch Number="101"  Name="45 Salsa"  ProgramChange="101"/>
+          <Patch Number="102"  Name="46 Tabla"  ProgramChange="102"/>
+          <Patch Number="103"  Name="47 Elctro2"  ProgramChange="103"/>
+          <Patch Number="104"  Name="48 Vintage"  ProgramChange="104"/>
+          <Patch Number="105"  Name="49 Ring"  ProgramChange="105"/>
+          <Patch Number="106"  Name="50 Light"  ProgramChange="106"/>
+          <Patch Number="107"  Name="51 Afro 2"  ProgramChange="107"/>
+          <Patch Number="108"  Name="52 Dance 2"  ProgramChange="108"/>
+          <Patch Number="109"  Name="53 Delay"  ProgramChange="109"/>
+          <Patch Number="110"  Name="54 FlngDly"  ProgramChange="110"/>
+          <Patch Number="111"  Name="55 Drm&amp;Prc"  ProgramChange="111"/>
+          <Patch Number="112"  Name="56 SFX"  ProgramChange="112"/>
+          <Patch Number="113"  Name="57 CtryBas"  ProgramChange="113"/>
+          <Patch Number="114"  Name="58 SmbaBas"  ProgramChange="114"/>
+          <Patch Number="115"  Name="59 BluzBas"  ProgramChange="115"/>
+          <Patch Number="116"  Name="60 RockBas"  ProgramChange="116"/>
+          <Patch Number="117"  Name="61 FunkBas"  ProgramChange="117"/>
+          <Patch Number="118"  Name="62 BrshBas"  ProgramChange="118"/>
+          <Patch Number="119"  Name="63 SynBass"  ProgramChange="119"/>
+          <Patch Number="120"  Name="64 AcoBass"  ProgramChange="120"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

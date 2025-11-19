@@ -1,0 +1,1882 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>Boss-DR-660</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="BOSS DR-660">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Standard(0)"  ProgramChange="0"/>
+          <Patch Number="1"  Name="1"  ProgramChange="1"/>
+          <Patch Number="8"  Name="Room(1)"  ProgramChange="8"/>
+          <Patch Number="16"  Name="Power 1(2)"  ProgramChange="16"/>
+          <Patch Number="24"  Name="Electronic(3)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="TR808(4)"  ProgramChange="25"/>
+          <Patch Number="32"  Name="Jazz 1(5)"  ProgramChange="32"/>
+          <Patch Number="40"  Name="Brush 1(6)"  ProgramChange="40"/>
+          <Patch Number="64"  Name="Ambient(Layer)(7)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="BigGym(Layer)(8)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Cheap(9)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Pop(Layer)(10)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Huper(Layer)(11)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Dance 1(12)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Dance 2(13)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Dance 3(14)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Power 2(15)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Power 3(16)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Perc 1(17)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Perc 2(18)"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Perc 3(19)"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Reggae(20)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Light(21)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="FX(22)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="TR909(23)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Jazz 2(24)"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Brush 2(25)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Slap Bs(26)"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Syn Bs(27)"  ProgramChange="84"/>
+          <Patch Number="85"  Name="X fade(28)"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Chorus(29)"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Delay(30)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Vrb &amp; Dly(31)"  ProgramChange="88"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=reverb solid kick"/>
+     <Note Number="36"  Name="6=punch kick"/>
+     <Note Number="37"  Name="7=ambient side kick"/>
+     <Note Number="38"  Name="8=attack snare"/>
+     <Note Number="39"  Name="9=dance clap"/>
+     <Note Number="40"  Name="0=splatter snare"/>
+     <Note Number="41"  Name="1=rock tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=rock tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=rock tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=rock tom 2"/>
+     <Note Number="48"  Name="8=rock tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=rock tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=kick ambience"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=OFF"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=OFF"/>
+     <Note Number="61"  Name="1=snare ambience"/>
+     <Note Number="62"  Name="2=snare ambience"/>
+     <Note Number="63"  Name="3=OFF"/>
+     <Note Number="64"  Name="4=OFF"/>
+     <Note Number="65"  Name="5=OFF"/>
+     <Note Number="66"  Name="6=OFF"/>
+     <Note Number="67"  Name="7=tom ambience"/>
+     <Note Number="68"  Name="8=tom ambience"/>
+     <Note Number="69"  Name="9=OFF"/>
+     <Note Number="70"  Name="0=OFF"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=tom ambience"/>
+     <Note Number="74"  Name="4=tom ambience"/>
+     <Note Number="75"  Name="5=OFF"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=mondo deep kick"/>
+     <Note Number="36"  Name="6=deep reverb kick"/>
+     <Note Number="37"  Name="7=hall side stick"/>
+     <Note Number="38"  Name="8=rock snare 1"/>
+     <Note Number="39"  Name="9=reverb clap"/>
+     <Note Number="40"  Name="0=big shot snare"/>
+     <Note Number="41"  Name="1=dry tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=dry tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=dry tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=dry tom 2"/>
+     <Note Number="48"  Name="8=dry tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=dry tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=kick ambience"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=agogo"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=OFF"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=OFF"/>
+     <Note Number="61"  Name="1=snare ambience"/>
+     <Note Number="62"  Name="2=long reverb"/>
+     <Note Number="63"  Name="3=OFF"/>
+     <Note Number="64"  Name="4=OFF"/>
+     <Note Number="65"  Name="5=OFF"/>
+     <Note Number="66"  Name="6=OFF"/>
+     <Note Number="67"  Name="7=tom ambience"/>
+     <Note Number="68"  Name="8=tom ambience"/>
+     <Note Number="69"  Name="9=OFF"/>
+     <Note Number="70"  Name="0=OFF"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=tom ambience"/>
+     <Note Number="74"  Name="4=tom ambience"/>
+     <Note Number="75"  Name="5=OFF"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=real kick"/>
+     <Note Number="36"  Name="6=soft acoustic kick"/>
+     <Note Number="37"  Name="7=ambient side kick"/>
+     <Note Number="38"  Name="8=brush swish snare"/>
+     <Note Number="39"  Name="9=brush slap snare 1"/>
+     <Note Number="40"  Name="0=brush roll snare 2"/>
+     <Note Number="41"  Name="1=brush slap tom 4"/>
+     <Note Number="42"  Name="2=brush closed hi-hat"/>
+     <Note Number="43"  Name="3=brush slap tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=brush slap tom 3"/>
+     <Note Number="46"  Name="6=brush open hi-hat"/>
+     <Note Number="47"  Name="7=brush slap tom 2"/>
+     <Note Number="48"  Name="8=brush slap tom 2"/>
+     <Note Number="49"  Name="9=brush ride cymbal"/>
+     <Note Number="50"  Name="0=brush slap tom 1"/>
+     <Note Number="51"  Name="1=brush ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=brush ride cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=brush ride cymbal"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=brush ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=real kick"/>
+     <Note Number="36"  Name="6=soft acoustic kick"/>
+     <Note Number="37"  Name="7=brush roll snare 2"/>
+     <Note Number="38"  Name="8=brush swish snare"/>
+     <Note Number="39"  Name="9=brush slap snare 1"/>
+     <Note Number="40"  Name="0=brush roll snare 2"/>
+     <Note Number="41"  Name="1=brush slap tom 4"/>
+     <Note Number="42"  Name="2=brush closed hi-hat"/>
+     <Note Number="43"  Name="3=brush slap tom 3"/>
+     <Note Number="44"  Name="4=brush roll snare 1"/>
+     <Note Number="45"  Name="5=brush slap tom 3"/>
+     <Note Number="46"  Name="6=brush open hi-hat"/>
+     <Note Number="47"  Name="7=brush slap tom 2"/>
+     <Note Number="48"  Name="8=brush slap tom 2"/>
+     <Note Number="49"  Name="9=brush slap snare 2"/>
+     <Note Number="50"  Name="0=brush slap tom 1"/>
+     <Note Number="51"  Name="1=brush ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=brush ride cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=brush slap snare 3"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=brush ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=shell kick"/>
+     <Note Number="36"  Name="6=TR-909 hard kick"/>
+     <Note Number="37"  Name="7=metal side stick"/>
+     <Note Number="38"  Name="8=tiny snare"/>
+     <Note Number="39"  Name="9=snaps"/>
+     <Note Number="40"  Name="0=TR-909 ring snare"/>
+     <Note Number="41"  Name="1=FX noise"/>
+     <Note Number="42"  Name="2=CR-78 closed hi-hat"/>
+     <Note Number="43"  Name="3=FX noise"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=FX noise"/>
+     <Note Number="46"  Name="6=CR-78 open hi-hat"/>
+     <Note Number="47"  Name="7=FX noise"/>
+     <Note Number="48"  Name="8=FX noise"/>
+     <Note Number="49"  Name="9=CR-78 open hi-hat"/>
+     <Note Number="50"  Name="0=FX noise"/>
+     <Note Number="51"  Name="1=TR-808 open hi-hat"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=TR-808 open hi-hat"/>
+     <Note Number="54"  Name="4=CR-78 tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=CR-78 cowbell"/>
+     <Note Number="57"  Name="7=CR-78 open hi-hat"/>
+     <Note Number="58"  Name="8=uut?"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=TR-808 conga"/>
+     <Note Number="63"  Name="3=TR-808 conga"/>
+     <Note Number="64"  Name="4=TR-808 conga"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=TR-808 cowbell"/>
+     <Note Number="68"  Name="8=TR-808 cowbell"/>
+     <Note Number="69"  Name="9=TR-808 maracas"/>
+     <Note Number="70"  Name="0=CR-78 maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=CR-78 guiro"/>
+     <Note Number="74"  Name="4=CR-78 guiro"/>
+     <Note Number="75"  Name="5=DR-55 claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=electronic kick 2"/>
+     <Note Number="36"  Name="6=electronic kick 1"/>
+     <Note Number="37"  Name="7=metal side stick"/>
+     <Note Number="38"  Name="8=electronic snare 1"/>
+     <Note Number="39"  Name="9=FX shot"/>
+     <Note Number="40"  Name="0=electronic snare 2"/>
+     <Note Number="41"  Name="1=electronic tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=electronic tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=electronic tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=electronic tom 2"/>
+     <Note Number="48"  Name="8=electronic tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=electronic tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 3"/>
+     <Note Number="30"  Name="0=scratch 4"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=techno kick"/>
+     <Note Number="36"  Name="6=dance kick"/>
+     <Note Number="37"  Name="7=digital snare"/>
+     <Note Number="38"  Name="8=dance snare"/>
+     <Note Number="39"  Name="9=reverb clap"/>
+     <Note Number="40"  Name="0=disco snare"/>
+     <Note Number="41"  Name="1=reverse reverb"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=ambient tom 3"/>
+     <Note Number="44"  Name="4=hall castanets"/>
+     <Note Number="45"  Name="5=glass shot"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=ambient tom 2"/>
+     <Note Number="48"  Name="8=scratch 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=scratch 1"/>
+     <Note Number="51"  Name="1=hi-Q"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=reverse ambience"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=noise snare"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=TR-808 acoustic kick"/>
+     <Note Number="36"  Name="6=rap kick"/>
+     <Note Number="37"  Name="7=swing snare"/>
+     <Note Number="38"  Name="8=dopin' snare"/>
+     <Note Number="39"  Name="9=TR-808 hand clap"/>
+     <Note Number="40"  Name="0=house dopin' snare"/>
+     <Note Number="41"  Name="1=light shot"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=light tom 3"/>
+     <Note Number="44"  Name="4=FX shot"/>
+     <Note Number="45"  Name="5=dance clap"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=light tom 2"/>
+     <Note Number="48"  Name="8=scratch 4"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=scratch 3"/>
+     <Note Number="51"  Name="1=TR-808 cowbell"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=uut?"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=long reverb"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=tight kick"/>
+     <Note Number="36"  Name="6=house kick"/>
+     <Note Number="37"  Name="7=house snare 3"/>
+     <Note Number="38"  Name="8=house snare 1"/>
+     <Note Number="39"  Name="9=house snare 2"/>
+     <Note Number="40"  Name="0=TR-808 hand clap"/>
+     <Note Number="41"  Name="1=rim tom 4"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=rim tom 3"/>
+     <Note Number="44"  Name="4=CR-78 tambourine"/>
+     <Note Number="45"  Name="5=rim tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=rim tom 2"/>
+     <Note Number="48"  Name="8=rim tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=rim tom 1"/>
+     <Note Number="51"  Name="1=chink"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=reverse castanets"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=reverse cymbal"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=dry kick 2"/>
+     <Note Number="36"  Name="6=hard acoustic kick"/>
+     <Note Number="37"  Name="7=metal side stick"/>
+     <Note Number="38"  Name="8=light snare 1"/>
+     <Note Number="39"  Name="9=house snare 2"/>
+     <Note Number="40"  Name="0=light snare 2"/>
+     <Note Number="41"  Name="1=light tom 4"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=light tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=light tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=light tom 2"/>
+     <Note Number="48"  Name="8=light tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=light tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=agogo"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=electronic kick 2"/>
+     <Note Number="36"  Name="6=electronic kick 1"/>
+     <Note Number="37"  Name="7=metal side kick"/>
+     <Note Number="38"  Name="8=electronic snare 1"/>
+     <Note Number="39"  Name="9=FX shot"/>
+     <Note Number="40"  Name="0=electronic snare 2"/>
+     <Note Number="41"  Name="1=electronic tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=electronic tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=electronic tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=electronic tom 2"/>
+     <Note Number="48"  Name="8=electronic tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=electronic tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=reverse ambience"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=dull kick"/>
+     <Note Number="36"  Name="6=door kick"/>
+     <Note Number="37"  Name="7=sticks"/>
+     <Note Number="38"  Name="8=FX snare"/>
+     <Note Number="39"  Name="9=reverb clap"/>
+     <Note Number="40"  Name="0=glass snare"/>
+     <Note Number="41"  Name="1=electronic snare 1"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=electronic snare 1"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=electronic snare 1"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=electronic snare 1"/>
+     <Note Number="48"  Name="8=electronic snare 1"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=electronic snare 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=hall castanets"/>
+     <Note Number="57"  Name="7=reverse cymbal"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=chink"/>
+     <Note Number="63"  Name="3=light shot"/>
+     <Note Number="64"  Name="4=glass shot"/>
+     <Note Number="65"  Name="5=scratch 4"/>
+     <Note Number="66"  Name="6=scratch 3"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=CR-78 tambourine"/>
+     <Note Number="70"  Name="0=CR-78 guiro"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=CR-78 cowbell"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=ambient kick"/>
+     <Note Number="36"  Name="6=TR-808 electronic kick"/>
+     <Note Number="37"  Name="7=ambient side stick"/>
+     <Note Number="38"  Name="8=super light snare"/>
+     <Note Number="39"  Name="9=TR-808 hand clap"/>
+     <Note Number="40"  Name="0=radio snare"/>
+     <Note Number="41"  Name="1=rim tom 4"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=rim tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=rim tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=rim tom 2"/>
+     <Note Number="48"  Name="8=rim tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=rim tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=agogo"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=OFF"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=light snare 2"/>
+     <Note Number="61"  Name="1=huge snare"/>
+     <Note Number="62"  Name="2=reverb shot"/>
+     <Note Number="63"  Name="3=OFF"/>
+     <Note Number="64"  Name="4=chink"/>
+     <Note Number="65"  Name="5=OFF"/>
+     <Note Number="66"  Name="6=OFF"/>
+     <Note Number="67"  Name="7=snare ambience"/>
+     <Note Number="68"  Name="8=snare ambience"/>
+     <Note Number="69"  Name="9=OFF"/>
+     <Note Number="70"  Name="0=OFF"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=snare ambience"/>
+     <Note Number="74"  Name="4=snare ambience"/>
+     <Note Number="75"  Name="5=OFF"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=soft acoustic kick 1"/>
+     <Note Number="36"  Name="6=real kick"/>
+     <Note Number="37"  Name="7=ambient side kick"/>
+     <Note Number="38"  Name="8=loose snare"/>
+     <Note Number="39"  Name="9=TR-808 hand clap"/>
+     <Note Number="40"  Name="0=ring snare"/>
+     <Note Number="41"  Name="1=dry tom 4"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=dry tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=dry tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=dry tom 2"/>
+     <Note Number="48"  Name="8=dry tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=dry tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=soft acoustic kick 1"/>
+     <Note Number="36"  Name="6=wood kick"/>
+     <Note Number="37"  Name="7=ambient side kick"/>
+     <Note Number="38"  Name="8=piccolo snare 3"/>
+     <Note Number="39"  Name="9=TR-808 hand clap"/>
+     <Note Number="40"  Name="0=piccolo snare 2"/>
+     <Note Number="41"  Name="1=dry tom 4"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=dry tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=dry tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=dry tom 2"/>
+     <Note Number="48"  Name="8=dry tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=dry tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=dry kick 2"/>
+     <Note Number="36"  Name="6=hard acoustic kick"/>
+     <Note Number="37"  Name="7=metal side stick"/>
+     <Note Number="38"  Name="8=light snare 1"/>
+     <Note Number="39"  Name="9=house snare 2"/>
+     <Note Number="40"  Name="0=light snare 2"/>
+     <Note Number="41"  Name="1=light tom 4"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=light tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=light tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=light tom 2"/>
+     <Note Number="48"  Name="8=light tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=light tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=agogo"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=pillow kick"/>
+     <Note Number="36"  Name="6=hybrid kick"/>
+     <Note Number="37"  Name="7=ambient side kick"/>
+     <Note Number="38"  Name="8=piccolo snare 1"/>
+     <Note Number="39"  Name="9=TR-808 hand clap"/>
+     <Note Number="40"  Name="0=thin snare"/>
+     <Note Number="41"  Name="1=real tom 4"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=real tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=real tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=real tom 2"/>
+     <Note Number="48"  Name="8=real tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=real tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=cabasa down"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=sleigh bell"/>
+     <Note Number="77"  Name="7=conga high slap"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=boing solid kick"/>
+     <Note Number="36"  Name="6=attack kick"/>
+     <Note Number="37"  Name="7=hall side ctick"/>
+     <Note Number="38"  Name="8=rock snare 2"/>
+     <Note Number="39"  Name="9=dance clap"/>
+     <Note Number="40"  Name="0=rock power snare"/>
+     <Note Number="41"  Name="1=room tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=room tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=room tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=room tom 2"/>
+     <Note Number="48"  Name="8=room tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=room tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=shaker"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=CR-78 tambourine"/>
+     <Note Number="30"  Name="0=TR-808 cowbell"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=TR-808 acoustic kick"/>
+     <Note Number="36"  Name="6=TR-808 gate kick"/>
+     <Note Number="37"  Name="7=TR-808 side kick"/>
+     <Note Number="38"  Name="8=bright snare"/>
+     <Note Number="39"  Name="9=TR-808 hand clap"/>
+     <Note Number="40"  Name="0=TR-909 light snare"/>
+     <Note Number="41"  Name="1=TR-808 tom"/>
+     <Note Number="42"  Name="2=TR-808 closed hi-hat"/>
+     <Note Number="43"  Name="3=TR-808 tom"/>
+     <Note Number="44"  Name="4=TR-808 closed hi-hat"/>
+     <Note Number="45"  Name="5=TR-808 tom"/>
+     <Note Number="46"  Name="6=TR-808 open hi-hat"/>
+     <Note Number="47"  Name="7=TR-808 tom"/>
+     <Note Number="48"  Name="8=TR-808 tom"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=TR-808 tom"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=CR-78 tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=TR-808 cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=TR-808 conga"/>
+     <Note Number="63"  Name="3=TR-808 conga"/>
+     <Note Number="64"  Name="4=TR-808 conga"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=TR-808 maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=CR-78 guiro"/>
+     <Note Number="74"  Name="4=CR-78 guiro"/>
+     <Note Number="75"  Name="5=TR-808 claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=dance kick"/>
+     <Note Number="36"  Name="6=bright kick"/>
+     <Note Number="37"  Name="7=ambient side stick"/>
+     <Note Number="38"  Name="8=real snare 1"/>
+     <Note Number="39"  Name="9=TR-808 hand clap"/>
+     <Note Number="40"  Name="0=super whack snare"/>
+     <Note Number="41"  Name="1=conga low open"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=conga low open"/>
+     <Note Number="44"  Name="4=reverse ambience"/>
+     <Note Number="45"  Name="5=conga low open"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=conga low open"/>
+     <Note Number="48"  Name="8=conga low open"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=conga low open"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=FX noise"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=TR-808 cowbell"/>
+     <Note Number="57"  Name="7=reverse cymbal"/>
+     <Note Number="58"  Name="8=OFF"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=hall castanets"/>
+     <Note Number="61"  Name="1=light shot"/>
+     <Note Number="62"  Name="2=tambourine"/>
+     <Note Number="63"  Name="3=OFF"/>
+     <Note Number="64"  Name="4=TR-808 cowbell"/>
+     <Note Number="65"  Name="5=OFF"/>
+     <Note Number="66"  Name="6=OFF"/>
+     <Note Number="67"  Name="7=conga low open"/>
+     <Note Number="68"  Name="8=conga low open"/>
+     <Note Number="69"  Name="9=OFF"/>
+     <Note Number="70"  Name="0=OFF"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=conga low open"/>
+     <Note Number="74"  Name="4=conga low open"/>
+     <Note Number="75"  Name="5=OFF"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=smash kick"/>
+     <Note Number="36"  Name="6=mondo kick"/>
+     <Note Number="37"  Name="7=ambient side kick"/>
+     <Note Number="38"  Name="8=grab snare"/>
+     <Note Number="39"  Name="9=reverb clap"/>
+     <Note Number="40"  Name="0=cruddy snare"/>
+     <Note Number="41"  Name="1=ambient tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=ambient tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=ambient tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=ambient tom 2"/>
+     <Note Number="48"  Name="8=ambient tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=ambient tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=door kick"/>
+     <Note Number="36"  Name="6=delay kick"/>
+     <Note Number="37"  Name="7=ambient side stick"/>
+     <Note Number="38"  Name="8=trash snare"/>
+     <Note Number="39"  Name="9=glass shot"/>
+     <Note Number="40"  Name="0=breath snare"/>
+     <Note Number="41"  Name="1=boosh tom low"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=boosh tom low"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=boosh tom low"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=boosh tom high"/>
+     <Note Number="48"  Name="8=boosh tom high"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=boosh tom high"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=hi-Q"/>
+     <Note Number="29"  Name="9=bongo high"/>
+     <Note Number="30"  Name="0=bongo low"/>
+     <Note Number="31"  Name="1=dance clap"/>
+     <Note Number="32"  Name="2=vibra-slap"/>
+     <Note Number="33"  Name="3=timbale"/>
+     <Note Number="34"  Name="4=timbale"/>
+     <Note Number="35"  Name="5=tambourine"/>
+     <Note Number="36"  Name="6=room kick 2"/>
+     <Note Number="37"  Name="7=ambient side stick"/>
+     <Note Number="38"  Name="8=rockin' snare"/>
+     <Note Number="39"  Name="9=super whack snare"/>
+     <Note Number="40"  Name="0=conga high mute"/>
+     <Note Number="41"  Name="1=room tom 3"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=scratch 1"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=room tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=scratch 2"/>
+     <Note Number="48"  Name="8=room tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=room tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=sticks"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=agogo"/>
+     <Note Number="55"  Name="5=DR-55 claves"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=CR-78 metallic beat"/>
+     <Note Number="59"  Name="9=CR-78 metallic beat"/>
+     <Note Number="60"  Name="0=deep reverb kick"/>
+     <Note Number="61"  Name="1=TR-808 hand clap"/>
+     <Note Number="62"  Name="2=agogo"/>
+     <Note Number="63"  Name="3=guiro short"/>
+     <Note Number="64"  Name="4=guiro long"/>
+     <Note Number="65"  Name="5=room tom 3"/>
+     <Note Number="66"  Name="6=room tom 2"/>
+     <Note Number="67"  Name="7=chinese cymbal"/>
+     <Note Number="68"  Name="8=splash cymbal"/>
+     <Note Number="69"  Name="9=ride cymbal"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=conga high open"/>
+     <Note Number="74"  Name="4=conga low open"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=tight kick"/>
+     <Note Number="36"  Name="6=hard acoustic kick"/>
+     <Note Number="37"  Name="7=ambient side stick"/>
+     <Note Number="38"  Name="8=reggae snare 1"/>
+     <Note Number="39"  Name="9=house snare 2"/>
+     <Note Number="40"  Name="0=TR-808 hand clap"/>
+     <Note Number="41"  Name="1=rim tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=rim tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=rim tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=rim tom 2"/>
+     <Note Number="48"  Name="8=rim tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=rim tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=deep reverb kick"/>
+     <Note Number="36"  Name="6=room kick 1"/>
+     <Note Number="37"  Name="7=hall side kick"/>
+     <Note Number="38"  Name="8=rock snare 1"/>
+     <Note Number="39"  Name="9=dance clap"/>
+     <Note Number="40"  Name="0=nasty snare"/>
+     <Note Number="41"  Name="1=room tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=room tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=room tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=room tom 2"/>
+     <Note Number="48"  Name="8=room tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=room tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=tight kick"/>
+     <Note Number="36"  Name="6=solid kick"/>
+     <Note Number="37"  Name="7=ambient side kick"/>
+     <Note Number="38"  Name="8=nasty snare"/>
+     <Note Number="39"  Name="9=dance clap"/>
+     <Note Number="40"  Name="0=rock rim shot snare"/>
+     <Note Number="41"  Name="1=rock tom 4"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=rock tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=rock tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=rock tom 2"/>
+     <Note Number="48"  Name="8=rock tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=rock tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=kick ambience"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=slap bass"/>
+     <Note Number="65"  Name="5=slap bass"/>
+     <Note Number="66"  Name="6=slap bass"/>
+     <Note Number="67"  Name="7=slap bass"/>
+     <Note Number="68"  Name="8=slap bass"/>
+     <Note Number="69"  Name="9=slap bass"/>
+     <Note Number="70"  Name="0=slap bass"/>
+     <Note Number="71"  Name="1=slap bass"/>
+     <Note Number="72"  Name="2=slap bass"/>
+     <Note Number="73"  Name="3=slap bass"/>
+     <Note Number="74"  Name="4=slap bass"/>
+     <Note Number="75"  Name="5=slap bass"/>
+     <Note Number="76"  Name="6=slap bass"/>
+     <Note Number="77"  Name="7=slap bass"/>
+     <Note Number="78"  Name="8=slap bass"/>
+     <Note Number="79"  Name="9=slap bass"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=dry kick 1"/>
+     <Note Number="36"  Name="6=dry kick 2"/>
+     <Note Number="37"  Name="7=ambient side kick"/>
+     <Note Number="38"  Name="8=L.A. fat snare"/>
+     <Note Number="39"  Name="9=TR-808 hand clap"/>
+     <Note Number="40"  Name="0=real snare 1"/>
+     <Note Number="41"  Name="1=real tom 4"/>
+     <Note Number="42"  Name="2=pop closed hi-hat"/>
+     <Note Number="43"  Name="3=real tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=real tom 3"/>
+     <Note Number="46"  Name="6=pop open hi-hat"/>
+     <Note Number="47"  Name="7=real tom 2"/>
+     <Note Number="48"  Name="8=real tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=real tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=conga low open"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=guiro short"/>
+     <Note Number="74"  Name="4=guiro long"/>
+     <Note Number="75"  Name="5=claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=thud kick"/>
+     <Note Number="36"  Name="6=TR-909 hard kick"/>
+     <Note Number="37"  Name="7=light shot"/>
+     <Note Number="38"  Name="8=TR-909 snare"/>
+     <Note Number="39"  Name="9=dance clap"/>
+     <Note Number="40"  Name="0=90's snare"/>
+     <Note Number="41"  Name="1=ambient tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=ambient tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=ambient tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=ambient tom 2"/>
+     <Note Number="48"  Name="8=ambient tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=ambient tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=kick ambience"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=TR-808 cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=conga high mute"/>
+     <Note Number="63"  Name="3=conga high open"/>
+     <Note Number="64"  Name="4=Syn bass"/>
+     <Note Number="65"  Name="5=Syn bass"/>
+     <Note Number="66"  Name="6=Syn bass"/>
+     <Note Number="67"  Name="7=Syn bass"/>
+     <Note Number="68"  Name="8=Syn bass"/>
+     <Note Number="69"  Name="9=Syn bass"/>
+     <Note Number="70"  Name="0=Syn bass"/>
+     <Note Number="71"  Name="1=Syn bass"/>
+     <Note Number="72"  Name="2=Syn bass"/>
+     <Note Number="73"  Name="3=Syn bass"/>
+     <Note Number="74"  Name="4=Syn bass"/>
+     <Note Number="75"  Name="5=Syn bass"/>
+     <Note Number="76"  Name="6=Syn bass"/>
+     <Note Number="77"  Name="7=Syn bass"/>
+     <Note Number="78"  Name="8=Syn bass"/>
+     <Note Number="79"  Name="9=Syn bass"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=TR-808 electronic kick"/>
+     <Note Number="36"  Name="6=TR-808 kick"/>
+     <Note Number="37"  Name="7=TR-808 side kick"/>
+     <Note Number="38"  Name="8=TR-808 snare"/>
+     <Note Number="39"  Name="9=TR-808 hand clap"/>
+     <Note Number="40"  Name="0=TR-909 light snare"/>
+     <Note Number="41"  Name="1=TR-808 tom"/>
+     <Note Number="42"  Name="2=TR-808 closed hi-hat"/>
+     <Note Number="43"  Name="3=TR-808 tom"/>
+     <Note Number="44"  Name="4=TR-808 closed hi-hat"/>
+     <Note Number="45"  Name="5=TR-808 tom"/>
+     <Note Number="46"  Name="6=TR-808 open hi-hat"/>
+     <Note Number="47"  Name="7=TR-808 tom"/>
+     <Note Number="48"  Name="8=TR-808 tom"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=TR-808 tom"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=TR-808 cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=TR-808 conga"/>
+     <Note Number="63"  Name="3=TR-808 conga"/>
+     <Note Number="64"  Name="4=TR-808 conga"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=TR-808 maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=CR-78 guiro"/>
+     <Note Number="74"  Name="4=CR-78 guiro"/>
+     <Note Number="75"  Name="5=TR-808 claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=TR-909 hard kick"/>
+     <Note Number="36"  Name="6=TR-909 kick"/>
+     <Note Number="37"  Name="7=ambient side stick"/>
+     <Note Number="38"  Name="8=TR-909 snare"/>
+     <Note Number="39"  Name="9=house snare 2"/>
+     <Note Number="40"  Name="0=TR-909 ring snare"/>
+     <Note Number="41"  Name="1=light tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=light tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=light tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=light tom 2"/>
+     <Note Number="48"  Name="8=light tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=light tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=CR-78 cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=TR-808 conga"/>
+     <Note Number="63"  Name="3=TR-808 conga"/>
+     <Note Number="64"  Name="4=TR-808 conga"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=TR-808 maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=CR-78 guiro"/>
+     <Note Number="74"  Name="4=CR-78 guiro"/>
+     <Note Number="75"  Name="5=TR-808 claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=TR-808 electronic kick"/>
+     <Note Number="36"  Name="6=TR-808 kick"/>
+     <Note Number="37"  Name="7=TR-808 side stick"/>
+     <Note Number="38"  Name="8=TR-808 snare"/>
+     <Note Number="39"  Name="9=house snare 2"/>
+     <Note Number="40"  Name="0=TR-909 light snare"/>
+     <Note Number="41"  Name="1=TR-808 tom"/>
+     <Note Number="42"  Name="2=TR-808 closed hi-hat"/>
+     <Note Number="43"  Name="3=TR-808 tom"/>
+     <Note Number="44"  Name="4=TR-808 closed hi-hat"/>
+     <Note Number="45"  Name="5=TR-808 tom"/>
+     <Note Number="46"  Name="6=TR-808 open hi-hat"/>
+     <Note Number="47"  Name="7=TR-808 tom"/>
+     <Note Number="48"  Name="8=TR-808 tom"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=TR-808 tom"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride bell cymbal"/>
+     <Note Number="54"  Name="4=tambourine"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=TR-808 cowbell"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=vibra-slap"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=bongo high"/>
+     <Note Number="61"  Name="1=bongo low"/>
+     <Note Number="62"  Name="2=TR-808 conga"/>
+     <Note Number="63"  Name="3=TR-808 conga"/>
+     <Note Number="64"  Name="4=TR-808 conga"/>
+     <Note Number="65"  Name="5=timbale"/>
+     <Note Number="66"  Name="6=timbale"/>
+     <Note Number="67"  Name="7=agogo"/>
+     <Note Number="68"  Name="8=agogo"/>
+     <Note Number="69"  Name="9=cabasa up"/>
+     <Note Number="70"  Name="0=TR-808 maracas"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=CR-78 guiro"/>
+     <Note Number="74"  Name="4=CR-78 guiro"/>
+     <Note Number="75"  Name="5=TR-808 claves"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="28"  Name="8=dance clap"/>
+     <Note Number="29"  Name="9=scratch 1"/>
+     <Note Number="30"  Name="0=scratch 2"/>
+     <Note Number="31"  Name="1=sticks"/>
+     <Note Number="32"  Name="2=DR-55 claves"/>
+     <Note Number="33"  Name="3=CR-78 cowbell"/>
+     <Note Number="34"  Name="4=CR-78 metallic beat"/>
+     <Note Number="35"  Name="5=TR-808 acoustic kick"/>
+     <Note Number="36"  Name="6=TR-909 kick"/>
+     <Note Number="37"  Name="7=ambient side stick"/>
+     <Note Number="38"  Name="8=TR-808 snare"/>
+     <Note Number="39"  Name="9=house snare 2"/>
+     <Note Number="40"  Name="0=TR-808 cowbell"/>
+     <Note Number="41"  Name="1=light tom 4"/>
+     <Note Number="42"  Name="2=real closed hi-hat"/>
+     <Note Number="43"  Name="3=light tom 3"/>
+     <Note Number="44"  Name="4=real pedal closed hi-hat"/>
+     <Note Number="45"  Name="5=light tom 3"/>
+     <Note Number="46"  Name="6=real open hi-hat"/>
+     <Note Number="47"  Name="7=light tom 2"/>
+     <Note Number="48"  Name="8=light tom 2"/>
+     <Note Number="49"  Name="9=crash cymbal 1"/>
+     <Note Number="50"  Name="0=light tom 1"/>
+     <Note Number="51"  Name="1=ride cymbal"/>
+     <Note Number="52"  Name="2=chinese cymbal"/>
+     <Note Number="53"  Name="3=ride cymbal"/>
+     <Note Number="54"  Name="4=wood kick"/>
+     <Note Number="55"  Name="5=splash cymbal"/>
+     <Note Number="56"  Name="6=chink"/>
+     <Note Number="57"  Name="7=crash cymbal 2"/>
+     <Note Number="58"  Name="8=ride cymbal"/>
+     <Note Number="59"  Name="9=ride cymbal"/>
+     <Note Number="60"  Name="0=hall side stick"/>
+     <Note Number="61"  Name="1=TR-808 cowbell"/>
+     <Note Number="62"  Name="2=reggae snare 2"/>
+     <Note Number="63"  Name="3=tambourine"/>
+     <Note Number="64"  Name="4=chink"/>
+     <Note Number="65"  Name="5=real open hi-hat"/>
+     <Note Number="66"  Name="6=metal side stick"/>
+     <Note Number="67"  Name="7=light tom 1"/>
+     <Note Number="68"  Name="8=light tom 2"/>
+     <Note Number="69"  Name="9=splash cymbal"/>
+     <Note Number="70"  Name="0=ride bell cymbal"/>
+     <Note Number="71"  Name="1=whistle short"/>
+     <Note Number="72"  Name="2=whistle long"/>
+     <Note Number="73"  Name="3=light tom 3"/>
+     <Note Number="74"  Name="4=light tom 4"/>
+     <Note Number="75"  Name="5=chinese cymbal"/>
+     <Note Number="76"  Name="6=wood block"/>
+     <Note Number="77"  Name="7=wood block"/>
+     <Note Number="78"  Name="8=cuica"/>
+     <Note Number="79"  Name="9=cuica"/>
+     <Note Number="80"  Name="0=triangle"/>
+     <Note Number="81"  Name="1=triangle"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

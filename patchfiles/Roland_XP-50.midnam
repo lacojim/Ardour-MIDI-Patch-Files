@@ -1,0 +1,1499 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>XP-50</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland XP-50 USER">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10240"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="USER:001 West Coast"  ProgramChange="0"/>
+          <Patch Number="1"  Name="USER:002 System 100m"  ProgramChange="1"/>
+          <Patch Number="2"  Name="USER:003 Dusk 2 Dawn"  ProgramChange="2"/>
+          <Patch Number="3"  Name="USER:004 Purple Spin"  ProgramChange="3"/>
+          <Patch Number="4"  Name="USER:005 Symphonique"  ProgramChange="4"/>
+          <Patch Number="5"  Name="USER:006 Dist Gtr 1"  ProgramChange="5"/>
+          <Patch Number="6"  Name="USER:007 Impact"  ProgramChange="6"/>
+          <Patch Number="7"  Name="USER:008 RandomVowels"  ProgramChange="7"/>
+          <Patch Number="8"  Name="USER:009 Raverborg"  ProgramChange="8"/>
+          <Patch Number="9"  Name="USER:010 ORBit Pad"  ProgramChange="9"/>
+          <Patch Number="10"  Name="USER:011 Bs/Pno+Brs"  ProgramChange="10"/>
+          <Patch Number="11"  Name="USER:012 Sawteeth"  ProgramChange="11"/>
+          <Patch Number="12"  Name="USER:013 Clarinet mp"  ProgramChange="12"/>
+          <Patch Number="13"  Name="USER:014 Dulcimer"  ProgramChange="13"/>
+          <Patch Number="14"  Name="USER:015 Aurora"  ProgramChange="14"/>
+          <Patch Number="15"  Name="USER:016 Nice Piano"  ProgramChange="15"/>
+          <Patch Number="16"  Name="USER:017 Heirborne"  ProgramChange="16"/>
+          <Patch Number="17"  Name="USER:018 ChamberWoods"  ProgramChange="17"/>
+          <Patch Number="18"  Name="USER:019 Raggatronic"  ProgramChange="18"/>
+          <Patch Number="19"  Name="USER:020 Crunch Split"  ProgramChange="19"/>
+          <Patch Number="20"  Name="USER:021 Mondo Bass"  ProgramChange="20"/>
+          <Patch Number="21"  Name="USER:022 LetterFrmPat"  ProgramChange="21"/>
+          <Patch Number="22"  Name="USER:023 Hilibillys"  ProgramChange="22"/>
+          <Patch Number="23"  Name="USER:024 Gospel Spin"  ProgramChange="23"/>
+          <Patch Number="24"  Name="USER:025 Biosphere"  ProgramChange="24"/>
+          <Patch Number="25"  Name="USER:026 JUNO Strings"  ProgramChange="25"/>
+          <Patch Number="26"  Name="USER:027 Tortured"  ProgramChange="26"/>
+          <Patch Number="27"  Name="USER:028 Flying Waltz"  ProgramChange="27"/>
+          <Patch Number="28"  Name="USER:029 Sop.Sax mf"  ProgramChange="28"/>
+          <Patch Number="29"  Name="USER:030 Waterhodes"  ProgramChange="29"/>
+          <Patch Number="30"  Name="USER:031 Rezoid"  ProgramChange="30"/>
+          <Patch Number="31"  Name="USER:032 JC Strat"  ProgramChange="31"/>
+          <Patch Number="32"  Name="USER:033 Blade Racer"  ProgramChange="32"/>
+          <Patch Number="33"  Name="USER:034 PWM Strings"  ProgramChange="33"/>
+          <Patch Number="34"  Name="USER:035 Slow Strings"  ProgramChange="34"/>
+          <Patch Number="35"  Name="USER:036 Alternative"  ProgramChange="35"/>
+          <Patch Number="36"  Name="USER:037 Music Bells"  ProgramChange="36"/>
+          <Patch Number="37"  Name="USER:038 Saw Mass"  ProgramChange="37"/>
+          <Patch Number="38"  Name="USER:039 Steel Away"  ProgramChange="38"/>
+          <Patch Number="39"  Name="USER:040 64voicePiano"  ProgramChange="39"/>
+          <Patch Number="40"  Name="USER:041 Velo Tekno 2"  ProgramChange="40"/>
+          <Patch Number="41"  Name="USER:042 Tone Wh.Solo"  ProgramChange="41"/>
+          <Patch Number="42"  Name="USER:043 Rotary Gtr"  ProgramChange="42"/>
+          <Patch Number="43"  Name="USER:044 JP-8Haunting"  ProgramChange="43"/>
+          <Patch Number="44"  Name="USER:045 Jz Gtr Hall"  ProgramChange="44"/>
+          <Patch Number="45"  Name="USER:046 Vanishing"  ProgramChange="45"/>
+          <Patch Number="46"  Name="USER:047 Harmonica"  ProgramChange="46"/>
+          <Patch Number="47"  Name="USER:048 Wave Bells"  ProgramChange="47"/>
+          <Patch Number="48"  Name="USER:049 Film Octaves"  ProgramChange="48"/>
+          <Patch Number="49"  Name="USER:050 Edye Boost"  ProgramChange="49"/>
+          <Patch Number="50"  Name="USER:051 AugerMentive"  ProgramChange="50"/>
+          <Patch Number="51"  Name="USER:052 JD Ghostrngs"  ProgramChange="51"/>
+          <Patch Number="52"  Name="USER:053 SA Rhodes 1"  ProgramChange="52"/>
+          <Patch Number="53"  Name="USER:054 3D Flanged"  ProgramChange="53"/>
+          <Patch Number="54"  Name="USER:055 Ac.Upright"  ProgramChange="54"/>
+          <Patch Number="55"  Name="USER:056 Poly Brass"  ProgramChange="55"/>
+          <Patch Number="56"  Name="USER:057 Dissimilate"  ProgramChange="56"/>
+          <Patch Number="57"  Name="USER:058 Stepped Pad"  ProgramChange="57"/>
+          <Patch Number="58"  Name="USER:059 Sax Section"  ProgramChange="58"/>
+          <Patch Number="59"  Name="USER:060 Albion"  ProgramChange="59"/>
+          <Patch Number="60"  Name="USER:061 St.Strings"  ProgramChange="60"/>
+          <Patch Number="61"  Name="USER:062 AmbienceVibe"  ProgramChange="61"/>
+          <Patch Number="62"  Name="USER:063 Cascade"  ProgramChange="62"/>
+          <Patch Number="63"  Name="USER:064 AltoLead Sax"  ProgramChange="63"/>
+          <Patch Number="64"  Name="USER:065 JetPad 2"  ProgramChange="64"/>
+          <Patch Number="65"  Name="USER:066 Childlike"  ProgramChange="65"/>
+          <Patch Number="66"  Name="USER:067 Taj Mahal"  ProgramChange="66"/>
+          <Patch Number="67"  Name="USER:068 D-50 Stack"  ProgramChange="67"/>
+          <Patch Number="68"  Name="USER:069 Pulse Key"  ProgramChange="68"/>
+          <Patch Number="69"  Name="USER:070 101 Bass"  ProgramChange="69"/>
+          <Patch Number="70"  Name="USER:071 Velo-Wah Gtr"  ProgramChange="70"/>
+          <Patch Number="71"  Name="USER:072 Chime Wash"  ProgramChange="71"/>
+          <Patch Number="72"  Name="USER:073 Sitar"  ProgramChange="72"/>
+          <Patch Number="73"  Name="USER:074 Big BPF"  ProgramChange="73"/>
+          <Patch Number="74"  Name="USER:075 Dunes"  ProgramChange="74"/>
+          <Patch Number="75"  Name="USER:076 Psycho Rhodes"  ProgramChange="75"/>
+          <Patch Number="76"  Name="USER:077 Bass Marimba"  ProgramChange="76"/>
+          <Patch Number="77"  Name="USER:078 MandolinTrem"  ProgramChange="77"/>
+          <Patch Number="78"  Name="USER:079 PolySaws"  ProgramChange="78"/>
+          <Patch Number="79"  Name="USER:080 Pulse Pad"  ProgramChange="79"/>
+          <Patch Number="80"  Name="USER:081 Nylon Gtr"  ProgramChange="80"/>
+          <Patch Number="81"  Name="USER:082 Majestic Tpt"  ProgramChange="81"/>
+          <Patch Number="82"  Name="USER:083 Terminate"  ProgramChange="82"/>
+          <Patch Number="83"  Name="USER:084 SquareLead 1"  ProgramChange="83"/>
+          <Patch Number="84"  Name="USER:085 House Piano"  ProgramChange="84"/>
+          <Patch Number="85"  Name="USER:086 Fooled Again"  ProgramChange="85"/>
+          <Patch Number="86"  Name="USER:087 Pick Bass"  ProgramChange="86"/>
+          <Patch Number="87"  Name="USER:088 Wide Tubular"  ProgramChange="87"/>
+          <Patch Number="88"  Name="USER:089 Velo-Rez Clv"  ProgramChange="88"/>
+          <Patch Number="89"  Name="USER:090 Delicate EP"  ProgramChange="89"/>
+          <Patch Number="90"  Name="USER:091 Velo Tekno 1"  ProgramChange="90"/>
+          <Patch Number="91"  Name="USER:092 Running Pad"  ProgramChange="91"/>
+          <Patch Number="92"  Name="USER:093 Phripphuzz"  ProgramChange="92"/>
+          <Patch Number="93"  Name="USER:094 Archimede"  ProgramChange="93"/>
+          <Patch Number="94"  Name="USER:095 Stage EGrand"  ProgramChange="94"/>
+          <Patch Number="95"  Name="USER:096 Nylon Rhodes"  ProgramChange="95"/>
+          <Patch Number="96"  Name="USER:097 Huff N Stuff"  ProgramChange="96"/>
+          <Patch Number="97"  Name="USER:098 Finger Bass"  ProgramChange="97"/>
+          <Patch Number="98"  Name="USER:099 Slow Voices"  ProgramChange="98"/>
+          <Patch Number="99"  Name="USER:100 4 HITs 4 You"  ProgramChange="99"/>
+          <Patch Number="100"  Name="USER:101 Brass Sect"  ProgramChange="100"/>
+          <Patch Number="101"  Name="USER:102 Tubular Vox"  ProgramChange="101"/>
+          <Patch Number="102"  Name="USER:103 Atmosfear"  ProgramChange="102"/>
+          <Patch Number="103"  Name="USER:104 E.Grand"  ProgramChange="103"/>
+          <Patch Number="104"  Name="USER:105 Bass In Face"  ProgramChange="104"/>
+          <Patch Number="105"  Name="USER:106 BritelowBass"  ProgramChange="105"/>
+          <Patch Number="106"  Name="USER:107 Mellow Bars"  ProgramChange="106"/>
+          <Patch Number="107"  Name="USER:108 MG Solo"  ProgramChange="107"/>
+          <Patch Number="108"  Name="USER:109 Air Lead"  ProgramChange="108"/>
+          <Patch Number="109"  Name="USER:110 Raya Shaku"  ProgramChange="109"/>
+          <Patch Number="110"  Name="USER:111 Greek Power"  ProgramChange="110"/>
+          <Patch Number="111"  Name="USER:112 Pure Tibet"  ProgramChange="111"/>
+          <Patch Number="112"  Name="USER:113 Wavin Strngs"  ProgramChange="112"/>
+          <Patch Number="113"  Name="USER:114 Chambers"  ProgramChange="113"/>
+          <Patch Number="114"  Name="USER:115 Nomad Perc"  ProgramChange="114"/>
+          <Patch Number="115"  Name="USER:116 Horn Swell"  ProgramChange="115"/>
+          <Patch Number="116"  Name="USER:117 Claviduck"  ProgramChange="116"/>
+          <Patch Number="117"  Name="USER:118 Night Shade"  ProgramChange="117"/>
+          <Patch Number="118"  Name="USER:119 VOX Flute"  ProgramChange="118"/>
+          <Patch Number="119"  Name="USER:120 Dark Vox"  ProgramChange="119"/>
+          <Patch Number="120"  Name="USER:121 Bass Pizz"  ProgramChange="120"/>
+          <Patch Number="121"  Name="USER:122 Seq Mallet"  ProgramChange="121"/>
+          <Patch Number="122"  Name="USER:123 esreveR"  ProgramChange="122"/>
+          <Patch Number="123"  Name="USER:124 Cyber Space"  ProgramChange="123"/>
+          <Patch Number="124"  Name="USER:125 12str Gtr 1"  ProgramChange="124"/>
+          <Patch Number="125"  Name="USER:126 Gone withe W"  ProgramChange="125"/>
+          <Patch Number="126"  Name="USER:127 Gravity Str."  ProgramChange="126"/>
+          <Patch Number="127"  Name="USER:128 Fantasy Vox"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 PR-A">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10368"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-A:001 64voicePiano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-A:002 Bright Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="PR-A:003 Classique"  ProgramChange="2"/>
+          <Patch Number="3"  Name="PR-A:004 Nice Piano"  ProgramChange="3"/>
+          <Patch Number="4"  Name="PR-A:005 Piano Thang"  ProgramChange="4"/>
+          <Patch Number="5"  Name="PR-A:006 Power Grand"  ProgramChange="5"/>
+          <Patch Number="6"  Name="PR-A:007 House Piano"  ProgramChange="6"/>
+          <Patch Number="7"  Name="PR-A:008 E.Grand"  ProgramChange="7"/>
+          <Patch Number="8"  Name="PR-A:009 MIDIed Grand"  ProgramChange="8"/>
+          <Patch Number="9"  Name="PR-A:010 Piano Blend"  ProgramChange="9"/>
+          <Patch Number="10"  Name="PR-A:011 West Coast"  ProgramChange="10"/>
+          <Patch Number="11"  Name="PR-A:012 PianoStrings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="PR-A:013 Bs/Pno+Brs"  ProgramChange="12"/>
+          <Patch Number="13"  Name="PR-A:014 Waterhodes"  ProgramChange="13"/>
+          <Patch Number="14"  Name="PR-A:015 S.A.E.P."  ProgramChange="14"/>
+          <Patch Number="15"  Name="PR-A:016 SA Rhodes 1"  ProgramChange="15"/>
+          <Patch Number="16"  Name="PR-A:017 SA Rhodes 2"  ProgramChange="16"/>
+          <Patch Number="17"  Name="PR-A:018 Stiky Rhodes"  ProgramChange="17"/>
+          <Patch Number="18"  Name="PR-A:019 Dig Rhodes"  ProgramChange="18"/>
+          <Patch Number="19"  Name="PR-A:020 Nylon EPiano"  ProgramChange="19"/>
+          <Patch Number="20"  Name="PR-A:021 Nylon Rhodes"  ProgramChange="20"/>
+          <Patch Number="21"  Name="PR-A:022 Rhodes Mix"  ProgramChange="21"/>
+          <Patch Number="22"  Name="PR-A:023 PsychoRhodes"  ProgramChange="22"/>
+          <Patch Number="23"  Name="PR-A:024 Tremo Rhodes"  ProgramChange="23"/>
+          <Patch Number="24"  Name="PR-A:025 MK-80 Rhodes"  ProgramChange="24"/>
+          <Patch Number="25"  Name="PR-A:026 MK-80 Phaser"  ProgramChange="25"/>
+          <Patch Number="26"  Name="PR-A:027 Delicate EP"  ProgramChange="26"/>
+          <Patch Number="27"  Name="PR-A:028 Octa Rhodes1"  ProgramChange="27"/>
+          <Patch Number="28"  Name="PR-A:029 Octa Rhodes2"  ProgramChange="28"/>
+          <Patch Number="29"  Name="PR-A:030 JV Rhodes+"  ProgramChange="29"/>
+          <Patch Number="30"  Name="PR-A:031 EP+Mod Pad"  ProgramChange="30"/>
+          <Patch Number="31"  Name="PR-A:032 Mr.Mellow"  ProgramChange="31"/>
+          <Patch Number="32"  Name="PR-A:033 Comp Clav"  ProgramChange="32"/>
+          <Patch Number="33"  Name="PR-A:034 Klavinet"  ProgramChange="33"/>
+          <Patch Number="34"  Name="PR-A:035 Winger Clav"  ProgramChange="34"/>
+          <Patch Number="35"  Name="PR-A:036 Phaze Clav 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="PR-A:037 Phaze Clav 2"  ProgramChange="36"/>
+          <Patch Number="37"  Name="PR-A:038 Phuzz Clav"  ProgramChange="37"/>
+          <Patch Number="38"  Name="PR-A:039 Chorus Clav"  ProgramChange="38"/>
+          <Patch Number="39"  Name="PR-A:040 Claviduck"  ProgramChange="39"/>
+          <Patch Number="40"  Name="PR-A:041 Velo-Rez Clv"  ProgramChange="40"/>
+          <Patch Number="41"  Name="PR-A:042 Clavicembalo"  ProgramChange="41"/>
+          <Patch Number="42"  Name="PR-A:043 Analog Clav1"  ProgramChange="42"/>
+          <Patch Number="43"  Name="PR-A:044 Analog Clav2"  ProgramChange="43"/>
+          <Patch Number="44"  Name="PR-A:045 Metal Clav"  ProgramChange="44"/>
+          <Patch Number="45"  Name="PR-A:046 Full Stops"  ProgramChange="45"/>
+          <Patch Number="46"  Name="PR-A:047 Ballad B"  ProgramChange="46"/>
+          <Patch Number="47"  Name="PR-A:048 Mellow Bars"  ProgramChange="47"/>
+          <Patch Number="48"  Name="PR-A:049 AugerMentive"  ProgramChange="48"/>
+          <Patch Number="49"  Name="PR-A:050 Perky B"  ProgramChange="49"/>
+          <Patch Number="50"  Name="PR-A:051 The Big Spin"  ProgramChange="50"/>
+          <Patch Number="51"  Name="PR-A:052 Gospel Spin"  ProgramChange="51"/>
+          <Patch Number="52"  Name="PR-A:053 Roller Spin"  ProgramChange="52"/>
+          <Patch Number="53"  Name="PR-A:054 Rocker Spin"  ProgramChange="53"/>
+          <Patch Number="54"  Name="PR-A:055 Tone Wh.Solo"  ProgramChange="54"/>
+          <Patch Number="55"  Name="PR-A:056 Purple Spin"  ProgramChange="55"/>
+          <Patch Number="56"  Name="PR-A:057 60's LeadORG"  ProgramChange="56"/>
+          <Patch Number="57"  Name="PR-A:058 Assalt Organ"  ProgramChange="57"/>
+          <Patch Number="58"  Name="PR-A:059 D-50 Organ"  ProgramChange="58"/>
+          <Patch Number="59"  Name="PR-A:060 Cathedral"  ProgramChange="59"/>
+          <Patch Number="60"  Name="PR-A:061 Church Pipes"  ProgramChange="60"/>
+          <Patch Number="61"  Name="PR-A:062 Poly Key"  ProgramChange="61"/>
+          <Patch Number="62"  Name="PR-A:063 Poly Saws"  ProgramChange="62"/>
+          <Patch Number="63"  Name="PR-A:064 Poly Pulse"  ProgramChange="63"/>
+          <Patch Number="64"  Name="PR-A:065 Dual Profs"  ProgramChange="64"/>
+          <Patch Number="65"  Name="PR-A:066 Saw Mass"  ProgramChange="65"/>
+          <Patch Number="66"  Name="PR-A:067 Poly Split"  ProgramChange="66"/>
+          <Patch Number="67"  Name="PR-A:068 Poly Brass"  ProgramChange="67"/>
+          <Patch Number="68"  Name="PR-A:069 Stackoid"  ProgramChange="68"/>
+          <Patch Number="69"  Name="PR-A:070 Poly Rock"  ProgramChange="69"/>
+          <Patch Number="70"  Name="PR-A:071 D-50 Stack"  ProgramChange="70"/>
+          <Patch Number="71"  Name="PR-A:072 Fantasia JV"  ProgramChange="71"/>
+          <Patch Number="72"  Name="PR-A:073 Jimmee Dee"  ProgramChange="72"/>
+          <Patch Number="73"  Name="PR-A:074 Heavenals"  ProgramChange="73"/>
+          <Patch Number="74"  Name="PR-A:075 Mallet Pad"  ProgramChange="74"/>
+          <Patch Number="75"  Name="PR-A:076 Huff N Stuff"  ProgramChange="75"/>
+          <Patch Number="76"  Name="PR-A:077 Puff 1080"  ProgramChange="76"/>
+          <Patch Number="77"  Name="PR-A:078 BellVox 1080"  ProgramChange="77"/>
+          <Patch Number="78"  Name="PR-A:079 Fantasy Vox"  ProgramChange="78"/>
+          <Patch Number="79"  Name="PR-A:080 Square Keys"  ProgramChange="79"/>
+          <Patch Number="80"  Name="PR-A:081 Childlike"  ProgramChange="80"/>
+          <Patch Number="81"  Name="PR-A:082 Music Box"  ProgramChange="81"/>
+          <Patch Number="82"  Name="PR-A:083 Toy Box"  ProgramChange="82"/>
+          <Patch Number="83"  Name="PR-A:084 Wave Bells"  ProgramChange="83"/>
+          <Patch Number="84"  Name="PR-A:085 Tria Bells"  ProgramChange="84"/>
+          <Patch Number="85"  Name="PR-A:086 Beauty Bells"  ProgramChange="85"/>
+          <Patch Number="86"  Name="PR-A:087 Music Bells"  ProgramChange="86"/>
+          <Patch Number="87"  Name="PR-A:088 Pretty Bells"  ProgramChange="87"/>
+          <Patch Number="88"  Name="PR-A:089 Pulse Key"  ProgramChange="88"/>
+          <Patch Number="89"  Name="PR-A:090 Wide Tubular"  ProgramChange="89"/>
+          <Patch Number="90"  Name="PR-A:091 Ambience Vibe"  ProgramChange="90"/>
+          <Patch Number="91"  Name="PR-A:092 Warm Vibes"  ProgramChange="91"/>
+          <Patch Number="92"  Name="PR-A:093 Dyna Marimbe"  ProgramChange="92"/>
+          <Patch Number="93"  Name="PR-A:094 Bass Marimba"  ProgramChange="93"/>
+          <Patch Number="94"  Name="PR-A:095 Nomad Perc"  ProgramChange="94"/>
+          <Patch Number="95"  Name="PR-A:096 Ethno Metals"  ProgramChange="95"/>
+          <Patch Number="96"  Name="PR-A:097 Islands Mlt"  ProgramChange="96"/>
+          <Patch Number="97"  Name="PR-A:098 Steelin Keys"  ProgramChange="97"/>
+          <Patch Number="98"  Name="PR-A:099 Steel Drums"  ProgramChange="98"/>
+          <Patch Number="99"  Name="PR-A:100 Voicey Pizz"  ProgramChange="99"/>
+          <Patch Number="100"  Name="PR-A:101 Sitar"  ProgramChange="100"/>
+          <Patch Number="101"  Name="PR-A:102 Drone Split"  ProgramChange="101"/>
+          <Patch Number="102"  Name="PR-A:103 Ethnopluck"  ProgramChange="102"/>
+          <Patch Number="103"  Name="PR-A:104 Jamisen"  ProgramChange="103"/>
+          <Patch Number="104"  Name="PR-A:105 Dulcimer"  ProgramChange="104"/>
+          <Patch Number="105"  Name="PR-A:106 East Melody"  ProgramChange="105"/>
+          <Patch Number="106"  Name="PR-A:107 Mandolin Trem"  ProgramChange="106"/>
+          <Patch Number="107"  Name="PR-A:108 Nylon Gtr"  ProgramChange="107"/>
+          <Patch Number="108"  Name="PR-A:109 Gtr Strings"  ProgramChange="108"/>
+          <Patch Number="109"  Name="PR-A:110 Steel Away"  ProgramChange="109"/>
+          <Patch Number="110"  Name="PR-A:111 Heavenly Gtr"  ProgramChange="110"/>
+          <Patch Number="111"  Name="PR-A:112 12str Gtr 1"  ProgramChange="111"/>
+          <Patch Number="112"  Name="PR-A:113 12str Gtr 2"  ProgramChange="112"/>
+          <Patch Number="113"  Name="PR-A:114 Jz Gtr Hall"  ProgramChange="113"/>
+          <Patch Number="114"  Name="PR-A:115 LetterFrmPat"  ProgramChange="114"/>
+          <Patch Number="115"  Name="PR-A:116 Jazz Scat"  ProgramChange="115"/>
+          <Patch Number="116"  Name="PR-A:117 Lounge Gig"  ProgramChange="116"/>
+          <Patch Number="117"  Name="PR-A:118 JC Strat"  ProgramChange="117"/>
+          <Patch Number="118"  Name="PR-A:119 Twin Strats"  ProgramChange="118"/>
+          <Patch Number="119"  Name="PR-A:120 JV Strat"  ProgramChange="119"/>
+          <Patch Number="120"  Name="PR-A:121 Syn Strat"  ProgramChange="120"/>
+          <Patch Number="121"  Name="PR-A:122 Rotary Gtr"  ProgramChange="121"/>
+          <Patch Number="122"  Name="PR-A:123 Muted Gtr"  ProgramChange="122"/>
+          <Patch Number="123"  Name="PR-A:124 SwitchOnMute"  ProgramChange="123"/>
+          <Patch Number="124"  Name="PR-A:125 Power Trip"  ProgramChange="124"/>
+          <Patch Number="125"  Name="PR-A:126 Crunch Split"  ProgramChange="125"/>
+          <Patch Number="126"  Name="PR-A:127 Rezodrive"  ProgramChange="126"/>
+          <Patch Number="127"  Name="PR-A:128 RockYurSocks"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 PR-B">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10369"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-B:001 Dist Gtr 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-B:002 Dist Gtr 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="PR-B:003 R&amp;R Chunk"  ProgramChange="2"/>
+          <Patch Number="3"  Name="PR-B:004 Phripphuzz"  ProgramChange="3"/>
+          <Patch Number="4"  Name="PR-B:005 Grungeroni"  ProgramChange="4"/>
+          <Patch Number="5"  Name="PR-B:006 Black Widow"  ProgramChange="5"/>
+          <Patch Number="6"  Name="PR-B:007 Velo-Wah Gtr"  ProgramChange="6"/>
+          <Patch Number="7"  Name="PR-B:008 Mod-Wah Gtr"  ProgramChange="7"/>
+          <Patch Number="8"  Name="PR-B:009 Pick Bass"  ProgramChange="8"/>
+          <Patch Number="9"  Name="PR-B:010 Hip Bass"  ProgramChange="9"/>
+          <Patch Number="10"  Name="PR-B:011 Perc.Bass"  ProgramChange="10"/>
+          <Patch Number="11"  Name="PR-B:012 Homey Bass"  ProgramChange="11"/>
+          <Patch Number="12"  Name="PR-B:013 Finger Bass"  ProgramChange="12"/>
+          <Patch Number="13"  Name="PR-B:014 Nylon Bass"  ProgramChange="13"/>
+          <Patch Number="14"  Name="PR-B:015 Ac.Upright"  ProgramChange="14"/>
+          <Patch Number="15"  Name="PR-B:016 Wet Fretls"  ProgramChange="15"/>
+          <Patch Number="16"  Name="PR-B:017 Fretls Dry"  ProgramChange="16"/>
+          <Patch Number="17"  Name="PR-B:018 Slap Bass 1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="PR-B:019 Slap Bass 2"  ProgramChange="18"/>
+          <Patch Number="19"  Name="PR-B:020 Slap Bass 3"  ProgramChange="19"/>
+          <Patch Number="20"  Name="PR-B:021 Slap Bass 4"  ProgramChange="20"/>
+          <Patch Number="21"  Name="PR-B:022 4 Pole Bass"  ProgramChange="21"/>
+          <Patch Number="22"  Name="PR-B:023 Tick Bass"  ProgramChange="22"/>
+          <Patch Number="23"  Name="PR-B:024 House Bass"  ProgramChange="23"/>
+          <Patch Number="24"  Name="PR-B:025 Mondo Bass"  ProgramChange="24"/>
+          <Patch Number="25"  Name="PR-B:026 Clk AnalogBs"  ProgramChange="25"/>
+          <Patch Number="26"  Name="PR-B:027 Bass In Face"  ProgramChange="26"/>
+          <Patch Number="27"  Name="PR-B:028 101 Bass"  ProgramChange="27"/>
+          <Patch Number="28"  Name="PR-B:029 Noiz Bass"  ProgramChange="28"/>
+          <Patch Number="29"  Name="PR-B:030 Super Jup Bs"  ProgramChange="29"/>
+          <Patch Number="30"  Name="PR-B:031 Occitan Bass"  ProgramChange="30"/>
+          <Patch Number="31"  Name="PR-B:032 Hugo Bass"  ProgramChange="31"/>
+          <Patch Number="32"  Name="PR-B:033 Multi Bass"  ProgramChange="32"/>
+          <Patch Number="33"  Name="PR-B:034 Moist Bass"  ProgramChange="33"/>
+          <Patch Number="34"  Name="PR-B:035 BritelowBass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="PR-B:036 Untamed Bass"  ProgramChange="35"/>
+          <Patch Number="36"  Name="PR-B:037 Rubber Bass"  ProgramChange="36"/>
+          <Patch Number="37"  Name="PR-B:038 Stereoww Bs"  ProgramChange="37"/>
+          <Patch Number="38"  Name="PR-B:039 Wonder Bass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="PR-B:040 Deep Bass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="PR-B:041 Super JX Bs"  ProgramChange="40"/>
+          <Patch Number="41"  Name="PR-B:042 WRED-Bass"  ProgramChange="41"/>
+          <Patch Number="42"  Name="PR-B:043 HI-Ring Bass"  ProgramChange="42"/>
+          <Patch Number="43"  Name="PR-B:044 Euro Bass"  ProgramChange="43"/>
+          <Patch Number="44"  Name="PR-B:045 SinusoidRave"  ProgramChange="44"/>
+          <Patch Number="45"  Name="PR-B:046 Alternative"  ProgramChange="45"/>
+          <Patch Number="46"  Name="PR-B:047 Acid Line"  ProgramChange="46"/>
+          <Patch Number="47"  Name="PR-B:048 Auto TB-303"  ProgramChange="47"/>
+          <Patch Number="48"  Name="PR-B:049 Hihat Tekno"  ProgramChange="48"/>
+          <Patch Number="49"  Name="PR-B:050 Velo Tekno 1"  ProgramChange="49"/>
+          <Patch Number="50"  Name="PR-B:051 Raggatronic"  ProgramChange="50"/>
+          <Patch Number="51"  Name="PR-B:052 Blade Racer"  ProgramChange="51"/>
+          <Patch Number="52"  Name="PR-B:053 S&amp;H Pad"  ProgramChange="52"/>
+          <Patch Number="53"  Name="PR-B:054 Syncrosonix"  ProgramChange="53"/>
+          <Patch Number="54"  Name="PR-B:055 Fooled Again"  ProgramChange="54"/>
+          <Patch Number="55"  Name="PR-B:056 Alive"  ProgramChange="55"/>
+          <Patch Number="56"  Name="PR-B:057 Velo Tekno 2"  ProgramChange="56"/>
+          <Patch Number="57"  Name="PR-B:058 Rezoid"  ProgramChange="57"/>
+          <Patch Number="58"  Name="PR-B:059 Raverborg"  ProgramChange="58"/>
+          <Patch Number="59"  Name="PR-B:060 Blow Hit"  ProgramChange="59"/>
+          <Patch Number="60"  Name="PR-B:061 Hammer Bell"  ProgramChange="60"/>
+          <Patch Number="61"  Name="PR-B:062 Seq Mallet"  ProgramChange="61"/>
+          <Patch Number="62"  Name="PR-B:063 Intentions"  ProgramChange="62"/>
+          <Patch Number="63"  Name="PR-B:064 Pick It"  ProgramChange="63"/>
+          <Patch Number="64"  Name="PR-B:065 Analog Seq"  ProgramChange="64"/>
+          <Patch Number="65"  Name="PR-B:066 Impact Vox"  ProgramChange="65"/>
+          <Patch Number="66"  Name="PR-B:067 TeknoSoloVox"  ProgramChange="66"/>
+          <Patch Number="67"  Name="PR-B:068 X-Mod Man"  ProgramChange="67"/>
+          <Patch Number="68"  Name="PR-B:069 Paz Zap"  ProgramChange="68"/>
+          <Patch Number="69"  Name="PR-B:070 4 Hits 4 You"  ProgramChange="69"/>
+          <Patch Number="70"  Name="PR-B:071 Impact"  ProgramChange="70"/>
+          <Patch Number="71"  Name="PR-B:072 Phase Hit"  ProgramChange="71"/>
+          <Patch Number="72"  Name="PR-B:073 Tekno Hit 1"  ProgramChange="72"/>
+          <Patch Number="73"  Name="PR-B:074 Tekno Hit 2"  ProgramChange="73"/>
+          <Patch Number="74"  Name="PR-B:075 Tekno Hit 3"  ProgramChange="74"/>
+          <Patch Number="75"  Name="PR-B:076 Reverse Hit"  ProgramChange="75"/>
+          <Patch Number="76"  Name="PR-B:077 SquareLead 1"  ProgramChange="76"/>
+          <Patch Number="77"  Name="PR-B:078 SquareLead 2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="PR-B:079 You and Luck"  ProgramChange="78"/>
+          <Patch Number="79"  Name="PR-B:080 Belly Lead"  ProgramChange="79"/>
+          <Patch Number="80"  Name="PR-B:081 WhistlinAtom"  ProgramChange="80"/>
+          <Patch Number="81"  Name="PR-B:082 Edye Boost"  ProgramChange="81"/>
+          <Patch Number="82"  Name="PR-B:083 MG Solo"  ProgramChange="82"/>
+          <Patch Number="83"  Name="PR-B:084 FXM Saw Lead"  ProgramChange="83"/>
+          <Patch Number="84"  Name="PR-B:085 Sawteeth"  ProgramChange="84"/>
+          <Patch Number="85"  Name="PR-B:086 Smoothe"  ProgramChange="85"/>
+          <Patch Number="86"  Name="PR-B:087 MG Lead"  ProgramChange="86"/>
+          <Patch Number="87"  Name="PR-B:088 MG Interval"  ProgramChange="87"/>
+          <Patch Number="88"  Name="PR-B:089 Pulse Lead 1"  ProgramChange="88"/>
+          <Patch Number="89"  Name="PR-B:090 Pulse Lead 2"  ProgramChange="89"/>
+          <Patch Number="90"  Name="PR-B:091 Little Devil"  ProgramChange="90"/>
+          <Patch Number="91"  Name="PR-B:092 Loud SynLead"  ProgramChange="91"/>
+          <Patch Number="92"  Name="PR-B:093 Analog Lead"  ProgramChange="92"/>
+          <Patch Number="93"  Name="PR-B:094 5th Lead"  ProgramChange="93"/>
+          <Patch Number="94"  Name="PR-B:095 Flute"  ProgramChange="94"/>
+          <Patch Number="95"  Name="PR-B:096 Piccolo"  ProgramChange="95"/>
+          <Patch Number="96"  Name="PR-B:097 VOX Flute"  ProgramChange="96"/>
+          <Patch Number="97"  Name="PR-B:098 Air Lead"  ProgramChange="97"/>
+          <Patch Number="98"  Name="PR-B:099 Pan Pipes"  ProgramChange="98"/>
+          <Patch Number="99"  Name="PR-B:100 Airplaaane"  ProgramChange="99"/>
+          <Patch Number="100"  Name="PR-B:101 Taj Mahal"  ProgramChange="100"/>
+          <Patch Number="101"  Name="PR-B:102 Raya Shaku"  ProgramChange="101"/>
+          <Patch Number="102"  Name="PR-B:103 Oboe mf"  ProgramChange="102"/>
+          <Patch Number="103"  Name="PR-B:104 Oboe Express"  ProgramChange="103"/>
+          <Patch Number="104"  Name="PR-B:105 Clarinet mp"  ProgramChange="104"/>
+          <Patch Number="105"  Name="PR-B:106 ClariExpress"  ProgramChange="105"/>
+          <Patch Number="106"  Name="PR-B:107 Mitzva Split"  ProgramChange="106"/>
+          <Patch Number="107"  Name="PR-B:108 ChamberWinds"  ProgramChange="107"/>
+          <Patch Number="108"  Name="PR-B:109 ChamberWoods"  ProgramChange="108"/>
+          <Patch Number="109"  Name="PR-B:110 Film Orch"  ProgramChange="109"/>
+          <Patch Number="110"  Name="PR-B:111 Sop.Sax mf"  ProgramChange="110"/>
+          <Patch Number="111"  Name="PR-B:112 Alto Sax"  ProgramChange="111"/>
+          <Patch Number="112"  Name="PR-B:113 AltoLead Sax"  ProgramChange="112"/>
+          <Patch Number="113"  Name="PR-B:114 Tenor Sax"  ProgramChange="113"/>
+          <Patch Number="114"  Name="PR-B:115 Baritone Sax"  ProgramChange="114"/>
+          <Patch Number="115"  Name="PR-B:116 Take A Tenor"  ProgramChange="115"/>
+          <Patch Number="116"  Name="PR-B:117 Sax Section"  ProgramChange="116"/>
+          <Patch Number="117"  Name="PR-B:118 Bigband Sax"  ProgramChange="117"/>
+          <Patch Number="118"  Name="PR-B:119 Harmonica"  ProgramChange="118"/>
+          <Patch Number="119"  Name="PR-B:120 Harmo Blues"  ProgramChange="119"/>
+          <Patch Number="120"  Name="PR-B:121 BluesHarp"  ProgramChange="120"/>
+          <Patch Number="121"  Name="PR-B:122 Hillbillys"  ProgramChange="121"/>
+          <Patch Number="122"  Name="PR-B:123 French Bags"  ProgramChange="122"/>
+          <Patch Number="123"  Name="PR-B:124 Majestic Tpt"  ProgramChange="123"/>
+          <Patch Number="124"  Name="PR-B:125 Voluntare"  ProgramChange="124"/>
+          <Patch Number="125"  Name="PR-B:126 2Trumpets"  ProgramChange="125"/>
+          <Patch Number="126"  Name="PR-B:127 Tpt Sect"  ProgramChange="126"/>
+          <Patch Number="127"  Name="PR-B:128 Mute TP mod"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 PR-C">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10370"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-C:001 Harmon Mute"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-C:002 Tp&amp;Sax Sect"  ProgramChange="1"/>
+          <Patch Number="2"  Name="PR-C:003 Sax+Tp+Tb"  ProgramChange="2"/>
+          <Patch Number="3"  Name="PR-C:004 Brass Sect"  ProgramChange="3"/>
+          <Patch Number="4"  Name="PR-C:005 Trombone"  ProgramChange="4"/>
+          <Patch Number="5"  Name="PR-C:006 Hybrid Bones"  ProgramChange="5"/>
+          <Patch Number="6"  Name="PR-C:007 Noble Horns"  ProgramChange="6"/>
+          <Patch Number="7"  Name="PR-C:008 Massed Horns"  ProgramChange="7"/>
+          <Patch Number="8"  Name="PR-C:009 Horn Swell"  ProgramChange="8"/>
+          <Patch Number="9"  Name="PR-C:010 Brass It!"  ProgramChange="9"/>
+          <Patch Number="10"  Name="PR-C:011 Brass Attack"  ProgramChange="10"/>
+          <Patch Number="11"  Name="PR-C:012 Archimede"  ProgramChange="11"/>
+          <Patch Number="12"  Name="PR-C:013 Rugby Horn"  ProgramChange="12"/>
+          <Patch Number="13"  Name="PR-C:014 MKS-80 Brass"  ProgramChange="13"/>
+          <Patch Number="14"  Name="PR-C:015 True ANALOG"  ProgramChange="14"/>
+          <Patch Number="15"  Name="PR-C:016 Dark Vox"  ProgramChange="15"/>
+          <Patch Number="16"  Name="PR-C:017 Random Vowels"  ProgramChange="16"/>
+          <Patch Number="17"  Name="PR-C:018 Angels Sing"  ProgramChange="17"/>
+          <Patch Number="18"  Name="PR-C:019 Pvox Oooze"  ProgramChange="18"/>
+          <Patch Number="19"  Name="PR-C:020 Longing..."  ProgramChange="19"/>
+          <Patch Number="20"  Name="PR-C:021 Arasian Morn"  ProgramChange="20"/>
+          <Patch Number="21"  Name="PR-C:022 Beauty Vox"  ProgramChange="21"/>
+          <Patch Number="22"  Name="PR-C:023 Mary-AnneVox"  ProgramChange="22"/>
+          <Patch Number="23"  Name="PR-C:024 Belltree Vox"  ProgramChange="23"/>
+          <Patch Number="24"  Name="PR-C:025 Vox Panner"  ProgramChange="24"/>
+          <Patch Number="25"  Name="PR-C:026 Spaced Voxx"  ProgramChange="25"/>
+          <Patch Number="26"  Name="PR-C:027 Glass Voices"  ProgramChange="26"/>
+          <Patch Number="27"  Name="PR-C:028 Tubular Vox"  ProgramChange="27"/>
+          <Patch Number="28"  Name="PR-C:029 Velo Voxx"  ProgramChange="28"/>
+          <Patch Number="29"  Name="PR-C:030 Wavox"  ProgramChange="29"/>
+          <Patch Number="30"  Name="PR-C:031 Doos"  ProgramChange="30"/>
+          <Patch Number="31"  Name="PR-C:032 Synvox Comps"  ProgramChange="31"/>
+          <Patch Number="32"  Name="PR-C:033 Vocal Oohz"  ProgramChange="32"/>
+          <Patch Number="33"  Name="PR-C:034 LFO Vox"  ProgramChange="33"/>
+          <Patch Number="34"  Name="PR-C:035 St. Strings"  ProgramChange="34"/>
+          <Patch Number="35"  Name="PR-C:036 Warm Strings"  ProgramChange="35"/>
+          <Patch Number="36"  Name="PR-C:037 Somber Str"  ProgramChange="36"/>
+          <Patch Number="37"  Name="PR-C:038 Marcato"  ProgramChange="37"/>
+          <Patch Number="38"  Name="PR-C:039 Bright Str"  ProgramChange="38"/>
+          <Patch Number="39"  Name="PR-C:040 String Ens"  ProgramChange="39"/>
+          <Patch Number="40"  Name="PR-C:041 TremoloStrng"  ProgramChange="40"/>
+          <Patch Number="41"  Name="PR-C:042 Chambers"  ProgramChange="41"/>
+          <Patch Number="42"  Name="PR-C:043 ViolinCello"  ProgramChange="42"/>
+          <Patch Number="43"  Name="PR-C:044 Symphonique"  ProgramChange="43"/>
+          <Patch Number="44"  Name="PR-C:045 Film Octaves"  ProgramChange="44"/>
+          <Patch Number="45"  Name="PR-C:046 Film Layers"  ProgramChange="45"/>
+          <Patch Number="46"  Name="PR-C:047 Bass Pizz"  ProgramChange="46"/>
+          <Patch Number="47"  Name="PR-C:048 Real Pizz"  ProgramChange="47"/>
+          <Patch Number="48"  Name="PR-C:049 Harp On It"  ProgramChange="48"/>
+          <Patch Number="49"  Name="PR-C:050 Harp"  ProgramChange="49"/>
+          <Patch Number="50"  Name="PR-C:051 JP-8 Str 1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="PR-C:052 JP-8 Str 2"  ProgramChange="51"/>
+          <Patch Number="52"  Name="PR-C:053 E-Motion Pad"  ProgramChange="52"/>
+          <Patch Number="53"  Name="PR-C:054 JP-8 Str 3"  ProgramChange="53"/>
+          <Patch Number="54"  Name="PR-C:055 Vintage Orch"  ProgramChange="54"/>
+          <Patch Number="55"  Name="PR-C:056 JUNO Strings"  ProgramChange="55"/>
+          <Patch Number="56"  Name="PR-C:057 Gigantalog"  ProgramChange="56"/>
+          <Patch Number="57"  Name="PR-C:058 PWM Strings"  ProgramChange="57"/>
+          <Patch Number="58"  Name="PR-C:059 Warmth"  ProgramChange="58"/>
+          <Patch Number="59"  Name="PR-C:060 ORBit Pad"  ProgramChange="59"/>
+          <Patch Number="60"  Name="PR-C:061 Deep Strings"  ProgramChange="60"/>
+          <Patch Number="61"  Name="PR-C:062 Pulsify"  ProgramChange="61"/>
+          <Patch Number="62"  Name="PR-C:063 Pulse Pad"  ProgramChange="62"/>
+          <Patch Number="63"  Name="PR-C:064 Greek Power"  ProgramChange="63"/>
+          <Patch Number="64"  Name="PR-C:065 Harmonicum"  ProgramChange="64"/>
+          <Patch Number="65"  Name="PR-C:066 D-50 Heaven"  ProgramChange="65"/>
+          <Patch Number="66"  Name="PR-C:067 Afro Horns"  ProgramChange="66"/>
+          <Patch Number="67"  Name="PR-C:068 Pop Pad"  ProgramChange="67"/>
+          <Patch Number="68"  Name="PR-C:069 Dreamesque"  ProgramChange="68"/>
+          <Patch Number="69"  Name="PR-C:070 Square Pad"  ProgramChange="69"/>
+          <Patch Number="70"  Name="PR-C:071 JP-8 Hollow"  ProgramChange="70"/>
+          <Patch Number="71"  Name="PR-C:072 JP-8Haunting"  ProgramChange="71"/>
+          <Patch Number="72"  Name="PR-C:073 Heirborne"  ProgramChange="72"/>
+          <Patch Number="73"  Name="PR-C:074 Hush Pad"  ProgramChange="73"/>
+          <Patch Number="74"  Name="PR-C:075 Jet Pad 1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="PR-C:076 Jet Pad 2"  ProgramChange="75"/>
+          <Patch Number="76"  Name="PR-C:077 Phaze Pad"  ProgramChange="76"/>
+          <Patch Number="77"  Name="PR-C:078 Phaze Str"  ProgramChange="77"/>
+          <Patch Number="78"  Name="PR-C:079 Jet Str Ens"  ProgramChange="78"/>
+          <Patch Number="79"  Name="PR-C:080 Pivotal Pad"  ProgramChange="79"/>
+          <Patch Number="80"  Name="PR-C:081 3D Flanged"  ProgramChange="80"/>
+          <Patch Number="81"  Name="PR-C:082 Fantawine"  ProgramChange="81"/>
+          <Patch Number="82"  Name="PR-C:083 Glassy Pad"  ProgramChange="82"/>
+          <Patch Number="83"  Name="PR-C:084 Moving Glass"  ProgramChange="83"/>
+          <Patch Number="84"  Name="PR-C:085 Glasswaves"  ProgramChange="84"/>
+          <Patch Number="85"  Name="PR-C:086 Shiny Pad"  ProgramChange="85"/>
+          <Patch Number="86"  Name="PR-C:087 ShiftedGlass"  ProgramChange="86"/>
+          <Patch Number="87"  Name="PR-C:088 Chime Pad"  ProgramChange="87"/>
+          <Patch Number="88"  Name="PR-C:089 Spin Pad"  ProgramChange="88"/>
+          <Patch Number="89"  Name="PR-C:090 Rotary Pad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="PR-C:091 Dawn 2 Dusk"  ProgramChange="90"/>
+          <Patch Number="91"  Name="PR-C:092 Aurora"  ProgramChange="91"/>
+          <Patch Number="92"  Name="PR-C:093 Strobe Mode"  ProgramChange="92"/>
+          <Patch Number="93"  Name="PR-C:094 Albion"  ProgramChange="93"/>
+          <Patch Number="94"  Name="PR-C:095 Running Pad"  ProgramChange="94"/>
+          <Patch Number="95"  Name="PR-C:096 Stepped Pad"  ProgramChange="95"/>
+          <Patch Number="96"  Name="PR-C:097 Random Pad"  ProgramChange="96"/>
+          <Patch Number="97"  Name="PR-C:098 SoundtrkDANC"  ProgramChange="97"/>
+          <Patch Number="98"  Name="PR-C:099 Flying Waltz"  ProgramChange="98"/>
+          <Patch Number="99"  Name="PR-C:100 Vanishing"  ProgramChange="99"/>
+          <Patch Number="100"  Name="PR-C:101 5th Sweep"  ProgramChange="100"/>
+          <Patch Number="101"  Name="PR-C:102 Phazweep"  ProgramChange="101"/>
+          <Patch Number="102"  Name="PR-C:103 Big BPF"  ProgramChange="102"/>
+          <Patch Number="103"  Name="PR-C:104 MG Sweep"  ProgramChange="103"/>
+          <Patch Number="104"  Name="PR-C:105 CeremonyTimp"  ProgramChange="104"/>
+          <Patch Number="105"  Name="PR-C:106 Dyno Toms"  ProgramChange="105"/>
+          <Patch Number="106"  Name="PR-C:107 Sands ofTime"  ProgramChange="106"/>
+          <Patch Number="107"  Name="PR-C:108 Inertia"  ProgramChange="107"/>
+          <Patch Number="108"  Name="PR-C:109 Vektogram"  ProgramChange="108"/>
+          <Patch Number="109"  Name="PR-C:110 Crash Pad"  ProgramChange="109"/>
+          <Patch Number="110"  Name="PR-C:111 Feedback VOX"  ProgramChange="110"/>
+          <Patch Number="111"  Name="PR-C:112 Cascade"  ProgramChange="111"/>
+          <Patch Number="112"  Name="PR-C:113 Shattered"  ProgramChange="112"/>
+          <Patch Number="113"  Name="PR-C:114 NextFrontier"  ProgramChange="113"/>
+          <Patch Number="114"  Name="PR-C:115 Pure Tibet"  ProgramChange="114"/>
+          <Patch Number="115"  Name="PR-C:116 Chime Wash"  ProgramChange="115"/>
+          <Patch Number="116"  Name="PR-C:117 Night Shade"  ProgramChange="116"/>
+          <Patch Number="117"  Name="PR-C:118 Tortured"  ProgramChange="117"/>
+          <Patch Number="118"  Name="PR-C:119 Dissimilate"  ProgramChange="118"/>
+          <Patch Number="119"  Name="PR-C:120 Dunes"  ProgramChange="119"/>
+          <Patch Number="120"  Name="PR-C:121 Ocean Floor"  ProgramChange="120"/>
+          <Patch Number="121"  Name="PR-C:122 Cyber Space"  ProgramChange="121"/>
+          <Patch Number="122"  Name="PR-C:123 Biosphere"  ProgramChange="122"/>
+          <Patch Number="123"  Name="PR-C:124 Variable Run"  ProgramChange="123"/>
+          <Patch Number="124"  Name="PR-C:125 Ice Hall"  ProgramChange="124"/>
+          <Patch Number="125"  Name="PR-C:126 ComputerRoom"  ProgramChange="125"/>
+          <Patch Number="126"  Name="PR-C:127 Inverted"  ProgramChange="126"/>
+          <Patch Number="127"  Name="PR-C:128 Terminate"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 GM">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10371"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="GM:001 Piano 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="GM:002 Piano 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="GM:003 Piano 3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="GM:004 Honky-tonk"  ProgramChange="3"/>
+          <Patch Number="4"  Name="GM:005 E.Piano 1"  ProgramChange="4"/>
+          <Patch Number="5"  Name="GM:006 E.Piano 2"  ProgramChange="5"/>
+          <Patch Number="6"  Name="GM:007 Harpsichord"  ProgramChange="6"/>
+          <Patch Number="7"  Name="GM:008 Clav."  ProgramChange="7"/>
+          <Patch Number="8"  Name="GM:009 Celesta"  ProgramChange="8"/>
+          <Patch Number="9"  Name="GM:010 Glockenspiel"  ProgramChange="9"/>
+          <Patch Number="10"  Name="GM:011 Music Box"  ProgramChange="10"/>
+          <Patch Number="11"  Name="GM:012 Vibraphone"  ProgramChange="11"/>
+          <Patch Number="12"  Name="GM:013 Marimba"  ProgramChange="12"/>
+          <Patch Number="13"  Name="GM:014 Xylophone"  ProgramChange="13"/>
+          <Patch Number="14"  Name="GM:015 Tubular-bell"  ProgramChange="14"/>
+          <Patch Number="15"  Name="GM:016 Santur"  ProgramChange="15"/>
+          <Patch Number="16"  Name="GM:017 Organ 1"  ProgramChange="16"/>
+          <Patch Number="17"  Name="GM:018 Organ 2"  ProgramChange="17"/>
+          <Patch Number="18"  Name="GM:019 Organ 3"  ProgramChange="18"/>
+          <Patch Number="19"  Name="GM:020 Church Org.1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="GM:021 Reed Organ"  ProgramChange="20"/>
+          <Patch Number="21"  Name="GM:022 Accordion Fr"  ProgramChange="21"/>
+          <Patch Number="22"  Name="GM:023 Harmonica"  ProgramChange="22"/>
+          <Patch Number="23"  Name="GM:024 Bandneon"  ProgramChange="23"/>
+          <Patch Number="24"  Name="GM:025 Nylon-str.Gt"  ProgramChange="24"/>
+          <Patch Number="25"  Name="GM:026 Steel-str.Gt"  ProgramChange="25"/>
+          <Patch Number="26"  Name="GM:027 Jazz Gt."  ProgramChange="26"/>
+          <Patch Number="27"  Name="GM:028 Clean Gt."  ProgramChange="27"/>
+          <Patch Number="28"  Name="GM:029 Muted Gt."  ProgramChange="28"/>
+          <Patch Number="29"  Name="GM:030 Overdrive Gt"  ProgramChange="29"/>
+          <Patch Number="30"  Name="GM:031 DistortionGt"  ProgramChange="30"/>
+          <Patch Number="31"  Name="GM:032 Gt.Harmonics"  ProgramChange="31"/>
+          <Patch Number="32"  Name="GM:033 Acoustic Bs."  ProgramChange="32"/>
+          <Patch Number="33"  Name="GM:034 Fingered Bs."  ProgramChange="33"/>
+          <Patch Number="34"  Name="GM:035 Picked Bs."  ProgramChange="34"/>
+          <Patch Number="35"  Name="GM:036 Fretless Bs."  ProgramChange="35"/>
+          <Patch Number="36"  Name="GM:037 Slap Bass 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="GM:038 Slap Bass 2"  ProgramChange="37"/>
+          <Patch Number="38"  Name="GM:039 Synth Bass 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="GM:040 Synth Bass 2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="GM:041 Violin"  ProgramChange="40"/>
+          <Patch Number="41"  Name="GM:042 Viola"  ProgramChange="41"/>
+          <Patch Number="42"  Name="GM:043 Cello"  ProgramChange="42"/>
+          <Patch Number="43"  Name="GM:044 Contrabass"  ProgramChange="43"/>
+          <Patch Number="44"  Name="GM:045 Tremolo Str"  ProgramChange="44"/>
+          <Patch Number="45"  Name="GM:046 PizzacatoStr"  ProgramChange="45"/>
+          <Patch Number="46"  Name="GM:047 Harp"  ProgramChange="46"/>
+          <Patch Number="47"  Name="GM:048 Timpani"  ProgramChange="47"/>
+          <Patch Number="48"  Name="GM:049 Strings"  ProgramChange="48"/>
+          <Patch Number="49"  Name="GM:050 Slow Strings"  ProgramChange="49"/>
+          <Patch Number="50"  Name="GM:051 Syn.Strings1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="GM:052 Syn.Strings 2"  ProgramChange="51"/>
+          <Patch Number="52"  Name="GM:053 Choir Aahs"  ProgramChange="52"/>
+          <Patch Number="53"  Name="GM:054 Voice Oohs"  ProgramChange="53"/>
+          <Patch Number="54"  Name="GM:055 Syn Vox"  ProgramChange="54"/>
+          <Patch Number="55"  Name="GM:056 OrchestraHit"  ProgramChange="55"/>
+          <Patch Number="56"  Name="GM:057 Trumpet"  ProgramChange="56"/>
+          <Patch Number="57"  Name="GM:058 Trombone"  ProgramChange="57"/>
+          <Patch Number="58"  Name="GM:059 Tuba"  ProgramChange="58"/>
+          <Patch Number="59"  Name="GM:060 MutedTrumpet"  ProgramChange="59"/>
+          <Patch Number="60"  Name="GM:061 French Horn"  ProgramChange="60"/>
+          <Patch Number="61"  Name="GM:062 Brass 1"  ProgramChange="61"/>
+          <Patch Number="62"  Name="GM:063 Synth Brass1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="GM:064 Synth Brass2"  ProgramChange="63"/>
+          <Patch Number="64"  Name="GM:065 Soprano Sax"  ProgramChange="64"/>
+          <Patch Number="65"  Name="GM:066 Alto Sax"  ProgramChange="65"/>
+          <Patch Number="66"  Name="GM:067 Tenor Sax"  ProgramChange="66"/>
+          <Patch Number="67"  Name="GM:068 Baritone Sax"  ProgramChange="67"/>
+          <Patch Number="68"  Name="GM:069 Oboe"  ProgramChange="68"/>
+          <Patch Number="69"  Name="GM:070 English Horn"  ProgramChange="69"/>
+          <Patch Number="70"  Name="GM:071 Bassoon"  ProgramChange="70"/>
+          <Patch Number="71"  Name="GM:072 Clarinet"  ProgramChange="71"/>
+          <Patch Number="72"  Name="GM:073 Piccolo"  ProgramChange="72"/>
+          <Patch Number="73"  Name="GM:074 Flute"  ProgramChange="73"/>
+          <Patch Number="74"  Name="GM:075 Recorder"  ProgramChange="74"/>
+          <Patch Number="75"  Name="GM:076 Pan Flute"  ProgramChange="75"/>
+          <Patch Number="76"  Name="GM:077 Bottle Blow"  ProgramChange="76"/>
+          <Patch Number="77"  Name="GM:078 Shakuhachi"  ProgramChange="77"/>
+          <Patch Number="78"  Name="GM:079 Whistle"  ProgramChange="78"/>
+          <Patch Number="79"  Name="GM:080 Ocarina"  ProgramChange="79"/>
+          <Patch Number="80"  Name="GM:081 Square Wave"  ProgramChange="80"/>
+          <Patch Number="81"  Name="GM:082 Saw Wave"  ProgramChange="81"/>
+          <Patch Number="82"  Name="GM:083 Syn.Calliope"  ProgramChange="82"/>
+          <Patch Number="83"  Name="GM:084 Chiffer Lead"  ProgramChange="83"/>
+          <Patch Number="84"  Name="GM:085 Charang"  ProgramChange="84"/>
+          <Patch Number="85"  Name="GM:086 Solo Vox"  ProgramChange="85"/>
+          <Patch Number="86"  Name="GM:087 5th Saw Wave"  ProgramChange="86"/>
+          <Patch Number="87"  Name="GM:088 Bass &amp; Lead"  ProgramChange="87"/>
+          <Patch Number="88"  Name="GM:089 Fantasia"  ProgramChange="88"/>
+          <Patch Number="89"  Name="GM:090 Warm Pad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="GM:091 Polysynth"  ProgramChange="90"/>
+          <Patch Number="91"  Name="GM:092 Space Voice"  ProgramChange="91"/>
+          <Patch Number="92"  Name="GM:093 Bowed Glass"  ProgramChange="92"/>
+          <Patch Number="93"  Name="GM:094 Metal Pad"  ProgramChange="93"/>
+          <Patch Number="94"  Name="GM:095 Halo Pad"  ProgramChange="94"/>
+          <Patch Number="95"  Name="GM:096 Sweep Pad"  ProgramChange="95"/>
+          <Patch Number="96"  Name="GM:097 Ice Rain"  ProgramChange="96"/>
+          <Patch Number="97"  Name="GM:098 Soundtrack"  ProgramChange="97"/>
+          <Patch Number="98"  Name="GM:099 Crystal"  ProgramChange="98"/>
+          <Patch Number="99"  Name="GM:100 Atmosphere"  ProgramChange="99"/>
+          <Patch Number="100"  Name="GM:101 Brightness"  ProgramChange="100"/>
+          <Patch Number="101"  Name="GM:102 Goblins"  ProgramChange="101"/>
+          <Patch Number="102"  Name="GM:103 Echo Drops"  ProgramChange="102"/>
+          <Patch Number="103"  Name="GM:104 Star Theme"  ProgramChange="103"/>
+          <Patch Number="104"  Name="GM:105 Sitar"  ProgramChange="104"/>
+          <Patch Number="105"  Name="GM:106 Banjo"  ProgramChange="105"/>
+          <Patch Number="106"  Name="GM:107 Shamisen"  ProgramChange="106"/>
+          <Patch Number="107"  Name="GM:108 Koto"  ProgramChange="107"/>
+          <Patch Number="108"  Name="GM:109 Kalimba"  ProgramChange="108"/>
+          <Patch Number="109"  Name="GM:110 Bagpipe"  ProgramChange="109"/>
+          <Patch Number="110"  Name="GM:111 Fiddle"  ProgramChange="110"/>
+          <Patch Number="111"  Name="GM:112 Shanai"  ProgramChange="111"/>
+          <Patch Number="112"  Name="GM:113 Tinkle Bell"  ProgramChange="112"/>
+          <Patch Number="113"  Name="GM:114 Agogo"  ProgramChange="113"/>
+          <Patch Number="114"  Name="GM:115 Steel Drums"  ProgramChange="114"/>
+          <Patch Number="115"  Name="GM:116 Woodblock"  ProgramChange="115"/>
+          <Patch Number="116"  Name="GM:117 Taiko"  ProgramChange="116"/>
+          <Patch Number="117"  Name="GM:118 Melo. Tom 1"  ProgramChange="117"/>
+          <Patch Number="118"  Name="GM:119 Synth Drum"  ProgramChange="118"/>
+          <Patch Number="119"  Name="GM:120 Reverse Cym"  ProgramChange="119"/>
+          <Patch Number="120"  Name="GM:121 Gt.FretNoise"  ProgramChange="120"/>
+          <Patch Number="121"  Name="GM:122 Breath Noise"  ProgramChange="121"/>
+          <Patch Number="122"  Name="GM:123 Seashore"  ProgramChange="122"/>
+          <Patch Number="123"  Name="GM:124 Bird"  ProgramChange="123"/>
+          <Patch Number="124"  Name="GM:125 Telephone 1"  ProgramChange="124"/>
+          <Patch Number="125"  Name="GM:126 Helicopter"  ProgramChange="125"/>
+          <Patch Number="126"  Name="GM:127 Applause"  ProgramChange="126"/>
+          <Patch Number="127"  Name="GM:128 Gun shot"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 Perform USER">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10240"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="USER:01 Strobe Pad 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="USER:02 HardRock Uni"  ProgramChange="1"/>
+          <Patch Number="2"  Name="USER:03 Aggressive"  ProgramChange="2"/>
+          <Patch Number="3"  Name="USER:04 Opening Orch"  ProgramChange="3"/>
+          <Patch Number="4"  Name="USER:05 Cyber Sweep"  ProgramChange="4"/>
+          <Patch Number="5"  Name="USER:06 TempleOf2080"  ProgramChange="5"/>
+          <Patch Number="6"  Name="USER:07 Humming Pno"  ProgramChange="6"/>
+          <Patch Number="7"  Name="USER:08 Horror Movie"  ProgramChange="7"/>
+          <Patch Number="8"  Name="USER:09 Tekno Loop 1"  ProgramChange="8"/>
+          <Patch Number="9"  Name="USER:10 FarEast Stak"  ProgramChange="9"/>
+          <Patch Number="10"  Name="USER:11 Progresso"  ProgramChange="10"/>
+          <Patch Number="11"  Name="USER:12 SH Split"  ProgramChange="11"/>
+          <Patch Number="12"  Name="USER:13 Fr.Horn Sect"  ProgramChange="12"/>
+          <Patch Number="13"  Name="USER:14 Sweep Pad"  ProgramChange="13"/>
+          <Patch Number="14"  Name="USER:15 Reso Clav"  ProgramChange="14"/>
+          <Patch Number="15"  Name="USER:16 LateAutumnSP"  ProgramChange="15"/>
+          <Patch Number="16"  Name="USER:17 Orchestral"  ProgramChange="16"/>
+          <Patch Number="17"  Name="USER:18 Rave Split"  ProgramChange="17"/>
+          <Patch Number="18"  Name="USER:19 Flying Jazz"  ProgramChange="18"/>
+          <Patch Number="19"  Name="USER:20 CeremonialFX"  ProgramChange="19"/>
+          <Patch Number="20"  Name="USER:21 AcPiano+Pad"  ProgramChange="20"/>
+          <Patch Number="21"  Name="USER:22 AcPiano+Pad2"  ProgramChange="21"/>
+          <Patch Number="22"  Name="USER:23 EchoPianoStk"  ProgramChange="22"/>
+          <Patch Number="23"  Name="USER:24 Pop Ballad"  ProgramChange="23"/>
+          <Patch Number="24"  Name="USER:25 E.Pno Split"  ProgramChange="24"/>
+          <Patch Number="25"  Name="USER:26 2080 Fantasy"  ProgramChange="25"/>
+          <Patch Number="26"  Name="USER:27 FX Bell Pad"  ProgramChange="26"/>
+          <Patch Number="27"  Name="USER:28 Chime FX"  ProgramChange="27"/>
+          <Patch Number="28"  Name="USER:29 Multi Sax"  ProgramChange="28"/>
+          <Patch Number="29"  Name="USER:30 Big Band"  ProgramChange="29"/>
+          <Patch Number="30"  Name="USER:31 Pizz Brass"  ProgramChange="30"/>
+          <Patch Number="31"  Name="USER:32 Step Brass"  ProgramChange="31"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 Perform PR-A">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10368"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-A:01 Seq:Template"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-A:02 Seq:Pop"  ProgramChange="1"/>
+          <Patch Number="2"  Name="PR-A:03 Seq:LABallad"  ProgramChange="2"/>
+          <Patch Number="3"  Name="PR-A:04 Seq:Fusion"  ProgramChange="3"/>
+          <Patch Number="4"  Name="PR-A:05 Seq:FunkRock"  ProgramChange="4"/>
+          <Patch Number="5"  Name="PR-A:06 Seq:HardRock"  ProgramChange="5"/>
+          <Patch Number="6"  Name="PR-A:07 Seq:H.Metal"  ProgramChange="6"/>
+          <Patch Number="7"  Name="PR-A:08 Seq:Blues"  ProgramChange="7"/>
+          <Patch Number="8"  Name="PR-A:09 Seq:Cont.Jz"  ProgramChange="8"/>
+          <Patch Number="9"  Name="PR-A:10 Seq:Ac.Jazz"  ProgramChange="9"/>
+          <Patch Number="10"  Name="PR-A:11 Seq:Country"  ProgramChange="10"/>
+          <Patch Number="11"  Name="PR-A:12 Seq:Folk"  ProgramChange="11"/>
+          <Patch Number="12"  Name="PR-A:13 Seq:Dixie"  ProgramChange="12"/>
+          <Patch Number="13"  Name="PR-A:14 Seq:BigBand"  ProgramChange="13"/>
+          <Patch Number="14"  Name="PR-A:15 Seq:Latin"  ProgramChange="14"/>
+          <Patch Number="15"  Name="PR-A:16 Seq:Africa"  ProgramChange="15"/>
+          <Patch Number="16"  Name="PR-A:17 Seq:World"  ProgramChange="16"/>
+          <Patch Number="17"  Name="PR-A:18 Seq:Zydeco"  ProgramChange="17"/>
+          <Patch Number="18"  Name="PR-A:19 Seq:60's"  ProgramChange="18"/>
+          <Patch Number="19"  Name="PR-A:20 Seq:Gospel"  ProgramChange="19"/>
+          <Patch Number="20"  Name="PR-A:21 Seq:PopDance"  ProgramChange="20"/>
+          <Patch Number="21"  Name="PR-A:22 Seq:TeknoPop"  ProgramChange="21"/>
+          <Patch Number="22"  Name="PR-A:23 Seq:House"  ProgramChange="22"/>
+          <Patch Number="23"  Name="PR-A:24 Seq:Hip Hop"  ProgramChange="23"/>
+          <Patch Number="24"  Name="PR-A:25 Seq:HardCore"  ProgramChange="24"/>
+          <Patch Number="25"  Name="PR-A:26 Seq:Acid"  ProgramChange="25"/>
+          <Patch Number="26"  Name="PR-A:27 Seq:Ambient"  ProgramChange="26"/>
+          <Patch Number="27"  Name="PR-A:28 Seq:New Age"  ProgramChange="27"/>
+          <Patch Number="28"  Name="PR-A:29 Seq:Orch"  ProgramChange="28"/>
+          <Patch Number="29"  Name="PR-A:30 Seq:Film"  ProgramChange="29"/>
+          <Patch Number="30"  Name="PR-A:31 Seq:Chamber"  ProgramChange="30"/>
+          <Patch Number="31"  Name="PR-A:32 Seq:Baroque"  ProgramChange="31"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 Perform PR-B">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10369"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-B:01 Dulcimar&amp;Gtr"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-B:02 DulcitarStk"  ProgramChange="1"/>
+          <Patch Number="2"  Name="PR-B:03 Tekno Loop 2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="PR-B:04 Rave Attack"  ProgramChange="3"/>
+          <Patch Number="4"  Name="PR-B:05 SpaceCarrier"  ProgramChange="4"/>
+          <Patch Number="5"  Name="PR-B:06 Terminator"  ProgramChange="5"/>
+          <Patch Number="6"  Name="PR-B:07 Symphony JV"  ProgramChange="6"/>
+          <Patch Number="7"  Name="PR-B:08 Nebular Vox"  ProgramChange="7"/>
+          <Patch Number="8"  Name="PR-B:09 Humming Vox"  ProgramChange="8"/>
+          <Patch Number="9"  Name="PR-B:10 Cosmic Dawn"  ProgramChange="9"/>
+          <Patch Number="10"  Name="PR-B:11 Labyrinth"  ProgramChange="10"/>
+          <Patch Number="11"  Name="PR-B:12 Sweeper"  ProgramChange="11"/>
+          <Patch Number="12"  Name="PR-B:13 Stack Pad"  ProgramChange="12"/>
+          <Patch Number="13"  Name="PR-B:14 Strobe Pad 2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="PR-B:15 Rythmatic"  ProgramChange="14"/>
+          <Patch Number="15"  Name="PR-B:16 Voyage"  ProgramChange="15"/>
+          <Patch Number="16"  Name="PR-B:17 S&amp;H Pad"  ProgramChange="16"/>
+          <Patch Number="17"  Name="PR-B:18 Cyclic Pad"  ProgramChange="17"/>
+          <Patch Number="18"  Name="PR-B:19 White Hole"  ProgramChange="18"/>
+          <Patch Number="19"  Name="PR-B:20 EasternSplit"  ProgramChange="19"/>
+          <Patch Number="20"  Name="PR-B:21 Tekno Asia"  ProgramChange="20"/>
+          <Patch Number="21"  Name="PR-B:22 TeknoSplit 1"  ProgramChange="21"/>
+          <Patch Number="22"  Name="PR-B:23 TeknoSplit 2"  ProgramChange="22"/>
+          <Patch Number="23"  Name="PR-B:24 TknoPopSplit"  ProgramChange="23"/>
+          <Patch Number="24"  Name="PR-B:25 ChildrenSplt"  ProgramChange="24"/>
+          <Patch Number="25"  Name="PR-B:26 Purple Split"  ProgramChange="25"/>
+          <Patch Number="26"  Name="PR-B:27 PulsingSplit"  ProgramChange="26"/>
+          <Patch Number="27"  Name="PR-B:28 Pad / Lead"  ProgramChange="27"/>
+          <Patch Number="28"  Name="PR-B:29 Organ / Lead"  ProgramChange="28"/>
+          <Patch Number="29"  Name="PR-B:30 Bass / Lead"  ProgramChange="29"/>
+          <Patch Number="30"  Name="PR-B:31 S&amp;H / Pad"  ProgramChange="30"/>
+          <Patch Number="31"  Name="PR-B:32 Drone / Pipe"  ProgramChange="31"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Hybrid Kick1"/>
+     <Note Number="37"  Name="7=Side Stick"/>
+     <Note Number="38"  Name="8=Brush Swish"/>
+     <Note Number="39"  Name="9=Brush Slap"/>
+     <Note Number="40"  Name="0=Brush Roll"/>
+     <Note Number="41"  Name="1=Dry Tom Lo"/>
+     <Note Number="42"  Name="2=Cl HiHat 1"/>
+     <Note Number="43"  Name="3=Dry Tom Lo"/>
+     <Note Number="44"  Name="4=Pedal HiHat"/>
+     <Note Number="45"  Name="5=Dry Tom Hi"/>
+     <Note Number="46"  Name="6=Op HiHat"/>
+     <Note Number="47"  Name="7=Dry Tom Hi"/>
+     <Note Number="48"  Name="8=Dry Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Dry Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 2"/>
+     <Note Number="52"  Name="2=China Cym"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Vibraslap"/>
+     <Note Number="59"  Name="9=Ride 2"/>
+     <Note Number="60"  Name="0=Cga Mute Hi"/>
+     <Note Number="61"  Name="1=Cga Mute Lo"/>
+     <Note Number="62"  Name="2=Cga Slap"/>
+     <Note Number="63"  Name="3=Cga Open Hi"/>
+     <Note Number="64"  Name="4=Cga Open Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Soft Pad A"/>
+     <Note Number="72"  Name="2=Soft Pad B"/>
+     <Note Number="73"  Name="3=Long Guiro"/>
+     <Note Number="74"  Name="4=Long Guiro"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=Wood Block"/>
+     <Note Number="77"  Name="7=Wood Block"/>
+     <Note Number="78"  Name="8=Cuica"/>
+     <Note Number="79"  Name="9=Cuica"/>
+     <Note Number="80"  Name="0=Open Triangl"/>
+     <Note Number="81"  Name="1=Open Triangl"/>
+     <Note Number="82"  Name="2=Cabasa Cut"/>
+     <Note Number="83"  Name="3=Spectrum"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=Wood Block"/>
+     <Note Number="86"  Name="6=Cga Slap"/>
+     <Note Number="87"  Name="7=Dry Tom Lo"/>
+     <Note Number="88"  Name="8=Lite Kick"/>
+     <Note Number="89"  Name="9=Hybrid Kick2"/>
+     <Note Number="90"  Name="0=Old Kick"/>
+     <Note Number="91"  Name="1=808 Kick"/>
+     <Note Number="92"  Name="2=Natural SN1"/>
+     <Note Number="93"  Name="3=Natural SN2"/>
+     <Note Number="94"  Name="4=SN Roll"/>
+     <Note Number="95"  Name="5=Brush Slap"/>
+     <Note Number="96"  Name="6=Metronome 2"/>
+     <Note Number="97"  Name="7=R8 Click"/>
+     <Note Number="98"  Name="8=Metronome 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Hybrid Kick1"/>
+     <Note Number="37"  Name="7=Side Stick"/>
+     <Note Number="38"  Name="8=Ballad SN"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=Piccolo SN"/>
+     <Note Number="41"  Name="1=Verb Tom Lo"/>
+     <Note Number="42"  Name="2=Cl HiHat 1"/>
+     <Note Number="43"  Name="3=Verb Tom Lo"/>
+     <Note Number="44"  Name="4=Pedal HiHat"/>
+     <Note Number="45"  Name="5=Verb Tom Hi"/>
+     <Note Number="46"  Name="6=Op HiHat"/>
+     <Note Number="47"  Name="7=Verb Tom Hi"/>
+     <Note Number="48"  Name="8=Verb Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Verb Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 2"/>
+     <Note Number="52"  Name="2=China Cym"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Vibraslap"/>
+     <Note Number="59"  Name="9=Ride 2"/>
+     <Note Number="60"  Name="0=Bongo Hi"/>
+     <Note Number="61"  Name="1=Bongo Lo"/>
+     <Note Number="62"  Name="2=Cga Mute Hi"/>
+     <Note Number="63"  Name="3=Cga Open Hi"/>
+     <Note Number="64"  Name="4=Cga Open Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Soft Pad A"/>
+     <Note Number="72"  Name="2=Soft Pad B"/>
+     <Note Number="73"  Name="3=Long Guiro"/>
+     <Note Number="74"  Name="4=Long Guiro"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=Wood Block"/>
+     <Note Number="77"  Name="7=Wood Block"/>
+     <Note Number="78"  Name="8=Cuica"/>
+     <Note Number="79"  Name="9=Cuica"/>
+     <Note Number="80"  Name="0=Open Triangl"/>
+     <Note Number="81"  Name="1=Open Triangl"/>
+     <Note Number="82"  Name="2=Cabasa Cut"/>
+     <Note Number="83"  Name="3=Spectrum"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=Wood Block"/>
+     <Note Number="86"  Name="6=Cga Slap"/>
+     <Note Number="87"  Name="7=Dry Tom Lo"/>
+     <Note Number="88"  Name="8=Lite Kick"/>
+     <Note Number="89"  Name="9=Hybrid Kick2"/>
+     <Note Number="90"  Name="0=Old Kick"/>
+     <Note Number="91"  Name="1=808 Kick"/>
+     <Note Number="92"  Name="2=Natural SN1"/>
+     <Note Number="93"  Name="3=Natural SN2"/>
+     <Note Number="94"  Name="4=808 SN"/>
+     <Note Number="95"  Name="5=Brush Slap"/>
+     <Note Number="96"  Name="6=Brush Swish"/>
+     <Note Number="97"  Name="7=Brush Roll"/>
+     <Note Number="98"  Name="8=SN Roll"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=808 SN"/>
+     <Note Number="37"  Name="7=Dry Stick"/>
+     <Note Number="38"  Name="8=808 SN"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=808 SN"/>
+     <Note Number="41"  Name="1=808 Kick"/>
+     <Note Number="42"  Name="2=606 HiHat Cl"/>
+     <Note Number="43"  Name="3=808 SN"/>
+     <Note Number="44"  Name="4=606 HiHat Cl"/>
+     <Note Number="45"  Name="5=808 Kick"/>
+     <Note Number="46"  Name="6=606 HiHat Op"/>
+     <Note Number="47"  Name="7=808 SN"/>
+     <Note Number="48"  Name="8=808 Kick"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=808 SN"/>
+     <Note Number="51"  Name="1=Ride 2"/>
+     <Note Number="52"  Name="2=REV Crash 1"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Vibraslap"/>
+     <Note Number="59"  Name="9=Ride 2"/>
+     <Note Number="60"  Name="0=Bongo Hi"/>
+     <Note Number="61"  Name="1=Bongo Lo"/>
+     <Note Number="62"  Name="2=Cga Mute Hi"/>
+     <Note Number="63"  Name="3=Cga Open Hi"/>
+     <Note Number="64"  Name="4=Cga Open Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Cut"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Soft Pad B"/>
+     <Note Number="72"  Name="2=Soft Pad A"/>
+     <Note Number="73"  Name="3=Long Guiro"/>
+     <Note Number="74"  Name="4=Long Guiro"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=Wood Block"/>
+     <Note Number="77"  Name="7=Wood Block"/>
+     <Note Number="78"  Name="8=Cuica"/>
+     <Note Number="79"  Name="9=Cuica"/>
+     <Note Number="80"  Name="0=Open Triangl"/>
+     <Note Number="81"  Name="1=Open Triangl"/>
+     <Note Number="82"  Name="2=Cabasa Cut"/>
+     <Note Number="83"  Name="3=Tambourine"/>
+     <Note Number="84"  Name="4=Old Kick"/>
+     <Note Number="85"  Name="5=Scratch 1"/>
+     <Note Number="86"  Name="6=Piccolo SN"/>
+     <Note Number="87"  Name="7=Scratch 3"/>
+     <Note Number="88"  Name="8=White Noise"/>
+     <Note Number="89"  Name="9=Synth Saw 1"/>
+     <Note Number="90"  Name="0=Synth Pulse1"/>
+     <Note Number="91"  Name="1=Back Hit"/>
+     <Note Number="92"  Name="2=Tekno Hit"/>
+     <Note Number="93"  Name="3=Orch. Hit"/>
+     <Note Number="94"  Name="4=Philly Hit"/>
+     <Note Number="95"  Name="5=REV Back Hit"/>
+     <Note Number="96"  Name="6=MC500 Beep 1"/>
+     <Note Number="97"  Name="7=R8 Click"/>
+     <Note Number="98"  Name="8=Metronome 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Hybrid Kick1"/>
+     <Note Number="37"  Name="7=Side Stick"/>
+     <Note Number="38"  Name="8=Ballad SN"/>
+     <Note Number="39"  Name="9=Brush Slap"/>
+     <Note Number="40"  Name="0=Brush Swish"/>
+     <Note Number="41"  Name="1=Verb Tom Lo"/>
+     <Note Number="42"  Name="2=Cl HiHat 1"/>
+     <Note Number="43"  Name="3=Verb Tom Lo"/>
+     <Note Number="44"  Name="4=Pedal HiHat"/>
+     <Note Number="45"  Name="5=Verb Tom Hi"/>
+     <Note Number="46"  Name="6=Op HiHat"/>
+     <Note Number="47"  Name="7=Verb Tom Hi"/>
+     <Note Number="48"  Name="8=Verb Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Verb Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 2"/>
+     <Note Number="52"  Name="2=REV Crash 1"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Vibraslap"/>
+     <Note Number="59"  Name="9=Ride 2"/>
+     <Note Number="60"  Name="0=Bongo Hi"/>
+     <Note Number="61"  Name="1=Bongo Lo"/>
+     <Note Number="62"  Name="2=Cga Mute Hi"/>
+     <Note Number="63"  Name="3=Cga Open Hi"/>
+     <Note Number="64"  Name="4=Cga Open Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Soft Pad B"/>
+     <Note Number="72"  Name="2=Soft Pad A"/>
+     <Note Number="73"  Name="3=Long Guiro"/>
+     <Note Number="74"  Name="4=Long Guiro"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=Wood Block"/>
+     <Note Number="77"  Name="7=Wood Block"/>
+     <Note Number="78"  Name="8=Cuica"/>
+     <Note Number="79"  Name="9=Cuica"/>
+     <Note Number="80"  Name="0=Open Triangl"/>
+     <Note Number="81"  Name="1=Open Triangl"/>
+     <Note Number="82"  Name="2=Cabasa Cut"/>
+     <Note Number="83"  Name="3=Spectrum"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=Wood Block"/>
+     <Note Number="86"  Name="6=Cga Slap"/>
+     <Note Number="87"  Name="7=Dry Tom Lo"/>
+     <Note Number="88"  Name="8=Lite Kick"/>
+     <Note Number="89"  Name="9=Hybrid Kick2"/>
+     <Note Number="90"  Name="0=Old Kick"/>
+     <Note Number="91"  Name="1=808 Kick"/>
+     <Note Number="92"  Name="2=Natural SN1"/>
+     <Note Number="93"  Name="3=Natural SN2"/>
+     <Note Number="94"  Name="4=SN Roll"/>
+     <Note Number="95"  Name="5=Natural SN2"/>
+     <Note Number="96"  Name="6=Metronome 2"/>
+     <Note Number="97"  Name="7=R8 Click"/>
+     <Note Number="98"  Name="8=Metronome 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Old Kick"/>
+     <Note Number="37"  Name="7=Side Stick"/>
+     <Note Number="38"  Name="8=Ballad SN"/>
+     <Note Number="39"  Name="9=Hand Claps"/>
+     <Note Number="40"  Name="0=SN Roll"/>
+     <Note Number="41"  Name="1=Verb Tom Lo"/>
+     <Note Number="42"  Name="2=Cl HiHat 2"/>
+     <Note Number="43"  Name="3=Dry Tom Lo"/>
+     <Note Number="44"  Name="4=Pedal HiHat"/>
+     <Note Number="45"  Name="5=Verb Tom Lo"/>
+     <Note Number="46"  Name="6=Op HiHat"/>
+     <Note Number="47"  Name="7=Dry Tom Lo"/>
+     <Note Number="48"  Name="8=Verb Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Dry Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 2"/>
+     <Note Number="52"  Name="2=China Cym"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Vibraslap"/>
+     <Note Number="59"  Name="9=Ride 2"/>
+     <Note Number="60"  Name="0=Bongo Hi"/>
+     <Note Number="61"  Name="1=Bongo Lo"/>
+     <Note Number="62"  Name="2=Cga Mute Hi"/>
+     <Note Number="63"  Name="3=Cga Open Hi"/>
+     <Note Number="64"  Name="4=Cga Open Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Soft Pad A"/>
+     <Note Number="72"  Name="2=Brush Swish"/>
+     <Note Number="73"  Name="3=Long Guiro"/>
+     <Note Number="74"  Name="4=Long Guiro"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=Wood Block"/>
+     <Note Number="77"  Name="7=Metronome 2"/>
+     <Note Number="78"  Name="8=Cuica"/>
+     <Note Number="79"  Name="9=Cuica"/>
+     <Note Number="80"  Name="0=Open Triangl"/>
+     <Note Number="81"  Name="1=Open Triangl"/>
+     <Note Number="82"  Name="2=Cabasa Cut"/>
+     <Note Number="83"  Name="3=Spectrum"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=Wood Block"/>
+     <Note Number="86"  Name="6=Cga Slap"/>
+     <Note Number="87"  Name="7=Dry Tom Lo"/>
+     <Note Number="88"  Name="8=Lite Kick"/>
+     <Note Number="89"  Name="9=Hybrid Kick2"/>
+     <Note Number="90"  Name="0=Old Kick"/>
+     <Note Number="91"  Name="1=Natural SN2"/>
+     <Note Number="92"  Name="2=Natural SN1"/>
+     <Note Number="93"  Name="3=Brush Swish"/>
+     <Note Number="94"  Name="4=Brush Roll"/>
+     <Note Number="95"  Name="5=Brush Slap"/>
+     <Note Number="96"  Name="6=Metronome 2"/>
+     <Note Number="97"  Name="7=R8 Click"/>
+     <Note Number="98"  Name="8=Metronome 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Round Kick"/>
+     <Note Number="37"  Name="7=Side Stick"/>
+     <Note Number="38"  Name="8=Ballad SN"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=SN Roll"/>
+     <Note Number="41"  Name="1=Timpani"/>
+     <Note Number="42"  Name="2=Timpani"/>
+     <Note Number="43"  Name="3=Timpani"/>
+     <Note Number="44"  Name="4=Timpani"/>
+     <Note Number="45"  Name="5=Timpani"/>
+     <Note Number="46"  Name="6=Timpani"/>
+     <Note Number="47"  Name="7=Timpani"/>
+     <Note Number="48"  Name="8=Timpani"/>
+     <Note Number="49"  Name="9=Timpani"/>
+     <Note Number="50"  Name="0=Timpani"/>
+     <Note Number="51"  Name="1=Timpani"/>
+     <Note Number="52"  Name="2=Timpani"/>
+     <Note Number="53"  Name="3=Timpani"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Ride 1"/>
+     <Note Number="59"  Name="9=Ride 2"/>
+     <Note Number="60"  Name="0=Bongo Hi"/>
+     <Note Number="61"  Name="1=Bongo Lo"/>
+     <Note Number="62"  Name="2=Cga Mute Hi"/>
+     <Note Number="63"  Name="3=Cga Open Hi"/>
+     <Note Number="64"  Name="4=Cga Open Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Soft Pad A"/>
+     <Note Number="72"  Name="2=Soft Pad B"/>
+     <Note Number="73"  Name="3=Long Guiro"/>
+     <Note Number="74"  Name="4=Long Guiro"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=Wood Block"/>
+     <Note Number="77"  Name="7=Wood Block"/>
+     <Note Number="78"  Name="8=Cuica"/>
+     <Note Number="79"  Name="9=Cuica"/>
+     <Note Number="80"  Name="0=Open Triangl"/>
+     <Note Number="81"  Name="1=Open Triangl"/>
+     <Note Number="82"  Name="2=Cabasa Cut"/>
+     <Note Number="83"  Name="3=Spectrum"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=Wood Block"/>
+     <Note Number="86"  Name="6=Cga Slap"/>
+     <Note Number="87"  Name="7=Dry Tom Lo"/>
+     <Note Number="88"  Name="8=Applause"/>
+     <Note Number="89"  Name="9=Hybrid Kick2"/>
+     <Note Number="90"  Name="0=Cl HiHat 1"/>
+     <Note Number="91"  Name="1=Round Kick"/>
+     <Note Number="92"  Name="2=Pedal HiHat"/>
+     <Note Number="93"  Name="3=Natural SN2"/>
+     <Note Number="94"  Name="4=Op HiHat"/>
+     <Note Number="95"  Name="5=Brush Slap"/>
+     <Note Number="96"  Name="6=Brush Swish"/>
+     <Note Number="97"  Name="7=Brush Roll"/>
+     <Note Number="98"  Name="8=SN Roll"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Hybrid Kick1"/>
+     <Note Number="37"  Name="7=Side Stick"/>
+     <Note Number="38"  Name="8=Natural SN2"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=SN Roll"/>
+     <Note Number="41"  Name="1=Verb Tom Lo"/>
+     <Note Number="42"  Name="2=Cl HiHat 1"/>
+     <Note Number="43"  Name="3=Verb Tom Lo"/>
+     <Note Number="44"  Name="4=Cl HiHat 2"/>
+     <Note Number="45"  Name="5=Verb Tom Hi"/>
+     <Note Number="46"  Name="6=Op HiHat"/>
+     <Note Number="47"  Name="7=Verb Tom Hi"/>
+     <Note Number="48"  Name="8=Verb Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Verb Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 2"/>
+     <Note Number="52"  Name="2=China Cym"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Cowbell 1"/>
+     <Note Number="59"  Name="9=Ride Bell 1"/>
+     <Note Number="60"  Name="0=Cga Mute Hi"/>
+     <Note Number="61"  Name="1=Cga Mute Lo"/>
+     <Note Number="62"  Name="2=Cga Slap"/>
+     <Note Number="63"  Name="3=Cga Open Hi"/>
+     <Note Number="64"  Name="4=Cga Open Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Soft Pad A"/>
+     <Note Number="72"  Name="2=Soft Pad B"/>
+     <Note Number="73"  Name="3=Long Guiro"/>
+     <Note Number="74"  Name="4=Long Guiro"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=Wood Block"/>
+     <Note Number="77"  Name="7=Wood Block"/>
+     <Note Number="78"  Name="8=Cuica"/>
+     <Note Number="79"  Name="9=Cuica"/>
+     <Note Number="80"  Name="0=Open Triangl"/>
+     <Note Number="81"  Name="1=Open Triangl"/>
+     <Note Number="82"  Name="2=Cabasa Cut"/>
+     <Note Number="83"  Name="3=Spectrum"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=Wood Block"/>
+     <Note Number="86"  Name="6=Cga Slap"/>
+     <Note Number="87"  Name="7=Dry Tom Lo"/>
+     <Note Number="88"  Name="8=Lite Kick"/>
+     <Note Number="89"  Name="9=Hybrid Kick2"/>
+     <Note Number="90"  Name="0=Old Kick"/>
+     <Note Number="91"  Name="1=Pop Voice"/>
+     <Note Number="92"  Name="2=Wind Agogo"/>
+     <Note Number="93"  Name="3=Op HiHat"/>
+     <Note Number="94"  Name="4=Anklungs"/>
+     <Note Number="95"  Name="5=Op HiHat"/>
+     <Note Number="96"  Name="6=Metronome 2"/>
+     <Note Number="97"  Name="7=R8 Click"/>
+     <Note Number="98"  Name="8=Metronome 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Round Kick"/>
+     <Note Number="37"  Name="7=Dry Stick"/>
+     <Note Number="38"  Name="8=Piccolo SN"/>
+     <Note Number="39"  Name="9=Hand Claps"/>
+     <Note Number="40"  Name="0=Piccolo SN"/>
+     <Note Number="41"  Name="1=Verb Tom Lo"/>
+     <Note Number="42"  Name="2=Cl HiHat 1"/>
+     <Note Number="43"  Name="3=Verb Tom Lo"/>
+     <Note Number="44"  Name="4=Cl HiHat 2"/>
+     <Note Number="45"  Name="5=Verb Tom Hi"/>
+     <Note Number="46"  Name="6=Op HiHat"/>
+     <Note Number="47"  Name="7=Verb Tom Hi"/>
+     <Note Number="48"  Name="8=Verb Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Verb Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=China Cym"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Cowbell 1"/>
+     <Note Number="59"  Name="9=Ride Bell 1"/>
+     <Note Number="60"  Name="0=Cga Mute Hi"/>
+     <Note Number="61"  Name="1=Cga Mute Lo"/>
+     <Note Number="62"  Name="2=Cga Slap"/>
+     <Note Number="63"  Name="3=Cga Open Hi"/>
+     <Note Number="64"  Name="4=Cga Open Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Cabasa Down"/>
+     <Note Number="72"  Name="2=Cabasa Cut"/>
+     <Note Number="73"  Name="3=808 Kick"/>
+     <Note Number="74"  Name="4=808 SN"/>
+     <Note Number="75"  Name="5=DIGI Bell 1"/>
+     <Note Number="76"  Name="6=808 SN"/>
+     <Note Number="77"  Name="7=808 Kick"/>
+     <Note Number="78"  Name="8=Spectrum"/>
+     <Note Number="79"  Name="9=808 Kick"/>
+     <Note Number="80"  Name="0=Spectrum"/>
+     <Note Number="81"  Name="1=808 Kick"/>
+     <Note Number="82"  Name="2=Spectrum"/>
+     <Note Number="83"  Name="3=808 Kick"/>
+     <Note Number="84"  Name="4=808 Kick"/>
+     <Note Number="85"  Name="5=Feedbackwave"/>
+     <Note Number="86"  Name="6=808 Kick"/>
+     <Note Number="87"  Name="7=Feedbackwave"/>
+     <Note Number="88"  Name="8=Pop Voice"/>
+     <Note Number="89"  Name="9=Pop Voice"/>
+     <Note Number="90"  Name="0=Wind Agogo"/>
+     <Note Number="91"  Name="1=Pop Voice"/>
+     <Note Number="92"  Name="2=Wind Agogo"/>
+     <Note Number="93"  Name="3=Op HiHat"/>
+     <Note Number="94"  Name="4=Anklungs"/>
+     <Note Number="95"  Name="5=Op HiHat"/>
+     <Note Number="96"  Name="6=Metronome 2"/>
+     <Note Number="97"  Name="7=R8 Click"/>
+     <Note Number="98"  Name="8=Metronome 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Round Kick"/>
+     <Note Number="37"  Name="7=Dry Stick"/>
+     <Note Number="38"  Name="8=Piccolo SN"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=Natural SN2"/>
+     <Note Number="41"  Name="1=Verb Tom Lo"/>
+     <Note Number="42"  Name="2=Cl HiHat 1"/>
+     <Note Number="43"  Name="3=Verb Tom Lo"/>
+     <Note Number="44"  Name="4=Pedal HiHat"/>
+     <Note Number="45"  Name="5=Verb Tom Lo"/>
+     <Note Number="46"  Name="6=Op HiHat"/>
+     <Note Number="47"  Name="7=Verb Tom Lo"/>
+     <Note Number="48"  Name="8=Verb Tom Hi"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Verb Tom Hi"/>
+     <Note Number="51"  Name="1=Ride 1"/>
+     <Note Number="52"  Name="2=China Cym"/>
+     <Note Number="53"  Name="3=Ride Bell 1"/>
+     <Note Number="54"  Name="4=Tambourine"/>
+     <Note Number="55"  Name="5=Crash 1"/>
+     <Note Number="56"  Name="6=Cowbell 1"/>
+     <Note Number="57"  Name="7=Crash 1"/>
+     <Note Number="58"  Name="8=Vibraslap"/>
+     <Note Number="59"  Name="9=Ride 1"/>
+     <Note Number="60"  Name="0=Bongo Hi"/>
+     <Note Number="61"  Name="1=Bongo Lo"/>
+     <Note Number="62"  Name="2=Cga Mute Hi"/>
+     <Note Number="63"  Name="3=Cga Open Hi"/>
+     <Note Number="64"  Name="4=Cga Open Lo"/>
+     <Note Number="65"  Name="5=Timbale"/>
+     <Note Number="66"  Name="6=Timbale"/>
+     <Note Number="67"  Name="7=Agogo"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Cabasa Up"/>
+     <Note Number="70"  Name="0=Maracas"/>
+     <Note Number="71"  Name="1=Soft Pad A"/>
+     <Note Number="72"  Name="2=Soft Pad B"/>
+     <Note Number="73"  Name="3=Long Guiro"/>
+     <Note Number="74"  Name="4=Long Guiro"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=Wood Block"/>
+     <Note Number="77"  Name="7=Wood Block"/>
+     <Note Number="78"  Name="8=Cuica"/>
+     <Note Number="79"  Name="9=Cuica"/>
+     <Note Number="80"  Name="0=Open Triangl"/>
+     <Note Number="81"  Name="1=Open Triangl"/>
+     <Note Number="82"  Name="2=Maracas"/>
+     <Note Number="83"  Name="3=Ice Rain"/>
+     <Note Number="84"  Name="4=Wind Chimes"/>
+     <Note Number="85"  Name="5=Claves"/>
+     <Note Number="86"  Name="6=808 SN"/>
+     <Note Number="87"  Name="7=Verb Tom Hi"/>
+     <Note Number="88"  Name="8=Piccolo SN"/>
+     <Note Number="89"  Name="9=Scratch 3"/>
+     <Note Number="90"  Name="0=Tin Wave"/>
+     <Note Number="91"  Name="1=Spectrum"/>
+     <Note Number="92"  Name="2=REV Steel DR"/>
+     <Note Number="93"  Name="3=REV Tin Wave"/>
+     <Note Number="94"  Name="4=REV PiccloSN"/>
+     <Note Number="95"  Name="5=REV Crash 1"/>
+     <Note Number="96"  Name="6=Metronome 2"/>
+     <Note Number="97"  Name="7=R8 Click"/>
+     <Note Number="98"  Name="8=Metronome 1"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=Round Kick"/>
+     <Note Number="37"  Name="7=Side Stick"/>
+     <Note Number="38"  Name="8=808 SN"/>
+     <Note Number="39"  Name="9=808 Claps"/>
+     <Note Number="40"  Name="0=808 SN"/>
+     <Note Number="41"  Name="1=808 Kick"/>
+     <Note Number="42"  Name="2=606 HiHat Cl"/>
+     <Note Number="43"  Name="3=Tekno Hit"/>
+     <Note Number="44"  Name="4=606 HiHat Cl"/>
+     <Note Number="45"  Name="5=808 Kick"/>
+     <Note Number="46"  Name="6=606 HiHat Op"/>
+     <Note Number="47"  Name="7=Teckno Hit"/>
+     <Note Number="48"  Name="8=808 Kick"/>
+     <Note Number="49"  Name="9=Crash 1"/>
+     <Note Number="50"  Name="0=Tekno Hit"/>
+     <Note Number="51"  Name="1=Voice Breath"/>
+     <Note Number="52"  Name="2=MC500 Beep 1"/>
+     <Note Number="53"  Name="3=MC500 Beep 2"/>
+     <Note Number="54"  Name="4=R8 Click"/>
+     <Note Number="55"  Name="5=Pizz"/>
+     <Note Number="56"  Name="6=DIGI Bell 1"/>
+     <Note Number="57"  Name="7=Rattles"/>
+     <Note Number="58"  Name="8=Ride Bell 1"/>
+     <Note Number="59"  Name="9=REV Tamb"/>
+     <Note Number="60"  Name="0=2.2 Vibwave"/>
+     <Note Number="61"  Name="1=Low Pink NZ"/>
+     <Note Number="62"  Name="2=Kalimba"/>
+     <Note Number="63"  Name="3=Metal Wind"/>
+     <Note Number="64"  Name="4=Lead Wave"/>
+     <Note Number="65"  Name="5=Tin Wave"/>
+     <Note Number="66"  Name="6=Agogo"/>
+     <Note Number="67"  Name="7=Lite Kick"/>
+     <Note Number="68"  Name="8=Agogo"/>
+     <Note Number="69"  Name="9=Lite Kick"/>
+     <Note Number="70"  Name="0=Agogo"/>
+     <Note Number="71"  Name="1=Gtr Harm A"/>
+     <Note Number="72"  Name="2=Gtr Harm A"/>
+     <Note Number="73"  Name="3=piano Thump"/>
+     <Note Number="74"  Name="4=Natural SN1"/>
+     <Note Number="75"  Name="5=Hand Claps"/>
+     <Note Number="76"  Name="6=Natural SN1"/>
+     <Note Number="77"  Name="7=808 SN"/>
+     <Note Number="78"  Name="8=PowerChord B"/>
+     <Note Number="79"  Name="9=Hybrid Kick2"/>
+     <Note Number="80"  Name="0=PowerChord B"/>
+     <Note Number="81"  Name="1=Gt.FretNoise"/>
+     <Note Number="82"  Name="2=Banjo B"/>
+     <Note Number="83"  Name="3=Slap Bass 1"/>
+     <Note Number="84"  Name="4=Oboe mf A"/>
+     <Note Number="85"  Name="5=Shakuhachi"/>
+     <Note Number="86"  Name="6=Pizz"/>
+     <Note Number="87"  Name="7=Syn Vox 1"/>
+     <Note Number="88"  Name="8=Voice Aahs A"/>
+     <Note Number="89"  Name="9=Voice Oohs2A"/>
+     <Note Number="90"  Name="0=Pop Voice"/>
+     <Note Number="91"  Name="1=Male Ooh A"/>
+     <Note Number="92"  Name="2=Voice Breath"/>
+     <Note Number="93"  Name="3=Org Vox C"/>
+     <Note Number="94"  Name="4=Vox Noise"/>
+     <Note Number="95"  Name="5=Vox Noise"/>
+     <Note Number="96"  Name="6=Applause"/>
+     <Note Number="97"  Name="7=R8 Click"/>
+     <Note Number="98"  Name="8=Metronome 2"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

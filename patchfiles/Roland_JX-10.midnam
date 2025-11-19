@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>JX-10</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland JX-10 GR101 Cartridge">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="7"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="64"  Name="A1  SUPER DREAMER"  ProgramChange="64"/>
+          <Patch Number="65"  Name="A2  GRODS PIANO 1"  ProgramChange="65"/>
+          <Patch Number="66"  Name="A3  GRODS PIANO 2"  ProgramChange="66"/>
+          <Patch Number="67"  Name="A4  GRODS PIANO 3"  ProgramChange="67"/>
+          <Patch Number="68"  Name="A5  YAMAHA X PIANO"  ProgramChange="68"/>
+          <Patch Number="69"  Name="A6  HARPSICHORD"  ProgramChange="69"/>
+          <Patch Number="70"  Name="A7  ECHO HARP"  ProgramChange="70"/>
+          <Patch Number="71"  Name="A8  UP IN THE ATTIC"  ProgramChange="71"/>
+          <Patch Number="72"  Name="B1  FANTASIA"  ProgramChange="72"/>
+          <Patch Number="73"  Name="B2  GLASS VOICES"  ProgramChange="73"/>
+          <Patch Number="74"  Name="B3  BREATHER"  ProgramChange="74"/>
+          <Patch Number="75"  Name="B4  EVOCATIVE"  ProgramChange="75"/>
+          <Patch Number="76"  Name="B5  SHIMMER"  ProgramChange="76"/>
+          <Patch Number="77"  Name="B6  LA STEEL"  ProgramChange="77"/>
+          <Patch Number="78"  Name="B7  NEW AGE"  ProgramChange="78"/>
+          <Patch Number="79"  Name="B8  ON THE RUN"  ProgramChange="79"/>
+          <Patch Number="80"  Name="C1  AQUATARKUS"  ProgramChange="80"/>
+          <Patch Number="81"  Name="C2  TRILOGY"  ProgramChange="81"/>
+          <Patch Number="82"  Name="C3  BSS FAT BASS"  ProgramChange="82"/>
+          <Patch Number="83"  Name="C4  THE MOOG SOUND"  ProgramChange="83"/>
+          <Patch Number="84"  Name="C5  MANIC POLY BASS"  ProgramChange="84"/>
+          <Patch Number="85"  Name="C6  CATHY OF ARAGON"  ProgramChange="85"/>
+          <Patch Number="86"  Name="C7  MOOG MODULAR"  ProgramChange="86"/>
+          <Patch Number="87"  Name="C8  ENDLESS ENIGMA"  ProgramChange="87"/>
+          <Patch Number="88"  Name="D1  WARM 12 VOICE"  ProgramChange="88"/>
+          <Patch Number="89"  Name="D2  MOST USEFUL PAD"  ProgramChange="89"/>
+          <Patch Number="90"  Name="D3  AMERICAN ROCK"  ProgramChange="90"/>
+          <Patch Number="91"  Name="D4  L APOCALYPSE"  ProgramChange="91"/>
+          <Patch Number="92"  Name="D5  FREEMAN BELLS"  ProgramChange="92"/>
+          <Patch Number="93"  Name="D6  THE ICE WARRIOR"  ProgramChange="93"/>
+          <Patch Number="94"  Name="D7  ALASKA"  ProgramChange="94"/>
+          <Patch Number="95"  Name="D8  VANG JARRE"  ProgramChange="95"/>
+          <Patch Number="96"  Name="E1  THE SUN"  ProgramChange="96"/>
+          <Patch Number="97"  Name="E2  POLYHORNS"  ProgramChange="97"/>
+          <Patch Number="98"  Name="E3  GRODS HORNS"  ProgramChange="98"/>
+          <Patch Number="99"  Name="E4  OVERTURE"  ProgramChange="99"/>
+          <Patch Number="100"  Name="E5  OCTAVE HORNS"  ProgramChange="100"/>
+          <Patch Number="101"  Name="E6  FAT POLYBRASS"  ProgramChange="101"/>
+          <Patch Number="102"  Name="E7  VOLUNTARY"  ProgramChange="102"/>
+          <Patch Number="103"  Name="E8  ARP HORN AND STR"  ProgramChange="103"/>
+          <Patch Number="104"  Name="F1  ODYSSEY"  ProgramChange="104"/>
+          <Patch Number="105"  Name="F2  ARP2600 FLUTES"  ProgramChange="105"/>
+          <Patch Number="106"  Name="F3  DOUBLE REED"  ProgramChange="106"/>
+          <Patch Number="107"  Name="F4  FLUTE AND VIOLIN"  ProgramChange="107"/>
+          <Patch Number="108"  Name="F5  FLUTEY PAD"  ProgramChange="108"/>
+          <Patch Number="109"  Name="F6  OLDFIELD JIGUE"  ProgramChange="109"/>
+          <Patch Number="110"  Name="F7  FLUTE AND STRING"  ProgramChange="110"/>
+          <Patch Number="111"  Name="F8  ARP COR AND STR"  ProgramChange="111"/>
+          <Patch Number="112"  Name="G1  12 VOICE ANALOG"  ProgramChange="112"/>
+          <Patch Number="113"  Name="G2  12 VOICE X-MOD"  ProgramChange="113"/>
+          <Patch Number="114"  Name="G3  12 VOICE POLY"  ProgramChange="114"/>
+          <Patch Number="115"  Name="G4  THE BIG IDEA"  ProgramChange="115"/>
+          <Patch Number="116"  Name="G5  ENORMOUS POLY"  ProgramChange="116"/>
+          <Patch Number="117"  Name="G6  GRODS REEDS"  ProgramChange="117"/>
+          <Patch Number="118"  Name="G7  SOLO -- PAD"  ProgramChange="118"/>
+          <Patch Number="119"  Name="G8  FORMANT PAD"  ProgramChange="119"/>
+          <Patch Number="120"  Name="H1  SLOW ROTOR"  ProgramChange="120"/>
+          <Patch Number="121"  Name="H2  SPITTING HAMMOND"  ProgramChange="121"/>
+          <Patch Number="122"  Name="H3  AUGMENTED ORGAN"  ProgramChange="122"/>
+          <Patch Number="123"  Name="H4  ELP SPLIT"  ProgramChange="123"/>
+          <Patch Number="124"  Name="H5  70S SYNTH ORGAN"  ProgramChange="124"/>
+          <Patch Number="125"  Name="H6  DIAPASON"  ProgramChange="125"/>
+          <Patch Number="126"  Name="H7  SOLO TO CHOIR"  ProgramChange="126"/>
+          <Patch Number="127"  Name="H8  HYMN"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland JX-10 GR101 Tones 1-50">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="8"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1  BOBS TRUMP"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2  ODYSSEY"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3  G FLUTE 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4  G FLUTE 2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5  2600 HORNS"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6  2600 OBOE"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7  CHURCH"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8  2600 FLUTE"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9  AQUATARKUS"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10  TRILOGY"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11  BSS FATBAS"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12  CATHERIN A"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13  MOOG-SOUND"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14  WURLYEP200"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15  G PIANO 1"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16  G PIANO 2"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17  G PIANO 3"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18  G BAROQUE"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19  SLOW ROTOR"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20  STITCH 2"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21  STITCH"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22  GORGAN 1"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23  REVIVAL"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24  G-STRINGS"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25  G STRINGS2"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26  FAND LIVES"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27  VP EFFECT"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28  JUNO-6 8VE"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29  JUNO XMOD"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30  GRODS 202"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31  MOOG FIFTH"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32  STEWART"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33  FANTASYNTH"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34  FANTASYPCM"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35  ON THE RUN"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36  SPACIOUS"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37  GLASSVOICE"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38  WINE GLASS"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39  ECHO HARP"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40  BREATHER"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41  HORNZ"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42  LA MER"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43  VCS 3"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44  AHHH------"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45  GUINNESS"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46  STEELTHING"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47  EERIE"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48  TEMPLE BELL"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49  DIGILOG"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50  JINGLEBELL"  ProgramChange="49"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland JX-10 Int. Tones 1-100">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1  HORNZ 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2  HORNS 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3  MELLOW BRS"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4  FAT FIFTH"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5  SAXAPHONES"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6  S/BRASS A"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7  S/BRASS B"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8  R/STRING A"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9  R/STRING B"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10  VOICES A"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11  SYNC LEAD"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12  PAD 1"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13  WAVEOLA 1"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14  WAVEOLA 2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15  WAVEOLA 3"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16  RASPWAVE 1"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17  TOUCH POLY"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18  SYNTH LEAD 1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19  SYNC SOLO 1"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20  E/PIANO A"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21  PIANO 1-A"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22  PIANO 1-B"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23  VIBISH"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24  VIBE TINK"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25  MARIMBA A"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26  ATTACK 1"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27  MARIMBA B"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28  RHODES A"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29  TINES B"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30  FUNK CLAV 1"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31  WAVE-TINK 1"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32  TABLE 1"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33  BREATH"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34  BELLS A"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35  STICKY 1"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36  REEL STEEL 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37  LOG-DRUM A"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38  ORGAN PERC"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39  HARMO1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40  RESO-TINK2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41  SHORT SAW 1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42  RESO-TINK 4"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43  RESO-TINK 6"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44  TICK 2"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45  TICK 3"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46  TICK 4"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47  WAVE-TINK 2"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48  WAVE-TINK 3"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49  BACK SAW"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50  TOYZ-TINK 1"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51  PIANO 1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52  E. GRAND 1"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53  PIANO 2"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54  CELLO SECT"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55  ARCO STRING"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56  LOW STRINGS"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57  HI STRINGS"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58  BEE-THREE"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59  ORGAN 1"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60  CALIOPE"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61  PIPE ORGAN"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62  DRYSTLDRUM"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63  MUSIC BOX"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64  WINDCHIMES"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65  E. BASS"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66  SYNTH BASS"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67  SOUNDTRACK"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68  HOLLOW PAD"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69  FLUTE 1"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70  FRETNOT 1"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71  BIG OL PAD"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72  STABBRASS 2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73  POLYSYNTH 2"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74  GOWESTBRS 2"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75  GOWESTBRS 1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76  POLY BRASS"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77  GAMELANET"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78  CELESTE 2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79  AGOGO BELL"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80  SYNDULCIMR"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81  GUITARCLAV"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82  PERKPIANO"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83  PIANO 4"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84  SYNC LEAD"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85  SEQ* 1"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86  RECORDERS"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87  BRIGHT BOWS"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88  STRINGS 1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89  STRINGS 2"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90  CHOIR"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91  MAY,S WIND"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92  MARIMBA"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93  METALLET"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94  SYNTHBELL 2"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95  XMAS BELLS"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96  VIBES"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97  CHURCHBELL"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98  RES BELL"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99  KALIMBA 2"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 GOWESTVOX"  ProgramChange="99"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland JX-10 Internals">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="A1  ELECTRIC PIANO 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="A2  BACK + FORTH CHASE"  ProgramChange="1"/>
+          <Patch Number="2"  Name="A3  V O I C E S"  ProgramChange="2"/>
+          <Patch Number="3"  Name="A4  AFRICAN MALLETS"  ProgramChange="3"/>
+          <Patch Number="4"  Name="A5  IS THIS FAT"  ProgramChange="4"/>
+          <Patch Number="5"  Name="A6  BREATHING BRASS"  ProgramChange="5"/>
+          <Patch Number="6"  Name="A7  LOW STRING PAD"  ProgramChange="6"/>
+          <Patch Number="7"  Name="A8  D C O  WAVE 1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="B1  CHORUSED PIANO"  ProgramChange="8"/>
+          <Patch Number="9"  Name="B2  METAL CHASE"  ProgramChange="9"/>
+          <Patch Number="10"  Name="B3  EUPHONIUM CHOIR"  ProgramChange="10"/>
+          <Patch Number="11"  Name="B4  METAL ON WOOD"  ProgramChange="11"/>
+          <Patch Number="12"  Name="B5  OBESE FIFTHS"  ProgramChange="12"/>
+          <Patch Number="13"  Name="B6  SLOW BRASS"  ProgramChange="13"/>
+          <Patch Number="14"  Name="B7  ORCHESTRATED FLUTE"  ProgramChange="14"/>
+          <Patch Number="15"  Name="B8  TIBETAN BELLS"  ProgramChange="15"/>
+          <Patch Number="16"  Name="C1  METALLIC E.PIANO"  ProgramChange="16"/>
+          <Patch Number="17"  Name="C2  SLAP BACK PAD"  ProgramChange="17"/>
+          <Patch Number="18"  Name="C3  HOLLOW VOICES"  ProgramChange="18"/>
+          <Patch Number="19"  Name="C4  STEEL DRUM BAND"  ProgramChange="19"/>
+          <Patch Number="20"  Name="C5  POLY SYNTH"  ProgramChange="20"/>
+          <Patch Number="21"  Name="C6  STAB BRASS 8VA"  ProgramChange="21"/>
+          <Patch Number="22"  Name="C7  BOWED STRINGS"  ProgramChange="22"/>
+          <Patch Number="23"  Name="C8  SYNTH BELLS"  ProgramChange="23"/>
+          <Patch Number="24"  Name="D1  JAZZ ORGAN"  ProgramChange="24"/>
+          <Patch Number="25"  Name="D2  DANCING FLUTES"  ProgramChange="25"/>
+          <Patch Number="26"  Name="D3  SOUNDTRACK"  ProgramChange="26"/>
+          <Patch Number="27"  Name="D4  CELESTE"  ProgramChange="27"/>
+          <Patch Number="28"  Name="D5  BIG DIGITAL"  ProgramChange="28"/>
+          <Patch Number="29"  Name="D6  SAMPLE BRASS"  ProgramChange="29"/>
+          <Patch Number="30"  Name="D7  REVERB STRINGS"  ProgramChange="30"/>
+          <Patch Number="31"  Name="D8  HANDBELL CHOIR"  ProgramChange="31"/>
+          <Patch Number="32"  Name="E1  ELECTRIC PIANO 2"  ProgramChange="32"/>
+          <Patch Number="33"  Name="E2  BACKWARDS PAN L.R"  ProgramChange="33"/>
+          <Patch Number="34"  Name="E3  CALLIOPE"  ProgramChange="34"/>
+          <Patch Number="35"  Name="E4  GLOCK VIBES"  ProgramChange="35"/>
+          <Patch Number="36"  Name="E5  CATHEDRAL ORGAN"  ProgramChange="36"/>
+          <Patch Number="37"  Name="E6  HORN SELECTION"  ProgramChange="37"/>
+          <Patch Number="38"  Name="E7  CELLO ORCHESTRA"  ProgramChange="38"/>
+          <Patch Number="39"  Name="E8  PIANO + STRINGS"  ProgramChange="39"/>
+          <Patch Number="40"  Name="F1  METALLIC E.PIANO 2"  ProgramChange="40"/>
+          <Patch Number="41"  Name="F2  SYNTH BASS + PAD"  ProgramChange="41"/>
+          <Patch Number="42"  Name="F3  MELLOW PAD"  ProgramChange="42"/>
+          <Patch Number="43"  Name="F4  STICK VIBES"  ProgramChange="43"/>
+          <Patch Number="44"  Name="F5  TOUCH POLY SYNTH"  ProgramChange="44"/>
+          <Patch Number="45"  Name="F6  WINDY FLUTE"  ProgramChange="45"/>
+          <Patch Number="46"  Name="F7  SLOW HIGH STRINGS"  ProgramChange="46"/>
+          <Patch Number="47"  Name="F8  D C O  WAVE 3"  ProgramChange="47"/>
+          <Patch Number="48"  Name="G1  ROCK ORGAN"  ProgramChange="48"/>
+          <Patch Number="49"  Name="G2  E.BASS + E.PIANO"  ProgramChange="49"/>
+          <Patch Number="50"  Name="G3  SYNC PAD"  ProgramChange="50"/>
+          <Patch Number="51"  Name="G4  BOTTLE MARIMBA"  ProgramChange="51"/>
+          <Patch Number="52"  Name="G5  SYNTH SOLO"  ProgramChange="52"/>
+          <Patch Number="53"  Name="G6  WOOD MALLET"  ProgramChange="53"/>
+          <Patch Number="54"  Name="G7  SLOW HUGE STRINGS"  ProgramChange="54"/>
+          <Patch Number="55"  Name="G8  D C O  WAVE 4"  ProgramChange="55"/>
+          <Patch Number="56"  Name="H1  ACOUSTIC PIANO"  ProgramChange="56"/>
+          <Patch Number="57"  Name="H2  SYNTH BASS + CLAV"  ProgramChange="57"/>
+          <Patch Number="58"  Name="H3  STRING+HORN X.FADE"  ProgramChange="58"/>
+          <Patch Number="59"  Name="H4  XYLOPHONE"  ProgramChange="59"/>
+          <Patch Number="60"  Name="H5  SYNC SOLO"  ProgramChange="60"/>
+          <Patch Number="61"  Name="H6  MAYS PAD"  ProgramChange="61"/>
+          <Patch Number="62"  Name="H7  STICK BELLS"  ProgramChange="62"/>
+          <Patch Number="63"  Name="H8  HIGH UNISON STRINGS"  ProgramChange="63"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland JX-10 KNP V2A">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="9"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="64"  Name="A1  KNP RHODES"  ProgramChange="64"/>
+          <Patch Number="65"  Name="A2  RHODES #2"  ProgramChange="65"/>
+          <Patch Number="66"  Name="A3  SYNTH PIANO"  ProgramChange="66"/>
+          <Patch Number="67"  Name="A4  PIANO/CHOIR"  ProgramChange="67"/>
+          <Patch Number="68"  Name="A5  METAL PIANO"  ProgramChange="68"/>
+          <Patch Number="69"  Name="A6  BRIGHT RHODES"  ProgramChange="69"/>
+          <Patch Number="70"  Name="A7  BELL PADS"  ProgramChange="70"/>
+          <Patch Number="71"  Name="A8  STRING PADS"  ProgramChange="71"/>
+          <Patch Number="72"  Name="B1  BOWED STRINGS"  ProgramChange="72"/>
+          <Patch Number="73"  Name="B2  SUPER JX PADS"  ProgramChange="73"/>
+          <Patch Number="74"  Name="B3  SYNTH STRINGS"  ProgramChange="74"/>
+          <Patch Number="75"  Name="B4  PROTON CHOIR"  ProgramChange="75"/>
+          <Patch Number="76"  Name="B5  STRING THING"  ProgramChange="76"/>
+          <Patch Number="77"  Name="B6  MINI MOOG"  ProgramChange="77"/>
+          <Patch Number="78"  Name="B7  LYLE'S LEAD"  ProgramChange="78"/>
+          <Patch Number="79"  Name="B8  METAL LEAD"  ProgramChange="79"/>
+          <Patch Number="80"  Name="C1  OB8 JUMP!"  ProgramChange="80"/>
+          <Patch Number="81"  Name="C2  ANALOG LEAD"  ProgramChange="81"/>
+          <Patch Number="82"  Name="C3  LAYERS"  ProgramChange="82"/>
+          <Patch Number="83"  Name="C4  PROPHET 5 PADS"  ProgramChange="83"/>
+          <Patch Number="84"  Name="C5  FAT ANALOG"  ProgramChange="84"/>
+          <Patch Number="85"  Name="C6  DIGITAL SYNTH"  ProgramChange="85"/>
+          <Patch Number="86"  Name="C7  M1 BELLS"  ProgramChange="86"/>
+          <Patch Number="87"  Name="C8  FAT LEAD"  ProgramChange="87"/>
+          <Patch Number="88"  Name="D1  SYNTH BRASS"  ProgramChange="88"/>
+          <Patch Number="89"  Name="D2  PCM LAYERS"  ProgramChange="89"/>
+          <Patch Number="90"  Name="D3  BRIGHT BRASS"  ProgramChange="90"/>
+          <Patch Number="91"  Name="D4  COOL BRASS"  ProgramChange="91"/>
+          <Patch Number="92"  Name="D5  MELLO SYNTH"  ProgramChange="92"/>
+          <Patch Number="93"  Name="D6  THE KIDS BRASS"  ProgramChange="93"/>
+          <Patch Number="94"  Name="D7  POWER BRASS"  ProgramChange="94"/>
+          <Patch Number="95"  Name="D8  BRASS/STRINGS"  ProgramChange="95"/>
+          <Patch Number="96"  Name="E1  PROTONS STRING"  ProgramChange="96"/>
+          <Patch Number="97"  Name="E2  CAVE ROCKIN"  ProgramChange="97"/>
+          <Patch Number="98"  Name="E3  DEEP BASS"  ProgramChange="98"/>
+          <Patch Number="99"  Name="E4  FUNK BASS"  ProgramChange="99"/>
+          <Patch Number="100"  Name="E5  SUPER JX BASS"  ProgramChange="100"/>
+          <Patch Number="101"  Name="E6  FAT BASS"  ProgramChange="101"/>
+          <Patch Number="102"  Name="E7  MOOG BASS"  ProgramChange="102"/>
+          <Patch Number="103"  Name="E8  BASS LEAD"  ProgramChange="103"/>
+          <Patch Number="104"  Name="F1  PROTOTYPE"  ProgramChange="104"/>
+          <Patch Number="105"  Name="F2  SUPER JUPITER"  ProgramChange="105"/>
+          <Patch Number="106"  Name="F3  ELECTRIC RED"  ProgramChange="106"/>
+          <Patch Number="107"  Name="F4  DX7 BASS"  ProgramChange="107"/>
+          <Patch Number="108"  Name="F5  FROM THE EAST"  ProgramChange="108"/>
+          <Patch Number="109"  Name="F6  THE PATCH KING"  ProgramChange="109"/>
+          <Patch Number="110"  Name="F7  TV THEME"  ProgramChange="110"/>
+          <Patch Number="111"  Name="F8  STRING 4THS"  ProgramChange="111"/>
+          <Patch Number="112"  Name="G1  PADS PADS PADS"  ProgramChange="112"/>
+          <Patch Number="113"  Name="G2  FUNKY PIANO"  ProgramChange="113"/>
+          <Patch Number="114"  Name="G3  THE NEPRO KID"  ProgramChange="114"/>
+          <Patch Number="115"  Name="G4  MELLOTRON"  ProgramChange="115"/>
+          <Patch Number="116"  Name="G5  CHASER"  ProgramChange="116"/>
+          <Patch Number="117"  Name="G6  PIANO DELAY"  ProgramChange="117"/>
+          <Patch Number="118"  Name="G7  SUMMER OF 78'"  ProgramChange="118"/>
+          <Patch Number="119"  Name="G8  SID'S PIANO"  ProgramChange="119"/>
+          <Patch Number="120"  Name="H1  STRING/CHOIR"  ProgramChange="120"/>
+          <Patch Number="121"  Name="H2  BASSEY"  ProgramChange="121"/>
+          <Patch Number="122"  Name="H3  FAT PATCH"  ProgramChange="122"/>
+          <Patch Number="123"  Name="H4  MR. SAPOVATA"  ProgramChange="123"/>
+          <Patch Number="124"  Name="H5  GENESIS PADS"  ProgramChange="124"/>
+          <Patch Number="125"  Name="H6  STEVE'S LEAD"  ProgramChange="125"/>
+          <Patch Number="126"  Name="H7  WOOD PADS"  ProgramChange="126"/>
+          <Patch Number="127"  Name="H8  BREATHLESS"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland JX-10 KNP V2A Tones 1-50">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1  HORNZ 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2  HORNS 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3  GOWESTVOX"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4  FAT FIFTH"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5  * BOB CLAV *"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6  S/BRASS A"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7  S/BRASS B"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8  R/STRING A"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9  KURZWIEL B"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10  VOICES A"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11  VOICE HISS"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12  PAD 1"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13  WAVEOLA 1"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14  WAVEOLA 2"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15  STABBRASS 2"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16  STRINGS 1"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17  TOUCH POLY"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18  SYNTH LEAD 1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19  SYNC SOLO 1"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20  E/PIANO A"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21  PIANO 1-A"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22  PIANO 1-B"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23  VIBISH A"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24  VIBE TINK"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25  MARIMBA A"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26  ATTACK 1"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27  MARIMBA B"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28  RHODES A"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29  TINES B"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30  E, GRAND 1"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31  STABBRASS 2"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32  TABLE 1"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33  BREATH"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34  BELLS A"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35  STICKY 1"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36  REEL STEEL 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37  LOG-DRUM A"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38  ORGAN PERC"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39  HARMO1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40  RESO-TINK2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41  SHORT SAW 1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42  RESO-TINK 4"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43  RESO-TINK 6"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44  TICK 2"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45  BIG BOB"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46  TICK 4"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47  WAVE-TINK 2"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48  WAVE-TINK 3"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49  BACK SAW"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50  TOYZ-TINK 1"  ProgramChange="49"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland JX-10 KNP V3A">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="64"  Name="A1  PATCH KING BASS"  ProgramChange="64"/>
+          <Patch Number="65"  Name="A2  MOOG BASS"  ProgramChange="65"/>
+          <Patch Number="66"  Name="A3  PROPHET 5 BASS"  ProgramChange="66"/>
+          <Patch Number="67"  Name="A4  PICK BASS"  ProgramChange="67"/>
+          <Patch Number="68"  Name="A5  OB8 BASS"  ProgramChange="68"/>
+          <Patch Number="69"  Name="A6  ANALOG BASS"  ProgramChange="69"/>
+          <Patch Number="70"  Name="A7  DX7 BASS"  ProgramChange="70"/>
+          <Patch Number="71"  Name="A8  PROTON BASS"  ProgramChange="71"/>
+          <Patch Number="72"  Name="B1  ANALOG BRASS"  ProgramChange="72"/>
+          <Patch Number="73"  Name="B2  BRASS PADS"  ProgramChange="73"/>
+          <Patch Number="74"  Name="B3  FAT BRASS PRO"  ProgramChange="74"/>
+          <Patch Number="75"  Name="B4  SOUNDTRACK BRASS"  ProgramChange="75"/>
+          <Patch Number="76"  Name="B5  FLOWING"  ProgramChange="76"/>
+          <Patch Number="77"  Name="B6  SUPER PAD"  ProgramChange="77"/>
+          <Patch Number="78"  Name="B7  WARM ANALOG"  ProgramChange="78"/>
+          <Patch Number="79"  Name="B8  STEVE'S STRINGS"  ProgramChange="79"/>
+          <Patch Number="80"  Name="C1  SLOW FLOW"  ProgramChange="80"/>
+          <Patch Number="81"  Name="C2  DYNO MY RHODES"  ProgramChange="81"/>
+          <Patch Number="82"  Name="C3  PRO RHODES"  ProgramChange="82"/>
+          <Patch Number="83"  Name="C4  SUPER JUPI2ER"  ProgramChange="83"/>
+          <Patch Number="84"  Name="C5  FAT CHASER"  ProgramChange="84"/>
+          <Patch Number="85"  Name="C6  MELLOTRON STRINGS"  ProgramChange="85"/>
+          <Patch Number="86"  Name="C7  VOYETRA 8"  ProgramChange="86"/>
+          <Patch Number="87"  Name="C8  MEMORY MOOG +"  ProgramChange="87"/>
+          <Patch Number="88"  Name="D1  FAT CATS"  ProgramChange="88"/>
+          <Patch Number="89"  Name="D2  POWER BRASS#"  ProgramChange="89"/>
+          <Patch Number="90"  Name="D3  GODIVA"  ProgramChange="90"/>
+          <Patch Number="91"  Name="D4  FUNK CHASER"  ProgramChange="91"/>
+          <Patch Number="92"  Name="D5  WAVESTATION"  ProgramChange="92"/>
+          <Patch Number="93"  Name="D6  SYNTH KEYS"  ProgramChange="93"/>
+          <Patch Number="94"  Name="D7  SYNTH#KEYS 2"  ProgramChange="94"/>
+          <Patch Number="95"  Name="D8  RMI E.PIANO"  ProgramChange="95"/>
+          <Patch Number="96"  Name="E1  MOODY MELLOTRON"  ProgramChange="96"/>
+          <Patch Number="97"  Name="E2  M1 PADS"  ProgramChange="97"/>
+          <Patch Number="98"  Name="E3  D70 PADS"  ProgramChange="98"/>
+          <Patch Number="99"  Name="E4  SYNCLAVIER"  ProgramChange="99"/>
+          <Patch Number="100"  Name="E5  KINGS POLY S7NTH"  ProgramChange="100"/>
+          <Patch Number="101"  Name="E6  JUPITER LEAD"  ProgramChange="101"/>
+          <Patch Number="102"  Name="E7  JUPITER 6"  ProgramChange="102"/>
+          <Patch Number="103"  Name="E8  PROPHET 10"  ProgramChange="103"/>
+          <Patch Number="104"  Name="F1  ARP BASS"  ProgramChange="104"/>
+          <Patch Number="105"  Name="F2  CAPTAINS SYNTH"  ProgramChange="105"/>
+          <Patch Number="106"  Name="F3  MORE MEMORY MOGS"  ProgramChange="106"/>
+          <Patch Number="107"  Name="F4  SHARP ATTACK"  ProgramChange="107"/>
+          <Patch Number="108"  Name="F5  D50 PADS"  ProgramChange="108"/>
+          <Patch Number="109"  Name="F6  MORE ANALOG STUFF"  ProgramChange="109"/>
+          <Patch Number="110"  Name="F7  ARP 2600"  ProgramChange="110"/>
+          <Patch Number="111"  Name="F8  BELL PADS"  ProgramChange="111"/>
+          <Patch Number="112"  Name="G1  MKS80 PADS    #"  ProgramChange="112"/>
+          <Patch Number="113"  Name="G2  DIGITAL BELLS"  ProgramChange="113"/>
+          <Patch Number="114"  Name="G3  AC BASS"  ProgramChange="114"/>
+          <Patch Number="115"  Name="G4  ORGANIC"  ProgramChange="115"/>
+          <Patch Number="116"  Name="G5  RMI E.PIANO"  ProgramChange="116"/>
+          <Patch Number="117"  Name="G6  PIANO/STRINGS"  ProgramChange="117"/>
+          <Patch Number="118"  Name="G7  WOODWIND LEAD  #"  ProgramChange="118"/>
+          <Patch Number="119"  Name="G8  AGOGO BASS"  ProgramChange="119"/>
+          <Patch Number="120"  Name="H1  OLD E.PIANO"  ProgramChange="120"/>
+          <Patch Number="121"  Name="H2  X-FADE SOUNDTRACK"  ProgramChange="121"/>
+          <Patch Number="122"  Name="H3  DX7 BELLS"  ProgramChange="122"/>
+          <Patch Number="123"  Name="H4  SUPE JX BASS"  ProgramChange="123"/>
+          <Patch Number="124"  Name="H5  FAT PADS 'R US"  ProgramChange="124"/>
+          <Patch Number="125"  Name="H6  FANFARE"  ProgramChange="125"/>
+          <Patch Number="126"  Name="H7  PPG WAVE"  ProgramChange="126"/>
+          <Patch Number="127"  Name="H8  11/27/91 KNP"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland JX-10 Sound FX">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="64"  Name="A1  TELEPHONE BELLS"  ProgramChange="64"/>
+          <Patch Number="65"  Name="A2  TWINKLE MILKY WAY"  ProgramChange="65"/>
+          <Patch Number="66"  Name="A3  ART OF NOISE 1"  ProgramChange="66"/>
+          <Patch Number="67"  Name="A4  ART OF NOISE 2"  ProgramChange="67"/>
+          <Patch Number="68"  Name="A5  GONG DRUMS"  ProgramChange="68"/>
+          <Patch Number="69"  Name="A6  4 DIMENSION DRUMS"  ProgramChange="69"/>
+          <Patch Number="70"  Name="A7  SUPER RHYTHMIC"  ProgramChange="70"/>
+          <Patch Number="71"  Name="A8  SYNTH BELLS 2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="B1  UGUISU"  ProgramChange="72"/>
+          <Patch Number="73"  Name="B2  OKYO &amp; MOKUGYO"  ProgramChange="73"/>
+          <Patch Number="74"  Name="B3  MONSTER"  ProgramChange="74"/>
+          <Patch Number="75"  Name="B4  FROG &amp; COW"  ProgramChange="75"/>
+          <Patch Number="76"  Name="B5  JAWS"  ProgramChange="76"/>
+          <Patch Number="77"  Name="B6  WOODLAND SCENERY"  ProgramChange="77"/>
+          <Patch Number="78"  Name="B7  R O A R"  ProgramChange="78"/>
+          <Patch Number="79"  Name="B8  LANDING UFO"  ProgramChange="79"/>
+          <Patch Number="80"  Name="C1  BLACK HOLE WIND"  ProgramChange="80"/>
+          <Patch Number="81"  Name="C2  7 STAR LIGHT"  ProgramChange="81"/>
+          <Patch Number="82"  Name="C3  SPACE FANTASY"  ProgramChange="82"/>
+          <Patch Number="83"  Name="C4  4TH JULY SHOT"  ProgramChange="83"/>
+          <Patch Number="84"  Name="C5  CORAL REEF"  ProgramChange="84"/>
+          <Patch Number="85"  Name="C6  SYNCHRONICITY"  ProgramChange="85"/>
+          <Patch Number="86"  Name="C7  SPACE HIGH WAY"  ProgramChange="86"/>
+          <Patch Number="87"  Name="C8  3D DRIVE"  ProgramChange="87"/>
+          <Patch Number="88"  Name="D1  BUBBLES WORLD"  ProgramChange="88"/>
+          <Patch Number="89"  Name="D2  SURFS UP"  ProgramChange="89"/>
+          <Patch Number="90"  Name="D3  MUD STREAM"  ProgramChange="90"/>
+          <Patch Number="91"  Name="D4  RAIN DROPS"  ProgramChange="91"/>
+          <Patch Number="92"  Name="D5  STREAM"  ProgramChange="92"/>
+          <Patch Number="93"  Name="D6  THUNDER"  ProgramChange="93"/>
+          <Patch Number="94"  Name="D7  BUBBLES RIVER"  ProgramChange="94"/>
+          <Patch Number="95"  Name="D8  TIDAL WAVE"  ProgramChange="95"/>
+          <Patch Number="96"  Name="E1  SAMPLED CAR KEYS"  ProgramChange="96"/>
+          <Patch Number="97"  Name="E2  TIN PLATE DRUMS"  ProgramChange="97"/>
+          <Patch Number="98"  Name="E3  MEMORYS OF CHURCH"  ProgramChange="98"/>
+          <Patch Number="99"  Name="E4  ECHO BELLS"  ProgramChange="99"/>
+          <Patch Number="100"  Name="E5  METALLIC DRUMS"  ProgramChange="100"/>
+          <Patch Number="101"  Name="E6  SPACE DRUMS"  ProgramChange="101"/>
+          <Patch Number="102"  Name="E7  JX GONG"  ProgramChange="102"/>
+          <Patch Number="103"  Name="E8  METAL PECKER"  ProgramChange="103"/>
+          <Patch Number="104"  Name="F1  FALLING"  ProgramChange="104"/>
+          <Patch Number="105"  Name="F2  ENGINE"  ProgramChange="105"/>
+          <Patch Number="106"  Name="F3  HELICOPTER"  ProgramChange="106"/>
+          <Patch Number="107"  Name="F4  MONSTERS HOUSE"  ProgramChange="107"/>
+          <Patch Number="108"  Name="F5  HIT AND RUN"  ProgramChange="108"/>
+          <Patch Number="109"  Name="F6  RIVER GOBLIN"  ProgramChange="109"/>
+          <Patch Number="110"  Name="F7  DEVIL CHILD"  ProgramChange="110"/>
+          <Patch Number="111"  Name="F8  REPEATING BELLS"  ProgramChange="111"/>
+          <Patch Number="112"  Name="G1  PSYCHO DREAM"  ProgramChange="112"/>
+          <Patch Number="113"  Name="G2  COSMIC TUNE"  ProgramChange="113"/>
+          <Patch Number="114"  Name="G3  INTRO SWEEPS"  ProgramChange="114"/>
+          <Patch Number="115"  Name="G4  SPACE JUMP"  ProgramChange="115"/>
+          <Patch Number="116"  Name="G5  D C O  STORM"  ProgramChange="116"/>
+          <Patch Number="117"  Name="G6  AFRICAN TOMS"  ProgramChange="117"/>
+          <Patch Number="118"  Name="G7  K I C K"  ProgramChange="118"/>
+          <Patch Number="119"  Name="G8  W O O D"  ProgramChange="119"/>
+          <Patch Number="120"  Name="H1  METEOR"  ProgramChange="120"/>
+          <Patch Number="121"  Name="H2  4 DIMENSION WORLD"  ProgramChange="121"/>
+          <Patch Number="122"  Name="H3  WATER GONGS"  ProgramChange="122"/>
+          <Patch Number="123"  Name="H4  ODYSSEY"  ProgramChange="123"/>
+          <Patch Number="124"  Name="H5  PLANETARIUM"  ProgramChange="124"/>
+          <Patch Number="125"  Name="H6  SPACE ECHO"  ProgramChange="125"/>
+          <Patch Number="126"  Name="H7  DEEP SEA"  ProgramChange="126"/>
+          <Patch Number="127"  Name="H8  COSMIC STRINGS"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland JX-10 Synth Cartridge">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="64"  Name="A1  HEAVEN BRASS"  ProgramChange="64"/>
+          <Patch Number="65"  Name="A2  MAYS SYNTH LEAD"  ProgramChange="65"/>
+          <Patch Number="66"  Name="A3  BIG SYNTH OPEN"  ProgramChange="66"/>
+          <Patch Number="67"  Name="A4  DCO WAVE 5"  ProgramChange="67"/>
+          <Patch Number="68"  Name="A5  SPARKLE SYNDULCMR"  ProgramChange="68"/>
+          <Patch Number="69"  Name="A6  SILENCE"  ProgramChange="69"/>
+          <Patch Number="70"  Name="A7  HEAVEN STRINGS 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="A8  HEAVEN STRINGS 2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="B1  METAL PIANO"  ProgramChange="72"/>
+          <Patch Number="73"  Name="B2  ELECTRIC PIANO 2"  ProgramChange="73"/>
+          <Patch Number="74"  Name="B3  ELECTRIC PIANO 3"  ProgramChange="74"/>
+          <Patch Number="75"  Name="B4  SYNTH CLAV"  ProgramChange="75"/>
+          <Patch Number="76"  Name="B5  HOLLOW BELLRIMBA"  ProgramChange="76"/>
+          <Patch Number="77"  Name="B6  PIANORIMBA 5THS"  ProgramChange="77"/>
+          <Patch Number="78"  Name="B7  TWINKLE PIANO"  ProgramChange="78"/>
+          <Patch Number="79"  Name="B8  ELEC. HARPSICHORD"  ProgramChange="79"/>
+          <Patch Number="80"  Name="C1  INCREDIBLE PAD"  ProgramChange="80"/>
+          <Patch Number="81"  Name="C2  SAMPLED MALEVOICES"  ProgramChange="81"/>
+          <Patch Number="82"  Name="C3  HOLLOW SOUNDTRACK"  ProgramChange="82"/>
+          <Patch Number="83"  Name="C4  SOUTHER 1"  ProgramChange="83"/>
+          <Patch Number="84"  Name="C5  SOUTHER 2"  ProgramChange="84"/>
+          <Patch Number="85"  Name="C6  ECHOVOX ENSEMBLE 1"  ProgramChange="85"/>
+          <Patch Number="86"  Name="C7  A CHILDS DREAM"  ProgramChange="86"/>
+          <Patch Number="87"  Name="C8  SILVER DREAM"  ProgramChange="87"/>
+          <Patch Number="88"  Name="D1  OBIE SAWS 1"  ProgramChange="88"/>
+          <Patch Number="89"  Name="D2  DIGITAL SYNTH BRASS"  ProgramChange="89"/>
+          <Patch Number="90"  Name="D3  REVERB BRASS 2"  ProgramChange="90"/>
+          <Patch Number="91"  Name="D4  STRUM THESE BRASS"  ProgramChange="91"/>
+          <Patch Number="92"  Name="D5  HYPERVENTOBRASS"  ProgramChange="92"/>
+          <Patch Number="93"  Name="D6  STAB BRASS X FD"  ProgramChange="93"/>
+          <Patch Number="94"  Name="D7  BRASS W REVERB"  ProgramChange="94"/>
+          <Patch Number="95"  Name="D8  DIGITAL BRASS"  ProgramChange="95"/>
+          <Patch Number="96"  Name="E1  VOX &amp; BELLS X FD"  ProgramChange="96"/>
+          <Patch Number="97"  Name="E2  BELL RIZE"  ProgramChange="97"/>
+          <Patch Number="98"  Name="E3  STICK BELLS 2"  ProgramChange="98"/>
+          <Patch Number="99"  Name="E4  BRILLIANT BELLS"  ProgramChange="99"/>
+          <Patch Number="100"  Name="E5  CHIMES"  ProgramChange="100"/>
+          <Patch Number="101"  Name="E6  VIBRABELL"  ProgramChange="101"/>
+          <Patch Number="102"  Name="E7  STRING &amp; BELLS"  ProgramChange="102"/>
+          <Patch Number="103"  Name="E8  VERY DIGITAL SOUND"  ProgramChange="103"/>
+          <Patch Number="104"  Name="F1  WOOD STICK"  ProgramChange="104"/>
+          <Patch Number="105"  Name="F2  SYNTH 5THS"  ProgramChange="105"/>
+          <Patch Number="106"  Name="F3  OVER HEIMEY"  ProgramChange="106"/>
+          <Patch Number="107"  Name="F4  GR 300 LEAD"  ProgramChange="107"/>
+          <Patch Number="108"  Name="F5  BRILLIANT MANDOLINS"  ProgramChange="108"/>
+          <Patch Number="109"  Name="F6  BUBBLE UP STRING"  ProgramChange="109"/>
+          <Patch Number="110"  Name="F7  ANALOG SOLO"  ProgramChange="110"/>
+          <Patch Number="111"  Name="F8  FIFTH SOLO"  ProgramChange="111"/>
+          <Patch Number="112"  Name="G1  BEEHIVE STRINGS 1"  ProgramChange="112"/>
+          <Patch Number="113"  Name="G2  ROCK.N ROLL SYNTH1"  ProgramChange="113"/>
+          <Patch Number="114"  Name="G3  ROCK.N ROLL SYNTH2"  ProgramChange="114"/>
+          <Patch Number="115"  Name="G4  HUGE ROOM PAD"  ProgramChange="115"/>
+          <Patch Number="116"  Name="G5  MEAN SYNC"  ProgramChange="116"/>
+          <Patch Number="117"  Name="G6  SYNTH SOLO"  ProgramChange="117"/>
+          <Patch Number="118"  Name="G7  ANALOG PLUS STRING"  ProgramChange="118"/>
+          <Patch Number="119"  Name="G8  WAVE PAD"  ProgramChange="119"/>
+          <Patch Number="120"  Name="H1  JAZZ CHORUS 1"  ProgramChange="120"/>
+          <Patch Number="121"  Name="H2  JAZZ GUITAR 1"  ProgramChange="121"/>
+          <Patch Number="122"  Name="H3  SYNTH BOW 1"  ProgramChange="122"/>
+          <Patch Number="123"  Name="H4  GRAND STRINGS"  ProgramChange="123"/>
+          <Patch Number="124"  Name="H5  CHOIR VIBES"  ProgramChange="124"/>
+          <Patch Number="125"  Name="H6  W REPORT SOUND"  ProgramChange="125"/>
+          <Patch Number="126"  Name="H7  SEQ 5THS"  ProgramChange="126"/>
+          <Patch Number="127"  Name="H8  SOLID MARIMBA"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland JX-10 Synth1 Tones 1-50">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1  POLY BRASS 2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2  MILD BRASS"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3  WET BRASS"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4  STABBRASS 3"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5  STRING 3"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6  STRINGS 4"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7  STRINGS 5"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8  SYN BOW 1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9  VOICES D"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10  VOICES E"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11  HOLLOW PAD"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12  PAD 2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13  AH  VOICE"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14  HOLLOW"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15  S/FLUTE"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16  R/STRING B"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17  FUS BELLS"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18  METAL LEAD"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19  PLUCK 2"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20  STICK"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21  PIANO 1-A"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22  CLR RHODES"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23  SYNTH CLAV"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24  PIANOLLOW"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25  HOLLOW PAD"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26  METAL"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27  BRILL BELL"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28  JAZZ GUITAR"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29  MALIMBA C"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30  HORNS 4"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31  POLYSYN 4"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32  ANA-SOLO-G"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33  SYNC SOLO 2"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34  SYN  FIFTH"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35  SYNC LEAD 2"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36  O,B, RIZE"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37  SILENCE"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38  FILT, FLOW"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39  SYNC RIZE"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40  BEEHIVE"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41  PLUCK 3"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42  RESO TINK 5"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43  STRG-TWANG"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44  VENTOLATE"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45  VOICE HIS4"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46  PLEKTRUM"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47  RES PAD"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48  SYNTH PNO"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49  RESO-TINK 3"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50  SYNC SOLO 3"  ProgramChange="49"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

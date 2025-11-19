@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>SPD-11</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland SPD-11">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 Standard"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 Room"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 Power 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Jazz 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Brush"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Electronic"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 Techno"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 TR-808"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 CR-78&amp;TR-909"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 Dynamic"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 Dance 1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 Dance 2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 Rock"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 Funk"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 Rap"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 House"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Ambient"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Dry"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Heavy"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 Light"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 Real"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Power 2"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Dopey"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Jazz 2"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Orchestra 1"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Orchestra 2"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Orchestra 3"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 Cuban 1"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Cuban 2"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Cuban 3"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Brazilian 1"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Brazilian 2"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Brazilian 3"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 African 1"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 African 2"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Asian 1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 Asian 2"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 Asian 3"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 Analog 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 Analog 2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 Effect 1"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 Effect 2"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Effect 3"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Effect 4"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 Effect 5"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Effect 6"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Effect 7"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Effect 8"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Marimba"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 Kalimba"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 Glockenspeil"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Vibraphone"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Steel Drum"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Timpani"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Xylopnone"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 Glass"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Melodic 1"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Melodic 2"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 Melodic 3"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Melodic 4"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 for patch expand 1"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 for patch expand 2"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 for patch expand 3"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 for patch expand 4"  ProgramChange="63"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

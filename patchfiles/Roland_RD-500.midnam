@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>RD-500</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland RD-500 Piano">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1 Grand Piano A1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2 Grand Piano A2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3 Grand Piano A3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4 Grand Piano A4 ST"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5 Grand Piano A5"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6 Grand Piano B1"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7 Grand Piano B2"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8 Grand Piano B3"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9 Grand Piano B4 ST"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10 Grand Piano B5"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11 Grand Piano C1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12 Grand Piano C2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13 Grand Piano C3"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14 Grand Piano C4 ST"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15 Grand Piano C5 ST"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16 Grand Piano C6"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17 Grand Piano C7"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18 Grand Piano D1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19 Grand Piano D2"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20 Grand Piano D3 ST"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21 E.Grand A1"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22 E.Grand A2"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23 E.Grand A3"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24 E.Grand A4"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25 E.Grand A5 ST"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26 E.Grand B1"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27 E.Grand B2 ST"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28 E.Grand B3"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29 SA Piano 1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30 SA Piano 2 ST"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31 SA E.Grand 1"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32 SA E.Grand 2"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33 SA E.Grand 3 ST"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34 SA E.Piano 1"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35 SA E.Piano 2 ST"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36 SA E.Piano 3"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37 SA Vibe"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38 DynoRhodes 1"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39 DynoRhodes 2"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40 DynoRhodes 3"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41 DynoRhodes 4"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42 DynoRhodes 5 ST"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43 DynoRhodes 6 ST"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44 Rhodes 1"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45 Rhodes 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46 E.Piano 1"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47 E.Piano 2"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48 E.Piano 3"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49 E.Piano 4 ST"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50 D50 E.Piano1"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51 D50 E.Piano2"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52 D50 E.Piano3"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53 D50 E.Piano4"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54 Reed Piano 1"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55 Reed Piano 2"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56 Clav 1"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57 Clav 2"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58 Clav 3"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59 Clav AutoWah ST"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60 Clav DualWah ST"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61 Harpsichord1"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62 Harpsichord2"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63 Harpsichord3"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64 Gospel B"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65 Velo-Jazz B3"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66 Rock Organ 1"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67 Rock Organ 2"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68 Rock Organ 3"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69 60s Organ"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70 Rave Organ"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71 Pipe Organ 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72 Pipe Organ 2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73 Pipe Organ 3"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74 Beauty Vox"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75 Arasian Morn"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76 Syn Vox 1"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77 Syn Vox 2"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78 Angel Ooohz"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79 Heaven"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80 EP Pad"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81 Like Dee"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82 Huff N Stuff"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83 HuffNStuff 2"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84 Synth Brass 1"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85 Synth Brass 2"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86 Synth Brass 3"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87 Poly Synth 1"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88 Poly Synth 2"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89 Synth Lead"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90 Stereo Strings ST"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91 Warm Strings"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92 Slow Strings"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93 Strings"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94 SynStrings 1"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95 SynStrings 2 ST"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96 SynStrings 3"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97 SynStrings 4 ST"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98 SynStrings 5"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99 SynStrings 6"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Soft Pad 1"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 Soft Pad 2"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 Finger Bass 1"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Finger Bass 2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Upright Bass"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Upright Bass+ride"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Fretless 1"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 Fretless 2"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 Mixed Bass 1"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 Mixed Bass 2"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 Synth Bass"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 Synth Bass 2/Lead"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Vibe 1"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Vibe 2 ST"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Warm Vibe"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 SA Vibe"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Layered Vibe 1 ST"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 Layered Vibe 2"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Marimba 1"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 Marimba 2"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 Warm Marimba"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 **Rhythm Set**"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 -"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 -"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 -"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 -"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 -"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 -"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 -"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Cross Stick"/>
+     <Note Number="38"  Name="8=Snare Drum 1"/>
+     <Note Number="39"  Name="9=Hand Clap"/>
+     <Note Number="40"  Name="0=Snare Drum 2"/>
+     <Note Number="41"  Name="1=Low Tom 2"/>
+     <Note Number="42"  Name="2=Closed HiHat"/>
+     <Note Number="43"  Name="3=Low Tom 1"/>
+     <Note Number="44"  Name="4=Pedal HiHat"/>
+     <Note Number="45"  Name="5=Mid Tom 2"/>
+     <Note Number="46"  Name="6=Open HiHat"/>
+     <Note Number="47"  Name="7=Mid Tom 1"/>
+     <Note Number="48"  Name="8=High Tom 2"/>
+     <Note Number="49"  Name="9=Crash Cymbal 1"/>
+     <Note Number="50"  Name="0=High Tom 1"/>
+     <Note Number="51"  Name="1=Ride Cymbal 1"/>
+     <Note Number="52"  Name="2=Chinese Cymbal"/>
+     <Note Number="53"  Name="3=Ride Bell"/>
+     <Note Number="54"  Name="4=Effect 1 L"/>
+     <Note Number="55"  Name="5=Splash Cymbal"/>
+     <Note Number="56"  Name="6=Effect 1 H"/>
+     <Note Number="57"  Name="7=Crash Cymbal 2"/>
+     <Note Number="58"  Name="8=Effect 2"/>
+     <Note Number="59"  Name="9=Ride Cymbal 2"/>
+     <Note Number="60"  Name="0=High Percussion 1"/>
+     <Note Number="61"  Name="1=High Percussion 2"/>
+     <Note Number="62"  Name="2=Mute High Conga"/>
+     <Note Number="63"  Name="3=Open High Conga"/>
+     <Note Number="64"  Name="4=Low Conga"/>
+     <Note Number="65"  Name="5=Hi-Pass Conga H"/>
+     <Note Number="66"  Name="6=Hi-Pass Conga L"/>
+     <Note Number="67"  Name="7=High Agogo"/>
+     <Note Number="68"  Name="8=Low Agogo"/>
+     <Note Number="69"  Name="9=Cabasa"/>
+     <Note Number="70"  Name="0=Brush Slap"/>
+     <Note Number="71"  Name="1=Brush Roll"/>
+     <Note Number="72"  Name="2=Brush Swish"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

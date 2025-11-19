@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>SRV-330</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland SRV-330 Bank 0">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 LONG HALL W. DLY"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 3D DEEP HALL #1"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 HARD WALL CHURCH"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 DIMENSIONAL SPACE"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 STEREO STUDIO #1"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 ST PR DLY PLATE"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 HIGH CEIL ROOM"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 JET PHASE REVERB"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 STEAMING"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 ST GALACTIC CHO"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 VOX HALL AMBIENCE"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 BITCHIN ECHO"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 ST LOCKER ROOM"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 ST SOFT AMBIENCE"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 SUBTLE AMBIENCE"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 LIBRARY AMBIENCE"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 LIBRARY AMB. #2"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 CATHEDRAL AMBIENCE"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 ROOM AMBIENCE"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 DRUM AMBIENCE"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 SMALL WOOD ROOM"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 ST TILED ROOM #1"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 ST NICE RM SIZZLE"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 ST ORCHESTRA ROOM"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 REAL ROOM"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 CHURCH ROOM"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 ST LITTLE ROOM #1"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 TILE ROOM SMALL"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 DISTANCE ROOM #1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 TILE ROOM BIG"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 ST JAZZ CHAMBER"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 LARGE CHAMBER"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 STEREO MUSIC CLUB"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 STEREO STUDIO #3"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 WALKER BROS HALL"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 StSHORT BRT HALL1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 StSHORT BRT HALL2"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 OCEAN HALL #1"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 LEX HALL"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 CONCERT HALL LONG"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 LONG VOC PLATE #2"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 LONG VOC PLATE #3"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 VOCAL ROOM"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 VOX HALL AMBIENCE"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 NICE VOCAL HALL #1"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 NICE VOCAL HALL #2"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 LONG HI TAIL ECHO"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 DEEP BREATHING"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 HUGE CATHEDRAL"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 AVE CATHEDRAL"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 STEREO PIANO HALL"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 ST GALACTIC CHO"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 ST SYNTH VANISH"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 MAJESTIC PLATE"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 CHORUS REVERB #1"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 ST CHORUS REV #2"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 AARON'S ROOM"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 ST CLASSICAL #1"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 THE ABBEY"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 BITCHIN ECHO"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 TIGHT DRM ROOM #2"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 MIRRORED DRM ROOM"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 MEDIUM + STAGE"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 ROCK SNARE #1"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 ST CRACK SNARE"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 ST SNARE CHAMBER"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 ST KICK CHAMBER"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 GATED BRASS"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 ORCHESTRA HIT"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 ST LUSH GUITAR"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 140 PLATE #5"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 NICE PLATE #2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 251 250 PLATE #1"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 251 250 PLATE #3"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 ST PLATER THAN H"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 BIG STACK ROOM"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 RICH AND SMOOTH"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 BIG GYM #1"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 BIG GYM #2"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 BIG GYM #3"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 DIMENSIONAL SPACE"  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 SPARKLING VERB"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 CORRIDOR(LONG)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 WAREHOUSE"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 MEDIUM WAREHOUSE1"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 BIG CATHEDRAL"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 DARK CATHEDRAL"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 STADIUM ANNOUNCE"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 STADIUM #1"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 BIG FOOT"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 GATED ATTACK SLAP"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 STEREO NON LIN"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 BACK SLAP NLR"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 REBOUND NLR"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 SUDDEN DROP NLR"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 IN THE PAST NLR"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 RISING NON LIN"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 ATTACK NON LINEAR"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 SQUEAKY BOARDS"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 TOTALLY OFF"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 STEREO 140 PLATE"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 140 PLATE #1"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 140 PLATE #2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 140 PLATE #3"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 140 PLATE #4"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 140 PLATE #5"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 140 PLATE #6"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 251 250 PLATE #1"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 251 250 PLATE #2"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 251 250 PLATE #3"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 251 250 PLATE #4"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 NICE PLATE #1"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 NICE PLATE #2"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 DENSE SMALL PLATE"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 ST RICH PLATE #1"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 RICH PLATE #2"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 70 RICH PLATE"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 SMALL AIR PLATE"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 FAT PLATE"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 THIN PLATE"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 LONG VOC PLATE #1"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 LONG VOC POLATE #2"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 LONG VOC PLATE #3"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 SNARE PLATE"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 ST BRASS PLATE"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 ST VOCAL PLATE"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 ST VOX PLATE"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 ST PR DLY PLATE"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>
