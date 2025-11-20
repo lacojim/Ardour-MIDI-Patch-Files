@@ -77,6 +77,7 @@ This page lists all MIDNAM patch definition files and confirms whether Ardour re
 | Patch File | Ardour Sees It | Ardour Sees Patches | Record/Playback | Patch Changes |
 |------------|----------------|----------------------|------------------|----------------|
 | General_Music_CD-HyperKeyboard.midnam | Yes | Yes | Not Tested | Not Tested |
+| General_Music_GMX.midnam | Yes | Yes | Not Tested | Not Tested |
 | General_Music_GPS2500.midnam | Yes | Yes | Not Tested | Not Tested |
 | General_Music_JewelSapphire.midnam | Yes | Yes | Not Tested | Not Tested |
 | General_Music_PowerCaseMixer.midnam | Yes | Yes | Not Tested | Not Tested |
@@ -91,6 +92,7 @@ This page lists all MIDNAM patch definition files and confirms whether Ardour re
 | General_Music_TMS.midnam | Yes | Yes | Not Tested | Not Tested |
 | General_Music_TourMaster.midnam | Yes | Yes | Not Tested | Not Tested |
 | General_Music_WK3.midnam | Yes | Yes | Not Tested | Not Tested |
+| General_Music_WK4.midnam | Yes | Yes | Not Tested | Not Tested |
 | General_Music_WS2-WS400.midnam | Yes | Yes | Not Tested | Not Tested |
 | General_Music_WX.midnam | Yes | Yes | Not Tested | Not Tested |
 
@@ -168,11 +170,13 @@ This page lists all MIDNAM patch definition files and confirms whether Ardour re
 | Roland_G70.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_GP-8.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_GS.midnam | Yes | Yes | Not Tested | Not Tested |
+| Roland_JD-800.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_JUNO-G.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_JV-1000.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_JV-2000.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_JV-880.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_JX-10.midnam | Yes | Yes | Not Tested | Not Tested |
+| Roland_R-70.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_RD-100.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_RD-300.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_RD-500.midnam | Yes | Yes | Not Tested | Not Tested |
@@ -180,7 +184,9 @@ This page lists all MIDNAM patch definition files and confirms whether Ardour re
 | Roland_S-10.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_S-330.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_SC-880.midnam | Yes | Yes | Not Tested | Not Tested |
+| Roland_SC-8820.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_SC-8850.midnam | Yes | Yes | Not Tested | Not Tested |
+| Roland_SC-D70.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_SD-20.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_SD-90.midnam | Yes | Yes | Not Tested | Not Tested |
 | Roland_SDX-330.midnam | Yes | Yes | Not Tested | Not Tested |
@@ -265,6 +271,7 @@ This page lists all MIDNAM patch definition files and confirms whether Ardour re
 | Yamaha_DX-11.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_EMT-10.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_GX76.midnam | Yes | Yes | Not Tested | Not Tested |
+| Yamaha_PF-P-100.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_ProMix01.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_PSR-140.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_PSR-1500.midnam | Yes | Yes | Not Tested | Not Tested |
@@ -288,6 +295,7 @@ This page lists all MIDNAM patch definition files and confirms whether Ardour re
 | Yamaha_PSR-740.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_PSR-A3.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_PSR-B50.midnam | Yes | Yes | Not Tested | Not Tested |
+| Yamaha_PSR-E303.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_PSR-S500.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_PSR-S900.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_PSR-S910.midnam | Yes | Yes | Not Tested | Not Tested |
@@ -301,6 +309,7 @@ This page lists all MIDNAM patch definition files and confirms whether Ardour re
 | Yamaha_SY-22.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_SY-55.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_TG-33.midnam | Yes | Yes | Not Tested | Not Tested |
+| Yamaha_VL70.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_W5-7.midnam | Yes | Yes | Not Tested | Not Tested |
 | Yamaha_XG.midnam | Yes | Yes | Not Tested | Not Tested |
 
