@@ -1,0 +1,1395 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>R-70</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland R-70">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="1"  Name="Standard Set"  ProgramChange="1"/>
+          <Patch Number="9"  Name="Room Set"  ProgramChange="9"/>
+          <Patch Number="17"  Name="Power Set"  ProgramChange="17"/>
+          <Patch Number="25"  Name="Electronic Set"  ProgramChange="25"/>
+          <Patch Number="26"  Name="TR-808 Set"  ProgramChange="26"/>
+          <Patch Number="33"  Name="Jazz Set"  ProgramChange="33"/>
+          <Patch Number="41"  Name="Brush Set"  ProgramChange="41"/>
+          <Patch Number="65"  Name="User Set 1"  ProgramChange="65"/>
+          <Patch Number="73"  Name="User Set 2"  ProgramChange="73"/>
+          <Patch Number="81"  Name="User Set 3"  ProgramChange="81"/>
+          <Patch Number="89"  Name="User Set 4"  ProgramChange="89"/>
+          <Patch Number="97"  Name="All Set 1"  ProgramChange="97"/>
+          <Patch Number="105"  Name="All Set 2"  ProgramChange="105"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=RevrbK"/>
+     <Note Number="2"  Name="2=BriteK"/>
+     <Note Number="3"  Name="3=PillwK"/>
+     <Note Number="4"  Name="4=Dry K"/>
+     <Note Number="5"  Name="5=Ez K"/>
+     <Note Number="6"  Name="6=ComrcK"/>
+     <Note Number="7"  Name="7=HybrdK"/>
+     <Note Number="8"  Name="8=SmashK"/>
+     <Note Number="9"  Name="9=Soft K"/>
+     <Note Number="10"  Name="0=Hard K"/>
+     <Note Number="11"  Name="1=DpRomK"/>
+     <Note Number="12"  Name="2=RvSldK"/>
+     <Note Number="13"  Name="3=BrtMdK"/>
+     <Note Number="14"  Name="4=DryAcK"/>
+     <Note Number="15"  Name="5=EzPlwK"/>
+     <Note Number="16"  Name="6=MondoK"/>
+     <Note Number="17"  Name="7=BoSldK"/>
+     <Note Number="18"  Name="8=808GtK"/>
+     <Note Number="19"  Name="9=909CmK"/>
+     <Note Number="20"  Name="0=LtRvbK"/>
+     <Note Number="21"  Name="1=909AcK"/>
+     <Note Number="22"  Name="2=TR808K"/>
+     <Note Number="23"  Name="3=TR909K"/>
+     <Note Number="24"  Name="4=PowerS"/>
+     <Note Number="25"  Name="5=Hard S"/>
+     <Note Number="26"  Name="6=LA S"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="33"  Name="3=DopinS"/>
+     <Note Number="34"  Name="4=LooseS"/>
+     <Note Number="35"  Name="5=Room K"/>
+     <Note Number="36"  Name="6=SolidK"/>
+     <Note Number="37"  Name="7=AmbStk"/>
+     <Note Number="38"  Name="8=RckerS"/>
+     <Note Number="39"  Name="9=VrbClp"/>
+     <Note Number="40"  Name="0=SuperS"/>
+     <Note Number="41"  Name="1=RoomT4"/>
+     <Note Number="42"  Name="2=RealCH"/>
+     <Note Number="43"  Name="3=(RoomT3)"/>
+     <Note Number="44"  Name="4=RealPH"/>
+     <Note Number="45"  Name="5=RoomT3"/>
+     <Note Number="46"  Name="6=RealOH"/>
+     <Note Number="47"  Name="7=(RoomT2)"/>
+     <Note Number="48"  Name="8=RoomT2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=RoomT1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowBlL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=BrRidC"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claces"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="84"  Name="4=Talk S"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="89"  Name="9=Real S"/>
+     <Note Number="90"  Name="0=Rock S"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+     <Note Number="94"  Name="4=Fat S"/>
+     <Note Number="95"  Name="5=SplatS"/>
+     <Note Number="96"  Name="6=90's S"/>
+     <Note Number="97"  Name="7=VideoS"/>
+     <Note Number="98"  Name="8=BgShtS"/>
+     <Note Number="99"  Name="9=Ring S"/>
+     <Note Number="100"  Name="0=RckRmS"/>
+     <Note Number="101"  Name="1=RegaeS"/>
+     <Note Number="102"  Name="2=60's S"/>
+     <Note Number="103"  Name="3=LatinS"/>
+     <Note Number="104"  Name="4=ComboS"/>
+     <Note Number="105"  Name="5=DanceS"/>
+     <Note Number="106"  Name="6=Chop S"/>
+     <Note Number="107"  Name="7=SwingS"/>
+     <Note Number="108"  Name="8=SmlHsS"/>
+     <Note Number="109"  Name="9=TightS"/>
+     <Note Number="110"  Name="0=RckPwS"/>
+     <Note Number="111"  Name="1=RckSpS"/>
+     <Note Number="112"  Name="2=HosDpS"/>
+     <Note Number="113"  Name="3=RckLtS"/>
+     <Note Number="114"  Name="4=SprCbS"/>
+     <Note Number="115"  Name="5=LAFatS"/>
+     <Note Number="116"  Name="6=DblRnS"/>
+     <Note Number="117"  Name="7=RckinS"/>
+     <Note Number="118"  Name="8=NoiseS"/>
+     <Note Number="119"  Name="9=TR808S"/>
+     <Note Number="120"  Name="0=TR909S"/>
+     <Note Number="121"  Name="1=BrSwiS"/>
+     <Note Number="122"  Name="2=BrSlS1"/>
+     <Note Number="123"  Name="3=BrSlS2"/>
+     <Note Number="124"  Name="4=BrSlS3"/>
+     <Note Number="125"  Name="5=BrRlS1"/>
+     <Note Number="126"  Name="6=BrRlS2"/>
+     <Note Number="127"  Name="7=808Stk"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="2"  Name="2=BriteK"/>
+     <Note Number="3"  Name="3=PillwK"/>
+     <Note Number="4"  Name="4=Dry K"/>
+     <Note Number="5"  Name="5=Ez K"/>
+     <Note Number="6"  Name="6=ComrcK"/>
+     <Note Number="7"  Name="7=HybrdK"/>
+     <Note Number="8"  Name="8=SmashK"/>
+     <Note Number="9"  Name="9=Soft K"/>
+     <Note Number="10"  Name="0=Hard K"/>
+     <Note Number="11"  Name="1=DpRomK"/>
+     <Note Number="12"  Name="2=RvSldK"/>
+     <Note Number="13"  Name="3=BrtMdK"/>
+     <Note Number="14"  Name="4=DryAcK"/>
+     <Note Number="15"  Name="5=EzPlwK"/>
+     <Note Number="16"  Name="6=MondoK"/>
+     <Note Number="17"  Name="7=BoSldK"/>
+     <Note Number="18"  Name="8=808GtK"/>
+     <Note Number="19"  Name="9=909CmK"/>
+     <Note Number="20"  Name="0=LtRvbK"/>
+     <Note Number="21"  Name="1=909AcK"/>
+     <Note Number="22"  Name="2=TR808K"/>
+     <Note Number="23"  Name="3=TR909K"/>
+     <Note Number="24"  Name="4=PowerS"/>
+     <Note Number="25"  Name="5=Hard S"/>
+     <Note Number="26"  Name="6=LA S"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="33"  Name="3=DopinS"/>
+     <Note Number="34"  Name="4=LooseS"/>
+     <Note Number="35"  Name="5=Room K"/>
+     <Note Number="36"  Name="6=SolidK"/>
+     <Note Number="37"  Name="7=AmbStk"/>
+     <Note Number="38"  Name="8=RckerS"/>
+     <Note Number="39"  Name="9=VrbClp"/>
+     <Note Number="40"  Name="0=SuperS"/>
+     <Note Number="41"  Name="1=RoomT4"/>
+     <Note Number="42"  Name="2=RealCH"/>
+     <Note Number="43"  Name="3=(RoomT3)"/>
+     <Note Number="44"  Name="4=RealPH"/>
+     <Note Number="45"  Name="5=RoomT3"/>
+     <Note Number="46"  Name="6=RealOH"/>
+     <Note Number="47"  Name="7=(RoomT2)"/>
+     <Note Number="48"  Name="8=RoomT2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=RoomT1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowBlL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=BrRidC"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claces"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="84"  Name="4=Talk S"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="89"  Name="9=Real S"/>
+     <Note Number="90"  Name="0=Rock S"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+     <Note Number="94"  Name="4=Fat S"/>
+     <Note Number="95"  Name="5=SplatS"/>
+     <Note Number="96"  Name="6=90's S"/>
+     <Note Number="97"  Name="7=VideoS"/>
+     <Note Number="98"  Name="8=BgShtS"/>
+     <Note Number="99"  Name="9=Ring S"/>
+     <Note Number="100"  Name="0=RckRmS"/>
+     <Note Number="101"  Name="1=RegaeS"/>
+     <Note Number="102"  Name="2=60's S"/>
+     <Note Number="103"  Name="3=LatinS"/>
+     <Note Number="104"  Name="4=ComboS"/>
+     <Note Number="105"  Name="5=DanceS"/>
+     <Note Number="106"  Name="6=Chop S"/>
+     <Note Number="107"  Name="7=SwingS"/>
+     <Note Number="108"  Name="8=SmlHsS"/>
+     <Note Number="109"  Name="9=TightS"/>
+     <Note Number="110"  Name="0=RckPwS"/>
+     <Note Number="111"  Name="1=RckSpS"/>
+     <Note Number="112"  Name="2=HosDpS"/>
+     <Note Number="113"  Name="3=RckLtS"/>
+     <Note Number="114"  Name="4=SprCbS"/>
+     <Note Number="115"  Name="5=LAFatS"/>
+     <Note Number="116"  Name="6=DblRnS"/>
+     <Note Number="117"  Name="7=RckinS"/>
+     <Note Number="118"  Name="8=NoiseS"/>
+     <Note Number="119"  Name="9=TR808S"/>
+     <Note Number="120"  Name="0=TR909S"/>
+     <Note Number="121"  Name="1=BrSwiS"/>
+     <Note Number="122"  Name="2=BrSlS1"/>
+     <Note Number="123"  Name="3=BrSlS2"/>
+     <Note Number="124"  Name="4=BrSlS3"/>
+     <Note Number="125"  Name="5=BrRlS1"/>
+     <Note Number="126"  Name="6=BrRlS2"/>
+     <Note Number="127"  Name="7=808Stk"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=Room K"/>
+     <Note Number="2"  Name="2=PillwK"/>
+     <Note Number="3"  Name="3=Ez   K"/>
+     <Note Number="4"  Name="4=HybrdK"/>
+     <Note Number="5"  Name="5=Soft K"/>
+     <Note Number="6"  Name="6=Hard k"/>
+     <Note Number="7"  Name="7=DpRomK"/>
+     <Note Number="8"  Name="8=DryAcK"/>
+     <Note Number="9"  Name="9=EzPlwK"/>
+     <Note Number="10"  Name="0=CmBrtK"/>
+     <Note Number="11"  Name="1=PowerS"/>
+     <Note Number="12"  Name="2=Hard S"/>
+     <Note Number="13"  Name="3=LA   S"/>
+     <Note Number="14"  Name="4=LooseS"/>
+     <Note Number="15"  Name="5=Rock S"/>
+     <Note Number="16"  Name="6=Flat S"/>
+     <Note Number="17"  Name="7=BgShtS"/>
+     <Note Number="18"  Name="8=RckerS"/>
+     <Note Number="19"  Name="9=SuperS"/>
+     <Note Number="20"  Name="0=Ring S"/>
+     <Note Number="21"  Name="1=RckRmsS"/>
+     <Note Number="22"  Name="2=ReggaeS"/>
+     <Note Number="23"  Name="3=60's S"/>
+     <Note Number="24"  Name="4=TightS"/>
+     <Note Number="25"  Name="5=RckPwS"/>
+     <Note Number="26"  Name="6=RckinS"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="35"  Name="5=Dry K"/>
+     <Note Number="36"  Name="6=ComrcK"/>
+     <Note Number="37"  Name="7=DryStck"/>
+     <Note Number="38"  Name="8=LAFatS"/>
+     <Note Number="39"  Name="9=808Clp"/>
+     <Note Number="40"  Name="0=Real S"/>
+     <Note Number="41"  Name="1=RealT4"/>
+     <Note Number="42"  Name="2=PopCHH"/>
+     <Note Number="43"  Name="3=(RealT3)"/>
+     <Note Number="44"  Name="4=PopPHH"/>
+     <Note Number="45"  Name="5=RealT3"/>
+     <Note Number="46"  Name="6=PopOHH"/>
+     <Note Number="47"  Name="7=(RealT2)"/>
+     <Note Number="48"  Name="8=RealT2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=RealT1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowblL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=(Ride C)"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=Room K"/>
+     <Note Number="2"  Name="2=Gate K"/>
+     <Note Number="3"  Name="3=SmashK"/>
+     <Note Number="4"  Name="4=DpRomK"/>
+     <Note Number="5"  Name="5=RvSldK"/>
+     <Note Number="6"  Name="6=BrtMdK"/>
+     <Note Number="7"  Name="7=MondoK"/>
+     <Note Number="8"  Name="8=CmBrtK"/>
+     <Note Number="9"  Name="9=BoSldK"/>
+     <Note Number="10"  Name="0=808GtK"/>
+     <Note Number="11"  Name="1=PowerS"/>
+     <Note Number="12"  Name="2=Hard S"/>
+     <Note Number="13"  Name="3=LA   S"/>
+     <Note Number="14"  Name="4=Lite S"/>
+     <Note Number="15"  Name="5=Fat  S"/>
+     <Note Number="16"  Name="6=SplatS"/>
+     <Note Number="17"  Name="7=90's S"/>
+     <Note Number="18"  Name="8=RckerS"/>
+     <Note Number="19"  Name="9=SuperS"/>
+     <Note Number="20"  Name="0=Ring S"/>
+     <Note Number="21"  Name="1=RckRmsS"/>
+     <Note Number="22"  Name="2=ComboS"/>
+     <Note Number="23"  Name="3=RckPwS"/>
+     <Note Number="24"  Name="4=RckSpS"/>
+     <Note Number="25"  Name="5=RckLtS"/>
+     <Note Number="26"  Name="6=SprCbS"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="35"  Name="5=Deep K"/>
+     <Note Number="36"  Name="6=RevrbK"/>
+     <Note Number="37"  Name="7=AmbStk"/>
+     <Note Number="38"  Name="8=Rock S"/>
+     <Note Number="39"  Name="9=VrbClp"/>
+     <Note Number="40"  Name="0=BgShtS"/>
+     <Note Number="41"  Name="1=RockT4"/>
+     <Note Number="42"  Name="2=RealCH"/>
+     <Note Number="43"  Name="3=(RockT3)"/>
+     <Note Number="44"  Name="4=RealPH"/>
+     <Note Number="45"  Name="5=RockT3"/>
+     <Note Number="46"  Name="6=RealOH"/>
+     <Note Number="47"  Name="7=(RockT2)"/>
+     <Note Number="48"  Name="8=RockT2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=RockT1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowblL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=(Ride C)"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=Room K"/>
+     <Note Number="2"  Name="2=PillwK"/>
+     <Note Number="3"  Name="3=Ez   K"/>
+     <Note Number="4"  Name="4=HybrdK"/>
+     <Note Number="5"  Name="5=Soft K"/>
+     <Note Number="6"  Name="6=Hard k"/>
+     <Note Number="7"  Name="7=DpRomK"/>
+     <Note Number="8"  Name="8=DryAcK"/>
+     <Note Number="9"  Name="9=EzPlwK"/>
+     <Note Number="10"  Name="0=CmBrtK"/>
+     <Note Number="11"  Name="1=PowerS"/>
+     <Note Number="12"  Name="2=Hard S"/>
+     <Note Number="13"  Name="3=LA   S"/>
+     <Note Number="14"  Name="4=LooseS"/>
+     <Note Number="15"  Name="5=Rock S"/>
+     <Note Number="16"  Name="6=Flat S"/>
+     <Note Number="17"  Name="7=BgShtS"/>
+     <Note Number="18"  Name="8=RckerS"/>
+     <Note Number="19"  Name="9=SuperS"/>
+     <Note Number="20"  Name="0=Ring S"/>
+     <Note Number="21"  Name="1=RckRmsS"/>
+     <Note Number="22"  Name="2=ReggaeS"/>
+     <Note Number="23"  Name="3=60's S"/>
+     <Note Number="24"  Name="4=TightS"/>
+     <Note Number="25"  Name="5=RckPwS"/>
+     <Note Number="26"  Name="6=RckinS"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="35"  Name="5=Dry K"/>
+     <Note Number="36"  Name="6=ComrcK"/>
+     <Note Number="37"  Name="7=DryStck"/>
+     <Note Number="38"  Name="8=LAFatS"/>
+     <Note Number="39"  Name="9=808Clp"/>
+     <Note Number="40"  Name="0=Real S"/>
+     <Note Number="41"  Name="1=RealT4"/>
+     <Note Number="42"  Name="2=PopCHH"/>
+     <Note Number="43"  Name="3=(RealT3)"/>
+     <Note Number="44"  Name="4=PopPHH"/>
+     <Note Number="45"  Name="5=RealT3"/>
+     <Note Number="46"  Name="6=PopOHH"/>
+     <Note Number="47"  Name="7=(RealT2)"/>
+     <Note Number="48"  Name="8=RealT2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=RealT1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowblL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=(Ride C)"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=Room K"/>
+     <Note Number="2"  Name="2=Gate K"/>
+     <Note Number="3"  Name="3=SmashK"/>
+     <Note Number="4"  Name="4=DpRomK"/>
+     <Note Number="5"  Name="5=RvSldK"/>
+     <Note Number="6"  Name="6=BrtMdK"/>
+     <Note Number="7"  Name="7=MondoK"/>
+     <Note Number="8"  Name="8=CmBrtK"/>
+     <Note Number="9"  Name="9=BoSldK"/>
+     <Note Number="10"  Name="0=808GtK"/>
+     <Note Number="11"  Name="1=PowerS"/>
+     <Note Number="12"  Name="2=Hard S"/>
+     <Note Number="13"  Name="3=LA   S"/>
+     <Note Number="14"  Name="4=Lite S"/>
+     <Note Number="15"  Name="5=Fat  S"/>
+     <Note Number="16"  Name="6=SplatS"/>
+     <Note Number="17"  Name="7=90's S"/>
+     <Note Number="18"  Name="8=RckerS"/>
+     <Note Number="19"  Name="9=SuperS"/>
+     <Note Number="20"  Name="0=Ring S"/>
+     <Note Number="21"  Name="1=RckRmsS"/>
+     <Note Number="22"  Name="2=ComboS"/>
+     <Note Number="23"  Name="3=RckPwS"/>
+     <Note Number="24"  Name="4=RckSpS"/>
+     <Note Number="25"  Name="5=RckLtS"/>
+     <Note Number="26"  Name="6=SprCbS"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="35"  Name="5=Deep K"/>
+     <Note Number="36"  Name="6=RevrbK"/>
+     <Note Number="37"  Name="7=AmbStk"/>
+     <Note Number="38"  Name="8=Rock S"/>
+     <Note Number="39"  Name="9=VrbClp"/>
+     <Note Number="40"  Name="0=BgShtS"/>
+     <Note Number="41"  Name="1=RockT4"/>
+     <Note Number="42"  Name="2=RealCH"/>
+     <Note Number="43"  Name="3=(RockT3)"/>
+     <Note Number="44"  Name="4=RealPH"/>
+     <Note Number="45"  Name="5=RockT3"/>
+     <Note Number="46"  Name="6=RealOH"/>
+     <Note Number="47"  Name="7=(RockT2)"/>
+     <Note Number="48"  Name="8=RockT2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=RockT1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowblL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=(Ride C)"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=SolidK"/>
+     <Note Number="2"  Name="2=RevrbK"/>
+     <Note Number="3"  Name="3=Gate K"/>
+     <Note Number="4"  Name="4=ComrcK"/>
+     <Note Number="5"  Name="5=SmashK"/>
+     <Note Number="6"  Name="6=DpRomK"/>
+     <Note Number="7"  Name="7=BrtMdK"/>
+     <Note Number="8"  Name="8=BoSldK"/>
+     <Note Number="9"  Name="9=808GtK"/>
+     <Note Number="10"  Name="0=909CmK"/>
+     <Note Number="11"  Name="1=DopinS"/>
+     <Note Number="12"  Name="2=SplatS"/>
+     <Note Number="13"  Name="3=90's S"/>
+     <Note Number="14"  Name="4=VideoS"/>
+     <Note Number="15"  Name="5=RckerS"/>
+     <Note Number="16"  Name="6=SuperS"/>
+     <Note Number="17"  Name="7=RckRmS"/>
+     <Note Number="18"  Name="8=RegaeS"/>
+     <Note Number="19"  Name="9=LatinS"/>
+     <Note Number="20"  Name="0=ComboS"/>
+     <Note Number="21"  Name="1=DanceS"/>
+     <Note Number="22"  Name="2=SwingS"/>
+     <Note Number="23"  Name="3=RckPwS"/>
+     <Note Number="24"  Name="4=RckLtS"/>
+     <Note Number="25"  Name="5=SprCbS"/>
+     <Note Number="26"  Name="6=DblRnS"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="35"  Name="5=RvSldK"/>
+     <Note Number="36"  Name="6=MondoK"/>
+     <Note Number="37"  Name="7=AmbStk"/>
+     <Note Number="38"  Name="8=PowerS"/>
+     <Note Number="39"  Name="9=VrbClp"/>
+     <Note Number="40"  Name="0=Hard S"/>
+     <Note Number="41"  Name="1=BoosT4"/>
+     <Note Number="42"  Name="2=RealCH"/>
+     <Note Number="43"  Name="3=(BoosT3)"/>
+     <Note Number="44"  Name="4=RealPH"/>
+     <Note Number="45"  Name="5=BoosT3"/>
+     <Note Number="46"  Name="6=RealOH"/>
+     <Note Number="47"  Name="7=(BoosT2)"/>
+     <Note Number="48"  Name="8=BoosT2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=BoosT1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowblL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=(Ride C)"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=BriteK"/>
+     <Note Number="2"  Name="2=Room K"/>
+     <Note Number="3"  Name="3=Gate K"/>
+     <Note Number="4"  Name="4=ComrcK"/>
+     <Note Number="5"  Name="5=SmashK"/>
+     <Note Number="6"  Name="6=DpRomK"/>
+     <Note Number="7"  Name="7=RvSldK"/>
+     <Note Number="8"  Name="8=BrtMdK"/>
+     <Note Number="9"  Name="9=CmBrtK"/>
+     <Note Number="10"  Name="0=909CmK"/>
+     <Note Number="11"  Name="1=Hard S"/>
+     <Note Number="12"  Name="2=Lite S"/>
+     <Note Number="13"  Name="3=Rock S"/>
+     <Note Number="14"  Name="4=90's S"/>
+     <Note Number="15"  Name="5=VideoS"/>
+     <Note Number="16"  Name="6=ComboS"/>
+     <Note Number="17"  Name="7=DanceS"/>
+     <Note Number="18"  Name="8=Chop S"/>
+     <Note Number="19"  Name="9=SwingS"/>
+     <Note Number="20"  Name="0=TightS"/>
+     <Note Number="21"  Name="1=RckSpS"/>
+     <Note Number="22"  Name="2=RckLtS"/>
+     <Note Number="23"  Name="3=SprCbS"/>
+     <Note Number="24"  Name="4=Talk S"/>
+     <Note Number="25"  Name="5=NoiseS"/>
+     <Note Number="26"  Name="6=TR808S"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="35"  Name="5=808GtK"/>
+     <Note Number="36"  Name="6=BoSldK"/>
+     <Note Number="37"  Name="7=808Stk"/>
+     <Note Number="38"  Name="8=SplatS"/>
+     <Note Number="39"  Name="9=VrbClp"/>
+     <Note Number="40"  Name="0=TR909S"/>
+     <Note Number="41"  Name="1=Rim T4"/>
+     <Note Number="42"  Name="2=RealCH"/>
+     <Note Number="43"  Name="3=(Rim T3)"/>
+     <Note Number="44"  Name="4=RealPH"/>
+     <Note Number="45"  Name="5=Rim T3"/>
+     <Note Number="46"  Name="6=RealOH"/>
+     <Note Number="47"  Name="7=(Rim T2)"/>
+     <Note Number="48"  Name="8=Rim T2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=Rim T1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowblL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=(Ride C)"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=CmBrtK"/>
+     <Note Number="2"  Name="2=BoSldK"/>
+     <Note Number="3"  Name="3=808GtK"/>
+     <Note Number="4"  Name="4=909CmK"/>
+     <Note Number="5"  Name="5=LtRvbK"/>
+     <Note Number="6"  Name="6=909Ack"/>
+     <Note Number="7"  Name="7=DopinK"/>
+     <Note Number="8"  Name="8=Lite K"/>
+     <Note Number="9"  Name="9=VideoK"/>
+     <Note Number="10"  Name="0=DanceK"/>
+     <Note Number="11"  Name="1=Chop S"/>
+     <Note Number="12"  Name="2=SwingS"/>
+     <Note Number="13"  Name="3=SmlHsS"/>
+     <Note Number="14"  Name="4=TightS"/>
+     <Note Number="15"  Name="5=HosDpS"/>
+     <Note Number="16"  Name="6=Talk S"/>
+     <Note Number="17"  Name="7=NoiseS"/>
+     <Note Number="18"  Name="8=606 T1"/>
+     <Note Number="19"  Name="9=606 T2"/>
+     <Note Number="20"  Name="0=606 T3"/>
+     <Note Number="21"  Name="1=606 T4"/>
+     <Note Number="22"  Name="2=78 CHH"/>
+     <Note Number="23"  Name="3=78 OHH"/>
+     <Note Number="24"  Name="4=55Clav"/>
+     <Note Number="25"  Name="5=78 Cow"/>
+     <Note Number="26"  Name="6=78Beat"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="35"  Name="5=TR909K"/>
+     <Note Number="36"  Name="6=TR808K"/>
+     <Note Number="37"  Name="7=808Stk"/>
+     <Note Number="38"  Name="8=TR808S"/>
+     <Note Number="39"  Name="9=808Clp"/>
+     <Note Number="40"  Name="0=TR909S"/>
+     <Note Number="41"  Name="1=808 T4"/>
+     <Note Number="42"  Name="2=808CHH"/>
+     <Note Number="43"  Name="3=(808 T3)"/>
+     <Note Number="44"  Name="4=(808CHH)"/>
+     <Note Number="45"  Name="5=808 T3"/>
+     <Note Number="46"  Name="6=808OHH"/>
+     <Note Number="47"  Name="7=(808 T2)"/>
+     <Note Number="48"  Name="8=808 T2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=808 T1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=78Tamb"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=808Cow"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=(Ride C)"/>
+     <Note Number="60"  Name="0=78Bngo"/>
+     <Note Number="61"  Name="1=(78Bngo)"/>
+     <Note Number="62"  Name="2=(808CgH)"/>
+     <Note Number="63"  Name="3=808CgH"/>
+     <Note Number="64"  Name="4=808CgL"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=808Mrc"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=(78Guir)"/>
+     <Note Number="74"  Name="4=78Guir"/>
+     <Note Number="75"  Name="5=808Clv"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=78Marc"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=(808CgH)"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=Dry  K"/>
+     <Note Number="2"  Name="2=Ez   K"/>
+     <Note Number="3"  Name="3=ComrcK"/>
+     <Note Number="4"  Name="4=HybrdK"/>
+     <Note Number="5"  Name="5=Soft K"/>
+     <Note Number="6"  Name="6=Hard K"/>
+     <Note Number="7"  Name="7=909Ack"/>
+     <Note Number="8"  Name="8=LA   S"/>
+     <Note Number="9"  Name="9=Fat  S"/>
+     <Note Number="10"  Name="0=BgShtS"/>
+     <Note Number="11"  Name="1=Ring S"/>
+     <Note Number="12"  Name="2=60's S"/>
+     <Note Number="13"  Name="3=TightS"/>
+     <Note Number="14"  Name="4=BrSwiS"/>
+     <Note Number="15"  Name="5=BrSlS1"/>
+     <Note Number="16"  Name="6=BrSlS2"/>
+     <Note Number="17"  Name="7=BrSlS3"/>
+     <Note Number="18"  Name="8=BrRiS1"/>
+     <Note Number="19"  Name="9=BrRlS2"/>
+     <Note Number="20"  Name="0=BrshT1"/>
+     <Note Number="21"  Name="1=BrshT2"/>
+     <Note Number="22"  Name="2=BrshT3"/>
+     <Note Number="23"  Name="3=BrshT4"/>
+     <Note Number="24"  Name="4=BrsCHH"/>
+     <Note Number="25"  Name="5=BrsOHH"/>
+     <Note Number="26"  Name="6=BrRidC"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="35"  Name="5=DryAcK"/>
+     <Note Number="36"  Name="6=EzPlwK"/>
+     <Note Number="37"  Name="7=DryStck"/>
+     <Note Number="38"  Name="8=LooseS0"/>
+     <Note Number="39"  Name="9=808Clp"/>
+     <Note Number="40"  Name="0=Real S"/>
+     <Note Number="41"  Name="1=Dry T4"/>
+     <Note Number="42"  Name="2=PopCHH"/>
+     <Note Number="43"  Name="3=(Dry T3)"/>
+     <Note Number="44"  Name="4=PopPHH"/>
+     <Note Number="45"  Name="5=Dry T3"/>
+     <Note Number="46"  Name="6=PopOHH"/>
+     <Note Number="47"  Name="7=(Dry T2)"/>
+     <Note Number="48"  Name="8=Dry T2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=Dry T1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowblL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=(Ride C)"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=Dry  K"/>
+     <Note Number="2"  Name="2=Ez   K"/>
+     <Note Number="3"  Name="3=ComrcK"/>
+     <Note Number="4"  Name="4=HybrdK"/>
+     <Note Number="5"  Name="5=Soft K"/>
+     <Note Number="6"  Name="6=Hard K"/>
+     <Note Number="7"  Name="7=909Ack"/>
+     <Note Number="8"  Name="8=Hard S"/>
+     <Note Number="9"  Name="9=LA   S"/>
+     <Note Number="10"  Name="0=LooseS"/>
+     <Note Number="11"  Name="1=Real S"/>
+     <Note Number="12"  Name="2=Fat  S"/>
+     <Note Number="13"  Name="3=BgShtS"/>
+     <Note Number="14"  Name="4=Ring S"/>
+     <Note Number="15"  Name="5=60's S"/>
+     <Note Number="16"  Name="6=TightS"/>
+     <Note Number="17"  Name="7=BrSlS2"/>
+     <Note Number="18"  Name="8=BrSlS3"/>
+     <Note Number="19"  Name="9=BrRlS2"/>
+     <Note Number="20"  Name="0=Dry T1"/>
+     <Note Number="21"  Name="1=Dry T2"/>
+     <Note Number="22"  Name="2=Dry T3"/>
+     <Note Number="23"  Name="3=Dry T4"/>
+     <Note Number="24"  Name="4=PopCHH"/>
+     <Note Number="25"  Name="5=PopOHH"/>
+     <Note Number="26"  Name="6=Ride C"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="35"  Name="5=DryAcK"/>
+     <Note Number="36"  Name="6=EzPlwK"/>
+     <Note Number="37"  Name="7=DryStck"/>
+     <Note Number="38"  Name="8=BrSwiS"/>
+     <Note Number="39"  Name="9=BrSlS1"/>
+     <Note Number="40"  Name="0=BrRlS1"/>
+     <Note Number="41"  Name="1=BrshT4"/>
+     <Note Number="42"  Name="2=BrsCHH"/>
+     <Note Number="43"  Name="3=(BrshT3)"/>
+     <Note Number="44"  Name="4=PopPHH"/>
+     <Note Number="45"  Name="5=BrshT3"/>
+     <Note Number="46"  Name="6=BrsOHH"/>
+     <Note Number="47"  Name="7=(BrshT2)"/>
+     <Note Number="48"  Name="8=BrshT2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=BrshT1"/>
+     <Note Number="51"  Name="1=BrRidC"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowblL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=(BrRidC)"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claves"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=RevrbK"/>
+     <Note Number="2"  Name="2=BriteK"/>
+     <Note Number="3"  Name="3=PillwK"/>
+     <Note Number="4"  Name="4=Dry K"/>
+     <Note Number="5"  Name="5=Ez K"/>
+     <Note Number="6"  Name="6=ComrcK"/>
+     <Note Number="7"  Name="7=HybrdK"/>
+     <Note Number="8"  Name="8=SmashK"/>
+     <Note Number="9"  Name="9=Soft K"/>
+     <Note Number="10"  Name="0=Hard K"/>
+     <Note Number="11"  Name="1=DpRomK"/>
+     <Note Number="12"  Name="2=RvSldK"/>
+     <Note Number="13"  Name="3=BrtMdK"/>
+     <Note Number="14"  Name="4=DryAcK"/>
+     <Note Number="15"  Name="5=EzPlwK"/>
+     <Note Number="16"  Name="6=MondoK"/>
+     <Note Number="17"  Name="7=BoSldK"/>
+     <Note Number="18"  Name="8=808GtK"/>
+     <Note Number="19"  Name="9=909CmK"/>
+     <Note Number="20"  Name="0=LtRvbK"/>
+     <Note Number="21"  Name="1=909AcK"/>
+     <Note Number="22"  Name="2=TR808K"/>
+     <Note Number="23"  Name="3=TR909K"/>
+     <Note Number="24"  Name="4=PowerS"/>
+     <Note Number="25"  Name="5=Hard S"/>
+     <Note Number="26"  Name="6=LA S"/>
+     <Note Number="27"  Name="7=HiQ"/>
+     <Note Number="28"  Name="8=DncClp"/>
+     <Note Number="29"  Name="9=ScrPsh"/>
+     <Note Number="30"  Name="0=ScrPul"/>
+     <Note Number="31"  Name="1=Sticks"/>
+     <Note Number="32"  Name="2=Click"/>
+     <Note Number="33"  Name="3=DopinS"/>
+     <Note Number="34"  Name="4=LooseS"/>
+     <Note Number="35"  Name="5=Room K"/>
+     <Note Number="36"  Name="6=SolidK"/>
+     <Note Number="37"  Name="7=AmbStk"/>
+     <Note Number="38"  Name="8=RckerS"/>
+     <Note Number="39"  Name="9=VrbClp"/>
+     <Note Number="40"  Name="0=SuperS"/>
+     <Note Number="41"  Name="1=RoomT4"/>
+     <Note Number="42"  Name="2=RealCH"/>
+     <Note Number="43"  Name="3=(RoomT3)"/>
+     <Note Number="44"  Name="4=RealPH"/>
+     <Note Number="45"  Name="5=RoomT3"/>
+     <Note Number="46"  Name="6=RealOH"/>
+     <Note Number="47"  Name="7=(RoomT2)"/>
+     <Note Number="48"  Name="8=RoomT2"/>
+     <Note Number="49"  Name="9=CrshC1"/>
+     <Note Number="50"  Name="0=RoomT1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=ChinaC"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=Tambrn"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=CowBlL"/>
+     <Note Number="57"  Name="7=CrshC2"/>
+     <Note Number="58"  Name="8=Vibslp"/>
+     <Note Number="59"  Name="9=BrRidC"/>
+     <Note Number="60"  Name="0=BngHOp"/>
+     <Note Number="61"  Name="1=BngLOp"/>
+     <Note Number="62"  Name="2=CngHMt"/>
+     <Note Number="63"  Name="3=CngHOp"/>
+     <Note Number="64"  Name="4=CngLOp"/>
+     <Note Number="65"  Name="5=TimblH"/>
+     <Note Number="66"  Name="6=TimblL"/>
+     <Note Number="67"  Name="7=AgogoH"/>
+     <Note Number="68"  Name="8=AgogoL"/>
+     <Note Number="69"  Name="9=CabaUp"/>
+     <Note Number="70"  Name="0=Marcas"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=GuiroS"/>
+     <Note Number="74"  Name="4=GuiroL"/>
+     <Note Number="75"  Name="5=Claces"/>
+     <Note Number="76"  Name="6=WoodBH"/>
+     <Note Number="77"  Name="7=WoodBL"/>
+     <Note Number="78"  Name="8=CuicMt"/>
+     <Note Number="79"  Name="9=CuicOp"/>
+     <Note Number="80"  Name="0=TriMte"/>
+     <Note Number="81"  Name="1=TriOpn"/>
+     <Note Number="82"  Name="2=Shaker"/>
+     <Note Number="83"  Name="3=SlBell"/>
+     <Note Number="84"  Name="4=Talk S"/>
+     <Note Number="85"  Name="5=Casta"/>
+     <Note Number="86"  Name="6=SurdMt"/>
+     <Note Number="87"  Name="7=SurdOp"/>
+     <Note Number="88"  Name="8=CngSlp"/>
+     <Note Number="89"  Name="9=Real S"/>
+     <Note Number="90"  Name="0=Rock S"/>
+     <Note Number="91"  Name="1=PndMte"/>
+     <Note Number="92"  Name="2=PndOpn"/>
+     <Note Number="93"  Name="3=Tambrm"/>
+     <Note Number="94"  Name="4=Fat S"/>
+     <Note Number="95"  Name="5=SplatS"/>
+     <Note Number="96"  Name="6=90's S"/>
+     <Note Number="97"  Name="7=VideoS"/>
+     <Note Number="98"  Name="8=BgShtS"/>
+     <Note Number="99"  Name="9=Ring S"/>
+     <Note Number="100"  Name="0=RckRmS"/>
+     <Note Number="101"  Name="1=RegaeS"/>
+     <Note Number="102"  Name="2=60's S"/>
+     <Note Number="103"  Name="3=LatinS"/>
+     <Note Number="104"  Name="4=ComboS"/>
+     <Note Number="105"  Name="5=DanceS"/>
+     <Note Number="106"  Name="6=Chop S"/>
+     <Note Number="107"  Name="7=SwingS"/>
+     <Note Number="108"  Name="8=SmlHsS"/>
+     <Note Number="109"  Name="9=TightS"/>
+     <Note Number="110"  Name="0=RckPwS"/>
+     <Note Number="111"  Name="1=RckSpS"/>
+     <Note Number="112"  Name="2=HosDpS"/>
+     <Note Number="113"  Name="3=RckLtS"/>
+     <Note Number="114"  Name="4=SprCbS"/>
+     <Note Number="115"  Name="5=LAFatS"/>
+     <Note Number="116"  Name="6=DblRnS"/>
+     <Note Number="117"  Name="7=RckinS"/>
+     <Note Number="118"  Name="8=NoiseS"/>
+     <Note Number="119"  Name="9=TR808S"/>
+     <Note Number="120"  Name="0=TR909S"/>
+     <Note Number="121"  Name="1=BrSwiS"/>
+     <Note Number="122"  Name="2=BrSlS1"/>
+     <Note Number="123"  Name="3=BrSlS2"/>
+     <Note Number="124"  Name="4=BrSlS3"/>
+     <Note Number="125"  Name="5=BrRlS1"/>
+     <Note Number="126"  Name="6=BrRlS2"/>
+     <Note Number="127"  Name="7=808Stk"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="1"  Name="1=Dry T2"/>
+     <Note Number="2"  Name="2=Dry T3"/>
+     <Note Number="3"  Name="3=Dry T4"/>
+     <Note Number="4"  Name="4=RockT1"/>
+     <Note Number="5"  Name="5=RockT2"/>
+     <Note Number="6"  Name="6=RockT3"/>
+     <Note Number="7"  Name="7=RockT4"/>
+     <Note Number="8"  Name="8=BoosT1"/>
+     <Note Number="9"  Name="9=BoosT2"/>
+     <Note Number="10"  Name="0=BoosT3"/>
+     <Note Number="11"  Name="1=BoosT4"/>
+     <Note Number="12"  Name="2=RealT1"/>
+     <Note Number="13"  Name="3=RealT2"/>
+     <Note Number="14"  Name="4=RealT3"/>
+     <Note Number="15"  Name="5=RealT4"/>
+     <Note Number="16"  Name="6=808 T1"/>
+     <Note Number="17"  Name="7=808 T2"/>
+     <Note Number="18"  Name="8=808 T3"/>
+     <Note Number="19"  Name="9=808 T4"/>
+     <Note Number="20"  Name="0=606 T1"/>
+     <Note Number="21"  Name="1=606 T2"/>
+     <Note Number="22"  Name="2=606 T3"/>
+     <Note Number="23"  Name="3=606 T4"/>
+     <Note Number="24"  Name="4=BrshT1"/>
+     <Note Number="25"  Name="5=BrshT2"/>
+     <Note Number="26"  Name="6=BrshT3"/>
+     <Note Number="27"  Name="7=BrshT4"/>
+     <Note Number="28"  Name="8=808CHH"/>
+     <Note Number="29"  Name="9=808OHH"/>
+     <Note Number="30"  Name="0=78 CHH"/>
+     <Note Number="31"  Name="1=78 OHH"/>
+     <Note Number="32"  Name="2=BrsCHH"/>
+     <Note Number="33"  Name="3=BrsOHH"/>
+     <Note Number="34"  Name="4=CngLMt"/>
+     <Note Number="35"  Name="5=Gate K"/>
+     <Note Number="36"  Name="6=CmBrtK"/>
+     <Note Number="37"  Name="7=DryStk"/>
+     <Note Number="38"  Name="8=HouseS"/>
+     <Note Number="39"  Name="9=808Clp"/>
+     <Note Number="40"  Name="0=Lite S"/>
+     <Note Number="41"  Name="1=Rim T4"/>
+     <Note Number="42"  Name="2=PopCHH"/>
+     <Note Number="43"  Name="3=(Rim T3)"/>
+     <Note Number="44"  Name="4=PopOHH"/>
+     <Note Number="45"  Name="5=Rim T3"/>
+     <Note Number="46"  Name="6=PopPHH"/>
+     <Note Number="47"  Name="7=(Rim T2)"/>
+     <Note Number="48"  Name="8=Rim T2"/>
+     <Note Number="49"  Name="9=RevsC1"/>
+     <Note Number="50"  Name="0=Rim T1"/>
+     <Note Number="51"  Name="1=Ride C"/>
+     <Note Number="52"  Name="2=RevsC3"/>
+     <Note Number="53"  Name="3=RidBlC"/>
+     <Note Number="54"  Name="4=78Tamb"/>
+     <Note Number="55"  Name="5=SplshC"/>
+     <Note Number="56"  Name="6=808Cow"/>
+     <Note Number="57"  Name="7=RevsC2"/>
+     <Note Number="58"  Name="8=SurdRm"/>
+     <Note Number="59"  Name="9=(Ride C)"/>
+     <Note Number="60"  Name="0=BngHMt"/>
+     <Note Number="61"  Name="1=BngLMt"/>
+     <Note Number="62"  Name="2=78Bngo"/>
+     <Note Number="63"  Name="3=808CgH"/>
+     <Note Number="64"  Name="4=808CgL"/>
+     <Note Number="65"  Name="5=CowHMt"/>
+     <Note Number="66"  Name="6=CowHOp"/>
+     <Note Number="67"  Name="7=Chekre"/>
+     <Note Number="68"  Name="8=PndSlp"/>
+     <Note Number="69"  Name="9=CabaDn"/>
+     <Note Number="70"  Name="0=808Mrc"/>
+     <Note Number="71"  Name="1=WhislS"/>
+     <Note Number="72"  Name="2=WhislL"/>
+     <Note Number="73"  Name="3=(78Guir)"/>
+     <Note Number="74"  Name="4=78Guir"/>
+     <Note Number="75"  Name="5=808Clv"/>
+     <Note Number="76"  Name="6=55Clav"/>
+     <Note Number="77"  Name="7=(55Clav)"/>
+     <Note Number="78"  Name="8=78Cow"/>
+     <Note Number="79"  Name="9=(78Cow)"/>
+     <Note Number="80"  Name="0=78Beat"/>
+     <Note Number="81"  Name="1=(78Beat)"/>
+     <Note Number="82"  Name="2=78Marc"/>
+     <Note Number="83"  Name="3=Snaps"/>
+     <Note Number="84"  Name="4=RevrsK"/>
+     <Note Number="85"  Name="5=RevrsS"/>
+     <Note Number="86"  Name="6=RevrsT"/>
+     <Note Number="87"  Name="7=RvsClp"/>
+     <Note Number="88"  Name="8=KckAmb"/>
+     <Note Number="89"  Name="9=SnrAmb"/>
+     <Note Number="90"  Name="0=TomAmb"/>
+     <Note Number="91"  Name="1=LngAmb"/>
+     <Note Number="92"  Name="2=FingBs"/>
+     <Note Number="93"  Name="3=SlapBs"/>
+     <Note Number="94"  Name="4=AcouBs"/>
+     <Note Number="95"  Name="5=Syn Bs"/>
+     <Note Number="96"  Name="6=User00"/>
+     <Note Number="97"  Name="7=User01"/>
+     <Note Number="98"  Name="8=User02"/>
+     <Note Number="99"  Name="9=User03"/>
+     <Note Number="100"  Name="0=User04"/>
+     <Note Number="101"  Name="1=User05"/>
+     <Note Number="102"  Name="2=User06"/>
+     <Note Number="103"  Name="3=User07"/>
+     <Note Number="104"  Name="4=User08"/>
+     <Note Number="105"  Name="5=User09"/>
+     <Note Number="106"  Name="6=User10"/>
+     <Note Number="107"  Name="7=User11"/>
+     <Note Number="108"  Name="8=User12"/>
+     <Note Number="109"  Name="9=User13"/>
+     <Note Number="110"  Name="0=User14"/>
+     <Note Number="111"  Name="1=User15"/>
+     <Note Number="112"  Name="2=User16"/>
+     <Note Number="113"  Name="3=User17"/>
+     <Note Number="114"  Name="4=User18"/>
+     <Note Number="115"  Name="5=User19"/>
+     <Note Number="116"  Name="6=User20"/>
+     <Note Number="117"  Name="7=User21"/>
+     <Note Number="118"  Name="8=User22"/>
+     <Note Number="119"  Name="9=User23"/>
+     <Note Number="120"  Name="0=User24"/>
+     <Note Number="121"  Name="1=User25"/>
+     <Note Number="122"  Name="2=User26"/>
+     <Note Number="123"  Name="3=User27"/>
+     <Note Number="124"  Name="4=User28"/>
+     <Note Number="125"  Name="5=User29"/>
+     <Note Number="126"  Name="6=User30"/>
+     <Note Number="127"  Name="7=User31"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

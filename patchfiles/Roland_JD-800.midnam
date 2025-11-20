@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>JD-800</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Roland JD-800 - Internal">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="I-11 Millennium"  ProgramChange="0"/>
+          <Patch Number="1"  Name="I-12 Massive Pad"  ProgramChange="1"/>
+          <Patch Number="2"  Name="I-13 Crystal Rhodes"  ProgramChange="2"/>
+          <Patch Number="3"  Name="I-14 Synthadelic Bass"  ProgramChange="3"/>
+          <Patch Number="4"  Name="I-15 Wailing Guitar"  ProgramChange="4"/>
+          <Patch Number="5"  Name="I-16 Fantasia 90's"  ProgramChange="5"/>
+          <Patch Number="6"  Name="I-17 Spun Glas"  ProgramChange="6"/>
+          <Patch Number="7"  Name="I-18 Mother Afrika!"  ProgramChange="7"/>
+          <Patch Number="8"  Name="I-21 Swimotion"  ProgramChange="8"/>
+          <Patch Number="9"  Name="I-22 Classic Sweeper"  ProgramChange="9"/>
+          <Patch Number="10"  Name="I-23 LA MIDI'ed Piano"  ProgramChange="10"/>
+          <Patch Number="11"  Name="I-24 Meaty Bass"  ProgramChange="11"/>
+          <Patch Number="12"  Name="I-25 Stratomaster"  ProgramChange="12"/>
+          <Patch Number="13"  Name="I-26 Perc-Vox Stack"  ProgramChange="13"/>
+          <Patch Number="14"  Name="I-27 Killer Pad"  ProgramChange="14"/>
+          <Patch Number="15"  Name="I-28 Waveblower"  ProgramChange="15"/>
+          <Patch Number="16"  Name="I-31 Sci-Fi Groove"  ProgramChange="16"/>
+          <Patch Number="17"  Name="I-32 Mr Brass"  ProgramChange="17"/>
+          <Patch Number="18"  Name="I-33 Bruiser Tines"  ProgramChange="18"/>
+          <Patch Number="19"  Name="I-34 Wet Bass"  ProgramChange="19"/>
+          <Patch Number="20"  Name="I-35 Throaty Clav"  ProgramChange="20"/>
+          <Patch Number="21"  Name="I-36 Rockin' Wire"  ProgramChange="21"/>
+          <Patch Number="22"  Name="I-37 Iceman"  ProgramChange="22"/>
+          <Patch Number="23"  Name="I-38 Ming Dynasty"  ProgramChange="23"/>
+          <Patch Number="24"  Name="I-41 Planetarium"  ProgramChange="24"/>
+          <Patch Number="25"  Name="I-42 Pulse Pad"  ProgramChange="25"/>
+          <Patch Number="26"  Name="I-43 All Stops Out"  ProgramChange="26"/>
+          <Patch Number="27"  Name="I-44 Fusion Solo"  ProgramChange="27"/>
+          <Patch Number="28"  Name="I-45 MIDI Guitar"  ProgramChange="28"/>
+          <Patch Number="29"  Name="I-46 Pain&amp;Injury Keyz"  ProgramChange="29"/>
+          <Patch Number="30"  Name="I-47 Deep Breath Pad"  ProgramChange="30"/>
+          <Patch Number="31"  Name="I-48 Harlequin"  ProgramChange="31"/>
+          <Patch Number="32"  Name="I-51 Hearts Of Space"  ProgramChange="32"/>
+          <Patch Number="33"  Name="I-52 Analog Brass"  ProgramChange="33"/>
+          <Patch Number="34"  Name="I-53 Ac. Piano 1"  ProgramChange="34"/>
+          <Patch Number="35"  Name="I-54 Modular Bass"  ProgramChange="35"/>
+          <Patch Number="36"  Name="I-55 Clavinut"  ProgramChange="36"/>
+          <Patch Number="37"  Name="I-56 Vocostrat"  ProgramChange="37"/>
+          <Patch Number="38"  Name="I-57 Invocation"  ProgramChange="38"/>
+          <Patch Number="39"  Name="I-58 Ethnic Logs"  ProgramChange="39"/>
+          <Patch Number="40"  Name="I-61 2-Way Slide"  ProgramChange="40"/>
+          <Patch Number="41"  Name="I-62 Macho Swell"  ProgramChange="41"/>
+          <Patch Number="42"  Name="I-63 Sunday Best"  ProgramChange="42"/>
+          <Patch Number="43"  Name="I-64 Synth Pipe Solo"  ProgramChange="43"/>
+          <Patch Number="44"  Name="I-65 Nylon Choir"  ProgramChange="44"/>
+          <Patch Number="45"  Name="I-66 Scrapeing Bone"  ProgramChange="45"/>
+          <Patch Number="46"  Name="I-67 Hybrid Strings"  ProgramChange="46"/>
+          <Patch Number="47"  Name="I-68 JD-bells 1"  ProgramChange="47"/>
+          <Patch Number="48"  Name="I-71 1974!"  ProgramChange="48"/>
+          <Patch Number="49"  Name="I-72 Polysynth"  ProgramChange="49"/>
+          <Patch Number="50"  Name="I-73 Metallic Rhodes"  ProgramChange="50"/>
+          <Patch Number="51"  Name="I-74 Face Bass"  ProgramChange="51"/>
+          <Patch Number="52"  Name="I-75 Velo-Crunch"  ProgramChange="52"/>
+          <Patch Number="53"  Name="I-76 Stack Attack!"  ProgramChange="53"/>
+          <Patch Number="54"  Name="I-77 Girlish Vox"  ProgramChange="54"/>
+          <Patch Number="55"  Name="I-78 Shakuflute"  ProgramChange="55"/>
+          <Patch Number="56"  Name="I-81 Aurora Borealis"  ProgramChange="56"/>
+          <Patch Number="57"  Name="I-82 Pulsation"  ProgramChange="57"/>
+          <Patch Number="58"  Name="I-83 Waveola Keys"  ProgramChange="58"/>
+          <Patch Number="59"  Name="I-84 Tekno Funk Bass"  ProgramChange="59"/>
+          <Patch Number="60"  Name="I-85 Backwards *60's"  ProgramChange="60"/>
+          <Patch Number="61"  Name="I-86 Chinkvox/Bass"  ProgramChange="61"/>
+          <Patch Number="62"  Name="I-87 Bottle It"  ProgramChange="62"/>
+          <Patch Number="63"  Name="I-88 Doo Pipes"  ProgramChange="63"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="37"  Name="7=Kick B"/>
+     <Note Number="38"  Name="8=Snare A"/>
+     <Note Number="39"  Name="9=Block"/>
+     <Note Number="40"  Name="0=Snare B"/>
+     <Note Number="41"  Name="1=Tom 1"/>
+     <Note Number="42"  Name="2=Closed HH"/>
+     <Note Number="43"  Name="3=Tom 2"/>
+     <Note Number="44"  Name="4=1/2 Closed"/>
+     <Note Number="45"  Name="5=Tom 3"/>
+     <Note Number="46"  Name="6=Open HH"/>
+     <Note Number="47"  Name="7=Tom 4"/>
+     <Note Number="48"  Name="8=Switch"/>
+     <Note Number="49"  Name="9=Resoklang"/>
+     <Note Number="50"  Name="0=Cowbell"/>
+     <Note Number="51"  Name="1=Small Bell"/>
+     <Note Number="52"  Name="2=Log Drum"/>
+     <Note Number="53"  Name="3=Syndrum 1"/>
+     <Note Number="54"  Name="4=Hi Agogo"/>
+     <Note Number="55"  Name="5=Syndrum 2"/>
+     <Note Number="56"  Name="6=Lo Agogo"/>
+     <Note Number="57"  Name="7=Syndrum 3"/>
+     <Note Number="58"  Name="8=Rando 1"/>
+     <Note Number="59"  Name="9=Cymbal A"/>
+     <Note Number="60"  Name="0=Cymbal B"/>
+     <Note Number="61"  Name="1=Cymbal C"/>
+     <Note Number="62"  Name="2=Syn Clap"/>
+     <Note Number="63"  Name="3=Wood Crack"/>
+     <Note Number="64"  Name="4=Long Guiro"/>
+     <Note Number="65"  Name="5=Short Guiro"/>
+     <Note Number="66"  Name="6=Tambourine"/>
+     <Note Number="67"  Name="7=Wind Chime"/>
+     <Note Number="68"  Name="8=Anklungs"/>
+     <Note Number="69"  Name="9=Gong"/>
+     <Note Number="70"  Name="0=Pole"/>
+     <Note Number="71"  Name="1=Shaker"/>
+     <Note Number="72"  Name="2=Oooops"/>
+     <Note Number="73"  Name="3=Bottle Hit"/>
+     <Note Number="74"  Name="4=Laser II"/>
+     <Note Number="75"  Name="5=Typewriter"/>
+     <Note Number="76"  Name="6=Dropper"/>
+     <Note Number="77"  Name="7=Conga Mute"/>
+     <Note Number="78"  Name="8=Conga Hi"/>
+     <Note Number="79"  Name="9=Conga Low"/>
+     <Note Number="80"  Name="0=Tom 5"/>
+     <Note Number="81"  Name="1=Rattler"/>
+     <Note Number="82"  Name="2=Rando 2"/>
+     <Note Number="83"  Name="3=Kick C"/>
+     <Note Number="84"  Name="4=Vari-Vox"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

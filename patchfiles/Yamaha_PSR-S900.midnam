@@ -46,8 +46,8 @@
       </AvailableForChannels>
       <PatchBank Name="Yamaha PSR-S900 Megavoices Bank 0">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="1024"/>
+          <ControlChange Control="0" Value="1024"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="1"  Name="Mega! Nylon Guitar"  ProgramChange="1"/>
@@ -64,8 +64,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Megavoices Bank 1">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="1025"/>
+          <ControlChange Control="0" Value="1025"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="2"  Name="Mega! 12 String Guitar"  ProgramChange="2"/>
@@ -74,8 +74,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Megavoices Bank 2">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="1026"/>
+          <ControlChange Control="0" Value="1026"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="Mega! Solid Guitar2"  ProgramChange="4"/>
@@ -161,8 +161,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 GM2 Bank 1">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="15489"/>
+          <ControlChange Control="0" Value="15489"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Acoustic Piano w"  ProgramChange="0"/>
@@ -233,8 +233,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 GM2 Bank 2">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="15490"/>
+          <ControlChange Control="0" Value="15490"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Acoustic Piano d"  ProgramChange="0"/>
@@ -272,8 +272,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 GM2 Bank 3">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="15491"/>
+          <ControlChange Control="0" Value="15491"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="60's E.Piano"  ProgramChange="4"/>
@@ -298,8 +298,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 GM2 Bank 4">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="15492"/>
+          <ControlChange Control="0" Value="15492"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="E.Piano Phase"  ProgramChange="5"/>
@@ -313,8 +313,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 GM2 Bank 5">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="15493"/>
+          <ControlChange Control="0" Value="15493"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="122"  Name="Bouble"  ProgramChange="122"/>
@@ -325,8 +325,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 GM2 Bank 6">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="15494"/>
+          <ControlChange Control="0" Value="15494"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="125"  Name="Train"  ProgramChange="125"/>
@@ -334,8 +334,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 GM2 Bank 7">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="15495"/>
+          <ControlChange Control="0" Value="15495"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="125"  Name="Jetplane"  ProgramChange="125"/>
@@ -343,8 +343,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 GM2 Bank 8">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="15496"/>
+          <ControlChange Control="0" Value="15496"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="125"  Name="Starship"  ProgramChange="125"/>
@@ -352,8 +352,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 GM2 Bank 9">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="15497"/>
+          <ControlChange Control="0" Value="15497"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="125"  Name="Burst Noise"  ProgramChange="125"/>
@@ -497,8 +497,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 17">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="17"/>
+          <ControlChange Control="0" Value="17"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="56"  Name="Bright Trumpet"  ProgramChange="56"/>
@@ -507,8 +507,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 18">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="18"/>
+          <ControlChange Control="0" Value="18"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Mellow Grand Piano"  ProgramChange="0"/>
@@ -528,8 +528,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 24">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="24"/>
+          <ControlChange Control="0" Value="24"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="17"  Name="70's Percussive Organ 1"  ProgramChange="17"/>
@@ -542,8 +542,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 19">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="19"/>
+          <ControlChange Control="0" Value="19"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="39"  Name="Synth Bass 2 Dark"  ProgramChange="39"/>
@@ -554,8 +554,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 20">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="20"/>
+          <ControlChange Control="0" Value="20"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Fast Resonant Bass"  ProgramChange="38"/>
@@ -566,8 +566,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 1">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="1"/>
+          <ControlChange Control="0" Value="1"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Grand Piano KSP"  ProgramChange="0"/>
@@ -584,8 +584,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 100">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="100"/>
+          <ControlChange Control="0" Value="100"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="112"  Name="Rama Cymbal"  ProgramChange="112"/>
@@ -593,8 +593,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 101">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="101"/>
+          <ControlChange Control="0" Value="101"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="112"  Name="Asian Bells"  ProgramChange="112"/>
@@ -602,8 +602,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 12">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="12"/>
+          <ControlChange Control="0" Value="12"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="39"  Name="Sequenced Bass"  ProgramChange="39"/>
@@ -613,8 +613,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 14">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="14"/>
+          <ControlChange Control="0" Value="14"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="98"  Name="Popcorn"  ProgramChange="98"/>
@@ -623,8 +623,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 16">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="16"/>
+          <ControlChange Control="0" Value="16"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="24"  Name="Nylon Guitar 2"  ProgramChange="24"/>
@@ -638,8 +638,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 25">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="25"/>
+          <ControlChange Control="0" Value="25"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="6"  Name="Harpsichord 2"  ProgramChange="6"/>
@@ -649,8 +649,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 27">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="27"/>
+          <ControlChange Control="0" Value="27"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="Clavi Wah"  ProgramChange="7"/>
@@ -664,8 +664,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 28">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="28"/>
+          <ControlChange Control="0" Value="28"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="34"  Name="Muted Pick Bass"  ProgramChange="34"/>
@@ -674,8 +674,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 3">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="3"/>
+          <ControlChange Control="0" Value="3"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="48"  Name="Stereo Strings"  ProgramChange="48"/>
@@ -685,8 +685,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 32">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="32"/>
+          <ControlChange Control="0" Value="32"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="2"  Name="Detuned CP80"  ProgramChange="2"/>
@@ -711,8 +711,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 33">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="33"/>
+          <ControlChange Control="0" Value="33"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="DX Electric Piano Hard"  ProgramChange="5"/>
@@ -723,8 +723,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 34">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="34"/>
+          <ControlChange Control="0" Value="34"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="DX Legend"  ProgramChange="5"/>
@@ -734,8 +734,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 35">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="35"/>
+          <ControlChange Control="0" Value="35"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="6"  Name="Harpsichord 3"  ProgramChange="6"/>
@@ -754,8 +754,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 36">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="36"/>
+          <ControlChange Control="0" Value="36"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Drawbar Organ 2"  ProgramChange="16"/>
@@ -763,8 +763,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 37">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="37"/>
+          <ControlChange Control="0" Value="37"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="60's Drawbar Organ 3"  ProgramChange="16"/>
@@ -774,8 +774,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 38">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="38"/>
+          <ControlChange Control="0" Value="38"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Even Bar"  ProgramChange="16"/>
@@ -783,8 +783,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 40">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="40"/>
+          <ControlChange Control="0" Value="40"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano Strings"  ProgramChange="0"/>
@@ -818,8 +818,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 41">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="41"/>
+          <ControlChange Control="0" Value="41"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Dream"  ProgramChange="0"/>
@@ -841,8 +841,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 42">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="42"/>
+          <ControlChange Control="0" Value="42"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="DX Koto Electric Piano"  ProgramChange="5"/>
@@ -853,8 +853,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 43">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="43"/>
+          <ControlChange Control="0" Value="43"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="24"  Name="Velo Guitar Harmonics"  ProgramChange="24"/>
@@ -867,8 +867,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 45">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="45"/>
+          <ControlChange Control="0" Value="45"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="Velo Crossfade E.Pno 1"  ProgramChange="4"/>
@@ -886,8 +886,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 6">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="6"/>
+          <ControlChange Control="0" Value="6"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="39"  Name="Mellow Synth Bass"  ProgramChange="39"/>
@@ -898,8 +898,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 64">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="64"/>
+          <ControlChange Control="0" Value="64"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="60's Electric Piano 1"  ProgramChange="4"/>
@@ -946,8 +946,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 65">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="65"/>
+          <ControlChange Control="0" Value="65"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="Pierce Clavi"  ProgramChange="7"/>
@@ -978,8 +978,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 66">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="66"/>
+          <ControlChange Control="0" Value="66"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Cheezy Organ"  ProgramChange="16"/>
@@ -1000,8 +1000,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 67">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="67"/>
+          <ControlChange Control="0" Value="67"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Drawbar Organ 3"  ProgramChange="16"/>
@@ -1015,8 +1015,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 68">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="68"/>
+          <ControlChange Control="0" Value="68"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="98"  Name="Vibraphone Bells"  ProgramChange="98"/>
@@ -1026,8 +1026,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 69">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="69"/>
+          <ControlChange Control="0" Value="69"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="98"  Name="Digital Bells"  ProgramChange="98"/>
@@ -1036,8 +1036,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 70">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="70"/>
+          <ControlChange Control="0" Value="70"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="98"  Name="Air Bells"  ProgramChange="98"/>
@@ -1046,8 +1046,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 71">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="71"/>
+          <ControlChange Control="0" Value="71"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="98"  Name="Bell Harp"  ProgramChange="98"/>
@@ -1056,8 +1056,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 72">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="72"/>
+          <ControlChange Control="0" Value="72"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="98"  Name="Gamelimba"  ProgramChange="98"/>
@@ -1065,8 +1065,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 8">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="8"/>
+          <ControlChange Control="0" Value="8"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="40"  Name="Slow Violin"  ProgramChange="40"/>
@@ -1080,8 +1080,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 96">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="96"/>
+          <ControlChange Control="0" Value="96"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="14"  Name="Church Bells"  ProgramChange="14"/>
@@ -1104,8 +1104,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 97">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="97"/>
+          <ControlChange Control="0" Value="97"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="12"  Name="Balimba"  ProgramChange="12"/>
@@ -1122,8 +1122,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 98">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="98"/>
+          <ControlChange Control="0" Value="98"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="12"  Name="Log Drums"  ProgramChange="12"/>
@@ -1134,8 +1134,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha GM/XG Bank 99">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="99"/>
+          <ControlChange Control="0" Value="99"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="112"  Name="Stereo Gamelan Gongs"  ProgramChange="112"/>
@@ -1143,8 +1143,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Drums">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="16256"/>
+          <ControlChange Control="0" Value="16256"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Yamaha PSR-S900 Standard Kit 1"  ProgramChange="0"/>
@@ -1164,8 +1164,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 SFX">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="16128"/>
+          <ControlChange Control="0" Value="16128"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="SFX Kit1"  ProgramChange="0"/>
@@ -1184,8 +1184,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 112">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="112"/>
+          <ControlChange Control="0" Value="112"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="2"  Name="Live! Bright Aco.Piano"  ProgramChange="2"/>
@@ -1292,8 +1292,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 113">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="113"/>
+          <ControlChange Control="0" Value="113"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="1"  Name="Live! Grand Piano"  ProgramChange="1"/>
@@ -1328,7 +1328,7 @@
           <Patch Number="49"  Name="Orchestra Strings"  ProgramChange="49"/>
           <Patch Number="50"  Name="Slow Strings"  ProgramChange="50"/>
           <Patch Number="51"  Name="Syn Strings 2"  ProgramChange="51"/>
-          <Patch Number=";52"  Name="Ober Strings"  ProgramChange=";52"/>
+          <Patch Number="52"  Name="Ober Strings"  ProgramChange="52"/>
           <Patch Number="53"  Name="Vocal Ensemble"  ProgramChange="53"/>
           <Patch Number="54"  Name="Gothic Vox"  ProgramChange="54"/>
           <Patch Number="55"  Name="Voices"  ProgramChange="55"/>
@@ -1360,8 +1360,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 114">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="114"/>
+          <ControlChange Control="0" Value="114"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="1"  Name="Live! Warm Grand"  ProgramChange="1"/>
@@ -1407,16 +1407,16 @@
           <Patch Number="90"  Name="Dunes"  ProgramChange="90"/>
           <Patch Number="94"  Name="Glass Pad"  ProgramChange="94"/>
           <Patch Number="95"  Name="Solaris"  ProgramChange="95"/>
-          <Patch Number=";96"  Name="HipaStrPad"  ProgramChange=";96"/>
-          <Patch Number=";99"  Name="Angel Vibes"  ProgramChange=";99"/>
-          <Patch Number=";100"  Name="Mediterrain"  ProgramChange=";100"/>
-          <Patch Number=";101"  Name="Sirius"  ProgramChange=";101"/>
+          <Patch Number="96"  Name="HipaStrPad"  ProgramChange="96"/>
+          <Patch Number="99"  Name="Angel Vibes"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Mediterrain"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Sirius"  ProgramChange="101"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 115">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="115"/>
+          <ControlChange Control="0" Value="115"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="Polaris El. Piano"  ProgramChange="5"/>
@@ -1453,14 +1453,14 @@
           <Patch Number="89"  Name="GoldenAge"  ProgramChange="89"/>
           <Patch Number="90"  Name="Neo WarmPad"  ProgramChange="90"/>
           <Patch Number="95"  Name="Ionosphere"  ProgramChange="95"/>
-          <Patch Number=";96"  Name="Ober Sweep"  ProgramChange=";96"/>
-          <Patch Number=";102"  Name="S&amp;H Groove"  ProgramChange=";102"/>
+          <Patch Number="96"  Name="Ober Sweep"  ProgramChange="96"/>
+          <Patch Number="102"  Name="S&amp;H Groove"  ProgramChange="102"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 116">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="116"/>
+          <ControlChange Control="0" Value="116"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="Vintage El. Piano"  ProgramChange="5"/>
@@ -1493,15 +1493,15 @@
           <Patch Number="82"  Name="Fire Wire"  ProgramChange="82"/>
           <Patch Number="85"  Name="Tekkline"  ProgramChange="85"/>
           <Patch Number="89"  Name="Time Travel"  ProgramChange="89"/>
-          <Patch Number=";90"  Name="Disclosure"  ProgramChange=";90"/>
-          <Patch Number=";96"  Name="Messenger"  ProgramChange=";96"/>
-          <Patch Number=";102"  Name="Velo. Ashrami"  ProgramChange=";102"/>
+          <Patch Number="90"  Name="Disclosure"  ProgramChange="90"/>
+          <Patch Number="96"  Name="Messenger"  ProgramChange="96"/>
+          <Patch Number="102"  Name="Velo. Ashrami"  ProgramChange="102"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 117">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="117"/>
+          <ControlChange Control="0" Value="117"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="Stage El. Piano"  ProgramChange="5"/>
@@ -1527,15 +1527,15 @@
           <Patch Number="82"  Name="Warp"  ProgramChange="82"/>
           <Patch Number="85"  Name="Tech. Lead"  ProgramChange="85"/>
           <Patch Number="89"  Name="Millenium"  ProgramChange="89"/>
-          <Patch Number=";90"  Name="Melody Maker"  ProgramChange=";90"/>
-          <Patch Number=";96"  Name="Mellow Pad"  ProgramChange=";96"/>
-          <Patch Number=";102"  Name="Evening Stars"  ProgramChange=";102"/>
+          <Patch Number="90"  Name="Melody Maker"  ProgramChange="90"/>
+          <Patch Number="96"  Name="Mellow Pad"  ProgramChange="96"/>
+          <Patch Number="102"  Name="Evening Stars"  ProgramChange="102"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 118">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="118"/>
+          <ControlChange Control="0" Value="118"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="Suitcase El. Piano"  ProgramChange="5"/>
@@ -1556,142 +1556,142 @@
           <Patch Number="67"  Name="Growl Sax"  ProgramChange="67"/>
           <Patch Number="81"  Name="Tiny Lead"  ProgramChange="81"/>
           <Patch Number="89"  Name="Sweet Heaven"  ProgramChange="89"/>
-          <Patch Number=";90"  Name="Big Tune"  ProgramChange=";90"/>
-          <Patch Number=";96"  Name="Dark Pad"  ProgramChange=";96"/>
+          <Patch Number="90"  Name="Big Tune"  ProgramChange="90"/>
+          <Patch Number="96"  Name="Dark Pad"  ProgramChange="96"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 119">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="119"/>
+          <ControlChange Control="0" Value="119"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="Cool! Electric Piano"  ProgramChange="5"/>
           <Patch Number="6"  Name="Smooth Tine"  ProgramChange="6"/>
           <Patch Number="17"  Name="Gospel Organ"  ProgramChange="17"/>
-          <Patch Number=";18"  Name="Perc Organ"  ProgramChange=";18"/>
-          <Patch Number=";19"  Name="Rock Organ 2"  ProgramChange=";19"/>
+          <Patch Number="18"  Name="Perc Organ"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Rock Organ 2"  ProgramChange="19"/>
           <Patch Number="26"  Name="18 String"  ProgramChange="26"/>
           <Patch Number="27"  Name="Smooth Lead"  ProgramChange="27"/>
           <Patch Number="28"  Name="El. 12Str Guitar"  ProgramChange="28"/>
           <Patch Number="50"  Name="Orch. Flute"  ProgramChange="50"/>
           <Patch Number="62"  Name="Mellow Horns"  ProgramChange="62"/>
-          <Patch Number=";63"  Name="Hybrid Comp."  ProgramChange=";63"/>
-          <Patch Number=";67"  Name="Ballad Brass"  ProgramChange=";67"/>
+          <Patch Number="63"  Name="Hybrid Comp."  ProgramChange="63"/>
+          <Patch Number="67"  Name="Ballad Brass"  ProgramChange="67"/>
           <Patch Number="82"  Name="Fargo"  ProgramChange="82"/>
-          <Patch Number=";89"  Name="Bell Heaven"  ProgramChange=";89"/>
+          <Patch Number="89"  Name="Bell Heaven"  ProgramChange="89"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 120">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="120"/>
+          <ControlChange Control="0" Value="120"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="Phase EP"  ProgramChange="5"/>
           <Patch Number="6"  Name="Chorus Bell"  ProgramChange="6"/>
           <Patch Number="17"  Name="Jazz Organ 3"  ProgramChange="17"/>
-          <Patch Number=";17"  Name="Drawbar Org. 1"  ProgramChange=";17"/>
+          <Patch Number="17"  Name="Drawbar Org. 1"  ProgramChange="17"/>
           <Patch Number="28"  Name="Vintage Trem"  ProgramChange="28"/>
           <Patch Number="50"  Name="Tutti"  ProgramChange="50"/>
           <Patch Number="62"  Name="Bright Brass"  ProgramChange="62"/>
-          <Patch Number=";62"  Name="Soft Velo. Brass"  ProgramChange=";62"/>
-          <Patch Number=";66"  Name="Saxy Mood"  ProgramChange=";66"/>
-          <Patch Number=";80"  Name="Pop Lead"  ProgramChange=";80"/>
+          <Patch Number="62"  Name="Soft Velo. Brass"  ProgramChange="62"/>
+          <Patch Number="66"  Name="Saxy Mood"  ProgramChange="66"/>
+          <Patch Number="80"  Name="Pop Lead"  ProgramChange="80"/>
           <Patch Number="82"  Name="Wire Lead"  ProgramChange="82"/>
-          <Patch Number=";88"  Name="Pan Heaven"  ProgramChange=";88"/>
+          <Patch Number="88"  Name="Pan Heaven"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 121">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="121"/>
+          <ControlChange Control="0" Value="121"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="28"  Name="Solid Chord"  ProgramChange="28"/>
           <Patch Number="50"  Name="Orch. Oboe"  ProgramChange="50"/>
           <Patch Number="62"  Name="Big Brass"  ProgramChange="62"/>
           <Patch Number="67"  Name="Live! Sax Section Soft"  ProgramChange="67"/>
-          <Patch Number=";80"  Name="Trance Lead"  ProgramChange=";80"/>
+          <Patch Number="80"  Name="Trance Lead"  ProgramChange="80"/>
           <Patch Number="82"  Name="Funky Lead"  ProgramChange="82"/>
           <Patch Number="89"  Name="DreamHeaven"  ProgramChange="89"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 122">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="122"/>
+          <ControlChange Control="0" Value="122"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number=";16"  Name="Tibia 8+4"  ProgramChange=";16"/>
-          <Patch Number=";17"  Name="Tibia 8"  ProgramChange=";17"/>
+          <Patch Number="16"  Name="Tibia 8+4"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Tibia 8"  ProgramChange="17"/>
           <Patch Number="28"  Name="Wah Guitar"  ProgramChange="28"/>
           <Patch Number="50"  Name="Live! Allegro"  ProgramChange="50"/>
           <Patch Number="62"  Name="Trumpet Ensemble"  ProgramChange="62"/>
           <Patch Number="67"  Name="Live! Sax Section Hard"  ProgramChange="67"/>
           <Patch Number="80"  Name="Pan Lead"  ProgramChange="80"/>
           <Patch Number="82"  Name="Oxygen"  ProgramChange="82"/>
-          <Patch Number=";88"  Name="Pro Heaven"  ProgramChange=";88"/>
+          <Patch Number="88"  Name="Pro Heaven"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 123">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="123"/>
+          <ControlChange Control="0" Value="123"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number=";16"  Name="Kinura 8"  ProgramChange=";16"/>
-          <Patch Number=";17"  Name="Vox 8"  ProgramChange=";17"/>
+          <Patch Number="16"  Name="Kinura 8"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Vox 8"  ProgramChange="17"/>
           <Patch Number="28"  Name="Vintage Open"  ProgramChange="28"/>
           <Patch Number="62"  Name="Soft Brass"  ProgramChange="62"/>
-          <Patch Number=";66"  Name="Sax Appeal"  ProgramChange=";66"/>
-          <Patch Number=";80"  Name="Perc. Square"  ProgramChange=";80"/>
+          <Patch Number="66"  Name="Sax Appeal"  ProgramChange="66"/>
+          <Patch Number="80"  Name="Perc. Square"  ProgramChange="80"/>
           <Patch Number="82"  Name="Matrix"  ProgramChange="82"/>
-          <Patch Number=";88"  Name="Sun Beam"  ProgramChange=";88"/>
+          <Patch Number="88"  Name="Sun Beam"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 124">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="124"/>
+          <ControlChange Control="0" Value="124"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number=";16"  Name="Thtr Trp8"  ProgramChange=";16"/>
-          <Patch Number=";17"  Name="Thtr Trp16+8"  ProgramChange=";17"/>
+          <Patch Number="16"  Name="Thtr Trp8"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Thtr Trp16+8"  ProgramChange="17"/>
           <Patch Number="28"  Name="Chorus Gtr"  ProgramChange="28"/>
           <Patch Number="62"  Name="Natural Brass"  ProgramChange="62"/>
-          <Patch Number=";66"  Name="Sax Stack"  ProgramChange=";66"/>
-          <Patch Number=";80"  Name="Soft Mini"  ProgramChange=";80"/>
-          <Patch Number=";81"  Name="RoboLead"  ProgramChange=";81"/>
-          <Patch Number=";88"  Name="String Bells"  ProgramChange=";88"/>
+          <Patch Number="66"  Name="Sax Stack"  ProgramChange="66"/>
+          <Patch Number="80"  Name="Soft Mini"  ProgramChange="80"/>
+          <Patch Number="81"  Name="RoboLead"  ProgramChange="81"/>
+          <Patch Number="88"  Name="String Bells"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 125">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="125"/>
+          <ControlChange Control="0" Value="125"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number=";16"  Name="Tibia+Vox"  ProgramChange=";16"/>
-          <Patch Number=";17"  Name="Trp+Kinura"  ProgramChange=";17"/>
+          <Patch Number="16"  Name="Tibia+Vox"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Trp+Kinura"  ProgramChange="17"/>
           <Patch Number="28"  Name="Cool! Vintage Lead"  ProgramChange="28"/>
           <Patch Number="62"  Name="Sforzando"  ProgramChange="62"/>
-          <Patch Number=";80"  Name="Bright Mini"  ProgramChange=";80"/>
-          <Patch Number=";81"  Name="Trumpet Saw"  ProgramChange=";81"/>
-          <Patch Number=";88"  Name="Crystal Eyes"  ProgramChange=";88"/>
+          <Patch Number="80"  Name="Bright Mini"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Trumpet Saw"  ProgramChange="81"/>
+          <Patch Number="88"  Name="Crystal Eyes"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR-S900 Bank 126">
         <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="126"/>
+          <ControlChange Control="0" Value="126"/>
+          <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="17"  Name="Organ Flutes"  ProgramChange="17"/>
           <Patch Number="28"  Name="Vintage Strum"  ProgramChange="28"/>
-          <Patch Number=";61"  Name="Brass Hit"  ProgramChange=";61"/>
-          <Patch Number=";81"  Name="Attack Saw"  ProgramChange=";81"/>
-          <Patch Number=";88"  Name="Pad Bells"  ProgramChange=";88"/>
+          <Patch Number="61"  Name="Brass Hit"  ProgramChange="61"/>
+          <Patch Number="81"  Name="Attack Saw"  ProgramChange="81"/>
+          <Patch Number="88"  Name="Pad Bells"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>

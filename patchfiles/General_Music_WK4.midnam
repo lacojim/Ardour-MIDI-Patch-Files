@@ -1,0 +1,1891 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>General_Music</Manufacturer>
+    <Model>WK4</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Generalmusic WK4 Bank 1">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Piano1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Piano3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="HonkyTonk"  ProgramChange="3"/>
+          <Patch Number="4"  Name="E.Piano1"  ProgramChange="4"/>
+          <Patch Number="5"  Name="E.Piano"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsichor"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Clavinet"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Celesta"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Glockenspl"  ProgramChange="9"/>
+          <Patch Number="10"  Name="MusicBox"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vibraphone"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Marimba"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Xylophone"  ProgramChange="13"/>
+          <Patch Number="14"  Name="TubularBel"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Santur"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Organ1"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Organ"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Organ3"  ProgramChange="18"/>
+          <Patch Number="19"  Name="ChurchOrg1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="ReedOrgan"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Musette"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Harmonica"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Bandoneon"  ProgramChange="23"/>
+          <Patch Number="24"  Name="NylonGtr"  ProgramChange="24"/>
+          <Patch Number="25"  Name="SteelGtr"  ProgramChange="25"/>
+          <Patch Number="26"  Name="JazzGtr1"  ProgramChange="26"/>
+          <Patch Number="27"  Name="CleanGtr"  ProgramChange="27"/>
+          <Patch Number="28"  Name="MutedGtr"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Overdrive"  ProgramChange="29"/>
+          <Patch Number="30"  Name="DistGtr"  ProgramChange="30"/>
+          <Patch Number="31"  Name="HarmonxGtr"  ProgramChange="31"/>
+          <Patch Number="32"  Name="AcoustcBs1"  ProgramChange="32"/>
+          <Patch Number="33"  Name="FingeredBs"  ProgramChange="33"/>
+          <Patch Number="34"  Name="PickBass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Fretless"  ProgramChange="35"/>
+          <Patch Number="36"  Name="SlapBass1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="SlapBass"  ProgramChange="37"/>
+          <Patch Number="38"  Name="SynBass1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="SynBass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Violin"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Viola"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Cello"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Contrabass"  ProgramChange="43"/>
+          <Patch Number="44"  Name="TremoloStr"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Pizzicato"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Harp"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Timpani"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Strings"  ProgramChange="48"/>
+          <Patch Number="49"  Name="SlwStrings"  ProgramChange="49"/>
+          <Patch Number="50"  Name="SynStrg1"  ProgramChange="50"/>
+          <Patch Number="51"  Name="SynStrg"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Choir"  ProgramChange="52"/>
+          <Patch Number="53"  Name="VoiceOohs"  ProgramChange="53"/>
+          <Patch Number="54"  Name="SynVox"  ProgramChange="54"/>
+          <Patch Number="55"  Name="OrchHits"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Trumpet"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Trombone"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Tuba"  ProgramChange="58"/>
+          <Patch Number="59"  Name="MutedTrp1"  ProgramChange="59"/>
+          <Patch Number="60"  Name="FrenchHorn"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brass"  ProgramChange="61"/>
+          <Patch Number="62"  Name="SynBrass1"  ProgramChange="62"/>
+          <Patch Number="63"  Name="SynBrass"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Soprano"  ProgramChange="64"/>
+          <Patch Number="65"  Name="SoftSax"  ProgramChange="65"/>
+          <Patch Number="66"  Name="TenorSax"  ProgramChange="66"/>
+          <Patch Number="67"  Name="BaritonSax"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Oboe"  ProgramChange="68"/>
+          <Patch Number="69"  Name="EnglisHorn"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Bassoon"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Clarinet"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Piccolo"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Flute"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Recorder"  ProgramChange="74"/>
+          <Patch Number="75"  Name="PanFlute"  ProgramChange="75"/>
+          <Patch Number="76"  Name="BottleBlow"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Shakuhachi"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Whistle"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Ocarina"  ProgramChange="79"/>
+          <Patch Number="80"  Name="SquareWave"  ProgramChange="80"/>
+          <Patch Number="81"  Name="SawWave"  ProgramChange="81"/>
+          <Patch Number="82"  Name="SynCalliop"  ProgramChange="82"/>
+          <Patch Number="83"  Name="ChiffLead"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Charang"  ProgramChange="84"/>
+          <Patch Number="85"  Name="SoloVox"  ProgramChange="85"/>
+          <Patch Number="86"  Name="5thSawWave"  ProgramChange="86"/>
+          <Patch Number="87"  Name="BassLead"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Fantasia"  ProgramChange="88"/>
+          <Patch Number="89"  Name="WarmPad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Polysynth"  ProgramChange="90"/>
+          <Patch Number="91"  Name="SpaceVoice"  ProgramChange="91"/>
+          <Patch Number="92"  Name="BowedGlass"  ProgramChange="92"/>
+          <Patch Number="93"  Name="MetalPad"  ProgramChange="93"/>
+          <Patch Number="94"  Name="HaloPad"  ProgramChange="94"/>
+          <Patch Number="95"  Name="SweepPad"  ProgramChange="95"/>
+          <Patch Number="96"  Name="IceRain"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Soundtrack"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Crystal"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Atmosphere"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Brightness"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Goblin"  ProgramChange="101"/>
+          <Patch Number="10"  Name="EchoDrops"  ProgramChange="10"/>
+          <Patch Number="103"  Name="StarTheme"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Sitar"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Banjo"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Shamisen"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Koto"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Kalimba"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Bagpipe"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Fiddle"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Shanai"  ProgramChange="111"/>
+          <Patch Number="11"  Name="TinkleBell"  ProgramChange="11"/>
+          <Patch Number="113"  Name="Agogo"  ProgramChange="113"/>
+          <Patch Number="114"  Name="SteelDrums"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Woodblock"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Taiko"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Melo.Tom1"  ProgramChange="117"/>
+          <Patch Number="118"  Name="SynthDrum"  ProgramChange="118"/>
+          <Patch Number="119"  Name="ReverseCym"  ProgramChange="119"/>
+          <Patch Number="120"  Name="GtFretNois"  ProgramChange="120"/>
+          <Patch Number="121"  Name="BreathNois"  ProgramChange="121"/>
+          <Patch Number="12"  Name="Seashore"  ProgramChange="12"/>
+          <Patch Number="123"  Name="Bird"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Telephone1"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Helicopter"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Applause"  ProgramChange="126"/>
+          <Patch Number="127"  Name="GunShot"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PianoMk1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PianoW"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.G.Piano1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="DetPiano"  ProgramChange="3"/>
+          <Patch Number="4"  Name="ThinRhodx"  ProgramChange="4"/>
+          <Patch Number="5"  Name="E.Piano3"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsich"  ProgramChange="6"/>
+          <Patch Number="7"  Name="SynClav"  ProgramChange="7"/>
+          <Patch Number="8"  Name="CelestaPlk"  ProgramChange="8"/>
+          <Patch Number="9"  Name="GlockVibes"  ProgramChange="9"/>
+          <Patch Number="10"  Name="WineGls1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Vibes"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Marimba"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Xylophone"  ProgramChange="13"/>
+          <Patch Number="14"  Name="SoftBell"  ProgramChange="14"/>
+          <Patch Number="15"  Name="BarChimes"  ProgramChange="15"/>
+          <Patch Number="16"  Name="16’1’Draw"  ProgramChange="16"/>
+          <Patch Number="17"  Name="16’8’5’Drw"  ProgramChange="17"/>
+          <Patch Number="18"  Name="SwOrgan"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Church"  ProgramChange="19"/>
+          <Patch Number="20"  Name="PipeOrgan"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Accord1"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Blusette"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Cassotto"  ProgramChange="23"/>
+          <Patch Number="24"  Name="SoloGtr"  ProgramChange="24"/>
+          <Patch Number="25"  Name="1StrGtr"  ProgramChange="25"/>
+          <Patch Number="26"  Name="OctJzGtr"  ProgramChange="26"/>
+          <Patch Number="27"  Name="ElGuitar1"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Muted"  ProgramChange="28"/>
+          <Patch Number="29"  Name="WhaGtr1"  ProgramChange="29"/>
+          <Patch Number="30"  Name="FuzzGtr"  ProgramChange="30"/>
+          <Patch Number="31"  Name="SlowHarmx"  ProgramChange="31"/>
+          <Patch Number="32"  Name="AcoustcBs"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Dyn.Fingrd"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Dyn.Bass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="AcidBass1"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Dyn.Bass3"  ProgramChange="36"/>
+          <Patch Number="37"  Name="WXBass"  ProgramChange="37"/>
+          <Patch Number="38"  Name="SynBass3"  ProgramChange="38"/>
+          <Patch Number="39"  Name="SynBass4"  ProgramChange="39"/>
+          <Patch Number="40"  Name="SlowViolin"  ProgramChange="40"/>
+          <Patch Number="41"  Name="BowedViola"  ProgramChange="41"/>
+          <Patch Number="42"  Name="SlowCello"  ProgramChange="42"/>
+          <Patch Number="43"  Name="BowedBass"  ProgramChange="43"/>
+          <Patch Number="44"  Name="OctTremolo"  ProgramChange="44"/>
+          <Patch Number="45"  Name="OctPizz"  ProgramChange="45"/>
+          <Patch Number="46"  Name="HarpDelay"  ProgramChange="46"/>
+          <Patch Number="47"  Name="TimpaniEFX"  ProgramChange="47"/>
+          <Patch Number="48"  Name="StereoStrg"  ProgramChange="48"/>
+          <Patch Number="49"  Name="StrgOrch"  ProgramChange="49"/>
+          <Patch Number="50"  Name="SynStrg3"  ProgramChange="50"/>
+          <Patch Number="51"  Name="SynStrg4"  ProgramChange="51"/>
+          <Patch Number="52"  Name="VoiceUuh"  ProgramChange="52"/>
+          <Patch Number="53"  Name="VoiceAah"  ProgramChange="53"/>
+          <Patch Number="54"  Name="SkatVoices"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Rave"  ProgramChange="55"/>
+          <Patch Number="56"  Name="FlugelAttk"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Trombone3"  ProgramChange="57"/>
+          <Patch Number="58"  Name="ShortTuba"  ProgramChange="58"/>
+          <Patch Number="59"  Name="MutedTrp"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Dyn.FrHorn"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Brass"  ProgramChange="61"/>
+          <Patch Number="62"  Name="SynBras"  ProgramChange="62"/>
+          <Patch Number="63"  Name="SlowHorn"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Soprano"  ProgramChange="64"/>
+          <Patch Number="65"  Name="SaxNoise"  ProgramChange="65"/>
+          <Patch Number="66"  Name="OctaveSax"  ProgramChange="66"/>
+          <Patch Number="67"  Name="BaritDet"  ProgramChange="67"/>
+          <Patch Number="68"  Name="OboeChiff"  ProgramChange="68"/>
+          <Patch Number="69"  Name="EngHorn"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Bassoon"  ProgramChange="70"/>
+          <Patch Number="71"  Name="ClarSolo"  ProgramChange="71"/>
+          <Patch Number="72"  Name="HardFlute1"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Dyn.Flute1"  ProgramChange="73"/>
+          <Patch Number="74"  Name="HardFlute"  ProgramChange="74"/>
+          <Patch Number="75"  Name="PanFlute"  ProgramChange="75"/>
+          <Patch Number="76"  Name="BottleNois"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Shakupad"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Whistle1WX"  ProgramChange="78"/>
+          <Patch Number="79"  Name="OcarinaPan"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Pulse1"  ProgramChange="80"/>
+          <Patch Number="81"  Name="ObxFilter"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Azimut"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Chopper"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Jump"  ProgramChange="84"/>
+          <Patch Number="85"  Name="FiltRes1"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Decay1"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Obx"  ProgramChange="87"/>
+          <Patch Number="88"  Name="NewAge"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Obx1"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Fantasy"  ProgramChange="90"/>
+          <Patch Number="91"  Name="VocBells"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Prophet1"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Bright"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Slave"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Machiner"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Noiseres"  ProgramChange="96"/>
+          <Patch Number="97"  Name="MoonWind"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Wind"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Arp6000"  ProgramChange="99"/>
+          <Patch Number="100"  Name="WithGas"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Resonance"  ProgramChange="101"/>
+          <Patch Number="10"  Name="Synthex1"  ProgramChange="10"/>
+          <Patch Number="103"  Name="StarTheme"  ProgramChange="103"/>
+          <Patch Number="104"  Name="SitarDet"  ProgramChange="104"/>
+          <Patch Number="105"  Name="BanjoOct"  ProgramChange="105"/>
+          <Patch Number="106"  Name="ShamSitar"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Kanoun"  ProgramChange="107"/>
+          <Patch Number="108"  Name="ShrtKalimb"  ProgramChange="108"/>
+          <Patch Number="109"  Name="BagpipeEns"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Hukin"  ProgramChange="110"/>
+          <Patch Number="111"  Name="BacktoWS"  ProgramChange="111"/>
+          <Patch Number="11"  Name="DK_STAND.1"  ProgramChange="11"/>
+          <Patch Number="113"  Name="DK_ROOM DK_WS"  ProgramChange="113"/>
+          <Patch Number="114"  Name="DK_POWER"  ProgramChange="114"/>
+          <Patch Number="115"  Name="DK_ELECT."  ProgramChange="115"/>
+          <Patch Number="116"  Name="DK_HOUSE"  ProgramChange="116"/>
+          <Patch Number="117"  Name="DK_JAZZ1"  ProgramChange="117"/>
+          <Patch Number="118"  Name="DK_BRUSH"  ProgramChange="118"/>
+          <Patch Number="119"  Name="DK_ORCH"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Gtr.WhaWha |’|"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Zapp"  ProgramChange="121"/>
+          <Patch Number="12"  Name="TickTack"  ProgramChange="12"/>
+          <Patch Number="123"  Name="Scratch1"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Telephone"  ProgramChange="124"/>
+          <Patch Number="125"  Name="SynPerc3"  ProgramChange="125"/>
+          <Patch Number="126"  Name="HeartBeat"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Explosion"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 3">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PickPiano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Pianoctave"  ProgramChange="1"/>
+          <Patch Number="2"  Name="E.G.Piano"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Western"  ProgramChange="3"/>
+          <Patch Number="4"  Name="E.Piano4"  ProgramChange="4"/>
+          <Patch Number="5"  Name="E.Piano5"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Harpsich3"  ProgramChange="6"/>
+          <Patch Number="7"  Name="WowClav"  ProgramChange="7"/>
+          <Patch Number="8"  Name="ToyPiano"  ProgramChange="8"/>
+          <Patch Number="9"  Name="GlockChoir"  ProgramChange="9"/>
+          <Patch Number="10"  Name="MusicBell"  ProgramChange="10"/>
+          <Patch Number="11"  Name="SynVibes"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Mallet"  ProgramChange="12"/>
+          <Patch Number="13"  Name="XyloTribal"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Oohlalaa"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Climbing"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Organ1WX"  ProgramChange="16"/>
+          <Patch Number="17"  Name="JazzOrgan3"  ProgramChange="17"/>
+          <Patch Number="18"  Name="SynOrg1"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Organ3WX"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Organ4"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Accord"  ProgramChange="21"/>
+          <Patch Number="22"  Name="WestHarmon"  ProgramChange="22"/>
+          <Patch Number="23"  Name="OrganLfo"  ProgramChange="23"/>
+          <Patch Number="24"  Name="VocalGtr"  ProgramChange="24"/>
+          <Patch Number="25"  Name="SteelGtr1"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Hawaiian"  ProgramChange="26"/>
+          <Patch Number="27"  Name="ChorusGtr"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Dyn.Muted"  ProgramChange="28"/>
+          <Patch Number="29"  Name="5thOverdr"  ProgramChange="29"/>
+          <Patch Number="30"  Name="HeavyGt"  ProgramChange="30"/>
+          <Patch Number="31"  Name="HarmGtr3"  ProgramChange="31"/>
+          <Patch Number="32"  Name="AcousticBs3"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Dyn.Bass1"  ProgramChange="33"/>
+          <Patch Number="34"  Name="PckBass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Flanged"  ProgramChange="35"/>
+          <Patch Number="36"  Name="SlapSynBs"  ProgramChange="36"/>
+          <Patch Number="37"  Name="StopBass"  ProgramChange="37"/>
+          <Patch Number="38"  Name="TecknoBass"  ProgramChange="38"/>
+          <Patch Number="39"  Name="RaveBass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="ViolinOrch"  ProgramChange="40"/>
+          <Patch Number="41"  Name="ViolaPad"  ProgramChange="41"/>
+          <Patch Number="42"  Name="CelloEns"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Staccato"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Plectra"  ProgramChange="44"/>
+          <Patch Number="45"  Name="EchoPizz"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Spacehar"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Dyn.Orch I’I"  ProgramChange="47"/>
+          <Patch Number="48"  Name="StrgGlock"  ProgramChange="48"/>
+          <Patch Number="49"  Name="St.SlwStrg"  ProgramChange="49"/>
+          <Patch Number="50"  Name="SynStrg5"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Strings3"  ProgramChange="51"/>
+          <Patch Number="52"  Name="SlowUuh"  ProgramChange="52"/>
+          <Patch Number="53"  Name="SlowAah"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Vocoder"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Dyn.St.Hit"  ProgramChange="55"/>
+          <Patch Number="56"  Name="FlugelHorn"  ProgramChange="56"/>
+          <Patch Number="57"  Name="WowTromb"  ProgramChange="57"/>
+          <Patch Number="58"  Name="WowTuba"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Dyn.MtTrp"  ProgramChange="59"/>
+          <Patch Number="60"  Name="TotoHorns"  ProgramChange="60"/>
+          <Patch Number="61"  Name="BrassRips"  ProgramChange="61"/>
+          <Patch Number="62"  Name="SyntHorn"  ProgramChange="62"/>
+          <Patch Number="63"  Name="AttkHorn"  ProgramChange="63"/>
+          <Patch Number="64"  Name="SoprFilter"  ProgramChange="64"/>
+          <Patch Number="65"  Name="SoftFilt"  ProgramChange="65"/>
+          <Patch Number="66"  Name="TenFilter"  ProgramChange="66"/>
+          <Patch Number="67"  Name="BariFilter"  ProgramChange="67"/>
+          <Patch Number="68"  Name="OboeFilter"  ProgramChange="68"/>
+          <Patch Number="69"  Name="HornFilter"  ProgramChange="69"/>
+          <Patch Number="70"  Name="BassoonFlt"  ProgramChange="70"/>
+          <Patch Number="71"  Name="ClarFilter"  ProgramChange="71"/>
+          <Patch Number="72"  Name="HardFlt"  ProgramChange="72"/>
+          <Patch Number="73"  Name="DynHiFlute"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Bubbler"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Dyn.Pan"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Tube"  ProgramChange="76"/>
+          <Patch Number="77"  Name="ShakuVoice"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Whistle3WX"  ProgramChange="78"/>
+          <Patch Number="79"  Name="OcarinaSyn"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Pulse"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Lyle"  ProgramChange="81"/>
+          <Patch Number="82"  Name="SynLead1"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Digital"  ProgramChange="83"/>
+          <Patch Number="84"  Name="SoundTrk"  ProgramChange="84"/>
+          <Patch Number="85"  Name="FiltRes"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Decay"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Obx3"  ProgramChange="87"/>
+          <Patch Number="88"  Name="PPG"  ProgramChange="88"/>
+          <Patch Number="89"  Name="AnlgPad"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Fantasy3"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Angels"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Prophet"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Analogic"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Atmosphere"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Decay3"  ProgramChange="95"/>
+          <Patch Number="96"  Name="BigRoom"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Slope"  ProgramChange="97"/>
+          <Patch Number="98"  Name="SynLead"  ProgramChange="98"/>
+          <Patch Number="99"  Name="GlockAthm"  ProgramChange="99"/>
+          <Patch Number="100"  Name="PopUp"  ProgramChange="100"/>
+          <Patch Number="101"  Name="NoGravity"  ProgramChange="101"/>
+          <Patch Number="10"  Name="Synthex"  ProgramChange="10"/>
+          <Patch Number="103"  Name="PowerBad"  ProgramChange="103"/>
+          <Patch Number="104"  Name="SynSitar"  ProgramChange="104"/>
+          <Patch Number="105"  Name="EthnicGtr"  ProgramChange="105"/>
+          <Patch Number="106"  Name="SynSham"  ProgramChange="106"/>
+          <Patch Number="107"  Name="TrpClarin"  ProgramChange="107"/>
+          <Patch Number="108"  Name="SaxTrumpt"  ProgramChange="108"/>
+          <Patch Number="109"  Name="BrassEns"  ProgramChange="109"/>
+          <Patch Number="110"  Name="FiddleBell"  ProgramChange="110"/>
+          <Patch Number="111"  Name="VoiceSpect"  ProgramChange="111"/>
+          <Patch Number="11"  Name="DK_STAND."  ProgramChange="11"/>
+          <Patch Number="113"  Name="DK_ROOM1WX"  ProgramChange="113"/>
+          <Patch Number="114"  Name="DK_STD.1WX"  ProgramChange="114"/>
+          <Patch Number="115"  Name="DK_DANCE"  ProgramChange="115"/>
+          <Patch Number="116"  Name="DK_TECHNO"  ProgramChange="116"/>
+          <Patch Number="117"  Name="DK_JAZZ"  ProgramChange="117"/>
+          <Patch Number="118"  Name="DK_M1"  ProgramChange="118"/>
+          <Patch Number="119"  Name="DK_SY77"  ProgramChange="119"/>
+          <Patch Number="120"  Name="GtrNoise"  ProgramChange="120"/>
+          <Patch Number="121"  Name="KeyClick"  ProgramChange="121"/>
+          <Patch Number="12"  Name="Drop"  ProgramChange="12"/>
+          <Patch Number="123"  Name="Water"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Door"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Clackson"  ProgramChange="125"/>
+          <Patch Number="126"  Name="PickScrape"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Bomb"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 4">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PianoStage"  ProgramChange="0"/>
+          <Patch Number="4"  Name="RhodxFilt"  ProgramChange="4"/>
+          <Patch Number="5"  Name="E.PianoSft"  ProgramChange="5"/>
+          <Patch Number="16"  Name="OrgTheatre"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Organ3W"  ProgramChange="17"/>
+          <Patch Number="18"  Name="OrganC3"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Organ1W"  ProgramChange="19"/>
+          <Patch Number="20"  Name="PipeChiff"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Accord3"  ProgramChange="21"/>
+          <Patch Number="23"  Name="Bandoneon"  ProgramChange="23"/>
+          <Patch Number="25"  Name="SteelGtr"  ProgramChange="25"/>
+          <Patch Number="26"  Name="JazzGtr"  ProgramChange="26"/>
+          <Patch Number="27"  Name="ElGuitar"  ProgramChange="27"/>
+          <Patch Number="28"  Name="MutedWha"  ProgramChange="28"/>
+          <Patch Number="30"  Name="LeadDist"  ProgramChange="30"/>
+          <Patch Number="32"  Name="Dyn.AcoBs"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Dyn.Baxx'"  ProgramChange="33"/>
+          <Patch Number="34"  Name="PkBsMute"  ProgramChange="34"/>
+          <Patch Number="37"  Name="ThumBass"  ProgramChange="37"/>
+          <Patch Number="39"  Name="SynthBass"  ProgramChange="39"/>
+          <Patch Number="48"  Name="DualStrgs"  ProgramChange="48"/>
+          <Patch Number="55"  Name="HitsRev"  ProgramChange="55"/>
+          <Patch Number="57"  Name="TrombSwell"  ProgramChange="57"/>
+          <Patch Number="60"  Name="FrHrnSwell"  ProgramChange="60"/>
+          <Patch Number="61"  Name="BrassFall"  ProgramChange="61"/>
+          <Patch Number="62"  Name="SynBrass3"  ProgramChange="62"/>
+          <Patch Number="63"  Name="SynBrass4"  ProgramChange="63"/>
+          <Patch Number="65"  Name="LiscioSax"  ProgramChange="65"/>
+          <Patch Number="71"  Name="LiscioClar"  ProgramChange="71"/>
+          <Patch Number="88"  Name="Fantasy1"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Waveaura"  ProgramChange="89"/>
+          <Patch Number="91"  Name="OcBreath"  ProgramChange="91"/>
+          <Patch Number="93"  Name="Bright3"  ProgramChange="93"/>
+          <Patch Number="95"  Name="Waiting"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Submarin"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Ekoendls"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Jets"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Smak"  ProgramChange="99"/>
+          <Patch Number="100"  Name="OnOff"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Synthex3"  ProgramChange="101"/>
+          <Patch Number="10"  Name="Synthex4"  ProgramChange="10"/>
+          <Patch Number="103"  Name="StarTheme3"  ProgramChange="103"/>
+          <Patch Number="11"  Name="DK_STAND.3"  ProgramChange="11"/>
+          <Patch Number="113"  Name="DK_ROOM1WX"  ProgramChange="113"/>
+          <Patch Number="114"  Name="DK_POWER1WX"  ProgramChange="114"/>
+          <Patch Number="115"  Name="DK_ELECT1WX"  ProgramChange="115"/>
+          <Patch Number="116"  Name="DK_HOUSE1WX"  ProgramChange="116"/>
+          <Patch Number="117"  Name="DK_JAZZ_WX"  ProgramChange="117"/>
+          <Patch Number="118"  Name="DK_BRUSHWX"  ProgramChange="118"/>
+          <Patch Number="119"  Name="DK_ORCH_WX"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 5">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="4"  Name="E.PianoMk"  ProgramChange="4"/>
+          <Patch Number="5"  Name="DetuneE.P."  ProgramChange="5"/>
+          <Patch Number="16"  Name="16'1'Vib3"  ProgramChange="16"/>
+          <Patch Number="17"  Name="16'"  ProgramChange="17"/>
+          <Patch Number="18"  Name="5'1/3"  ProgramChange="18"/>
+          <Patch Number="19"  Name="PipeOrg3"  ProgramChange="19"/>
+          <Patch Number="21"  Name="Accord4"  ProgramChange="21"/>
+          <Patch Number="23"  Name="Diatonic"  ProgramChange="23"/>
+          <Patch Number="25"  Name="Mandolin"  ProgramChange="25"/>
+          <Patch Number="27"  Name="Dyn.Clean"  ProgramChange="27"/>
+          <Patch Number="32"  Name="HarmAcBs"  ProgramChange="32"/>
+          <Patch Number="34"  Name="HarmElBs"  ProgramChange="34"/>
+          <Patch Number="61"  Name="BrassTrp"  ProgramChange="61"/>
+          <Patch Number="63"  Name="SynBrass5"  ProgramChange="63"/>
+          <Patch Number="95"  Name="Budweis"  ProgramChange="95"/>
+          <Patch Number="97"  Name="SynRain"  ProgramChange="97"/>
+          <Patch Number="102"  Name="Synthex5"  ProgramChange="102"/>
+          <Patch Number="112"  Name="DK_STD.2WX"  ProgramChange="112"/>
+          <Patch Number="113"  Name="DK_ROOM2WX"  ProgramChange="113"/>
+          <Patch Number="114"  Name="DKPOWER2WX"  ProgramChange="114"/>
+          <Patch Number="115"  Name="DKELECT2WX"  ProgramChange="115"/>
+          <Patch Number="116"  Name="DKHOUSE2WX"  ProgramChange="116"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 6">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="4"  Name="E.PianoX"  ProgramChange="4"/>
+          <Patch Number="5"  Name="DynE.P."  ProgramChange="5"/>
+          <Patch Number="16"  Name="8'"  ProgramChange="16"/>
+          <Patch Number="17"  Name="4'"  ProgramChange="17"/>
+          <Patch Number="18"  Name="2'2/3"  ProgramChange="18"/>
+          <Patch Number="25"  Name="Mandolin2"  ProgramChange="25"/>
+          <Patch Number="95"  Name="Tibet"  ProgramChange="95"/>
+          <Patch Number="102"  Name="Synthex6"  ProgramChange="102"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 7">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="16"  Name="2'"  ProgramChange="16"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 8">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="NO_DATA_IN_8"  ProgramChange="0"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 9">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDHOUSE1"  ProgramChange="96"/>
+          <Patch Number="97"  Name="BDTEKNO"  ProgramChange="97"/>
+          <Patch Number="98"  Name="RIMSHOT1"  ProgramChange="98"/>
+          <Patch Number="99"  Name="SDELECT"  ProgramChange="99"/>
+          <Patch Number="100"  Name="SDSTD2"  ProgramChange="100"/>
+          <Patch Number="101"  Name="HOUSECLAP"  ProgramChange="101"/>
+          <Patch Number="102"  Name="ROLLSNARE"  ProgramChange="102"/>
+          <Patch Number="103"  Name="TOMELEC"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHCLO1L"  ProgramChange="104"/>
+          <Patch Number="105"  Name="HHOPEN2"  ProgramChange="105"/>
+          <Patch Number="106"  Name="CRASHORC"  ProgramChange="106"/>
+          <Patch Number="107"  Name="TAMBOURINE"  ProgramChange="107"/>
+          <Patch Number="108"  Name="BONGOHISL"  ProgramChange="108"/>
+          <Patch Number="109"  Name="TIMBALES"  ProgramChange="109"/>
+          <Patch Number="110"  Name="GUIROLONG"  ProgramChange="110"/>
+          <Patch Number="111"  Name="SHAKER"  ProgramChange="111"/>
+          <Patch Number="112"  Name="FINGERSNAP"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOICES1"  ProgramChange="113"/>
+          <Patch Number="114"  Name="FINGBELL"  ProgramChange="114"/>
+          <Patch Number="115"  Name="NOISEPERC"  ProgramChange="115"/>
+          <Patch Number="120"  Name="WhaWha1"  ProgramChange="120"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 10">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDHOUSE"  ProgramChange="96"/>
+          <Patch Number="97"  Name="BDORCH"  ProgramChange="97"/>
+          <Patch Number="98"  Name="RIMSHOT"  ProgramChange="98"/>
+          <Patch Number="99"  Name="DYNSDJAZZ"  ProgramChange="99"/>
+          <Patch Number="100"  Name="SDSTD3"  ProgramChange="100"/>
+          <Patch Number="101"  Name=""  ProgramChange="101"/>
+          <Patch Number="102"  Name="BRUSREV"  ProgramChange="102"/>
+          <Patch Number="103"  Name="TOMHIGH"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHCLO1S"  ProgramChange="104"/>
+          <Patch Number="105"  Name=""  ProgramChange="105"/>
+          <Patch Number="106"  Name="CRASH"  ProgramChange="106"/>
+          <Patch Number="107"  Name="TAMBSLP"  ProgramChange="107"/>
+          <Patch Number="108"  Name="CONGALSLAP"  ProgramChange="108"/>
+          <Patch Number="109"  Name="TIMBLOW"  ProgramChange="109"/>
+          <Patch Number="110"  Name="GUIROSHORT"  ProgramChange="110"/>
+          <Patch Number="111"  Name="JNGLEBELL"  ProgramChange="111"/>
+          <Patch Number="112"  Name="DROP"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOICES"  ProgramChange="113"/>
+          <Patch Number="114"  Name="ZAPP"  ProgramChange="114"/>
+          <Patch Number="115"  Name="RASPYRIDE"  ProgramChange="115"/>
+          <Patch Number="120"  Name="WhaWha"  ProgramChange="120"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 11">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDELECT1"  ProgramChange="96"/>
+          <Patch Number="97"  Name="BDPOWER"  ProgramChange="97"/>
+          <Patch Number="98"  Name="HOUSERIM"  ProgramChange="98"/>
+          <Patch Number="99"  Name="SDJAZZ"  ProgramChange="99"/>
+          <Patch Number="100"  Name="SDSTD4"  ProgramChange="100"/>
+          <Patch Number="102"  Name="BRUSRIG"  ProgramChange="102"/>
+          <Patch Number="103"  Name="TOMJAZZ"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHOPEN1"  ProgramChange="104"/>
+          <Patch Number="106"  Name="HOUSERIDE"  ProgramChange="106"/>
+          <Patch Number="107"  Name="COWBELL"  ProgramChange="107"/>
+          <Patch Number="108"  Name="BONGOLOW"  ProgramChange="108"/>
+          <Patch Number="109"  Name="AGOGO"  ProgramChange="109"/>
+          <Patch Number="110"  Name="CLAVES"  ProgramChange="110"/>
+          <Patch Number="111"  Name="WINDCHIMES"  ProgramChange="111"/>
+          <Patch Number="112"  Name="NOISE"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOICES3"  ProgramChange="113"/>
+          <Patch Number="114"  Name="SCRATCH1"  ProgramChange="114"/>
+          <Patch Number="120"  Name="WhaWha3"  ProgramChange="120"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 12">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDJAZZ"  ProgramChange="96"/>
+          <Patch Number="98"  Name="STICK"  ProgramChange="98"/>
+          <Patch Number="99"  Name="SDJAZZ3"  ProgramChange="99"/>
+          <Patch Number="100"  Name="HOUSSD1"  ProgramChange="100"/>
+          <Patch Number="102"  Name="BRUSHSLP"  ProgramChange="102"/>
+          <Patch Number="103"  Name="TOMROOM"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHPEDAL"  ProgramChange="104"/>
+          <Patch Number="106"  Name="RIDECUP"  ProgramChange="106"/>
+          <Patch Number="107"  Name="VIBRASLAP"  ProgramChange="107"/>
+          <Patch Number="108"  Name="CONGAHSLAP"  ProgramChange="108"/>
+          <Patch Number="109"  Name="CABASA"  ProgramChange="109"/>
+          <Patch Number="110"  Name="WOODBLOCK"  ProgramChange="110"/>
+          <Patch Number="111"  Name="CASTANETS"  ProgramChange="111"/>
+          <Patch Number="112"  Name="WATER"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOXHHCL"  ProgramChange="113"/>
+          <Patch Number="114"  Name="SCRATCH"  ProgramChange="114"/>
+          <Patch Number="120"  Name="WhaWha4"  ProgramChange="120"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 13">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDROOM1"  ProgramChange="96"/>
+          <Patch Number="99"  Name="SDORCH"  ProgramChange="99"/>
+          <Patch Number="100"  Name="HOUSESD"  ProgramChange="100"/>
+          <Patch Number="102"  Name="BRUSHTAP"  ProgramChange="102"/>
+          <Patch Number="104"  Name="HHTGHT1"  ProgramChange="104"/>
+          <Patch Number="106"  Name="RIDECYM"  ProgramChange="106"/>
+          <Patch Number="107"  Name="HOUSECOWB"  ProgramChange="107"/>
+          <Patch Number="108"  Name="CONGALSLAP"  ProgramChange="108"/>
+          <Patch Number="109"  Name="CABASAL"  ProgramChange="109"/>
+          <Patch Number="110"  Name="QUICAHIGH"  ProgramChange="110"/>
+          <Patch Number="111"  Name="MTSURDO"  ProgramChange="111"/>
+          <Patch Number="112"  Name="DOOR"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOXTAP"  ProgramChange="113"/>
+          <Patch Number="114"  Name="TOMBRUSH"  ProgramChange="114"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 14">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDSTD1"  ProgramChange="96"/>
+          <Patch Number="99"  Name="SDROOM1"  ProgramChange="99"/>
+          <Patch Number="103"  Name="TOMLOW2"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHTGHT22"  ProgramChange="104"/>
+          <Patch Number="106"  Name="SPLASH2"  ProgramChange="106"/>
+          <Patch Number="108"  Name="CONGAHIGH"  ProgramChange="108"/>
+          <Patch Number="109"  Name="MARACAS"  ProgramChange="109"/>
+          <Patch Number="110"  Name="QUICALOW"  ProgramChange="110"/>
+          <Patch Number="111"  Name="OPSURDO1"  ProgramChange="111"/>
+          <Patch Number="112"  Name="KITCHEN"  ProgramChange="112"/>
+          <Patch Number="113"  Name="VOXTIP"  ProgramChange="113"/>
+          <Patch Number="114"  Name="SQCLICK"  ProgramChange="114"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 15">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDSTD2"  ProgramChange="96"/>
+          <Patch Number="99"  Name="SDROOM2"  ProgramChange="99"/>
+          <Patch Number="103"  Name="TIMPANI"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HOUSEHH2"  ProgramChange="104"/>
+          <Patch Number="106"  Name="CHINA"  ProgramChange="106"/>
+          <Patch Number="108"  Name="CONGALOW"  ProgramChange="108"/>
+          <Patch Number="109"  Name="WHISTLE"  ProgramChange="109"/>
+          <Patch Number="110"  Name="TRIANLONG"  ProgramChange="110"/>
+          <Patch Number="111"  Name="DARBKHIGH"  ProgramChange="111"/>
+          <Patch Number="112"  Name="LOGDRUM"  ProgramChange="112"/>
+          <Patch Number="113"  Name="DOLLYVOX"  ProgramChange="113"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Generalmusic WK4 Bank 16">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="96"  Name="BDSTD3"  ProgramChange="96"/>
+          <Patch Number="99"  Name="SDSTD1"  ProgramChange="99"/>
+          <Patch Number="103"  Name="OPSURDO2"  ProgramChange="103"/>
+          <Patch Number="104"  Name="HHCLO2"  ProgramChange="104"/>
+          <Patch Number="106"  Name="SMASH"  ProgramChange="106"/>
+          <Patch Number="108"  Name="HOUSETCON"  ProgramChange="108"/>
+          <Patch Number="109"  Name="MUTBELL"  ProgramChange="109"/>
+          <Patch Number="110"  Name="TRIANSHORT"  ProgramChange="110"/>
+          <Patch Number="111"  Name="DARBKLOW"  ProgramChange="111"/>
+          <Patch Number="112"  Name="CLAKSON"  ProgramChange="112"/>
+          <Patch Number="113"  Name="BABYVOX"  ProgramChange="113"/>
+          <Patch Number="126"  Name="Sinus"  ProgramChange="126"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDSTD2"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=BRUSHTAP"/>
+     <Note Number="39"  Name="9=BRUSHSLP"/>
+     <Note Number="40"  Name="0=BRUSREV"/>
+     <Note Number="41"  Name="1=TOMLOW"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMLOW0"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMLOW"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMLOW"/>
+     <Note Number="48"  Name="8=TOMHIGH"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMHIGH"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDELECT1"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDROOM2"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDROOM2"/>
+     <Note Number="41"  Name="1=TOMLOW"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMLOW"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMHIGH"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMHIGH"/>
+     <Note Number="48"  Name="8=TOMHIGH"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMHIGH"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDHOUSE1"/>
+     <Note Number="37"  Name="7=HOUSERIM"/>
+     <Note Number="38"  Name="8=HOUSCLAP"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDSTD2"/>
+     <Note Number="41"  Name="1=HOUSETCON"/>
+     <Note Number="42"  Name="2=HOUSEHH"/>
+     <Note Number="43"  Name="3=HOUSETCON"/>
+     <Note Number="44"  Name="4=HOUSEHH"/>
+     <Note Number="45"  Name="5=HOUSETCON"/>
+     <Note Number="46"  Name="6=HOUSERIDE"/>
+     <Note Number="47"  Name="7=HOUSETCON"/>
+     <Note Number="48"  Name="8=HOUSETCON"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=HOUSETCON"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=HOUSETCON"/>
+     <Note Number="63"  Name="3=HOUSETCON"/>
+     <Note Number="64"  Name="4=HOUSETCON"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=COWBELL"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=CABASAL"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDJAZZ"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDJAZZ2"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDJAZZ3"/>
+     <Note Number="41"  Name="1=TOMLOW"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMLOW"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMLOW"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMLOW"/>
+     <Note Number="48"  Name="8=TOMHIGH"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMHIGH"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=HHCLO1S"/>
+     <Note Number="28"  Name="8=HHCLO1L"/>
+     <Note Number="29"  Name="9=HHOPEN2"/>
+     <Note Number="30"  Name="0=RIDECYM"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=BDELECT1"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=Timpani"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDSTD3"/>
+     <Note Number="39"  Name="9=FINGERSNAP"/>
+     <Note Number="40"  Name="0=SDJAZZ3"/>
+     <Note Number="41"  Name="1=Timpani"/>
+     <Note Number="42"  Name="2=Timpani"/>
+     <Note Number="43"  Name="3=Timpani"/>
+     <Note Number="44"  Name="4=Timpani"/>
+     <Note Number="45"  Name="5=Timpani"/>
+     <Note Number="46"  Name="6=Timpani"/>
+     <Note Number="47"  Name="7=Timpani"/>
+     <Note Number="48"  Name="8=Timpani"/>
+     <Note Number="49"  Name="9=Timpani"/>
+     <Note Number="50"  Name="0=Timpani"/>
+     <Note Number="51"  Name="1=Timpani"/>
+     <Note Number="52"  Name="2=Timpani"/>
+     <Note Number="53"  Name="3=Timpani"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD10"/>
+     <Note Number="36"  Name="6=BDELECT1"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDROOM2"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDSTD3"/>
+     <Note Number="41"  Name="1=TOMROOM"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMROOM"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMROOM"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMROOM"/>
+     <Note Number="48"  Name="8=TOMROOM"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMROOM"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDSTD1"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDSTD2"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDSTD3"/>
+     <Note Number="41"  Name="1=TOMROOM"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMROOM"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMROOM"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMROOM"/>
+     <Note Number="48"  Name="8=TOMROOM"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMROOM"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDROOM01"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDSTD3"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDROOM2"/>
+     <Note Number="41"  Name="1=TOMLOW"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMLOW"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMROOM"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMROOM"/>
+     <Note Number="48"  Name="8=TOMROOM"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMROOM"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="36"  Name="6=BDSTD2"/>
+     <Note Number="38"  Name="8=SDORCH"/>
+     <Note Number="40"  Name="0=SDJAZZ3"/>
+     <Note Number="42"  Name="2=HHTGHT1"/>
+     <Note Number="46"  Name="6=HHOPEN1"/>
+     <Note Number="25"  Name="5=ROLLSNARE"/>
+     <Note Number="26"  Name="6=FINGERSNAP"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=GunShot"/>
+     <Note Number="29"  Name="9=SCRATCH2"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=HOUSERIM"/>
+     <Note Number="34"  Name="4=MUTBELL"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDSTD1"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDSTD1"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDSTD4"/>
+     <Note Number="41"  Name="1=TOMLOW"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMLOW"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMLOW"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMLOW"/>
+     <Note Number="48"  Name="8=TOMHIGH"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMHIGH"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBLOW"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=MARACAS"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROSHORT"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=SHAKER"/>
+     <Note Number="83"  Name="3=JINGLEBELL"/>
+     <Note Number="84"  Name="4=WINDCHIMES"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=MTSURDO"/>
+     <Note Number="87"  Name="7=OPSURDO"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDSTD1"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDSTD2"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDSTD3"/>
+     <Note Number="41"  Name="1=TOMROOM"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMROOM"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMROOM"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMROOM"/>
+     <Note Number="48"  Name="8=TOMROOM"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMROOM"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDELECT1"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDSTD1"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDSTD3"/>
+     <Note Number="41"  Name="1=TOMHIGH"/>
+     <Note Number="42"  Name="2=HOUSEHH"/>
+     <Note Number="43"  Name="3=TOMHIGH"/>
+     <Note Number="44"  Name="4=HOUSEHH"/>
+     <Note Number="45"  Name="5=TOMHIGH"/>
+     <Note Number="46"  Name="6=HOUSERIDE"/>
+     <Note Number="47"  Name="7=TOMHIGH"/>
+     <Note Number="48"  Name="8=TOMHIGH"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMHIGH"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDHOUSE2"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDSTD2"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDJAZZ3"/>
+     <Note Number="41"  Name="1=TOMHIGH"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMHIGH"/>
+     <Note Number="44"  Name="4=HHCLO1S"/>
+     <Note Number="45"  Name="5=TOMHIGH"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMHIGH"/>
+     <Note Number="48"  Name="8=TOMHIGH"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMHIGH"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=HOUSETCON"/>
+     <Note Number="61"  Name="1=HOUSETCON"/>
+     <Note Number="62"  Name="2=HOUSETCON"/>
+     <Note Number="63"  Name="3=HOUSETCON"/>
+     <Note Number="64"  Name="4=HOUSETCON"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="22"  Name="2=CHINA"/>
+     <Note Number="23"  Name="3=CRASH"/>
+     <Note Number="24"  Name="4=ROLLSNARE"/>
+     <Note Number="25"  Name="5=ZAPP"/>
+     <Note Number="26"  Name="6=ZAPP0"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=KITCHEN"/>
+     <Note Number="29"  Name="9=SCRATCH1"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=RIMSHOT1"/>
+     <Note Number="34"  Name="4=BABYVOX"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDROOM1"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDROOM1"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDELECT"/>
+     <Note Number="41"  Name="1=TOMROOM"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMROOM"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMROOM"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMROOM"/>
+     <Note Number="48"  Name="8=TOMROOM"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMROOM"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBALES"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=VOXHHCL"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROLONG"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=FINGERSNAP"/>
+     <Note Number="83"  Name="3=Celesta"/>
+     <Note Number="84"  Name="4=BarChimes"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=DARBKHIGH"/>
+     <Note Number="87"  Name="7=DARBKLOW"/>
+     <Note Number="88"  Name="8=DROP"/>
+     <Note Number="89"  Name="9=WATER"/>
+     <Note Number="90"  Name="0=VOICES1"/>
+     <Note Number="91"  Name="1=VOXTAP"/>
+     <Note Number="92"  Name="2=VOXTIP"/>
+     <Note Number="93"  Name="3=CLAKSON"/>
+     <Note Number="94"  Name="4=DOOR"/>
+     <Note Number="95"  Name="5=RASPYRIDE"/>
+     <Note Number="96"  Name="6=BABYVOX"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="26"  Name="6=FINGERSNAP"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=GunShot"/>
+     <Note Number="29"  Name="9=SCRATCH2"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=HOUSERIM"/>
+     <Note Number="34"  Name="4=MUTBELL"/>
+     <Note Number="35"  Name="5=BDSTD2"/>
+     <Note Number="36"  Name="6=BDSTD1"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDSTD1"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDSTD4"/>
+     <Note Number="41"  Name="1=TOMLOW"/>
+     <Note Number="42"  Name="2=HHCLO1S"/>
+     <Note Number="43"  Name="3=TOMLOW"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMLOW"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMLOW"/>
+     <Note Number="48"  Name="8=TOMHIGH"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMHIGH"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBLOW"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=MARACAS"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROSHORT"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=SHAKER"/>
+     <Note Number="83"  Name="3=JINGLEBELL"/>
+     <Note Number="84"  Name="4=WINDCHIMES"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=MTSURDO"/>
+     <Note Number="87"  Name="7=OPSURDO"/>
+    </NoteNameList>
+    <NoteNameList  Name="NoteBankName">
+     <Note Number="26"  Name="6=FINGERSNAP"/>
+     <Note Number="27"  Name="7=ZAPP"/>
+     <Note Number="28"  Name="8=GunShot"/>
+     <Note Number="29"  Name="9=SCRATCH2"/>
+     <Note Number="30"  Name="0=SCRATCH1"/>
+     <Note Number="31"  Name="1=STICK"/>
+     <Note Number="32"  Name="2=SQCLICK"/>
+     <Note Number="33"  Name="3=HOUSERIM"/>
+     <Note Number="34"  Name="4=MUTBELL"/>
+     <Note Number="35"  Name="5=BDSTD3"/>
+     <Note Number="36"  Name="6=BDSTD1"/>
+     <Note Number="37"  Name="7=RIMSHOT1"/>
+     <Note Number="38"  Name="8=SDSTD4"/>
+     <Note Number="39"  Name="9=HOUSECLAP"/>
+     <Note Number="40"  Name="0=SDSTD3"/>
+     <Note Number="41"  Name="1=TOMLOW"/>
+     <Note Number="42"  Name="2=HHCLO2"/>
+     <Note Number="43"  Name="3=TOMLOW"/>
+     <Note Number="44"  Name="4=HHPEDAL"/>
+     <Note Number="45"  Name="5=TOMLOW"/>
+     <Note Number="46"  Name="6=HHOPEN2"/>
+     <Note Number="47"  Name="7=TOMLOW"/>
+     <Note Number="48"  Name="8=TOMHIGH"/>
+     <Note Number="49"  Name="9=CRASH"/>
+     <Note Number="50"  Name="0=TOMHIGH"/>
+     <Note Number="51"  Name="1=RIDECYM"/>
+     <Note Number="52"  Name="2=CHINA"/>
+     <Note Number="53"  Name="3=RIDECUP"/>
+     <Note Number="54"  Name="4=TAMBSLP"/>
+     <Note Number="55"  Name="5=SPLASH"/>
+     <Note Number="56"  Name="6=COWBELL"/>
+     <Note Number="57"  Name="7=CRASH"/>
+     <Note Number="58"  Name="8=VIBRASLAP"/>
+     <Note Number="59"  Name="9=RIDECYM"/>
+     <Note Number="60"  Name="0=CONGASLAP"/>
+     <Note Number="61"  Name="1=BONGOLOW"/>
+     <Note Number="62"  Name="2=CONGAHSLAP"/>
+     <Note Number="63"  Name="3=CONGAHIGH"/>
+     <Note Number="64"  Name="4=CONGALOW"/>
+     <Note Number="65"  Name="5=TIMBALES"/>
+     <Note Number="66"  Name="6=TIMBLOW"/>
+     <Note Number="67"  Name="7=AGOGO"/>
+     <Note Number="68"  Name="8=AGOGO"/>
+     <Note Number="69"  Name="9=CABASA"/>
+     <Note Number="70"  Name="0=MARACAS"/>
+     <Note Number="71"  Name="1=WHISTLE"/>
+     <Note Number="72"  Name="2=WHISTLE"/>
+     <Note Number="73"  Name="3=GUIROSHORT"/>
+     <Note Number="74"  Name="4=GUIROLONG"/>
+     <Note Number="75"  Name="5=CLAVES"/>
+     <Note Number="76"  Name="6=WOODBLOCK"/>
+     <Note Number="77"  Name="7=WOODBLOCK"/>
+     <Note Number="78"  Name="8=QUICAHIGH"/>
+     <Note Number="79"  Name="9=QUICALOW"/>
+     <Note Number="80"  Name="0=TRIANSHORT"/>
+     <Note Number="81"  Name="1=TRIANLONG"/>
+     <Note Number="82"  Name="2=SHAKER"/>
+     <Note Number="83"  Name="3=JINGLEBELL"/>
+     <Note Number="84"  Name="4=WINDCHIMES"/>
+     <Note Number="85"  Name="5=CASTANETS"/>
+     <Note Number="86"  Name="6=MTSURDO"/>
+     <Note Number="87"  Name="7=OPSURDO"/>
+    </NoteNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>
