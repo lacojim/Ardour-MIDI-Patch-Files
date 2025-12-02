@@ -417,5 +417,8 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Boss GT-6">
+      <Control Type="7bit"  Number="0"  Name="Bank Select"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

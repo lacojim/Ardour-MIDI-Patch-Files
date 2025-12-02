@@ -44,6 +44,30 @@
         <AvailableChannel Channel="15" Available="true"/>
         <AvailableChannel Channel="16" Available="true"/>
       </AvailableForChannels>
+      <DeviceModeEnable>
+        <MIDICommands>
+          <SysEx>F0 41 10 2B 11 00 00 00 00 00 0C 74 F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 06 00 00 01 20 59 F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 10 00 00 00 40 30 F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 11 00 00 00 40 2F F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 12 00 00 00 40 2E F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 13 00 00 00 40 2D F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 14 00 00 00 40 2C F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 15 00 00 00 40 2B F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 20 00 00 0C 20 34 F7</SysEx>
+          <SysEx>F0 41 10 2B 11 03 00 00 00 50 00 2D F7</SysEx>
+          <SysEx>F0 41 10 2B 11 05 00 00 00 31 00 4A F7</SysEx>
+          <SysEx>F0 41 10 2B 11 01 00 00 00 40 00 3F F7</SysEx>
+          <SysEx>F0 41 10 2B 11 02 00 00 01 00 00 7D F7</SysEx>
+          <SysEx>F0 41 10 2B 11 05 00 00 00 62 00 19 F7</SysEx>
+          <SysEx>F0 41 10 2B 11 03 00 00 01 20 00 5C F7</SysEx>
+          <SysEx>F0 41 10 2B 11 06 00 00 00 1C 00 5E F7</SysEx>
+          <SysEx>F0 41 10 2B 11 08 00 00 04 00 00 74 F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 01 00 00 00 40 3F F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 02 00 00 01 60 1D F7</SysEx>
+          <SysEx>F0 41 10 2B 11 00 04 00 00 01 60 1B F7</SysEx>
+        </MIDICommands>
+      </DeviceModeEnable>
       <PatchBank Name="Roland U-20 Bank 0">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
@@ -181,5 +205,12 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Roland U-20 Controllers">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

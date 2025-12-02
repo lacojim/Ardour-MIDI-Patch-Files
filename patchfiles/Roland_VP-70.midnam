@@ -181,5 +181,12 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Roland VP-70 Controllers">
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes OFF"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono On"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly On"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

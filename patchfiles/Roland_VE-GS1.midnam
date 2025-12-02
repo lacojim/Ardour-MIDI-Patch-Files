@@ -374,8 +374,53 @@
           <Patch Number="52"  Name="Choir Aahs 2"  ProgramChange="52"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Roland VE-GS1 Drumsets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Standard"  ProgramChange="0"/>
+          <Patch Number="8"  Name="Room"  ProgramChange="8"/>
+          <Patch Number="16"  Name="Power"  ProgramChange="16"/>
+          <Patch Number="24"  Name="Electronic"  ProgramChange="24"/>
+          <Patch Number="25"  Name="TR-808"  ProgramChange="25"/>
+          <Patch Number="32"  Name="Jazz"  ProgramChange="32"/>
+          <Patch Number="40"  Name="Brush"  ProgramChange="40"/>
+          <Patch Number="48"  Name="Orchestra"  ProgramChange="48"/>
+          <Patch Number="56"  Name="SFX"  ProgramChange="56"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland VE-GS1 Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft"/>
+      <Control Type="7bit"  Number="91"  Name="91-Effect 1 Depth (Reverb)"/>
+      <Control Type="7bit"  Number="93"  Name="93-Effect 3 Depth (Chorus)"/>
+      <Control Type="7bit"  Number="98"  Name="98-NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="99-NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sounds Off"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="124-Omni Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-Omni On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland VE-GS1 Standard Set #1">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -437,7 +482,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-GS1 Room Set #9">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -499,7 +544,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-GS1 Power Set #17">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -561,7 +606,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-GS1 Electronic Set #25">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -623,7 +668,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-GS1 TR-808 Set #26">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -685,7 +730,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-GS1 Jazz Set #33">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -747,7 +792,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-GS1 Brush Set #41">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -809,7 +854,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-GS1 Orchestra Set #49">
      <Note Number="28"  Name="8=Pedal HH"/>
      <Note Number="29"  Name="9=Open HH"/>
      <Note Number="30"  Name="0=Ride Cymbal"/>
@@ -872,7 +917,7 @@
      <Note Number="87"  Name="7=Open Surdo"/>
      <Note Number="88"  Name="8=Applause"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-GS1 SFX Set #57">
      <Note Number="40"  Name="0=Slap"/>
      <Note Number="41"  Name="1=Scratch Push"/>
      <Note Number="42"  Name="2=Scratch Pull"/>

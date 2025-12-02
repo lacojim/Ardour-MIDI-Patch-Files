@@ -44,142 +44,6 @@
         <AvailableChannel Channel="15" Available="true"/>
         <AvailableChannel Channel="16" Available="true"/>
       </AvailableForChannels>
-      <PatchBank Name="BOSS SE-70 PRO FX (GUITAR) - Bank 2">
-        <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="2"/>
-        </MIDICommands>
-        <PatchNameList>
-          <Patch Number="0"  Name="1m Heavy Metal"  ProgramChange="0"/>
-          <Patch Number="1"  Name="2m Deep Chorus"  ProgramChange="1"/>
-          <Patch Number="2"  Name="3m Bell Guitar"  ProgramChange="2"/>
-          <Patch Number="3"  Name="4m Overdub Echo"  ProgramChange="3"/>
-          <Patch Number="4"  Name="5m 5th Drive"  ProgramChange="4"/>
-          <Patch Number="5"  Name="6m Vintage OD-1"  ProgramChange="5"/>
-          <Patch Number="6"  Name="7m Poundcake"  ProgramChange="6"/>
-          <Patch Number="7"  Name="8m Space Phase"  ProgramChange="7"/>
-          <Patch Number="8"  Name="9m Mellow Drive"  ProgramChange="8"/>
-          <Patch Number="9"  Name="10m Panning Wah"  ProgramChange="9"/>
-          <Patch Number="10"  Name="11m Tube Stack"  ProgramChange="10"/>
-          <Patch Number="11"  Name="12m Vibrato Gt"  ProgramChange="11"/>
-          <Patch Number="12"  Name="13m Reverse PS"  ProgramChange="12"/>
-          <Patch Number="13"  Name="14m Fuzz"  ProgramChange="13"/>
-          <Patch Number="14"  Name="15m Gt Synth?"  ProgramChange="14"/>
-          <Patch Number="15"  Name="16m '70s Rock"  ProgramChange="15"/>
-          <Patch Number="16"  Name="17m Tube Crunch"  ProgramChange="16"/>
-          <Patch Number="17"  Name="18m Sitar"  ProgramChange="17"/>
-          <Patch Number="18"  Name="19m Metal Flange"  ProgramChange="18"/>
-          <Patch Number="19"  Name="20m Beat Delay"  ProgramChange="19"/>
-          <Patch Number="20"  Name="21m Octave Drive"  ProgramChange="20"/>
-          <Patch Number="21"  Name="22m Mellow Tone"  ProgramChange="21"/>
-          <Patch Number="22"  Name="23m Cry Cat"  ProgramChange="22"/>
-          <Patch Number="23"  Name="24m Chorus Drive"  ProgramChange="23"/>
-          <Patch Number="24"  Name="25m Gate Drive"  ProgramChange="24"/>
-          <Patch Number="25"  Name="26m '70s Fusion"  ProgramChange="25"/>
-          <Patch Number="26"  Name="27m Rockabilly"  ProgramChange="26"/>
-          <Patch Number="27"  Name="28m Slow Attack"  ProgramChange="27"/>
-          <Patch Number="28"  Name="29m Jazz Tone"  ProgramChange="28"/>
-          <Patch Number="29"  Name="30m '60s Tremolo"  ProgramChange="29"/>
-          <Patch Number="30"  Name="31m Stereo Drive"  ProgramChange="30"/>
-          <Patch Number="31"  Name="32m Cutting"  ProgramChange="31"/>
-          <Patch Number="32"  Name="33m Rotary  EXP"  ProgramChange="32"/>
-          <Patch Number="33"  Name="34m Arming  EXP"  ProgramChange="33"/>
-          <Patch Number="34"  Name="35m CH1--CH2 EXP"  ProgramChange="34"/>
-          <Patch Number="35"  Name="36m Wah Dist EXP"  ProgramChange="35"/>
-          <Patch Number="36"  Name="37m Feedback EXP"  ProgramChange="36"/>
-          <Patch Number="37"  Name="38m Funk Wah EXP"  ProgramChange="37"/>
-          <Patch Number="38"  Name="39m E.Acoustic 1"  ProgramChange="38"/>
-          <Patch Number="39"  Name="40m E.Acoustic 2"  ProgramChange="39"/>
-          <Patch Number="40"  Name="41m Synth Horn"  ProgramChange="40"/>
-          <Patch Number="41"  Name="42m Synth Lead"  ProgramChange="41"/>
-          <Patch Number="42"  Name="43m Fantasy Bell"  ProgramChange="42"/>
-          <Patch Number="43"  Name="44m Monster Cry"  ProgramChange="43"/>
-          <Patch Number="44"  Name="45m Synth+Guitar"  ProgramChange="44"/>
-          <Patch Number="45"  Name="46m Slap Bass"  ProgramChange="45"/>
-          <Patch Number="46"  Name="47m Mellow Bass"  ProgramChange="46"/>
-          <Patch Number="47"  Name="48m Metal Bass"  ProgramChange="47"/>
-          <Patch Number="48"  Name="49m Synth Bass 1"  ProgramChange="48"/>
-          <Patch Number="49"  Name="50m Synth Bass 2"  ProgramChange="49"/>
-          <Patch Number="50"  Name="51a Heavy Metal"  ProgramChange="50"/>
-          <Patch Number="51"  Name="52a Deep Chorus"  ProgramChange="51"/>
-          <Patch Number="52"  Name="53a Bell Guitar"  ProgramChange="52"/>
-          <Patch Number="53"  Name="54a Overdub Echo"  ProgramChange="53"/>
-          <Patch Number="54"  Name="55a 5th Drive"  ProgramChange="54"/>
-          <Patch Number="55"  Name="56a Vintage OD-1"  ProgramChange="55"/>
-          <Patch Number="56"  Name="57a Poundcake"  ProgramChange="56"/>
-          <Patch Number="57"  Name="58a Space Phase"  ProgramChange="57"/>
-          <Patch Number="58"  Name="59a Mellow Drive"  ProgramChange="58"/>
-          <Patch Number="59"  Name="60a Panning Wah"  ProgramChange="59"/>
-          <Patch Number="60"  Name="61a Tube Stack"  ProgramChange="60"/>
-          <Patch Number="61"  Name="62a Vibrato Gt"  ProgramChange="61"/>
-          <Patch Number="62"  Name="63a Reverse PS"  ProgramChange="62"/>
-          <Patch Number="63"  Name="64a Fuzz"  ProgramChange="63"/>
-          <Patch Number="64"  Name="65a Gt Synth?"  ProgramChange="64"/>
-          <Patch Number="65"  Name="66a '70s Rock"  ProgramChange="65"/>
-          <Patch Number="66"  Name="67a Tube Crunch"  ProgramChange="66"/>
-          <Patch Number="67"  Name="68a Sitar"  ProgramChange="67"/>
-          <Patch Number="68"  Name="69a Metal Flange"  ProgramChange="68"/>
-          <Patch Number="69"  Name="70a Beat Delay"  ProgramChange="69"/>
-          <Patch Number="70"  Name="71a Octave Drive"  ProgramChange="70"/>
-          <Patch Number="71"  Name="72a Mellow Tone"  ProgramChange="71"/>
-          <Patch Number="72"  Name="73a Cry Cat"  ProgramChange="72"/>
-          <Patch Number="73"  Name="74a Chorus Drive"  ProgramChange="73"/>
-          <Patch Number="74"  Name="75a Gate Drive"  ProgramChange="74"/>
-          <Patch Number="75"  Name="76a '70s Fusion"  ProgramChange="75"/>
-          <Patch Number="76"  Name="77a Rockabilly"  ProgramChange="76"/>
-          <Patch Number="77"  Name="78a Slow Attack"  ProgramChange="77"/>
-          <Patch Number="78"  Name="79a Jazz Tone"  ProgramChange="78"/>
-          <Patch Number="79"  Name="80a '60s Tremolo"  ProgramChange="79"/>
-          <Patch Number="80"  Name="81a Stereo Drive"  ProgramChange="80"/>
-          <Patch Number="81"  Name="82a Cutting"  ProgramChange="81"/>
-          <Patch Number="82"  Name="83a Rotary  EXP"  ProgramChange="82"/>
-          <Patch Number="83"  Name="84a Arming  EXP"  ProgramChange="83"/>
-          <Patch Number="84"  Name="85a CH1--CH2 EXP"  ProgramChange="84"/>
-          <Patch Number="85"  Name="86a Wah Dist EXP"  ProgramChange="85"/>
-          <Patch Number="86"  Name="87a Feedback EXP"  ProgramChange="86"/>
-          <Patch Number="87"  Name="88a Funk Wah EXP"  ProgramChange="87"/>
-          <Patch Number="88"  Name="89a E.Acoustic 1"  ProgramChange="88"/>
-          <Patch Number="89"  Name="90a E.Acoustic 2"  ProgramChange="89"/>
-          <Patch Number="90"  Name="91a Synth Horn"  ProgramChange="90"/>
-          <Patch Number="91"  Name="92a Synth Lead"  ProgramChange="91"/>
-          <Patch Number="92"  Name="93a Fantasy Bell"  ProgramChange="92"/>
-          <Patch Number="93"  Name="94a Monster Cry"  ProgramChange="93"/>
-          <Patch Number="94"  Name="95a Synth+Guitar"  ProgramChange="94"/>
-          <Patch Number="95"  Name="96a Slap Bass"  ProgramChange="95"/>
-          <Patch Number="96"  Name="97a Mellow Bass"  ProgramChange="96"/>
-          <Patch Number="97"  Name="98a Metal Bass"  ProgramChange="97"/>
-          <Patch Number="98"  Name="99a Synth Bass 1"  ProgramChange="98"/>
-          <Patch Number="99"  Name="100 Synth Bass 2"  ProgramChange="99"/>
-          <Patch Number="100"  Name="101p Hall"  ProgramChange="100"/>
-          <Patch Number="101"  Name="102p Room 1"  ProgramChange="101"/>
-          <Patch Number="102"  Name="103p Room 2"  ProgramChange="102"/>
-          <Patch Number="103"  Name="104p Plate"  ProgramChange="103"/>
-          <Patch Number="104"  Name="105p Stereo Reverb"  ProgramChange="104"/>
-          <Patch Number="105"  Name="106p Gate Reverb"  ProgramChange="105"/>
-          <Patch Number="106"  Name="107p Ambience"  ProgramChange="106"/>
-          <Patch Number="107"  Name="108p Simple Delay"  ProgramChange="107"/>
-          <Patch Number="108"  Name="109p Mono Delay"  ProgramChange="108"/>
-          <Patch Number="109"  Name="110p Modulation Delay"  ProgramChange="109"/>
-          <Patch Number="110"  Name="111p Stereo Delay"  ProgramChange="110"/>
-          <Patch Number="111"  Name="112p 20Tap Delay"  ProgramChange="111"/>
-          <Patch Number="112"  Name="113p Stereo Chorus"  ProgramChange="112"/>
-          <Patch Number="113"  Name="114p Band Chorus"  ProgramChange="113"/>
-          <Patch Number="114"  Name="115p Wave Chorus"  ProgramChange="114"/>
-          <Patch Number="115"  Name="116p Super Chorus"  ProgramChange="115"/>
-          <Patch Number="116"  Name="117p Pitch Shift"  ProgramChange="116"/>
-          <Patch Number="117"  Name="118p Stereo Pitch Shift"  ProgramChange="117"/>
-          <Patch Number="118"  Name="119p Stereo Phaser"  ProgramChange="118"/>
-          <Patch Number="119"  Name="120p Stereo Flanger"  ProgramChange="119"/>
-          <Patch Number="120"  Name="121p Vocoder 1"  ProgramChange="120"/>
-          <Patch Number="121"  Name="122p Vocoder 2"  ProgramChange="121"/>
-          <Patch Number="122"  Name="123p Keyboard Multi"  ProgramChange="122"/>
-          <Patch Number="123"  Name="124p Rotary Multi"  ProgramChange="123"/>
-          <Patch Number="124"  Name="125p Rhodes Multi"  ProgramChange="124"/>
-          <Patch Number="125"  Name="126p Guitar Multi 1"  ProgramChange="125"/>
-          <Patch Number="126"  Name="127p Guitar Multi 2"  ProgramChange="126"/>
-          <Patch Number="127"  Name="128p Guitar Multi 3"  ProgramChange="127"/>
-        </PatchNameList>
-      </PatchBank>
       <PatchBank Name="BOSS SE-70 PRO FX (STANDARD) - Bank 1">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
@@ -316,10 +180,146 @@
           <Patch Number="127"  Name="128p Guitar Multi 3"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="BOSS SE-70 PRO FX (GUITAR) - Bank 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1m Heavy Metal"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2m Deep Chorus"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3m Bell Guitar"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4m Overdub Echo"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5m 5th Drive"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6m Vintage OD-1"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7m Poundcake"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8m Space Phase"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9m Mellow Drive"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10m Panning Wah"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11m Tube Stack"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12m Vibrato Gt"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13m Reverse PS"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14m Fuzz"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15m Gt Synth?"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16m '70s Rock"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17m Tube Crunch"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18m Sitar"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19m Metal Flange"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20m Beat Delay"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21m Octave Drive"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22m Mellow Tone"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23m Cry Cat"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24m Chorus Drive"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25m Gate Drive"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26m '70s Fusion"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27m Rockabilly"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28m Slow Attack"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29m Jazz Tone"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30m '60s Tremolo"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31m Stereo Drive"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32m Cutting"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33m Rotary  EXP"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34m Arming  EXP"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35m CH1--CH2 EXP"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36m Wah Dist EXP"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37m Feedback EXP"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38m Funk Wah EXP"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39m E.Acoustic 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40m E.Acoustic 2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41m Synth Horn"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42m Synth Lead"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43m Fantasy Bell"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44m Monster Cry"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45m Synth+Guitar"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46m Slap Bass"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47m Mellow Bass"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48m Metal Bass"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49m Synth Bass 1"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50m Synth Bass 2"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51a Heavy Metal"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52a Deep Chorus"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53a Bell Guitar"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54a Overdub Echo"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55a 5th Drive"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56a Vintage OD-1"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57a Poundcake"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58a Space Phase"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59a Mellow Drive"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60a Panning Wah"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61a Tube Stack"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62a Vibrato Gt"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63a Reverse PS"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64a Fuzz"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65a Gt Synth?"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66a '70s Rock"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67a Tube Crunch"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68a Sitar"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69a Metal Flange"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70a Beat Delay"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71a Octave Drive"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72a Mellow Tone"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73a Cry Cat"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74a Chorus Drive"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75a Gate Drive"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76a '70s Fusion"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77a Rockabilly"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78a Slow Attack"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79a Jazz Tone"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80a '60s Tremolo"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81a Stereo Drive"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82a Cutting"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83a Rotary  EXP"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84a Arming  EXP"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85a CH1--CH2 EXP"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86a Wah Dist EXP"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87a Feedback EXP"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88a Funk Wah EXP"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89a E.Acoustic 1"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90a E.Acoustic 2"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91a Synth Horn"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92a Synth Lead"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93a Fantasy Bell"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94a Monster Cry"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95a Synth+Guitar"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96a Slap Bass"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97a Mellow Bass"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98a Metal Bass"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99a Synth Bass 1"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Synth Bass 2"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101p Hall"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102p Room 1"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103p Room 2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104p Plate"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105p Stereo Reverb"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106p Gate Reverb"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107p Ambience"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108p Simple Delay"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109p Mono Delay"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110p Modulation Delay"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111p Stereo Delay"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112p 20Tap Delay"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113p Stereo Chorus"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114p Band Chorus"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115p Wave Chorus"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116p Super Chorus"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117p Pitch Shift"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118p Stereo Pitch Shift"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119p Stereo Phaser"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120p Stereo Flanger"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121p Vocoder 1"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122p Vocoder 2"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123p Keyboard Multi"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124p Rotary Multi"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125p Rhodes Multi"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126p Guitar Multi 1"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127p Guitar Multi 2"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128p Guitar Multi 3"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
       <PatchBank Name="Boss SE-70 Super Effects Processor - Guitar">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Heavy Metal"  ProgramChange="0"/>
@@ -356,7 +356,7 @@
           <Patch Number="31"  Name="Cutting"  ProgramChange="31"/>
           <Patch Number="32"  Name="Rotary EXP"  ProgramChange="32"/>
           <Patch Number="33"  Name="Arming EXP"  ProgramChange="33"/>
-          <Patch Number="34"  Name="Ch1-Ch2 EXP"  ProgramChange="34"/>
+          <Patch Number="34"  Name="Ch1--Ch2 EXP"  ProgramChange="34"/>
           <Patch Number="35"  Name="Wah Dist EXP"  ProgramChange="35"/>
           <Patch Number="36"  Name="Feedback EXP"  ProgramChange="36"/>
           <Patch Number="37"  Name="Funk Wah EXP"  ProgramChange="37"/>
@@ -406,7 +406,7 @@
           <Patch Number="81"  Name="Cutting"  ProgramChange="81"/>
           <Patch Number="82"  Name="Rotary EXP"  ProgramChange="82"/>
           <Patch Number="83"  Name="Arming EXP"  ProgramChange="83"/>
-          <Patch Number="84"  Name="Ch1-Ch2 EXP"  ProgramChange="84"/>
+          <Patch Number="84"  Name="Ch1--Ch2 EXP"  ProgramChange="84"/>
           <Patch Number="85"  Name="Wah Dist EXP"  ProgramChange="85"/>
           <Patch Number="86"  Name="Feedback EXP"  ProgramChange="86"/>
           <Patch Number="87"  Name="Funk Wah EXP"  ProgramChange="87"/>
@@ -455,7 +455,7 @@
       <PatchBank Name="Boss SE-70 Super Effects Processor - Standard">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Kb Multi 1"  ProgramChange="0"/>

@@ -44,6 +44,22 @@
         <AvailableChannel Channel="15" Available="true"/>
         <AvailableChannel Channel="16" Available="true"/>
       </AvailableForChannels>
+      <DeviceModeEnable>
+        <MIDICommands>
+          <SysEx>F0 41 10 3D 11 00 00 00 00 03 00 7D F7</SysEx>
+          <SysEx>F0 41 10 3D 11 00 10 00 00 0D 1A 49 F7</SysEx>
+          <SysEx>F0 41 10 3D 11 00 10 00 00 02 52 1C F7</SysEx>
+          <SysEx>F0 41 10 3D 11 00 12 52 00 02 52 48 F7</SysEx>
+          <SysEx>F0 41 10 3D 11 00 15 24 00 02 52 73 F7</SysEx>
+          <SysEx>F0 41 10 3D 11 00 17 76 00 02 52 1F F7</SysEx>
+          <SysEx>F0 41 10 3D 11 00 1A 48 00 02 52 4A F7</SysEx>
+          <SysEx>F0 41 10 3D 11 01 00 00 00 2A 02 53 F7</SysEx>
+          <SysEx>F0 41 10 3D 11 02 00 00 00 00 19 65 F7</SysEx>
+          <SysEx>F0 41 10 3D 11 03 00 00 00 00 22 5B F7</SysEx>
+          <SysEx>F0 41 10 3D 11 04 00 00 00 2A 02 50 F7</SysEx>
+          <SysEx>F0 41 10 3D 11 05 00 00 01 40 00 3A F7</SysEx>
+        </MIDICommands>
+      </DeviceModeEnable>
       <PatchBank Name="Roland JD-800 - Internal">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
@@ -117,7 +133,20 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland JD-800">
+      <Control Type="7bit"  Number="1"  Name="01 - Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="02 - Breath"/>
+      <Control Type="7bit"  Number="5"  Name="05 - Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="06 - Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="07 - Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10 - Pan"/>
+      <Control Type="7bit"  Number="38"  Name="38 - Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64 - Hold-1"/>
+      <Control Type="7bit"  Number="65"  Name="65 - Portamento on/off"/>
+      <Control Type="7bit"  Number="100"  Name="100 - RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101 - RPN MSB"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland JD-800 Drumset">
      <Note Number="37"  Name="7=Kick B"/>
      <Note Number="38"  Name="8=Snare A"/>
      <Note Number="39"  Name="9=Block"/>

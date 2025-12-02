@@ -4993,8 +4993,146 @@
           <Patch Number="63"  Name="Exp1:64 MC8 Seq 2"  ProgramChange="63"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Roland SR-JV80-06 Dance Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Roland SR-JV80-06 Rhythm:01 909 Set"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Roland SR-JV80-06 Rhythm:02 Ragga Set"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Roland SR-JV80-06 Rhythm:03 CartoonRave!"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Roland SR-JV80-06 Rhythm:04 Soul Set"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Roland SR-JV80-06 Rhythm:05 Hip-Hop Set"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Roland SR-JV80-06 Rhythm:06 70's FunkSet"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Roland SR-JV80-06 Rhythm:07 Micro Set"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Roland SR-JV80-06 Rhythm:08 All Kik&amp;Sn"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland SR-JV80-07 Super Sound Set Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Roland SR-JV80-07 Rhythm:01 Drum Set 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Roland SR-JV80-07 Rhythm:02 Drum Set 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Roland SR-JV80-07 Rhythm:03 Drum Set 3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Roland SR-JV80-07 Rhythm:04 Drum Set 4"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Roland SR-JV80-07 Rhythm:05 Drum Set 5"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Roland SR-JV80-07 Rhythm:06 Drum Set 6"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Roland SR-JV80-07 Rhythm:07 Drum Set 7"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Roland SR-JV80-07 Rhythm:08 Drum Set 8"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland SR-JV80-09 Session Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10752"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Roland SR-JV80-09 Rhythm:01 SessionSet 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Roland SR-JV80-09 Rhythm:02 SessionSet 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Roland SR-JV80-09 Rhythm:03 SessionSet 3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Roland SR-JV80-09 Rhythm:04 SessionSet 4"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Roland SR-JV80-09 Rhythm:05 SessionSet 5"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Roland SR-JV80-09 Rhythm:06 SessionSet 6"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Roland SR-JV80-09 Rhythm:07 SessionSet 7"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Roland SR-JV80-09 Rhythm:08 Demo Drum"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland SR-JV80-10 Bass&amp;Drums Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10752"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Roland SR-JV80-10 Rhythm:01 R&amp;R rhythm 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Roland SR-JV80-10 Rhythm:02 Funk SET"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Roland SR-JV80-10 Rhythm:03 Natural SET"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Roland SR-JV80-10 Rhythm:04 Slam SET"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Roland SR-JV80-10 Rhythm:05 Ballad SET"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Roland SR-JV80-10 Rhythm:06 Studio SET"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Roland SR-JV80-10 Rhythm:07 R&amp;R rhythm 2"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Roland SR-JV80-10 Rhythm:08 Dance SET"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland SR-JV80-11 Techno Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Tkno:01 TR-909 SET"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Tkno:02 TR-808 SET"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Tkno:03 TR-606 SET"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Tkno:04 Techno SET"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Tkno:05 House SET"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Tkno:06 Jungle SET"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Tkno:07 Gabba SET"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Tkno:08 Indust. SET"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland SR-JV80-12 HipHop Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10752"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Hop:01 Hip-Hop 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Hop:02 Hip-Hop 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Hop:03 Hip-Hop 3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Hop:04 FunkAcidJazz"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Hop:05 Reggae"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Hop:06 Lo-Fi &amp; Voc"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Hop:07 TR-808"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Hop:08 Electric"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland SR-JV80-14 Asia Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10752"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Asia:01 India Set"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Asia:02 China Set"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Asia:03 Gamelan Set1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Asia:04 Gamelan Set2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Asia:05 Far East Set"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Asia:06 PopAsiaSet 1"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Asia:07 PopAsiaSet 2"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Asia:08 TeknoAsiaSet"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland SR-JV80-16 Orchestral II Rhythm 001-002">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Orc2:01 Orch Set"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Orc2:02 Celtic Set"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland SR-JV80-19 House Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="House:01 HardHouseSet"  ProgramChange="0"/>
+          <Patch Number="1"  Name="House:02 DeepHouseSet"  ProgramChange="1"/>
+          <Patch Number="2"  Name="House:03 House Set 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="House:04 House Set 2"  ProgramChange="3"/>
+          <Patch Number="4"  Name="House:05 RandomHsSet"  ProgramChange="4"/>
+          <Patch Number="5"  Name="House:06 TR-2000 Set"  ProgramChange="5"/>
+          <Patch Number="6"  Name="House:07 RufNckHseSet"  ProgramChange="6"/>
+          <Patch Number="7"  Name="House:08 How 2 Set"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-01 Menu:142 House Drums">
      <Note Number="38"  Name="8=909 Snare"/>
      <Note Number="40"  Name="0=Brush Roll"/>
      <Note Number="41"  Name="1=Scratch 1"/>
@@ -5021,7 +5159,7 @@
      <Note Number="78"  Name="8=Cuico Hi"/>
      <Note Number="79"  Name="9=Cuico Lo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-01 Menu:143 Jazz Drums">
      <Note Number="37"  Name="7=Brush Slap"/>
      <Note Number="38"  Name="8=Brush Swish"/>
      <Note Number="40"  Name="0=Brush Roll"/>
@@ -5047,7 +5185,7 @@
      <Note Number="78"  Name="8=Cuico Hi"/>
      <Note Number="79"  Name="9=Cuico Lo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-01 Menu:144 Snare Set">
      <Note Number="37"  Name="7=Room Snare"/>
      <Note Number="38"  Name="8=Hard Snare"/>
      <Note Number="39"  Name="9=Dance Snare"/>
@@ -5058,7 +5196,7 @@
      <Note Number="47"  Name="7=Tom Mid"/>
      <Note Number="48"  Name="8=Tom Hi"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-01 Menu:145 TomTom">
      <Note Number="1"  Name="1=Tom"/>
      <Note Number="2"  Name="2=Tom"/>
      <Note Number="3"  Name="3=Tom"/>
@@ -5144,7 +5282,7 @@
      <Note Number="83"  Name="3=Tom"/>
      <Note Number="84"  Name="4=Tom C7"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-02 Menu:249 Rhythm Set">
      <Note Number="37"  Name="7=Slapstick"/>
      <Note Number="38"  Name="8=Concert SNR1"/>
      <Note Number="39"  Name="9=Castanets 1"/>
@@ -5167,7 +5305,7 @@
      <Note Number="56"  Name="6=Perc Hit 2"/>
      <Note Number="57"  Name="7=Gong"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Rhythm:01 JV Rhythm">
      <Note Number="37"  Name="7=Surdo Mute"/>
      <Note Number="38"  Name="8=PandeiroL Lo"/>
      <Note Number="39"  Name="9=PandieroL Rm"/>
@@ -5229,17 +5367,17 @@
      <Note Number="95"  Name="5=Clapstick"/>
      <Note Number="96"  Name="6=Boomerang"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:006 BerimbauMenu">
      <Note Number="62"  Name="2=Berimbau Up"/>
      <Note Number="64"  Name="4=Berimbau Dn"/>
      <Note Number="65"  Name="5=Berimbau Mut"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:014 AfropercMenu">
      <Note Number="62"  Name="2=AfroDrum Op2"/>
      <Note Number="64"  Name="4=AfroDrum Flm"/>
      <Note Number="65"  Name="5=AfroDrum Rat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:015 Udu Pot Menu">
      <Note Number="62"  Name="2=(Udu Lo Phrase)"/>
      <Note Number="64"  Name="4=(Udu Hi Phrase)"/>
      <Note Number="65"  Name="5=Udu Pot1 Lo"/>
@@ -5250,13 +5388,13 @@
      <Note Number="74"  Name="4=Udu Pot2 Sht"/>
      <Note Number="76"  Name="6=Udu Pot2 Mut"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:076 AsiaCYM Menu">
      <Note Number="63"  Name="3=Chenchen Opn"/>
      <Note Number="67"  Name="7=Chenchen Cls"/>
      <Note Number="69"  Name="9=BaliCym Opn"/>
      <Note Number="73"  Name="3=BaliCym Cls"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:077 Gong Menu">
      <Note Number="63"  Name="3=Asian Gong 2"/>
      <Note Number="67"  Name="7=Asian Gong 3"/>
      <Note Number="69"  Name="9=Asian Gong 4"/>
@@ -5266,7 +5404,7 @@
      <Note Number="83"  Name="3=REV Gong 5"/>
      <Note Number="87"  Name="7=REV Gong 7"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:079 China Menu">
      <Note Number="62"  Name="2=Gu Hi"/>
      <Note Number="64"  Name="4=Ban Gu 1"/>
      <Note Number="65"  Name="5=Ban Gu 2"/>
@@ -5275,7 +5413,7 @@
      <Note Number="71"  Name="1=Asian Gong 6"/>
      <Note Number="72"  Name="2=Asian Gong 7"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:080 Kabuki Menu">
      <Note Number="62"  Name="2=Sime Taiko"/>
      <Note Number="64"  Name="4=Tsuzumi Lo"/>
      <Note Number="65"  Name="5=Tsuzumi Hi"/>
@@ -5284,13 +5422,13 @@
      <Note Number="71"  Name="1=Atarigane"/>
      <Note Number="72"  Name="2=Yyoo Dude"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:175 Doholla Menu">
      <Note Number="62"  Name="2=Doholla Sak"/>
      <Note Number="64"  Name="4=Doholla Tak"/>
      <Note Number="66"  Name="6=Doholla Roll"/>
      <Note Number="67"  Name="7=Doholla Stop"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:176 Egypt Tablah">
      <Note Number="62"  Name="2=(Tabla Loop 2)"/>
      <Note Number="64"  Name="4=(Tabla Loop 3)"/>
      <Note Number="65"  Name="5=(Tabla Loop 4)"/>
@@ -5300,21 +5438,21 @@
      <Note Number="72"  Name="2=Tabla Rim"/>
      <Note Number="74"  Name="4=Tabla Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:177 Madal Menu">
      <Note Number="62"  Name="2=Madal Din"/>
      <Note Number="64"  Name="4=Madal Ta"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:178 Dholak Menu">
      <Note Number="62"  Name="2=Dholak Ta"/>
      <Note Number="64"  Name="4=Dholak Tun"/>
      <Note Number="65"  Name="5=Dholak Na"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:204 Rek Menu">
      <Note Number="62"  Name="2=Rek Tek"/>
      <Note Number="64"  Name="4=Rek Open"/>
      <Note Number="65"  Name="5=Rek Trill"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:205 Shaker Menu">
      <Note Number="62"  Name="2=Shaker Ptn (2)"/>
      <Note Number="64"  Name="4=Shaker 1"/>
      <Note Number="65"  Name="5=Shaker 2"/>
@@ -5322,12 +5460,12 @@
      <Note Number="69"  Name="9=Chekere 1"/>
      <Note Number="71"  Name="1=Chekere 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:206 Caixa Menu">
      <Note Number="62"  Name="2=Caixa Open2"/>
      <Note Number="64"  Name="4=Caixa Roll"/>
      <Note Number="65"  Name="5=Caixa Mute"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:207 Cowbell Menu">
      <Note Number="62"  Name="2=Agogo 2 Hi"/>
      <Note Number="64"  Name="4=Agogo 3 Lo"/>
      <Note Number="65"  Name="5=Agogo 3 Hi"/>
@@ -5335,16 +5473,16 @@
      <Note Number="69"  Name="9=Cowbell 2"/>
      <Note Number="71"  Name="1=Cowbell 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:208 Bongo Set">
      <Note Number="62"  Name="2=Bongo 1 Hi"/>
      <Note Number="64"  Name="4=Bongo 2 Lo"/>
      <Note Number="65"  Name="5=Bongo 2 Hi"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:210 Samba Menu">
      <Note Number="62"  Name="2=(Samba Loop 2)"/>
      <Note Number="64"  Name="4=(Samba Ptn)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:211 PandeiroMenu">
      <Note Number="62"  Name="2=PandieroL Hi"/>
      <Note Number="64"  Name="4=PandieroL Sp"/>
      <Note Number="65"  Name="5=PandieroL Rm"/>
@@ -5352,16 +5490,16 @@
      <Note Number="69"  Name="9=PandieroS Sp"/>
      <Note Number="71"  Name="1=PandieroS Rm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:212 Surdo Menu">
      <Note Number="62"  Name="2=Surdo Open H"/>
      <Note Number="64"  Name="4=Surdo Mute"/>
      <Note Number="65"  Name="5=Surdo Rim"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:242 JawHarp Menu">
      <Note Number="62"  Name="2=Jaw Harp Wow"/>
      <Note Number="64"  Name="4=(REV Harp)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:244 Voice Set">
      <Note Number="63"  Name="3=How Tribe"/>
      <Note Number="67"  Name="7=Hey Brazil"/>
      <Note Number="69"  Name="9=Yyoo Dude"/>
@@ -5369,7 +5507,7 @@
      <Note Number="77"  Name="7=ZaghrutaStop"/>
      <Note Number="80"  Name="0=Bull Scream"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Rhythm:01 909 Set">
      <Note Number="36"  Name="6=909 Kick 1"/>
      <Note Number="37"  Name="7=909 Rim"/>
      <Note Number="38"  Name="8=909 Fat Sn"/>
@@ -5434,7 +5572,7 @@
      <Note Number="97"  Name="7=Scrtch&amp;Hits1"/>
      <Note Number="98"  Name="8=Scrtch&amp;Hits1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Rhythm:02 Ragga Set">
      <Note Number="36"  Name="6=Krash Kick"/>
      <Note Number="37"  Name="7=909 Rim"/>
      <Note Number="38"  Name="8=Ragga Snare"/>
@@ -5499,7 +5637,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Rhythm:03 CartoonRave!">
      <Note Number="36"  Name="6=Darkman 154"/>
      <Note Number="37"  Name="7=Gabba Kick"/>
      <Note Number="38"  Name="8=909 Fat Sn"/>
@@ -5564,7 +5702,7 @@
      <Note Number="97"  Name="7=Terminator"/>
      <Note Number="98"  Name="8=Terminator"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Rhythm:04 Soul Set">
      <Note Number="36"  Name="6=909 Kick 2"/>
      <Note Number="37"  Name="7=Finger Snaps"/>
      <Note Number="38"  Name="8=909 ShortSn"/>
@@ -5629,7 +5767,7 @@
      <Note Number="97"  Name="7=DJ 1"/>
      <Note Number="98"  Name="8=Big Bang"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Rhythm:05 Hip-Hop Set">
      <Note Number="36"  Name="6=Massive Kick"/>
      <Note Number="37"  Name="7=Dry Stick"/>
      <Note Number="38"  Name="8=Jam Snare"/>
@@ -5694,7 +5832,7 @@
      <Note Number="97"  Name="7=DJ 1"/>
      <Note Number="98"  Name="8=Big Bang"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Rhythm:06 70's FunkSet">
      <Note Number="36"  Name="6=Leakage Kick"/>
      <Note Number="37"  Name="7=Side Kick"/>
      <Note Number="38"  Name="8=70's Snare"/>
@@ -5759,7 +5897,7 @@
      <Note Number="97"  Name="7=DJ 1"/>
      <Note Number="98"  Name="8=Big Bang"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Rhythm:07 Micro Set">
      <Note Number="36"  Name="6=Tick Kick"/>
      <Note Number="37"  Name="7=DJ Loop"/>
      <Note Number="38"  Name="8=909 Ft Sn"/>
@@ -5824,7 +5962,7 @@
      <Note Number="97"  Name="7=Jz Gtr Fall"/>
      <Note Number="98"  Name="8=Here We Go"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Rhythm:08 All Kik&amp;Sn">
      <Note Number="36"  Name="6=Rotterdam K"/>
      <Note Number="37"  Name="7=909 Kick 1"/>
      <Note Number="38"  Name="8=909 Kick 2"/>
@@ -5889,7 +6027,7 @@
      <Note Number="97"  Name="7=Ragga Tom"/>
      <Note Number="98"  Name="8=Ragga Tom"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:058 Beat Menu 1">
      <Note Number="62"  Name="2=Caveman   83"/>
      <Note Number="64"  Name="4=SoulShake 83"/>
      <Note Number="65"  Name="5=HipHop Jz 88"/>
@@ -5902,7 +6040,7 @@
      <Note Number="77"  Name="7=S2S 909   94"/>
      <Note Number="79"  Name="9=Ragga     94"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:059 Beat Menu 2">
      <Note Number="62"  Name="2=Danger   100"/>
      <Note Number="64"  Name="4=Breakdwn 100"/>
      <Note Number="65"  Name="5=Owl'Hood 100"/>
@@ -5915,7 +6053,7 @@
      <Note Number="77"  Name="7=Perc Jam 116"/>
      <Note Number="79"  Name="9=Suprise  116"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:060 Beat Menu 3">
      <Note Number="62"  Name="2=Caravan  120"/>
      <Note Number="64"  Name="4=Superfly 120"/>
      <Note Number="65"  Name="5=DiscoCga 120"/>
@@ -5926,7 +6064,7 @@
      <Note Number="74"  Name="4=Cruisin' 124"/>
      <Note Number="76"  Name="6=Jungle   124"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:061 Beat Menu 4">
      <Note Number="62"  Name="2=909 Pump 130"/>
      <Note Number="64"  Name="4=Slammin' 130"/>
      <Note Number="65"  Name="5=HipHouse 130"/>
@@ -5938,7 +6076,7 @@
      <Note Number="76"  Name="6=Latin Bt 141"/>
      <Note Number="79"  Name="9=Darkman  154"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:117 HiHat Menu">
      <Note Number="61"  Name="1=(closed)"/>
      <Note Number="62"  Name="2=(closed)"/>
      <Note Number="63"  Name="3=(closed)"/>
@@ -5954,7 +6092,7 @@
      <Note Number="73"  Name="3=(open)"/>
      <Note Number="74"  Name="4=(open)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:157 ScratchMenu1">
      <Note Number="62"  Name="2=DJ Loop"/>
      <Note Number="64"  Name="4=Scratch Hit"/>
      <Note Number="65"  Name="5=Loop Bit 2"/>
@@ -5971,7 +6109,7 @@
      <Note Number="84"  Name="4=Power Chord"/>
      <Note Number="86"  Name="6=Big Ol'Stab"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:158 ScratchMenu2">
      <Note Number="62"  Name="2=Wicked DJ"/>
      <Note Number="64"  Name="4=DJ Loop"/>
      <Note Number="65"  Name="5=DJ 2"/>
@@ -5988,7 +6126,7 @@
      <Note Number="84"  Name="4=Guitar Fill"/>
      <Note Number="86"  Name="6=Stab Fall"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:159 ScratchMenu3">
      <Note Number="62"  Name="2=DJ Loop"/>
      <Note Number="64"  Name="4=Scratch Hit"/>
      <Note Number="65"  Name="5=Hip Alarm"/>
@@ -6005,7 +6143,7 @@
      <Note Number="84"  Name="4=Gangsta Hit"/>
      <Note Number="86"  Name="6=Big Ol'Stab"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:161 Noise Menu">
      <Note Number="62"  Name="2=Mouth Music"/>
      <Note Number="64"  Name="4=Evil Bass"/>
      <Note Number="65"  Name="5=Vinyl Opera"/>
@@ -6022,7 +6160,7 @@
      <Note Number="84"  Name="4=Tape Stop"/>
      <Note Number="86"  Name="6=909Disco 120"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:188 Vox Menu">
      <Note Number="62"  Name="2=Girl Ah"/>
      <Note Number="64"  Name="4=Oohh!!"/>
      <Note Number="65"  Name="5=Uhhh!!"/>
@@ -6039,7 +6177,7 @@
      <Note Number="84"  Name="4=No-No"/>
      <Note Number="86"  Name="6=Giggle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:189 Rev Vox Menu">
      <Note Number="62"  Name="2=Here We Go"/>
      <Note Number="64"  Name="4=Oh Yeah!"/>
      <Note Number="65"  Name="5=Baby"/>
@@ -6056,7 +6194,7 @@
      <Note Number="84"  Name="4=Bah"/>
      <Note Number="86"  Name="6=Ooo^^^^^^^"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:249 Drum Set 1">
      <Note Number="36"  Name="6=909 Kick 3"/>
      <Note Number="37"  Name="7=909 Rim"/>
      <Note Number="38"  Name="8=909 ShortSn"/>
@@ -6087,7 +6225,7 @@
      <Note Number="87"  Name="7=909 Ride"/>
      <Note Number="88"  Name="8=909 Crash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:250 Drum Set 2">
      <Note Number="36"  Name="6=Rotterdam K"/>
      <Note Number="37"  Name="7=909 Rim"/>
      <Note Number="38"  Name="8=909 ShortSn"/>
@@ -6119,7 +6257,7 @@
      <Note Number="87"  Name="7=909 Ride"/>
      <Note Number="88"  Name="8=909 Crash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:251 Drum Set 3">
      <Note Number="36"  Name="6=909 Kick 3"/>
      <Note Number="41"  Name="1=909 Tom Lo"/>
      <Note Number="42"  Name="2=HiHats (closed)"/>
@@ -6143,7 +6281,7 @@
      <Note Number="87"  Name="7=909 Ride"/>
      <Note Number="88"  Name="8=909 Crash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:252 Drum Set 4">
      <Note Number="36"  Name="6=909 Kick 3"/>
      <Note Number="37"  Name="7=909 Rim"/>
      <Note Number="38"  Name="8=Def Clap"/>
@@ -6175,7 +6313,7 @@
      <Note Number="87"  Name="7=909 Ride"/>
      <Note Number="88"  Name="8=909 Crash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:253 Drum Set 5">
      <Note Number="36"  Name="6=Rotterdam K"/>
      <Note Number="37"  Name="7=909 Rim"/>
      <Note Number="38"  Name="8=Def Clap"/>
@@ -6207,7 +6345,7 @@
      <Note Number="87"  Name="7=909 Ride"/>
      <Note Number="88"  Name="8=909 Crash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:254 Drum Set 6">
      <Note Number="36"  Name="6=909 Kick 3"/>
      <Note Number="37"  Name="7=909 Rim"/>
      <Note Number="38"  Name="8=Glass Snare"/>
@@ -6239,7 +6377,7 @@
      <Note Number="87"  Name="7=909 Ride"/>
      <Note Number="88"  Name="8=909 Crash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-06 Menu:255 Drum Set 7">
      <Note Number="36"  Name="6=909 Kick 3"/>
      <Note Number="41"  Name="1=909 Tom Lo"/>
      <Note Number="42"  Name="2=HiHats (closed)"/>
@@ -6263,7 +6401,7 @@
      <Note Number="87"  Name="7=909 Ride"/>
      <Note Number="88"  Name="8=909 Crash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-09 Rhythm:01 SessionSet 1">
      <Note Number="36"  Name="6=Mix Kick"/>
      <Note Number="37"  Name="7=Side Kick"/>
      <Note Number="38"  Name="8=Solo Snr"/>
@@ -6328,7 +6466,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Gtr Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-09 Rhythm:02 SessionSet 2">
      <Note Number="36"  Name="6=Deep Kick 3"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Loose Snr"/>
@@ -6393,7 +6531,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=REV Snr Buzz"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-09 Rhythm:03 SessionSet 3">
      <Note Number="36"  Name="6=TD7 Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Rap Snr"/>
@@ -6458,7 +6596,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=REV 909 Rim2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-09 Rhythm:04 SessionSet 4">
      <Note Number="36"  Name="6=Dance Kick 3"/>
      <Note Number="37"  Name="7=909 Rim 2"/>
      <Note Number="38"  Name="8=909 Snr 2"/>
@@ -6523,7 +6661,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Tamb.Long"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-09 Rhythm:05 SessionSet 5">
      <Note Number="36"  Name="6=Dance Kick 3"/>
      <Note Number="37"  Name="7=909 Rim 2"/>
      <Note Number="38"  Name="8=909 Snr 3"/>
@@ -6588,7 +6726,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=REV 707 Clps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-09 Rhythm:06 SessionSet 6">
      <Note Number="36"  Name="6=Dance Kick 2"/>
      <Note Number="37"  Name="7=Mute Snr"/>
      <Note Number="38"  Name="8=Jingle Snr"/>
@@ -6654,7 +6792,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=FingerSnap 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-09 Rhythm:07 SessionSet 7">
      <Note Number="36"  Name="6=Mix Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Solo Snr"/>
@@ -6720,7 +6858,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=REV 909 Clp2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-09 Rhythm:08 Demo Drum">
      <Note Number="36"  Name="6=Hybrid Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Loose Snr"/>
@@ -6786,7 +6924,7 @@
      <Note Number="97"  Name="7=Piccolo SN"/>
      <Note Number="98"  Name="8=Dry Tom Lo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Rhythm:01 R&amp;R rhythm 1">
      <Note Number="36"  Name="6=Boomer K2"/>
      <Note Number="37"  Name="7=Live Stick"/>
      <Note Number="38"  Name="8=Ring hrd Sn"/>
@@ -6851,7 +6989,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Rhythm:02 Funk SET">
      <Note Number="36"  Name="6=Real Dry K2"/>
      <Note Number="37"  Name="7=NaturalStick"/>
      <Note Number="38"  Name="8=Funk Sn1"/>
@@ -6916,7 +7054,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Rhythm:03 Natural SET">
      <Note Number="36"  Name="6=Deep Dry K"/>
      <Note Number="37"  Name="7=NaturalStick"/>
      <Note Number="38"  Name="8=Dry hrd Sn"/>
@@ -6981,7 +7119,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Rhythm:04 Slam SET">
      <Note Number="36"  Name="6=Comp K3"/>
      <Note Number="37"  Name="7=Live Stick"/>
      <Note Number="38"  Name="8=RockOn Sn1"/>
@@ -7046,7 +7184,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Rhythm:05 Ballad SET">
      <Note Number="36"  Name="6=Comp K3"/>
      <Note Number="37"  Name="7=Natural Stick"/>
      <Note Number="38"  Name="8=Verb hrd Sn"/>
@@ -7111,7 +7249,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Rhythm:06 Studio SET">
      <Note Number="36"  Name="6=Deep Dry K"/>
      <Note Number="37"  Name="7=NaturalStick"/>
      <Note Number="38"  Name="8=DryFat hrdSn"/>
@@ -7176,7 +7314,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Rhythm:07 R&amp;R rhythm 2">
      <Note Number="36"  Name="6=Medium K"/>
      <Note Number="37"  Name="7=Live Stick"/>
      <Note Number="38"  Name="8=SlamRm sftSn"/>
@@ -7241,7 +7379,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Rhythm:08 Dance SET">
      <Note Number="36"  Name="6=Stomp K"/>
      <Note Number="37"  Name="7=NaturalStick"/>
      <Note Number="38"  Name="8=LiteVerb Sn"/>
@@ -7306,7 +7444,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:105 Kick Menu">
      <Note Number="62"  Name="2=D 4 Boomer K1"/>
      <Note Number="64"  Name="4=E 4 Boomer K2"/>
      <Note Number="65"  Name="5=F 4 Medium K"/>
@@ -7320,7 +7458,7 @@
      <Note Number="79"  Name="9=G 5 Comp K3"/>
      <Note Number="81"  Name="1=A 5 Lo-Fi K"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:106 Snare Menu 1">
      <Note Number="62"  Name="2=D 4 Ring hrd Sn"/>
      <Note Number="64"  Name="4=E 4 Ring rol Sn"/>
      <Note Number="65"  Name="5=F 4 Ring flm Sn"/>
@@ -7335,7 +7473,7 @@
      <Note Number="81"  Name="1=A 5 Dry rol Sn"/>
      <Note Number="83"  Name="3=B 5 Dry flm Sn"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:107 Snare Menu 2">
      <Note Number="62"  Name="2=D 4 RockOn Sn2"/>
      <Note Number="64"  Name="4=E 4 Verb sft Sn"/>
      <Note Number="65"  Name="5=F 4 Verb hrd Sn"/>
@@ -7347,7 +7485,7 @@
      <Note Number="76"  Name="6=E 5 DryFat rolSn"/>
      <Note Number="77"  Name="7=F 5 DryFat flmSn"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:108 Snare Menu 3">
      <Note Number="62"  Name="2=D 4 Funk Sn2"/>
      <Note Number="64"  Name="4=E 4 Picc. sft Sn"/>
      <Note Number="65"  Name="5=F 4 Picc. mid Sn"/>
@@ -7360,7 +7498,7 @@
      <Note Number="77"  Name="7=F 5 Natural Stick"/>
      <Note Number="79"  Name="9=G 5 Click Stick"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:109 Hi-Hat Menu">
      <Note Number="62"  Name="2=D 4 18 Hat cls 1"/>
      <Note Number="64"  Name="4=E 4 18 Hat cls 2"/>
      <Note Number="65"  Name="5=F 4 18 Hat hlf 1"/>
@@ -7377,7 +7515,7 @@
      <Note Number="84"  Name="4=C 6 CR78 Hat cls"/>
      <Note Number="86"  Name="6=D 6 CR78 Hat opn"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:110 Tom-Tom Menu">
      <Note Number="62"  Name="2=D 4 16 MPL hrdTm"/>
      <Note Number="64"  Name="4=E 4 13 MPL sftTm"/>
      <Note Number="65"  Name="5=F 4 13 MPL hrdTm"/>
@@ -7393,13 +7531,13 @@
      <Note Number="83"  Name="3=B 5 HiVerb sftTm"/>
      <Note Number="84"  Name="4=C 6 HiVerb hrdTm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:111 Cymbals Menu">
      <Note Number="62"  Name="2=D 4 Long Crash 2"/>
      <Note Number="64"  Name="4=E 4 Long Ride 1"/>
      <Note Number="65"  Name="5=F 4 Long Ride 2"/>
      <Note Number="67"  Name="7=G 4 LngRide Bell"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:129 Fat Rock KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 3"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 3"/>
      <Note Number="37"  Name="7=C#2 SNR SET 2f"/>
@@ -7422,7 +7560,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 3"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:130 Ringer KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 5"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 5"/>
      <Note Number="37"  Name="7=C#2 SNR SET 4f"/>
@@ -7445,7 +7583,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 5"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 5"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:131 DynaPicc.KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 5"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 5"/>
      <Note Number="37"  Name="7=C#2 SNR SET 10p/10f"/>
@@ -7462,7 +7600,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 5"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 5"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:132 Whammer KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET12"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET12"/>
      <Note Number="37"  Name="7=C#2 SNR SET 2p/2f"/>
@@ -7479,7 +7617,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET12"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET12"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:133 BigBalladKIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 4"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 4"/>
      <Note Number="37"  Name="7=C#2 SNR SET 6f"/>
@@ -7502,7 +7640,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 4"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 4"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:134 Fat PunchKIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 3"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 3"/>
      <Note Number="37"  Name="7=C#2 SNR SET 7f"/>
@@ -7525,7 +7663,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 3"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:135 Fat Funk KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 3"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 3"/>
      <Note Number="37"  Name="7=C#2 SNR SET 9p"/>
@@ -7548,7 +7686,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 3"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:136 Garage KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 4"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 4"/>
      <Note Number="37"  Name="7=C#2 SNR SET 1p"/>
@@ -7571,7 +7709,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 4"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 4"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:137 Rock On KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET"/>
      <Note Number="37"  Name="7=C#2 SNR SET 5f"/>
@@ -7594,7 +7732,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:138 Natural KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET10"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET10"/>
      <Note Number="37"  Name="7=C#2 SNR SET 3p"/>
@@ -7617,7 +7755,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET10"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET10"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:139 Pitched KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 4"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 4"/>
      <Note Number="37"  Name="7=C#2 SNR SET 3p"/>
@@ -7640,7 +7778,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 4"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 4"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:140 Basher KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 4"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 4"/>
      <Note Number="37"  Name="7=C#2 SNR SET 5p"/>
@@ -7663,7 +7801,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 4"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 4"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:141 Edgy KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET12"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET12"/>
      <Note Number="37"  Name="7=C#2 SNR SET 5p"/>
@@ -7686,7 +7824,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET12"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET12"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:142 FAT Comp.KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET11"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET11"/>
      <Note Number="37"  Name="7=C#2 SNR SET 6p"/>
@@ -7709,7 +7847,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET11"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET11"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:143 FAT &amp; Tight">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 6"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 6"/>
      <Note Number="37"  Name="7=C#2 SNR SET 7f"/>
@@ -7732,7 +7870,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 6"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 6"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:144 Studio KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 5"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 5"/>
      <Note Number="37"  Name="7=C#2 SNR SET 8f"/>
@@ -7755,7 +7893,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 5"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 5"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:145 Tight FunKIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 7"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 7"/>
      <Note Number="37"  Name="7=C#2 SNR SET 9f"/>
@@ -7778,7 +7916,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 7"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 7"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:146 TightPiccKIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 7"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 7"/>
      <Note Number="37"  Name="7=C#2 SNR SET 10f"/>
@@ -7801,7 +7939,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 7"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 7"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:147 Dry DanceKIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET13"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET13"/>
      <Note Number="37"  Name="7=C#2 SNR SET 11p"/>
@@ -7824,7 +7962,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET13"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET13"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:148 R&amp;B KIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 9"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 9"/>
      <Note Number="37"  Name="7=C#2 SNR SET 11f"/>
@@ -7847,7 +7985,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 9"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 9"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-10 Menu:149 DynoSnareKIT">
      <Note Number="35"  Name="5=B 1 Kik&amp;CymSET 4"/>
      <Note Number="36"  Name="6=C 2 Kik&amp;CymSET 4"/>
      <Note Number="37"  Name="7=C#2 SNR SET 4p/4f"/>
@@ -7864,7 +8002,7 @@
      <Note Number="54"  Name="4=F#3 Kik&amp;CymSET 4"/>
      <Note Number="55"  Name="5=G 3 Kik&amp;CymSET 4"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Rhythm:01 TR-909 SET">
      <Note Number="36"  Name="6=TR909 Kick 1"/>
      <Note Number="37"  Name="7=TR909 Rim"/>
      <Note Number="38"  Name="8=TR909 Snr 5"/>
@@ -7929,7 +8067,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Rhythm:02 TR-808 SET">
      <Note Number="36"  Name="6=TR808 Lick 1"/>
      <Note Number="37"  Name="7=TR808 Rim"/>
      <Note Number="38"  Name="8=TR808 Snr 1"/>
@@ -7994,7 +8132,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Rhythm:03 TR-606 SET">
      <Note Number="36"  Name="6=TR606 Kick 1"/>
      <Note Number="37"  Name="7=TR808 Rim"/>
      <Note Number="38"  Name="8=TR606 Snr 2"/>
@@ -8059,7 +8197,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Rhythm:04 Techno SET">
      <Note Number="36"  Name="6=TR909 Kick 1"/>
      <Note Number="37"  Name="7=TR909 Rim"/>
      <Note Number="38"  Name="8=TR909 Snr 5"/>
@@ -8124,7 +8262,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Rhythm:05 House SET">
      <Note Number="36"  Name="6=Tekno Kick"/>
      <Note Number="37"  Name="7=TR909 Rim"/>
      <Note Number="38"  Name="8=DJ Snare"/>
@@ -8189,7 +8327,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Rhythm:06 Jungle SET">
      <Note Number="36"  Name="6=JungleKick 2"/>
      <Note Number="37"  Name="7=Lo-Fi Snare"/>
      <Note Number="38"  Name="8=Urban Snare"/>
@@ -8254,7 +8392,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Rhythm:07 Gabba SET">
      <Note Number="36"  Name="6=TR909 Dst BD"/>
      <Note Number="37"  Name="7=TR808 RimLng"/>
      <Note Number="38"  Name="8=SNR MENU 1"/>
@@ -8319,7 +8457,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Rhythm:08 Indust. SET">
      <Note Number="36"  Name="6=INDUST. MENU"/>
      <Note Number="37"  Name="7=Thrill"/>
      <Note Number="38"  Name="8=PCM Press"/>
@@ -8384,7 +8522,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:027 Phrase Menu">
      <Note Number="61"  Name="1=120:House 2"/>
      <Note Number="62"  Name="2=120:House 3"/>
      <Note Number="63"  Name="3=120:TeknoBNG"/>
@@ -8398,7 +8536,7 @@
      <Note Number="71"  Name="1=120:Electro1"/>
      <Note Number="72"  Name="2=138:Electro2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:077 Vocoder Menu">
      <Note Number="61"  Name="1=VP  ii"/>
      <Note Number="62"  Name="2=VP  ai"/>
      <Note Number="63"  Name="3=VP  ou"/>
@@ -8415,7 +8553,7 @@
      <Note Number="74"  Name="4=VP  rhythm"/>
      <Note Number="75"  Name="5=VP  machine"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:222 Hits&amp;IndsMenu">
      <Note Number="49"  Name="9=Noise Click"/>
      <Note Number="50"  Name="0=Electr Prc"/>
      <Note Number="51"  Name="1=Analog Bird"/>
@@ -8454,10 +8592,10 @@
      <Note Number="84"  Name="4=TB reso"/>
      <Note Number="85"  Name="5=Tonality"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:223 GTR FX Menu">
      <Note Number="61"  Name="1=GTR FX 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:226 Snr Menu 1">
      <Note Number="61"  Name="1=TR909 Snr 2"/>
      <Note Number="62"  Name="2=TR909 Snr 3"/>
      <Note Number="63"  Name="3=TR909 Snr 4"/>
@@ -8497,7 +8635,7 @@
      <Note Number="97"  Name="7=TekRk Snare"/>
      <Note Number="98"  Name="8=Indus Snare"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:227 Snr Menu 2">
      <Note Number="61"  Name="1=Jungle Snr 2"/>
      <Note Number="62"  Name="2=Jungle Snr 3"/>
      <Note Number="63"  Name="3=Jungle Snr 6"/>
@@ -8517,7 +8655,7 @@
      <Note Number="77"  Name="7=Electro Snr"/>
      <Note Number="78"  Name="8=Roll Snare"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:228 Kick Menu">
      <Note Number="49"  Name="9=TR909 Kick 2"/>
      <Note Number="50"  Name="0=TR909 Kick 3"/>
      <Note Number="51"  Name="1=Plastic BD 1"/>
@@ -8549,7 +8687,7 @@
      <Note Number="77"  Name="7=TR909 Dst BD"/>
      <Note Number="78"  Name="8=Roll Kick"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:229 Hi Hat Menu">
      <Note Number="49"  Name="9=TR909 CHH 2"/>
      <Note Number="50"  Name="0=TR909 CHH 3"/>
      <Note Number="51"  Name="1=TR808 CHH 1"/>
@@ -8592,7 +8730,7 @@
      <Note Number="88"  Name="8=R8 OHH"/>
      <Note Number="89"  Name="9=Cym OHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:230 Perc Menu">
      <Note Number="49"  Name="9=TR808 Conga3"/>
      <Note Number="50"  Name="0=Hi Bongo L.F"/>
      <Note Number="51"  Name="1=Lo Bongo L.F"/>
@@ -8636,7 +8774,7 @@
      <Note Number="89"  Name="9=Claptail"/>
      <Note Number="90"  Name="0=909 Clp Fuzz"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-11 Menu:231 Tom&amp;Cym Menu">
      <Note Number="49"  Name="9=TR909 DstTom"/>
      <Note Number="50"  Name="0=TR808 Tom"/>
      <Note Number="51"  Name="1=TR606 Tom"/>
@@ -8656,7 +8794,7 @@
      <Note Number="65"  Name="5=TR909 Crash"/>
      <Note Number="66"  Name="6=TR909DsCrash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Rhythm:01 Hip-Hop 1">
      <Note Number="36"  Name="6=Slamn'Kick 2"/>
      <Note Number="37"  Name="7=Sizzle Rim"/>
      <Note Number="38"  Name="8=Slamn' Snr"/>
@@ -8721,7 +8859,7 @@
      <Note Number="97"  Name="7=TR727Quijada"/>
      <Note Number="98"  Name="8=Perc. MENU"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Rhythm:02 Hip-Hop 2">
      <Note Number="36"  Name="6=PurePhatKick"/>
      <Note Number="37"  Name="7=TR808 Rim 2"/>
      <Note Number="38"  Name="8=PurePhat Snr"/>
@@ -8786,7 +8924,7 @@
      <Note Number="97"  Name="7=TR727 Quijada"/>
      <Note Number="98"  Name="8=Perc. MENU"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Rhythm:03 Hip-Hop 3">
      <Note Number="36"  Name="6=TR808 Kick 3"/>
      <Note Number="37"  Name="7=Real Rim"/>
      <Note Number="38"  Name="8=Hi Snare"/>
@@ -8851,7 +8989,7 @@
      <Note Number="97"  Name="7=92:Jazzman"/>
      <Note Number="98"  Name="8=90:NoizyBoys"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Rhythm:04 FunkAcidJazz">
      <Note Number="36"  Name="6=FarNear Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Whack Snr 2"/>
@@ -8916,7 +9054,7 @@
      <Note Number="97"  Name="7=86:Bubbles"/>
      <Note Number="98"  Name="8=98:Funkster2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Rhythm:05 Reggae">
      <Note Number="36"  Name="6=Hall Kick 2"/>
      <Note Number="37"  Name="7=JUNO Blip 1"/>
      <Note Number="38"  Name="8=DanceHallSnr"/>
@@ -8981,7 +9119,7 @@
      <Note Number="97"  Name="7=104:Riddim"/>
      <Note Number="98"  Name="8=94:Ya Mon"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Rhythm:06 Lo-Fi &amp; Voc">
      <Note Number="36"  Name="6=Too Big Kick"/>
      <Note Number="37"  Name="7=Bright Rim"/>
      <Note Number="38"  Name="8=Overring Snr"/>
@@ -9046,7 +9184,7 @@
      <Note Number="97"  Name="7=85:Snr Wall"/>
      <Note Number="98"  Name="8=83:HmBeatBx1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Rhythm:07 TR-808">
      <Note Number="36"  Name="6=TR808 KickLp"/>
      <Note Number="37"  Name="7=TR808 Rim 2"/>
      <Note Number="38"  Name="8=TR808 Snr 7"/>
@@ -9111,7 +9249,7 @@
      <Note Number="97"  Name="7=80:Thump Grv"/>
      <Note Number="98"  Name="8=61:Slow Grv"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Rhythm:08 Electric">
      <Note Number="36"  Name="6=ElectricKick"/>
      <Note Number="37"  Name="7=Lo-Fi Rim"/>
      <Note Number="38"  Name="8=DanceHallSnr"/>
@@ -9176,7 +9314,7 @@
      <Note Number="97"  Name="7=76:TrpHpKikn"/>
      <Note Number="98"  Name="8=95:Pure Phat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:095 Loops Menu 1">
      <Note Number="38"  Name="8=75:BoomRvBel"/>
      <Note Number="40"  Name="0=76:TrpHpKikn"/>
      <Note Number="41"  Name="1=78:NinjaBrek"/>
@@ -9207,7 +9345,7 @@
      <Note Number="84"  Name="4=92:Jazzman"/>
      <Note Number="86"  Name="6=92:Overring"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:096 Loops Menu 2">
      <Note Number="62"  Name="2=92:Too Big"/>
      <Note Number="64"  Name="4=94:Ya Mon"/>
      <Note Number="65"  Name="5=95:Head Bobn"/>
@@ -9221,7 +9359,7 @@
      <Note Number="79"  Name="9=104:Riddim"/>
      <Note Number="81"  Name="1=108:Gargle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:178 Hit Menu">
      <Note Number="50"  Name="0=Smear Hit 1"/>
      <Note Number="52"  Name="2=Smear Hit 2"/>
      <Note Number="53"  Name="3=LoFi MinorHt"/>
@@ -9250,7 +9388,7 @@
      <Note Number="92"  Name="2=ScratchLoop"/>
      <Note Number="94"  Name="4=Record Noiz"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:191 Voice Menu">
      <Note Number="38"  Name="8=Come on!"/>
      <Note Number="40"  Name="0=Funky!"/>
      <Note Number="41"  Name="1=Crazy!"/>
@@ -9285,7 +9423,7 @@
      <Note Number="91"  Name="1=Ahhhhhh"/>
      <Note Number="93"  Name="3=B.Box OpHat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:200 Gtr Fx Menu">
      <Note Number="62"  Name="2=Wah Gtr 2b"/>
      <Note Number="64"  Name="4=Wah Gtr 2c"/>
      <Note Number="65"  Name="5=Wah Gtr 2d"/>
@@ -9300,7 +9438,7 @@
      <Note Number="81"  Name="1=D.GtrUpwhine"/>
      <Note Number="83"  Name="3=Gtr. Thumper"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:250 Kick Menu">
      <Note Number="50"  Name="0=Hip Kick"/>
      <Note Number="52"  Name="2=Ninja Kick"/>
      <Note Number="53"  Name="3=Break Kick"/>
@@ -9324,7 +9462,7 @@
      <Note Number="84"  Name="4=Hybrid Kick"/>
      <Note Number="86"  Name="6=Rock Rim BD"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:251 Snare Menu 1">
      <Note Number="38"  Name="8=Rock Rim Snr"/>
      <Note Number="40"  Name="0=DR Snare 1"/>
      <Note Number="41"  Name="1=DR Snare 2"/>
@@ -9356,7 +9494,7 @@
      <Note Number="86"  Name="6=Real Snare"/>
      <Note Number="88"  Name="8=Hi Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:252 Snare Menu 2">
      <Note Number="62"  Name="2=TR808 Snr 6"/>
      <Note Number="64"  Name="4=TR808 Snr 7"/>
      <Note Number="65"  Name="5=TR606 Snr 4"/>
@@ -9364,7 +9502,7 @@
      <Note Number="69"  Name="9=Echo Snr"/>
      <Note Number="71"  Name="1=Too Big Snr"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:253 Rim&amp;Clp Menu">
      <Note Number="62"  Name="2=Ragga Rim 1"/>
      <Note Number="64"  Name="4=TR808 Rim 2"/>
      <Note Number="65"  Name="5=Ragga Rim 2"/>
@@ -9377,7 +9515,7 @@
      <Note Number="77"  Name="7=MC Clap"/>
      <Note Number="79"  Name="9=TR909 Clap 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:254 HH&amp;Cym Menu">
      <Note Number="62"  Name="2=Real Hat"/>
      <Note Number="64"  Name="4=Lil' Hat"/>
      <Note Number="65"  Name="5=Clear Hat"/>
@@ -9394,13 +9532,13 @@
      <Note Number="84"  Name="4=Ragga Crash"/>
      <Note Number="86"  Name="6=Lo-Fi Ride"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:255 Tom Menu">
      <Note Number="62"  Name="2=TR808 Tom"/>
      <Note Number="64"  Name="4=TR606 Tom 2"/>
      <Note Number="65"  Name="5=Electro Tom"/>
      <Note Number="67"  Name="7=Garbage Tom"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-12 Menu:256 Perc. Menu">
      <Note Number="62"  Name="2=TR808 Cowbel"/>
      <Note Number="64"  Name="4=Tamb.Short 2"/>
      <Note Number="65"  Name="5=Tamb.Long 2"/>
@@ -9411,7 +9549,7 @@
      <Note Number="74"  Name="4=Flextone"/>
      <Note Number="76"  Name="6=TR727Quijada"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-13 Menu:117 Vocal Menu">
      <Note Number="57"  Name="7=Tenor Solo *"/>
      <Note Number="58"  Name="8=Tenor Solo *"/>
      <Note Number="59"  Name="9=Tenor Solo *"/>
@@ -9428,7 +9566,7 @@
      <Note Number="70"  Name="0=Aleluia *"/>
      <Note Number="71"  Name="1=Aleluia ^"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-13 Menu:118 Reverse Menu">
      <Note Number="49"  Name="9=REV BoysAlelu *"/>
      <Note Number="50"  Name="0=REV BoysAlelu *"/>
      <Note Number="51"  Name="1=REV BoysAlelu *"/>
@@ -9468,7 +9606,7 @@
      <Note Number="85"  Name="5=REV Bass Thum *"/>
      <Note Number="86"  Name="6=REV Bass Thum *"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Rhythm:01 India Set">
      <Note Number="36"  Name="6=TablaBaya 3"/>
      <Note Number="37"  Name="7=TablaBaya 7"/>
      <Note Number="38"  Name="8=TablaBaya 2"/>
@@ -9533,7 +9671,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Rhythm:02 China Set">
      <Note Number="36"  Name="6=Tang Gu Op"/>
      <Note Number="37"  Name="7=Shu Gu Rim"/>
      <Note Number="38"  Name="8=Shu Gu"/>
@@ -9598,7 +9736,7 @@
      <Note Number="97"  Name="7=Metronome 2"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Rhythm:03 Gamelan Set 1">
      <Note Number="36"  Name="6=Wadon 6"/>
      <Note Number="37"  Name="7=Wadon 3"/>
      <Note Number="38"  Name="8=Wadon 2"/>
@@ -9663,7 +9801,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Rhythm:04 Gamelan Set 2">
      <Note Number="36"  Name="6=Wadon 6"/>
      <Note Number="37"  Name="7=Wadon 3"/>
      <Note Number="38"  Name="8=Wadon 2"/>
@@ -9728,7 +9866,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Rhythm:05 Far East Set">
      <Note Number="36"  Name="6=Wadaiko"/>
      <Note Number="37"  Name="7=Wadaiko Rim"/>
      <Note Number="38"  Name="8=Shimedaiko 2"/>
@@ -9793,7 +9931,7 @@
      <Note Number="97"  Name="7=18:ChinaPh1"/>
      <Note Number="98"  Name="8=78:Korea Ph"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Rhythm:06 PopAsiaSet 1">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Dry STick"/>
      <Note Number="38"  Name="8=Piccolo Sn"/>
@@ -9858,7 +9996,7 @@
      <Note Number="97"  Name="7=Mokugyo 2"/>
      <Note Number="98"  Name="8=Wind Bell"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Rhythm:07 PopAsiaSet 2">
      <Note Number="36"  Name="6=Kybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Natural SN2"/>
@@ -9923,7 +10061,7 @@
      <Note Number="97"  Name="7=Ho"/>
      <Note Number="98"  Name="8=iYooh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Rhythm:08 TeknoAsiaSet">
      <Note Number="36"  Name="6=808 Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=808 SN"/>
@@ -9988,7 +10126,7 @@
      <Note Number="97"  Name="7=Ho"/>
      <Note Number="98"  Name="8=Yoh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Menu:001 Asia Phrase">
      <Note Number="62"  Name="2=D 4  78:GamelnP2"/>
      <Note Number="64"  Name="4=E 4  78:Korea Ph"/>
      <Note Number="65"  Name="5=F 4 118:ChinaPh1"/>
@@ -10005,7 +10143,7 @@
      <Note Number="84"  Name="4=C 6 Wadaiko"/>
      <Note Number="86"  Name="6=D 6 Tsuzumi 2 mf"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Menu:002 TablaBy Menu">
      <Note Number="62"  Name="2=D 4 TablaBaya 2"/>
      <Note Number="64"  Name="4=E 4 TablaBaya 3"/>
      <Note Number="65"  Name="5=F 4 TablaBaya 4"/>
@@ -10015,7 +10153,7 @@
      <Note Number="72"  Name="2=C 5 TablaBaya 8"/>
      <Note Number="74"  Name="4=D 5 118:TablaByP"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Menu:003 Dholak Menu">
      <Note Number="62"  Name="2=D 4 Dholak 2"/>
      <Note Number="64"  Name="4=E 4 Dholak 3"/>
      <Note Number="65"  Name="5=F 4 Dholak 4"/>
@@ -10026,14 +10164,14 @@
      <Note Number="74"  Name="4=D 5 Dholak 9"/>
      <Note Number="76"  Name="6=E 5 92:DholakPh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Menu:004 Dhol Menu">
      <Note Number="62"  Name="2=D 4 Dhol 2"/>
      <Note Number="64"  Name="4=E 4 Dhol 3"/>
      <Note Number="65"  Name="5=F 4 Dhol 4"/>
      <Note Number="67"  Name="7=G 4 Dhol 5"/>
      <Note Number="69"  Name="9=A 4 120:Dhol Ph"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Menu:005 Gamelan Menu">
      <Note Number="62"  Name="2=D 4 Kempur"/>
      <Note Number="64"  Name="4=E 4 Kajar"/>
      <Note Number="65"  Name="5=F 4 Kelontuk"/>
@@ -10046,7 +10184,7 @@
      <Note Number="77"  Name="7=F 5 122:GamelnP1"/>
      <Note Number="79"  Name="9=G 5  78:GamelnP2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Menu:006 GamlnPrcMenu">
      <Note Number="62"  Name="2=D 4 Wadon 2"/>
      <Note Number="64"  Name="4=E 4 Wadon 3"/>
      <Note Number="65"  Name="5=F 4 Wadon 4"/>
@@ -10060,7 +10198,7 @@
      <Note Number="79"  Name="9=G 5 Pelegongan 2"/>
      <Note Number="81"  Name="1=A 5 Pelegongan 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Menu:007 ChinaPrcMenu">
      <Note Number="62"  Name="2=D 4 Tang Gu Mt"/>
      <Note Number="64"  Name="4=E 4 Shu Gu"/>
      <Note Number="65"  Name="5=F 4 Shu Gu Rim"/>
@@ -10077,7 +10215,7 @@
      <Note Number="84"  Name="4=C 6 HuYinLuoH Mt"/>
      <Note Number="86"  Name="6=D 6 132:ChinaPh2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Menu:008 JapanPrcMenu">
      <Note Number="62"  Name="2=D 4 Wadaiko Rim"/>
      <Note Number="64"  Name="4=E 4 Shimedaiko 2"/>
      <Note Number="65"  Name="5=F 4 Tsuzumi 2 p"/>
@@ -10094,7 +10232,7 @@
      <Note Number="84"  Name="4=C 6 Yoh"/>
      <Note Number="86"  Name="6=D 6 !Yooh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-14 Menu:009 KoreaPrcMenu">
      <Note Number="62"  Name="2=D 4 Buk Rim"/>
      <Note Number="64"  Name="4=E 4 Changgo"/>
      <Note Number="65"  Name="5=F 4 Ching Open"/>
@@ -10104,7 +10242,7 @@
      <Note Number="72"  Name="2=C 5 KwaengwariMt"/>
      <Note Number="74"  Name="4=D 5 78:Korea Ph"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-16 Rhythm:01 Orch Set">
      <Note Number="36"  Name="6=Orch BD"/>
      <Note Number="37"  Name="7=OrchSNR Roll"/>
      <Note Number="38"  Name="8=Orch SNR"/>
@@ -10169,7 +10307,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-16 Rhythm:02 Celtic Set">
      <Note Number="36"  Name="6=Orch BD"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Orch SNR"/>
@@ -10234,7 +10372,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-16 Menu:242 Bodhran Menu">
      <Note Number="62"  Name="2=D4 Bodhran 2"/>
      <Note Number="64"  Name="4=E4 Bodhran 3"/>
      <Note Number="65"  Name="5=F4 Bodhran 4"/>
@@ -10242,7 +10380,7 @@
      <Note Number="69"  Name="9=A4 Bodhran 6"/>
      <Note Number="71"  Name="1=B4 Bodhran 7"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-19 Rhythm:01 HardHouseSet">
      <Note Number="36"  Name="6=Bottom K"/>
      <Note Number="37"  Name="7=Rim and SN"/>
      <Note Number="38"  Name="8=Wooden SN"/>
@@ -10307,7 +10445,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-19 Rhythm:02 DeepHouseSet">
      <Note Number="36"  Name="6=Full House K"/>
      <Note Number="37"  Name="7=Back Rev SN"/>
      <Note Number="38"  Name="8=Dry Comp SN"/>
@@ -10372,7 +10510,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-19 Rhythm:03 House Set 1">
      <Note Number="36"  Name="6=Full House K"/>
      <Note Number="37"  Name="7=Vintage SN"/>
      <Note Number="38"  Name="8=Dry Comp SN"/>
@@ -10437,7 +10575,7 @@
      <Note Number="97"  Name="7=Syn-SN"/>
      <Note Number="98"  Name="8=Back Rev SN"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-19 Rhythm:04 House Set 2">
      <Note Number="36"  Name="6=Punchy K 2"/>
      <Note Number="37"  Name="7=Stick SN"/>
      <Note Number="38"  Name="8=AllInOne SN"/>
@@ -10502,7 +10640,7 @@
      <Note Number="97"  Name="7=Perc. MENU 5"/>
      <Note Number="98"  Name="8=Heavy SN"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-19 Rhythm:05 RandomHsSet">
      <Note Number="36"  Name="6=Scratch 2"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Tone&amp;SynthSN"/>
@@ -10567,7 +10705,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-19 Rhythm:06 TR-2000 Set">
      <Note Number="36"  Name="6=Bottom K"/>
      <Note Number="37"  Name="7=VibratingMtl"/>
      <Note Number="38"  Name="8=Little SN"/>
@@ -10632,7 +10770,7 @@
      <Note Number="97"  Name="7=ShortGuira 1"/>
      <Note Number="98"  Name="8=REV Side Stk"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-19 Rhythm:07 RufNckHseSet">
      <Note Number="36"  Name="6=Short Dry K"/>
      <Note Number="37"  Name="7=High Rim SN"/>
      <Note Number="38"  Name="8=Tone Comp SN"/>
@@ -10697,7 +10835,7 @@
      <Note Number="97"  Name="7=Perc.Lp MENU"/>
      <Note Number="98"  Name="8=125:Offbt HH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-19 Rhythm:08 How 2 Set">
      <Note Number="36"  Name="6=Punchy K 1"/>
      <Note Number="37"  Name="7=Dry Stick 2"/>
      <Note Number="38"  Name="8=Cutted SN"/>
@@ -10762,7 +10900,7 @@
      <Note Number="97"  Name="7=Tic"/>
      <Note Number="98"  Name="8=Tac"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-99 Menu:19 Mini Tour">
      <Note Number="37"  Name="7=Loop 1"/>
      <Note Number="38"  Name="8=Loop 1"/>
      <Note Number="39"  Name="9=Loop 1"/>

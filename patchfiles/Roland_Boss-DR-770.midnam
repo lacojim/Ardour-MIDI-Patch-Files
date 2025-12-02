@@ -117,5 +117,9 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Boss DR-770 Controllers">
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

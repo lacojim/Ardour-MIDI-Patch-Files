@@ -181,5 +181,19 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Roland FP-8 Controllers">
+      <Control Type="7bit"  Number="6"  Name="Data Entry"/>
+      <Control Type="7bit"  Number="7"  Name="Volume"/>
+      <Control Type="7bit"  Number="11"  Name="Expression"/>
+      <Control Type="7bit"  Number="38"  Name="Data Entry"/>
+      <Control Type="7bit"  Number="64"  Name="Hold 1"/>
+      <Control Type="7bit"  Number="66"  Name="Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="Soft"/>
+      <Control Type="7bit"  Number="91"  Name="Reverb"/>
+      <Control Type="7bit"  Number="93"  Name="Chorus"/>
+      <Control Type="7bit"  Number="100"  Name="RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="RPN MSB"/>
+      <Control Type="7bit"  Number="121"  Name="Reset All Controllers"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

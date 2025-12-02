@@ -749,7 +749,32 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland VE-JV1E Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="91"  Name="91-Reverb"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus"/>
+      <Control Type="7bit"  Number="98"  Name="98-NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="99-NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes OFF"/>
+      <Control Type="7bit"  Number="124"  Name="124-Omni Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-Omni On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono On"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly On"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland VE-JV1E Rhythm JV-80 A">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=90's Snare"/>
      <Note Number="39"  Name="9=808 Claps"/>
@@ -811,7 +836,7 @@
      <Note Number="95"  Name="5=Wind Agogo"/>
      <Note Number="96"  Name="6=808 SNR 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-JV1E Rhythm JV-80 B">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=Piccolo SN"/>
      <Note Number="39"  Name="9=808 Claps"/>
@@ -873,7 +898,7 @@
      <Note Number="95"  Name="5=REV Crash 1"/>
      <Note Number="96"  Name="6=REV Cow Bell"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-JV1E Rhythm JV-1000 A">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=90's Snare"/>
      <Note Number="39"  Name="9=808 Claps"/>
@@ -935,7 +960,7 @@
      <Note Number="95"  Name="5=Wind Agogo"/>
      <Note Number="96"  Name="6=808 SNR 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-JV1E Rhythm JV-1000 B">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=Piccolo SN"/>
      <Note Number="39"  Name="9=808 Claps"/>
@@ -997,7 +1022,7 @@
      <Note Number="95"  Name="5=REV Crash 1"/>
      <Note Number="96"  Name="6=REV Cow Bell"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-JV1E Rhythm JV-1000 C">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=90's Snare"/>
      <Note Number="39"  Name="9=808 Claps"/>
@@ -1059,7 +1084,7 @@
      <Note Number="95"  Name="5=Closed HAT 1"/>
      <Note Number="96"  Name="6=808 SNR 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-JV1E Rhythm JV-1000 D">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=90's Snare"/>
      <Note Number="39"  Name="9=808 Claps"/>
@@ -1121,7 +1146,7 @@
      <Note Number="95"  Name="5=Conga Lo"/>
      <Note Number="96"  Name="6=Open HAT 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-JV1E Rhythm JV-1000 I">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=90's Snare"/>
      <Note Number="39"  Name="9=808 Claps"/>
@@ -1183,7 +1208,7 @@
      <Note Number="95"  Name="5=Open HAT 1"/>
      <Note Number="96"  Name="6=Open HAT 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland VE-JV1E Rhythm PN-JV80-04">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=Piccolo Snare"/>
      <Note Number="39"  Name="9=808 Claps"/>

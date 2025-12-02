@@ -182,8 +182,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #01">
         <MIDICommands>
-          <ControlChange Control="0" Value="128"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="128"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="UprightPiano"  ProgramChange="0"/>
@@ -283,8 +283,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #02">
         <MIDICommands>
-          <ControlChange Control="0" Value="256"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="256"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Mild Piano"  ProgramChange="0"/>
@@ -360,8 +360,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #03">
         <MIDICommands>
-          <ControlChange Control="0" Value="384"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="384"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="Atk Clav.2"  ProgramChange="7"/>
@@ -425,8 +425,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #04">
         <MIDICommands>
-          <ControlChange Control="0" Value="512"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="512"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 3"  ProgramChange="16"/>
@@ -483,8 +483,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #05">
         <MIDICommands>
-          <ControlChange Control="0" Value="640"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="640"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 4"  ProgramChange="16"/>
@@ -534,8 +534,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #06">
         <MIDICommands>
-          <ControlChange Control="0" Value="768"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="768"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 5"  ProgramChange="16"/>
@@ -574,8 +574,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #07">
         <MIDICommands>
-          <ControlChange Control="0" Value="896"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="896"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 6"  ProgramChange="16"/>
@@ -606,8 +606,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #08">
         <MIDICommands>
-          <ControlChange Control="0" Value="1024"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1024"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Upright P w"  ProgramChange="0"/>
@@ -722,8 +722,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #09">
         <MIDICommands>
-          <ControlChange Control="0" Value="1152"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1152"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Mild Piano w"  ProgramChange="0"/>
@@ -797,8 +797,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #10">
         <MIDICommands>
-          <ControlChange Control="0" Value="1280"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1280"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="SilentRhodes"  ProgramChange="4"/>
@@ -848,8 +848,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #11">
         <MIDICommands>
-          <ControlChange Control="0" Value="1408"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1408"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 8"  ProgramChange="16"/>
@@ -887,8 +887,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #12">
         <MIDICommands>
-          <ControlChange Control="0" Value="1536"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1536"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 9"  ProgramChange="16"/>
@@ -921,8 +921,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #13">
         <MIDICommands>
-          <ControlChange Control="0" Value="1664"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1664"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="TB303 Saw Bs"  ProgramChange="38"/>
@@ -946,8 +946,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #14">
         <MIDICommands>
-          <ControlChange Control="0" Value="1792"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1792"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Rubber303 Bs"  ProgramChange="38"/>
@@ -967,8 +967,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #15">
         <MIDICommands>
-          <ControlChange Control="0" Value="1920"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1920"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Reso 303 Bs"  ProgramChange="38"/>
@@ -986,8 +986,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #16">
         <MIDICommands>
-          <ControlChange Control="0" Value="2048"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2048"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="European Pf"  ProgramChange="0"/>
@@ -1062,8 +1062,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #17">
         <MIDICommands>
-          <ControlChange Control="0" Value="2176"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2176"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="Dist E.Piano"  ProgramChange="4"/>
@@ -1110,8 +1110,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #18">
         <MIDICommands>
-          <ControlChange Control="0" Value="2304"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2304"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="60's Organ 3"  ProgramChange="16"/>
@@ -1142,8 +1142,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #19">
         <MIDICommands>
-          <ControlChange Control="0" Value="2432"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2432"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Farf Organ"  ProgramChange="16"/>
@@ -1170,8 +1170,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #20">
         <MIDICommands>
-          <ControlChange Control="0" Value="2560"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2560"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="LP Rear Pick"  ProgramChange="27"/>
@@ -1192,8 +1192,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #21">
         <MIDICommands>
-          <ControlChange Control="0" Value="2688"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2688"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="LP Rear 2"  ProgramChange="27"/>
@@ -1212,8 +1212,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #22">
         <MIDICommands>
-          <ControlChange Control="0" Value="2816"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2816"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="LP RearAtack"  ProgramChange="27"/>
@@ -1233,8 +1233,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #23">
         <MIDICommands>
-          <ControlChange Control="0" Value="2944"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2944"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="Mid Tone GTR"  ProgramChange="27"/>
@@ -1253,8 +1253,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #24">
         <MIDICommands>
-          <ControlChange Control="0" Value="3072"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3072"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano + Str."  ProgramChange="0"/>
@@ -1305,8 +1305,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #25">
         <MIDICommands>
-          <ControlChange Control="0" Value="3200"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3200"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano + Str2"  ProgramChange="0"/>
@@ -1336,8 +1336,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #26">
         <MIDICommands>
-          <ControlChange Control="0" Value="3328"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3328"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano+Choir1"  ProgramChange="0"/>
@@ -1363,8 +1363,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #27">
         <MIDICommands>
-          <ControlChange Control="0" Value="3456"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3456"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano+Choir2"  ProgramChange="0"/>
@@ -1383,8 +1383,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #28">
         <MIDICommands>
-          <ControlChange Control="0" Value="3584"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3584"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="VS Organ"  ProgramChange="16"/>
@@ -1400,8 +1400,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #29">
         <MIDICommands>
-          <ControlChange Control="0" Value="3712"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3712"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Digi Church"  ProgramChange="16"/>
@@ -1415,8 +1415,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #30">
         <MIDICommands>
-          <ControlChange Control="0" Value="3840"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3840"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="JX-8P Organ"  ProgramChange="16"/>
@@ -1430,8 +1430,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #31">
         <MIDICommands>
-          <ControlChange Control="0" Value="3968"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3968"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="FM Organ"  ProgramChange="16"/>
@@ -1445,8 +1445,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #32">
         <MIDICommands>
-          <ControlChange Control="0" Value="4096"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4096"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="EP Phase"  ProgramChange="5"/>
@@ -1478,8 +1478,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #33">
         <MIDICommands>
-          <ControlChange Control="0" Value="4224"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4224"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="JP8 Clav. 1"  ProgramChange="7"/>
@@ -1500,8 +1500,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #34">
         <MIDICommands>
-          <ControlChange Control="0" Value="4352"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4352"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="17"  Name="Perc.Organ 3"  ProgramChange="17"/>
@@ -1516,8 +1516,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #35">
         <MIDICommands>
-          <ControlChange Control="0" Value="4480"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4480"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="JP8 Clav. 2"  ProgramChange="7"/>
@@ -1533,8 +1533,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #36">
         <MIDICommands>
-          <ControlChange Control="0" Value="4608"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4608"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="SynRingClav."  ProgramChange="7"/>
@@ -1548,8 +1548,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #37">
         <MIDICommands>
-          <ControlChange Control="0" Value="4736"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4736"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="SynDistClav."  ProgramChange="7"/>
@@ -1561,8 +1561,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #38">
         <MIDICommands>
-          <ControlChange Control="0" Value="4864"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4864"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="JP8000 Clav."  ProgramChange="7"/>
@@ -1573,8 +1573,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #39">
         <MIDICommands>
-          <ControlChange Control="0" Value="4992"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4992"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="Pulse Clav"  ProgramChange="7"/>
@@ -1584,8 +1584,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #40">
         <MIDICommands>
-          <ControlChange Control="0" Value="5120"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5120"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Organ Bass"  ProgramChange="16"/>
@@ -1605,8 +1605,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #41">
         <MIDICommands>
-          <ControlChange Control="0" Value="5248"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5248"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="303SqDistBs2"  ProgramChange="38"/>
@@ -1621,8 +1621,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #42">
         <MIDICommands>
-          <ControlChange Control="0" Value="5376"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5376"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="303SqDistBs3"  ProgramChange="38"/>
@@ -1637,8 +1637,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #43">
         <MIDICommands>
-          <ControlChange Control="0" Value="5504"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5504"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="303Sqr.Rev"  ProgramChange="38"/>
@@ -1650,8 +1650,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #44">
         <MIDICommands>
-          <ControlChange Control="0" Value="5632"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5632"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="TeeBee"  ProgramChange="38"/>
@@ -1662,8 +1662,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #45">
         <MIDICommands>
-          <ControlChange Control="0" Value="5760"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5760"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="Rhythmic Saw"  ProgramChange="81"/>
@@ -1672,8 +1672,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #46">
         <MIDICommands>
-          <ControlChange Control="0" Value="5888"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5888"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="SequencedSaw"  ProgramChange="81"/>
@@ -1682,8 +1682,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #47">
         <MIDICommands>
-          <ControlChange Control="0" Value="6016"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="6016"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="Techno Saw"  ProgramChange="81"/>
@@ -1691,8 +1691,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Var #48">
         <MIDICommands>
-          <ControlChange Control="0" Value="6144"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="6144"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="5th Organ"  ProgramChange="16"/>
@@ -1700,8 +1700,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Capital Tones">
         <MIDICommands>
-          <ControlChange Control="0" Value="1"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 1"  ProgramChange="0"/>
@@ -1836,8 +1836,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #01">
         <MIDICommands>
-          <ControlChange Control="0" Value="129"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="129"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Synth Bass101"  ProgramChange="38"/>
@@ -1860,8 +1860,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #02">
         <MIDICommands>
-          <ControlChange Control="0" Value="257"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="257"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="102"  Name="Echo Pan"  ProgramChange="102"/>
@@ -1876,8 +1876,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #03">
         <MIDICommands>
-          <ControlChange Control="0" Value="385"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="385"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="122"  Name="Wind"  ProgramChange="122"/>
@@ -1890,8 +1890,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #04">
         <MIDICommands>
-          <ControlChange Control="0" Value="513"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="513"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="122"  Name="Stream"  ProgramChange="122"/>
@@ -1902,8 +1902,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #05">
         <MIDICommands>
-          <ControlChange Control="0" Value="641"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="641"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="122"  Name="Bubble"  ProgramChange="122"/>
@@ -1914,8 +1914,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #06">
         <MIDICommands>
-          <ControlChange Control="0" Value="769"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="769"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="125"  Name="Train"  ProgramChange="125"/>
@@ -1923,8 +1923,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #07">
         <MIDICommands>
-          <ControlChange Control="0" Value="897"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="897"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="125"  Name="Jetplane"  ProgramChange="125"/>
@@ -1932,8 +1932,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #08">
         <MIDICommands>
-          <ControlChange Control="0" Value="1025"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1025"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 1w"  ProgramChange="0"/>
@@ -1977,8 +1977,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #09">
         <MIDICommands>
-          <ControlChange Control="0" Value="1153"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1153"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="14"  Name="Carillon"  ProgramChange="14"/>
@@ -1988,8 +1988,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #16">
         <MIDICommands>
-          <ControlChange Control="0" Value="2049"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2049"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 1d"  ProgramChange="0"/>
@@ -2008,8 +2008,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #24">
         <MIDICommands>
-          <ControlChange Control="0" Value="3073"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3073"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="60's E.Piano"  ProgramChange="4"/>
@@ -2018,8 +2018,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Var #32">
         <MIDICommands>
-          <ControlChange Control="0" Value="4097"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4097"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Organ 4"  ProgramChange="16"/>
@@ -2030,8 +2030,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map CM-64(PCM)">
         <MIDICommands>
-          <ControlChange Control="0" Value="16129"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16129"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 2"  ProgramChange="0"/>
@@ -2102,8 +2102,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map CM-64(LA)">
         <MIDICommands>
-          <ControlChange Control="0" Value="16257"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16257"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Acou Piano 1"  ProgramChange="0"/>
@@ -2238,8 +2238,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Capital Tones">
         <MIDICommands>
-          <ControlChange Control="0" Value="2"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 1"  ProgramChange="0"/>
@@ -2374,8 +2374,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Drumsets">
         <MIDICommands>
-          <ControlChange Control="0" Value="2"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Standard 1"  ProgramChange="0"/>
@@ -2396,8 +2396,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #01">
         <MIDICommands>
-          <ControlChange Control="0" Value="130"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="130"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="2"  Name="EG+Rhodes 1"  ProgramChange="2"/>
@@ -2458,8 +2458,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #02">
         <MIDICommands>
-          <ControlChange Control="0" Value="258"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="258"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="2"  Name="EG+Rhodes 2"  ProgramChange="2"/>
@@ -2490,8 +2490,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #03">
         <MIDICommands>
-          <ControlChange Control="0" Value="386"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="386"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="35"  Name="Fretless Bs4"  ProgramChange="35"/>
@@ -2513,8 +2513,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #04">
         <MIDICommands>
-          <ControlChange Control="0" Value="514"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="514"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="35"  Name="Syn Fretless"  ProgramChange="35"/>
@@ -2534,8 +2534,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #05">
         <MIDICommands>
-          <ControlChange Control="0" Value="642"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="642"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="35"  Name="Mr.Smooth"  ProgramChange="35"/>
@@ -2554,8 +2554,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #06">
         <MIDICommands>
-          <ControlChange Control="0" Value="770"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="770"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="80"  Name="LM Square"  ProgramChange="80"/>
@@ -2570,8 +2570,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #07">
         <MIDICommands>
-          <ControlChange Control="0" Value="898"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="898"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="LA Saw"  ProgramChange="81"/>
@@ -2582,8 +2582,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #08">
         <MIDICommands>
-          <ControlChange Control="0" Value="1026"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1026"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 1w"  ProgramChange="0"/>
@@ -2653,8 +2653,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #09">
         <MIDICommands>
-          <ControlChange Control="0" Value="1154"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1154"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="14"  Name="Carillon"  ProgramChange="14"/>
@@ -2680,8 +2680,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #10">
         <MIDICommands>
-          <ControlChange Control="0" Value="1282"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1282"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Tekno Bass"  ProgramChange="38"/>
@@ -2694,8 +2694,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #11">
         <MIDICommands>
-          <ControlChange Control="0" Value="1410"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1410"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="48"  Name="Choir Str."  ProgramChange="48"/>
@@ -2704,8 +2704,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #16">
         <MIDICommands>
-          <ControlChange Control="0" Value="2050"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2050"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 1d"  ProgramChange="0"/>
@@ -2741,8 +2741,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #17">
         <MIDICommands>
-          <ControlChange Control="0" Value="2178"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2178"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="12"  Name="Barafon 2"  ProgramChange="12"/>
@@ -2756,8 +2756,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #18">
         <MIDICommands>
-          <ControlChange Control="0" Value="2306"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2306"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="60's Organ 3"  ProgramChange="16"/>
@@ -2768,8 +2768,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #19">
         <MIDICommands>
-          <ControlChange Control="0" Value="2434"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2434"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="39"  Name="Smooth Bass"  ProgramChange="39"/>
@@ -2778,8 +2778,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #24">
         <MIDICommands>
-          <ControlChange Control="0" Value="3074"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3074"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="60's E.Piano"  ProgramChange="4"/>
@@ -2799,8 +2799,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #25">
         <MIDICommands>
-          <ControlChange Control="0" Value="3202"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3202"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="Hard Rhodes"  ProgramChange="4"/>
@@ -2811,8 +2811,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #26">
         <MIDICommands>
-          <ControlChange Control="0" Value="3330"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3330"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="MellowRhodes"  ProgramChange="4"/>
@@ -2820,8 +2820,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #32">
         <MIDICommands>
-          <ControlChange Control="0" Value="4098"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4098"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Organ 4"  ProgramChange="16"/>
@@ -2834,8 +2834,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #33">
         <MIDICommands>
-          <ControlChange Control="0" Value="4226"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4226"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Even Bar"  ProgramChange="16"/>
@@ -2843,8 +2843,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Map Var #40">
         <MIDICommands>
-          <ControlChange Control="0" Value="5122"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5122"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Organ Bass"  ProgramChange="16"/>
@@ -2853,8 +2853,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Capital Tones">
         <MIDICommands>
-          <ControlChange Control="0" Value="3"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 1"  ProgramChange="0"/>
@@ -2989,8 +2989,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Drumsets">
         <MIDICommands>
-          <ControlChange Control="0" Value="3"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Standard 1"  ProgramChange="0"/>
@@ -3022,8 +3022,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #01">
         <MIDICommands>
-          <ControlChange Control="0" Value="131"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="131"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="2"  Name="EG+Rhodes 1"  ProgramChange="2"/>
@@ -3110,8 +3110,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #02">
         <MIDICommands>
-          <ControlChange Control="0" Value="259"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="259"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="2"  Name="EG+Rhodes 2"  ProgramChange="2"/>
@@ -3168,8 +3168,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #03">
         <MIDICommands>
-          <ControlChange Control="0" Value="387"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="387"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="Open Hard 2"  ProgramChange="27"/>
@@ -3212,8 +3212,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #04">
         <MIDICommands>
-          <ControlChange Control="0" Value="515"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="515"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="JC Clean Gt."  ProgramChange="27"/>
@@ -3244,8 +3244,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #05">
         <MIDICommands>
-          <ControlChange Control="0" Value="643"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="643"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="35"  Name="Mr.Smooth"  ProgramChange="35"/>
@@ -3269,8 +3269,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #06">
         <MIDICommands>
-          <ControlChange Control="0" Value="771"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="771"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="JPMG Bass"  ProgramChange="38"/>
@@ -3290,8 +3290,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #07">
         <MIDICommands>
-          <ControlChange Control="0" Value="899"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="899"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="39"  Name="MG Blip Bs:"  ProgramChange="39"/>
@@ -3306,8 +3306,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #08">
         <MIDICommands>
-          <ControlChange Control="0" Value="1027"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1027"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 1w"  ProgramChange="0"/>
@@ -3413,8 +3413,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #09">
         <MIDICommands>
-          <ControlChange Control="0" Value="1155"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1155"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="Cho. E.Piano"  ProgramChange="4"/>
@@ -3471,8 +3471,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #10">
         <MIDICommands>
-          <ControlChange Control="0" Value="1283"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1283"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="SilentRhodes"  ProgramChange="4"/>
@@ -3500,8 +3500,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #11">
         <MIDICommands>
-          <ControlChange Control="0" Value="1411"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1411"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="TB303 Bass 2"  ProgramChange="38"/>
@@ -3523,8 +3523,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #12">
         <MIDICommands>
-          <ControlChange Control="0" Value="1539"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1539"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Kicked TB303"  ProgramChange="38"/>
@@ -3539,8 +3539,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #13">
         <MIDICommands>
-          <ControlChange Control="0" Value="1667"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1667"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="TB303 Saw Bs"  ProgramChange="38"/>
@@ -3551,8 +3551,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #14">
         <MIDICommands>
-          <ControlChange Control="0" Value="1795"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1795"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Rubber303 Bs"  ProgramChange="38"/>
@@ -3561,8 +3561,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #15">
         <MIDICommands>
-          <ControlChange Control="0" Value="1923"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1923"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Reso 303 Bs"  ProgramChange="38"/>
@@ -3571,8 +3571,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #16">
         <MIDICommands>
-          <ControlChange Control="0" Value="2051"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2051"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="European Pf"  ProgramChange="0"/>
@@ -3639,8 +3639,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #17">
         <MIDICommands>
-          <ControlChange Control="0" Value="2179"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2179"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="Dist E.Piano"  ProgramChange="4"/>
@@ -3675,8 +3675,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #18">
         <MIDICommands>
-          <ControlChange Control="0" Value="2307"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2307"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="60's Organ 3"  ProgramChange="16"/>
@@ -3699,8 +3699,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #19">
         <MIDICommands>
-          <ControlChange Control="0" Value="2435"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2435"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Farf Organ"  ProgramChange="16"/>
@@ -3716,8 +3716,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #20">
         <MIDICommands>
-          <ControlChange Control="0" Value="2563"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2563"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="39"  Name="SH101 Bass 3"  ProgramChange="39"/>
@@ -3729,8 +3729,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #21">
         <MIDICommands>
-          <ControlChange Control="0" Value="2691"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2691"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="39"  Name="Spike Bass"  ProgramChange="39"/>
@@ -3739,8 +3739,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #22">
         <MIDICommands>
-          <ControlChange Control="0" Value="2819"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2819"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="39"  Name="House Bass:"  ProgramChange="39"/>
@@ -3749,8 +3749,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #23">
         <MIDICommands>
-          <ControlChange Control="0" Value="2947"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2947"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="39"  Name="KG Bass"  ProgramChange="39"/>
@@ -3759,8 +3759,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #24">
         <MIDICommands>
-          <ControlChange Control="0" Value="3075"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3075"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano + Str."  ProgramChange="0"/>
@@ -3798,8 +3798,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #25">
         <MIDICommands>
-          <ControlChange Control="0" Value="3203"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3203"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="Hard Rhodes"  ProgramChange="4"/>
@@ -3818,8 +3818,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #26">
         <MIDICommands>
-          <ControlChange Control="0" Value="3331"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3331"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="MellowRhodes"  ProgramChange="4"/>
@@ -3831,8 +3831,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #27">
         <MIDICommands>
-          <ControlChange Control="0" Value="3459"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3459"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Hybrid Organ"  ProgramChange="16"/>
@@ -3843,8 +3843,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #28">
         <MIDICommands>
-          <ControlChange Control="0" Value="3587"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3587"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="VS Organ"  ProgramChange="16"/>
@@ -3855,8 +3855,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #29">
         <MIDICommands>
-          <ControlChange Control="0" Value="3715"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3715"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Digi Church"  ProgramChange="16"/>
@@ -3865,8 +3865,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #30">
         <MIDICommands>
-          <ControlChange Control="0" Value="3843"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3843"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="CS Saw"  ProgramChange="81"/>
@@ -3874,8 +3874,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #31">
         <MIDICommands>
-          <ControlChange Control="0" Value="3971"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3971"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="MG Saw Lead"  ProgramChange="81"/>
@@ -3883,8 +3883,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #32">
         <MIDICommands>
-          <ControlChange Control="0" Value="4099"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4099"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="6"  Name="Synth Harpsi"  ProgramChange="6"/>
@@ -3905,8 +3905,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #33">
         <MIDICommands>
-          <ControlChange Control="0" Value="4227"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4227"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="JP8 Clav. 1"  ProgramChange="7"/>
@@ -3920,8 +3920,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #34">
         <MIDICommands>
-          <ControlChange Control="0" Value="4355"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4355"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="MG unison"  ProgramChange="81"/>
@@ -3929,8 +3929,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #35">
         <MIDICommands>
-          <ControlChange Control="0" Value="4483"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4483"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="JP8 Clav. 2"  ProgramChange="7"/>
@@ -3939,8 +3939,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #40">
         <MIDICommands>
-          <ControlChange Control="0" Value="5123"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5123"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Organ Bass"  ProgramChange="16"/>
@@ -3950,8 +3950,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #41">
         <MIDICommands>
-          <ControlChange Control="0" Value="5251"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5251"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="SequenceSaw2"  ProgramChange="81"/>
@@ -3959,8 +3959,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #42">
         <MIDICommands>
-          <ControlChange Control="0" Value="5379"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5379"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="Reso Saw"  ProgramChange="81"/>
@@ -3968,8 +3968,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #43">
         <MIDICommands>
-          <ControlChange Control="0" Value="5507"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5507"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="Cheese Saw 1"  ProgramChange="81"/>
@@ -3977,8 +3977,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #44">
         <MIDICommands>
-          <ControlChange Control="0" Value="5635"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5635"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="Cheese S"  ProgramChange="81"/>
@@ -3986,8 +3986,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #45">
         <MIDICommands>
-          <ControlChange Control="0" Value="5763"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5763"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="Rhythmic Saw"  ProgramChange="81"/>
@@ -3995,8 +3995,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-88 Pro Map Var #48">
         <MIDICommands>
-          <ControlChange Control="0" Value="6147"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="6147"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="5th Organ"  ProgramChange="16"/>
@@ -4004,8 +4004,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Capital Tones">
         <MIDICommands>
-          <ControlChange Control="0" Value="4"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano 1"  ProgramChange="0"/>
@@ -4140,8 +4140,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Drumsets">
         <MIDICommands>
-          <ControlChange Control="0" Value="4"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="STANDARD 1"  ProgramChange="0"/>
@@ -4185,8 +4185,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #01">
         <MIDICommands>
-          <ControlChange Control="0" Value="132"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="132"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="UprightPiano"  ProgramChange="0"/>
@@ -4286,8 +4286,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #02">
         <MIDICommands>
-          <ControlChange Control="0" Value="260"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="260"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Mild Piano"  ProgramChange="0"/>
@@ -4363,8 +4363,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #03">
         <MIDICommands>
-          <ControlChange Control="0" Value="388"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="388"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="Atk Clav.2"  ProgramChange="7"/>
@@ -4428,8 +4428,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #04">
         <MIDICommands>
-          <ControlChange Control="0" Value="516"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="516"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 3"  ProgramChange="16"/>
@@ -4486,8 +4486,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #05">
         <MIDICommands>
-          <ControlChange Control="0" Value="644"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="644"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 4"  ProgramChange="16"/>
@@ -4537,8 +4537,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #06">
         <MIDICommands>
-          <ControlChange Control="0" Value="772"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="772"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 5"  ProgramChange="16"/>
@@ -4577,8 +4577,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #07">
         <MIDICommands>
-          <ControlChange Control="0" Value="900"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="900"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 6"  ProgramChange="16"/>
@@ -4609,8 +4609,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #08">
         <MIDICommands>
-          <ControlChange Control="0" Value="1028"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1028"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Upright P w"  ProgramChange="0"/>
@@ -4725,8 +4725,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #09">
         <MIDICommands>
-          <ControlChange Control="0" Value="1156"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1156"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Mild Piano w"  ProgramChange="0"/>
@@ -4800,8 +4800,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #10">
         <MIDICommands>
-          <ControlChange Control="0" Value="1284"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1284"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="SilentRhodes"  ProgramChange="4"/>
@@ -4851,8 +4851,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #11">
         <MIDICommands>
-          <ControlChange Control="0" Value="1412"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1412"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 8"  ProgramChange="16"/>
@@ -4890,8 +4890,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #12">
         <MIDICommands>
-          <ControlChange Control="0" Value="1540"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1540"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Ful Organ 9"  ProgramChange="16"/>
@@ -4924,8 +4924,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #13">
         <MIDICommands>
-          <ControlChange Control="0" Value="1668"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1668"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="TB303 Saw Bs"  ProgramChange="38"/>
@@ -4949,8 +4949,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #14">
         <MIDICommands>
-          <ControlChange Control="0" Value="1796"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1796"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Rubber303 Bs"  ProgramChange="38"/>
@@ -4970,8 +4970,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #15">
         <MIDICommands>
-          <ControlChange Control="0" Value="1924"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1924"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="Reso 303 Bs"  ProgramChange="38"/>
@@ -4989,8 +4989,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #16">
         <MIDICommands>
-          <ControlChange Control="0" Value="2052"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2052"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="European Pf"  ProgramChange="0"/>
@@ -5065,8 +5065,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #17">
         <MIDICommands>
-          <ControlChange Control="0" Value="2180"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2180"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="4"  Name="Dist E.Piano"  ProgramChange="4"/>
@@ -5113,8 +5113,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #18">
         <MIDICommands>
-          <ControlChange Control="0" Value="2308"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2308"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="60's Organ 3"  ProgramChange="16"/>
@@ -5145,8 +5145,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #19">
         <MIDICommands>
-          <ControlChange Control="0" Value="2436"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2436"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Farf Organ"  ProgramChange="16"/>
@@ -5173,8 +5173,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #20">
         <MIDICommands>
-          <ControlChange Control="0" Value="2564"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2564"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="LP Rear Pick"  ProgramChange="27"/>
@@ -5195,8 +5195,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #21">
         <MIDICommands>
-          <ControlChange Control="0" Value="2692"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2692"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="LP Rear 2"  ProgramChange="27"/>
@@ -5215,8 +5215,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #22">
         <MIDICommands>
-          <ControlChange Control="0" Value="2820"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2820"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="LP RearAtack"  ProgramChange="27"/>
@@ -5236,8 +5236,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #23">
         <MIDICommands>
-          <ControlChange Control="0" Value="2948"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2948"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="27"  Name="Mid Tone GTR"  ProgramChange="27"/>
@@ -5256,8 +5256,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #24">
         <MIDICommands>
-          <ControlChange Control="0" Value="3076"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3076"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano + Str."  ProgramChange="0"/>
@@ -5308,8 +5308,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #25">
         <MIDICommands>
-          <ControlChange Control="0" Value="3204"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3204"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano + Str2"  ProgramChange="0"/>
@@ -5339,8 +5339,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #26">
         <MIDICommands>
-          <ControlChange Control="0" Value="3332"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3332"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano+Choir1"  ProgramChange="0"/>
@@ -5366,8 +5366,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #27">
         <MIDICommands>
-          <ControlChange Control="0" Value="3460"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3460"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Piano+Choir2"  ProgramChange="0"/>
@@ -5386,8 +5386,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #28">
         <MIDICommands>
-          <ControlChange Control="0" Value="3588"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3588"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="VS Organ"  ProgramChange="16"/>
@@ -5403,8 +5403,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #29">
         <MIDICommands>
-          <ControlChange Control="0" Value="3716"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3716"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Digi Church"  ProgramChange="16"/>
@@ -5418,8 +5418,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #30">
         <MIDICommands>
-          <ControlChange Control="0" Value="3844"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3844"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="JX-8P Organ"  ProgramChange="16"/>
@@ -5433,8 +5433,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #31">
         <MIDICommands>
-          <ControlChange Control="0" Value="3972"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3972"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="FM Organ"  ProgramChange="16"/>
@@ -5448,8 +5448,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #32">
         <MIDICommands>
-          <ControlChange Control="0" Value="4100"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4100"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="5"  Name="EP Phase"  ProgramChange="5"/>
@@ -5481,8 +5481,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #33">
         <MIDICommands>
-          <ControlChange Control="0" Value="4228"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4228"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="JP8 Clav. 1"  ProgramChange="7"/>
@@ -5503,8 +5503,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #34">
         <MIDICommands>
-          <ControlChange Control="0" Value="4356"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4356"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="17"  Name="Perc.Organ 3"  ProgramChange="17"/>
@@ -5519,8 +5519,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #35">
         <MIDICommands>
-          <ControlChange Control="0" Value="4484"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4484"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="JP8 Clav. 2"  ProgramChange="7"/>
@@ -5536,8 +5536,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #36">
         <MIDICommands>
-          <ControlChange Control="0" Value="4612"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4612"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="SynRingClav."  ProgramChange="7"/>
@@ -5551,8 +5551,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #37">
         <MIDICommands>
-          <ControlChange Control="0" Value="4740"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4740"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="SynDistClav."  ProgramChange="7"/>
@@ -5564,8 +5564,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #38">
         <MIDICommands>
-          <ControlChange Control="0" Value="4868"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4868"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="JP8000 Clav."  ProgramChange="7"/>
@@ -5576,8 +5576,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #39">
         <MIDICommands>
-          <ControlChange Control="0" Value="4996"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4996"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="7"  Name="Pulse Clav"  ProgramChange="7"/>
@@ -5587,8 +5587,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #40">
         <MIDICommands>
-          <ControlChange Control="0" Value="5124"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5124"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="Organ Bass"  ProgramChange="16"/>
@@ -5608,8 +5608,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #41">
         <MIDICommands>
-          <ControlChange Control="0" Value="5252"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5252"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="303SqDistBs2"  ProgramChange="38"/>
@@ -5624,8 +5624,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #42">
         <MIDICommands>
-          <ControlChange Control="0" Value="5380"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5380"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="303SqDistBs3"  ProgramChange="38"/>
@@ -5640,8 +5640,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #43">
         <MIDICommands>
-          <ControlChange Control="0" Value="5508"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5508"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="303Sqr.Rev"  ProgramChange="38"/>
@@ -5653,8 +5653,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #44">
         <MIDICommands>
-          <ControlChange Control="0" Value="5636"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5636"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="38"  Name="TeeBee"  ProgramChange="38"/>
@@ -5665,8 +5665,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #45">
         <MIDICommands>
-          <ControlChange Control="0" Value="5764"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5764"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="Rhythmic Saw"  ProgramChange="81"/>
@@ -5675,8 +5675,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #46">
         <MIDICommands>
-          <ControlChange Control="0" Value="5892"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5892"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="SequencedSaw"  ProgramChange="81"/>
@@ -5685,8 +5685,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #47">
         <MIDICommands>
-          <ControlChange Control="0" Value="6020"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="6020"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="81"  Name="Techno Saw"  ProgramChange="81"/>
@@ -5694,8 +5694,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-8820 Map Var #48">
         <MIDICommands>
-          <ControlChange Control="0" Value="6148"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="6148"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="16"  Name="5th Organ"  ProgramChange="16"/>
@@ -5748,8 +5748,8 @@
       </PatchBank>
       <PatchBank Name="Roland SC-55 Map Drumsets">
         <MIDICommands>
-          <ControlChange Control="0" Value="1"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="Standard"  ProgramChange="0"/>
@@ -7464,7 +7464,7 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 STANDARD 1 Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -7587,7 +7587,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 STANDARD 2 Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -7706,7 +7706,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 STANDARD L/R Set">
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
      <Note Number="22"  Name="2=MC-500 Beep 1"/>
@@ -7801,7 +7801,7 @@
      <Note Number="117"  Name="7=[R] Standard High Tom"/>
      <Note Number="118"  Name="8=[R] Standard Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ROOM Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -7924,7 +7924,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 HIP HOP Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -8053,7 +8053,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 JUNGLE Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -8182,7 +8182,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TECHNO Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -8311,7 +8311,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ROOM L/R Set">
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
      <Note Number="22"  Name="2=MC-500 Beep 1"/>
@@ -8406,7 +8406,7 @@
      <Note Number="117"  Name="7=[R] Room High Tom"/>
      <Note Number="118"  Name="8=[R] Room Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 HOUSE Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -8535,7 +8535,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 POWER Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -8654,7 +8654,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ELECTRONIC Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -8773,7 +8773,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TR-808 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -8892,7 +8892,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 DANCE Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -9021,7 +9021,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 CR-78 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -9140,7 +9140,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TR-606 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -9259,7 +9259,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TR-707 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -9378,7 +9378,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TR-909 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -9497,7 +9497,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 JAZZ Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -9617,7 +9617,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare 2"/>
      <Note Number="127"  Name="7=[88] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 JAZZ L/R Set">
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
      <Note Number="22"  Name="2=MC-500 Beep 1"/>
@@ -9712,7 +9712,7 @@
      <Note Number="117"  Name="7=[R] Jazz High Tom"/>
      <Note Number="118"  Name="8=[R] Jazz Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 BRUSH Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -9828,7 +9828,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare 2"/>
      <Note Number="127"  Name="7=[88] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 BRUSH 2 Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -9948,7 +9948,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare 2"/>
      <Note Number="127"  Name="7=[88] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 BRUSH 2 L/R Set">
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
      <Note Number="22"  Name="2=MC-500 Beep 1"/>
@@ -10043,7 +10043,7 @@
      <Note Number="117"  Name="7=[R] Brush High Tom"/>
      <Note Number="118"  Name="8=[R] Brush Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ORCHESTRA Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -10148,7 +10148,7 @@
      <Note Number="112"  Name="2=[55] Timpani e"/>
      <Note Number="113"  Name="3=[55] Timpani f"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ETHNIC Set">
      <Note Number="26"  Name="6=Tambourine"/>
      <Note Number="27"  Name="7=Castanets"/>
      <Note Number="28"  Name="8=Crash Cymbal 1"/>
@@ -10224,7 +10224,7 @@
      <Note Number="98"  Name="8=High Wood Block"/>
      <Note Number="99"  Name="9=Low Wood Block"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 KICK &amp; SNARE Set">
      <Note Number="26"  Name="6=CR-78 Kick 2"/>
      <Note Number="27"  Name="7=TR-606 Kick"/>
      <Note Number="28"  Name="8=TR-707 Kick"/>
@@ -10312,7 +10312,7 @@
      <Note Number="110"  Name="0=TR-909 Snare 1"/>
      <Note Number="111"  Name="1=TR-909 Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 KICK &amp; SNARE 2 Set">
      <Note Number="26"  Name="6=[Pro] CR-78 Kick 2"/>
      <Note Number="27"  Name="7=[Pro] TR-606 Kick"/>
      <Note Number="28"  Name="8=[Pro] TR-707 Kick"/>
@@ -10400,7 +10400,7 @@
      <Note Number="110"  Name="0=[Pro] TR-909 Snare 1"/>
      <Note Number="111"  Name="1=[Pro] TR-909 Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ASIA Set">
      <Note Number="26"  Name="6=Gamelan Gong 2"/>
      <Note Number="27"  Name="7=Gamelan Gong 3"/>
      <Note Number="28"  Name="8=Gamelan Gong 4"/>
@@ -10467,7 +10467,7 @@
      <Note Number="89"  Name="9=Dholak 1"/>
      <Note Number="90"  Name="0=Dholak 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 CYMBAL&amp;CLAPS Set">
      <Note Number="33"  Name="3=Reverse Closed Hi-Hat 1"/>
      <Note Number="34"  Name="4=Reverse Closed Hi-Hat 2"/>
      <Note Number="35"  Name="5=Jungle Hi-Hat"/>
@@ -10533,7 +10533,7 @@
      <Note Number="95"  Name="5=Hand Clap 2"/>
      <Note Number="96"  Name="6=TR-707 Hand Clap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 GAMELAN 1 Set">
      <Note Number="37"  Name="7=Kendang Lanang"/>
      <Note Number="38"  Name="8=Bebarongan"/>
      <Note Number="39"  Name="9=Pelegongan"/>
@@ -10587,9 +10587,9 @@
      <Note Number="87"  Name="7=Reyong"/>
      <Note Number="88"  Name="8=Reyong"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 GAMELAN 2 Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 SFX Set">
      <Note Number="22"  Name="2=MC-500 Beep 2"/>
      <Note Number="23"  Name="3=Guitar Slide"/>
      <Note Number="24"  Name="4=Guitar Wah"/>
@@ -10666,7 +10666,7 @@
      <Note Number="95"  Name="5=Big Shot"/>
      <Note Number="96"  Name="6=Percussion Bang"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 RHYTHM FX Set">
      <Note Number="37"  Name="7=Reverse Concert Bass Drum"/>
      <Note Number="38"  Name="8=Reverse Power Kick1"/>
      <Note Number="39"  Name="9=Reverse Electric Kick 1"/>
@@ -10720,7 +10720,7 @@
      <Note Number="87"  Name="7=Space Birds"/>
      <Note Number="88"  Name="8=Flying Monster"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 RHYTHM FX 2 Set">
      <Note Number="37"  Name="7=Reverse TR-909 Kick 1"/>
      <Note Number="38"  Name="8=Reverse Hip-Hop Kick 1"/>
      <Note Number="39"  Name="9=Reverse Jungle Kick 2"/>
@@ -10777,7 +10777,7 @@
      <Note Number="90"  Name="0=Calculating..."/>
      <Note Number="91"  Name="1=Saw LFO"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 RHYTHM FX 3 Set">
      <Note Number="18"  Name="8=Reverse Bass Touch Noise"/>
      <Note Number="19"  Name="9=Reverse Bass Attack Noise"/>
      <Note Number="20"  Name="0=Reverse Clean Guitar Cut Noise Up"/>
@@ -10881,7 +10881,7 @@
      <Note Number="118"  Name="8=Reverse Keyboard Typing 5"/>
      <Note Number="119"  Name="9=Reverse Keyboard Typing 6"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 SFX 2 Set">
      <Note Number="32"  Name="2=Acoustic Bass Touch Noise"/>
      <Note Number="33"  Name="3=Acoustic Bass Attack Noise"/>
      <Note Number="34"  Name="4=Distortion Guitar Mute Noise"/>
@@ -10942,7 +10942,7 @@
      <Note Number="89"  Name="9=Dist Knock"/>
      <Note Number="90"  Name="0=Bound"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 VOICE Set">
      <Note Number="37"  Name="7=Reverse Breath Short"/>
      <Note Number="38"  Name="8=Reverse Breath Strong"/>
      <Note Number="39"  Name="9=Reverse Woman's Breath"/>
@@ -10996,7 +10996,7 @@
      <Note Number="87"  Name="7=Japanese Male Voice Wah"/>
      <Note Number="88"  Name="8=Japanese Male Voice Woh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 CYM&amp;CLAPS 2 Set">
      <Note Number="33"  Name="3=Reverse Room Closed Hi-Hat"/>
      <Note Number="34"  Name="4=Reverse Jazz Closed Hi-Hat"/>
      <Note Number="35"  Name="5=Reverse Brush Closed Hi-Hat"/>
@@ -11062,7 +11062,7 @@
      <Note Number="95"  Name="5=[Pro] Hand Clap 2"/>
      <Note Number="96"  Name="6=[Pro] TR-707 Hand Clap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland GS Standard Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -11124,7 +11124,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland GS Room Set">
      <Note Number="41"  Name="1=Room Low Tom 2"/>
      <Note Number="43"  Name="3=Room Low Tom 1"/>
      <Note Number="45"  Name="5=Room Mid Tom 2"/>
@@ -11132,7 +11132,7 @@
      <Note Number="48"  Name="8=Room Hi Tom 2"/>
      <Note Number="50"  Name="0=Room Hi Tom 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland GS Power Set">
      <Note Number="36"  Name="6=MONDO Kick"/>
      <Note Number="38"  Name="8=Gated SD"/>
      <Note Number="41"  Name="1=Room Low Tom 2"/>
@@ -11142,7 +11142,7 @@
      <Note Number="48"  Name="8=Room Hi Tom 2"/>
      <Note Number="50"  Name="0=Room Hi Tom 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland GS Electronic Set">
      <Note Number="36"  Name="6=Elec BD"/>
      <Note Number="38"  Name="8=Elec SD"/>
      <Note Number="40"  Name="0=Gated SD"/>
@@ -11154,7 +11154,7 @@
      <Note Number="50"  Name="0=Elec Hi Tom 1"/>
      <Note Number="52"  Name="2=Reverse Cymbal"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland GS TR-808 Set">
      <Note Number="36"  Name="6=808 Bass Drum"/>
      <Note Number="37"  Name="7=808 Rim Shot"/>
      <Note Number="38"  Name="8=808 Snare Drum"/>
@@ -11175,18 +11175,18 @@
      <Note Number="70"  Name="0=808 Maracas"/>
      <Note Number="75"  Name="5=808 Claves"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland GS Jazz Set">
      <Note Number="35"  Name="5=Jazz BD 2"/>
      <Note Number="36"  Name="6=Jazz BD 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland GS Brush Set">
      <Note Number="35"  Name="5=Jazz BD 2"/>
      <Note Number="36"  Name="6=Jazz BD 1"/>
      <Note Number="38"  Name="8=Brush Tap"/>
      <Note Number="39"  Name="9=Brush Slap"/>
      <Note Number="40"  Name="0=Brush Swirl"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland GS Orchestra Set">
      <Note Number="27"  Name="7=Closed Hi-Hat"/>
      <Note Number="28"  Name="8=Pedal Hi-Hat"/>
      <Note Number="29"  Name="9=Open Hi-Hat"/>
@@ -11213,7 +11213,7 @@
      <Note Number="59"  Name="9=Concert Cymbal 1"/>
      <Note Number="88"  Name="8=Applause"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland GS SFX Set">
      <Note Number="40"  Name="0=Slap"/>
      <Note Number="41"  Name="1=Scratch Push"/>
      <Note Number="42"  Name="2=Scratch Pull"/>
@@ -11260,7 +11260,7 @@
      <Note Number="83"  Name="3=Stream"/>
      <Note Number="84"  Name="4=Bubble"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 CM-64/32L Set">
      <Note Number="36"  Name="6=CM Kick Drum"/>
      <Note Number="37"  Name="7=CM Rim Shot"/>
      <Note Number="38"  Name="8=CM Snare Drum"/>
@@ -11328,7 +11328,7 @@
      <Note Number="107"  Name="7=Stream"/>
      <Note Number="108"  Name="8=Bubble"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Standard Set 1">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -11392,7 +11392,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Standard Set 2">
      <Note Number="35"  Name="5=Standard 2 Kick 2"/>
      <Note Number="36"  Name="6=Standard 2 Kick 1"/>
      <Note Number="38"  Name="8=Standard 2 Snare 1"/>
@@ -11401,7 +11401,7 @@
      <Note Number="46"  Name="6=Open Hi-Hat 2"/>
      <Note Number="84"  Name="4=Bar Chimes"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Room Set">
      <Note Number="35"  Name="5=Room Kick 2"/>
      <Note Number="36"  Name="6=Room Kick 1"/>
      <Note Number="38"  Name="8=Room Snare 1"/>
@@ -11415,7 +11415,7 @@
      <Note Number="48"  Name="8=Room Hi Tom 2"/>
      <Note Number="50"  Name="0=Room Hi Tom 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Power Set">
      <Note Number="35"  Name="5=Power Kick 2"/>
      <Note Number="36"  Name="6=Power Kick 1"/>
      <Note Number="38"  Name="8=Power Snare 1"/>
@@ -11429,7 +11429,7 @@
      <Note Number="48"  Name="8=Power Hi Tom2"/>
      <Note Number="50"  Name="0=Power Hi Tom 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Electronic Set">
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
      <Note Number="35"  Name="5=Electric Kick 2"/>
@@ -11446,7 +11446,7 @@
      <Note Number="50"  Name="0=Electric Hi Tom1"/>
      <Note Number="52"  Name="2=Reverse Cymbal"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 TR-808/909 Set">
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
      <Note Number="35"  Name="5=909 Bass Drum"/>
@@ -11471,7 +11471,7 @@
      <Note Number="70"  Name="0=808 Maracas"/>
      <Note Number="75"  Name="5=808 Claves"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Dance Set">
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
      <Note Number="35"  Name="5=Dance Kick"/>
@@ -11493,7 +11493,7 @@
      <Note Number="80"  Name="0=Electric Mute Triangle"/>
      <Note Number="81"  Name="1=Electric Open Triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Jazz Set">
      <Note Number="35"  Name="5=Jazz Kick 2"/>
      <Note Number="36"  Name="6=Jazz Kick 1"/>
      <Note Number="38"  Name="8=Jazz Snare 1"/>
@@ -11502,7 +11502,7 @@
      <Note Number="42"  Name="2=Closed Hi-hat2"/>
      <Note Number="46"  Name="6=Open Hi-hat2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Brush Set">
      <Note Number="35"  Name="5=Jazz Kick 2"/>
      <Note Number="36"  Name="6=Jazz Kick 1"/>
      <Note Number="38"  Name="8=Brush Tap1"/>
@@ -11520,7 +11520,7 @@
      <Note Number="51"  Name="1=Brush Ride Cymbal"/>
      <Note Number="53"  Name="3=Brush Ride Bell"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Orchestra Set">
      <Note Number="27"  Name="7=Closed Hi Hat2"/>
      <Note Number="28"  Name="8=Pedal Hi Hat"/>
      <Note Number="29"  Name="9=Open Hi Hat2"/>
@@ -11547,7 +11547,7 @@
      <Note Number="59"  Name="9=Concert Cymbal 1"/>
      <Note Number="88"  Name="8=Applause"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Ethnic Set">
      <Note Number="26"  Name="6=Tambourine"/>
      <Note Number="27"  Name="7=Castanets"/>
      <Note Number="28"  Name="8=Crash Cymbal1"/>
@@ -11623,7 +11623,7 @@
      <Note Number="98"  Name="8=High Wood Block"/>
      <Note Number="99"  Name="9=Low Wood Block"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Kick &amp; Snare Set">
      <Note Number="41"  Name="1=Standard 1 Kick 2"/>
      <Note Number="42"  Name="2=Standard 2 Kick 1"/>
      <Note Number="43"  Name="3=Standard 2 Kick 2"/>
@@ -11676,7 +11676,7 @@
      <Note Number="90"  Name="0=Brush Swirl2"/>
      <Note Number="91"  Name="1=Brush Long Swirl"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 SFX Set">
      <Note Number="32"  Name="2=Scratch Pull2"/>
      <Note Number="33"  Name="3=Cutting Noise 2 Up"/>
      <Note Number="34"  Name="4=Cutting Noise 2 Down"/>
@@ -11737,7 +11737,7 @@
      <Note Number="89"  Name="9=Telephone1"/>
      <Note Number="90"  Name="0=Telephone2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Rhythm FX Set">
      <Note Number="37"  Name="7=Reverse Concert BD 1"/>
      <Note Number="38"  Name="8=Reverse Power Kick 1"/>
      <Note Number="39"  Name="9=Reverse Electric Kick 1"/>
@@ -11791,7 +11791,7 @@
      <Note Number="87"  Name="7=Space Bird"/>
      <Note Number="88"  Name="8=Flying Monster"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Standard Set 1">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -11910,7 +11910,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Standard Set 2">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="35"  Name="5=Standard2 Kick2"/>
      <Note Number="36"  Name="6=Standard2 Kick1"/>
@@ -11922,7 +11922,7 @@
      <Note Number="46"  Name="6=Open Hi-Hat2"/>
      <Note Number="84"  Name="4=Bar Chimes"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Standard Set 3">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="35"  Name="5=Standard3 Kick2"/>
      <Note Number="36"  Name="6=[RND] Kick"/>
@@ -11938,7 +11938,7 @@
      <Note Number="59"  Name="9=[RND] Ride Cymbal2"/>
      <Note Number="84"  Name="4=Bar Chimes"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Room Set">
      <Note Number="26"  Name="6=Finger Snap2"/>
      <Note Number="35"  Name="5=Room Kick2"/>
      <Note Number="36"  Name="6=Room Kick1"/>
@@ -11960,7 +11960,7 @@
      <Note Number="59"  Name="9=[RND] Ride Cymbal2"/>
      <Note Number="84"  Name="4=Bar Chimes"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Hip Hop Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -12079,7 +12079,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Jungle Set">
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
      <Note Number="35"  Name="5=Jungle Kick2"/>
@@ -12110,7 +12110,7 @@
      <Note Number="82"  Name="2=TR-626 Shaker"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Techno Set">
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
      <Note Number="35"  Name="5=Techno Kick2"/>
@@ -12148,7 +12148,7 @@
      <Note Number="82"  Name="2=TR-626 Shaker"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Power Set">
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
      <Note Number="35"  Name="5=Power Kick2"/>
@@ -12190,7 +12190,7 @@
      <Note Number="84"  Name="4=Bar Chimes"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Electronic Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
@@ -12229,7 +12229,7 @@
      <Note Number="82"  Name="2=TR-626 Shaker"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro TR-808 Set">
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
      <Note Number="35"  Name="5=TR-808 Kick2"/>
@@ -12269,7 +12269,7 @@
      <Note Number="82"  Name="2=TR-626 Shaker"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Dance Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
@@ -12310,7 +12310,7 @@
      <Note Number="82"  Name="2=TR-626 Shaker"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro CR-78 Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
@@ -12351,7 +12351,7 @@
      <Note Number="82"  Name="2=TR-626 Shaker"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro TR-606 Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
@@ -12392,7 +12392,7 @@
      <Note Number="82"  Name="2=TR-626 Shaker"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro TR-707 Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
@@ -12433,7 +12433,7 @@
      <Note Number="82"  Name="2=TR-626 Shaker"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro TR-909 Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="29"  Name="9=Scratch Push2"/>
      <Note Number="30"  Name="0=Scratch Pull2"/>
@@ -12474,7 +12474,7 @@
      <Note Number="82"  Name="2=TR-626 Shaker"/>
      <Note Number="88"  Name="8=Small Club1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Jazz Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -12590,7 +12590,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare2"/>
      <Note Number="127"  Name="7=[88] Electric Snare3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Brush Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="35"  Name="5=Jazz Kick2"/>
      <Note Number="36"  Name="6=Jazz Kick1"/>
@@ -12612,7 +12612,7 @@
      <Note Number="59"  Name="9=Ride Cymbal Edge"/>
      <Note Number="88"  Name="8=Applause"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Orchestra Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -12717,7 +12717,7 @@
      <Note Number="112"  Name="2=[55] Timpani e"/>
      <Note Number="113"  Name="3=[55] Timpani f"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Ethnic Set">
      <Note Number="26"  Name="6=Tambourine"/>
      <Note Number="27"  Name="7=Castanets"/>
      <Note Number="28"  Name="8=Crash Cymbal1"/>
@@ -12793,7 +12793,7 @@
      <Note Number="98"  Name="8=High Wood Block"/>
      <Note Number="99"  Name="9=Low Wood Block"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Kick &amp; Snare Set">
      <Note Number="26"  Name="6=CR-78 Kick2"/>
      <Note Number="27"  Name="7=TR-606 Kick1"/>
      <Note Number="28"  Name="8=TR-707 Kick"/>
@@ -12881,7 +12881,7 @@
      <Note Number="110"  Name="0=TR-909 Snare1"/>
      <Note Number="111"  Name="1=TR-909 Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Asia Set">
      <Note Number="26"  Name="6=Gamelan Gong D#"/>
      <Note Number="27"  Name="7=Gamelan Gong G"/>
      <Note Number="28"  Name="8=Gamelan Gong A#"/>
@@ -12946,7 +12946,7 @@
      <Note Number="87"  Name="7=Nao Bo"/>
      <Note Number="88"  Name="8=Xiao Bo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Cymbal &amp; Claps Set">
      <Note Number="33"  Name="3=Reverse Closed Hi-Hat1"/>
      <Note Number="34"  Name="4=Reverse Closed Hi-Hat2"/>
      <Note Number="35"  Name="5=Jungle Hi-Hat"/>
@@ -13012,7 +13012,7 @@
      <Note Number="95"  Name="5=Hand Clap2"/>
      <Note Number="96"  Name="6=TR-707 Hand Clap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro SFX Set">
      <Note Number="22"  Name="2=MC-500 Beep2"/>
      <Note Number="23"  Name="3=Guitar Slide"/>
      <Note Number="24"  Name="4=Guitar Wah"/>
@@ -13089,7 +13089,7 @@
      <Note Number="95"  Name="5=Big Shot"/>
      <Note Number="96"  Name="6=Percussion Bang"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Rhythm FX Set">
      <Note Number="37"  Name="7=Reverse Concert Bass Drum"/>
      <Note Number="38"  Name="8=Reverse Power Kick1"/>
      <Note Number="39"  Name="9=Reverse Electric Kick1"/>
@@ -13143,7 +13143,7 @@
      <Note Number="87"  Name="7=Space Bird"/>
      <Note Number="88"  Name="8=Flying Monster"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Pro Rhythm FX Set 2">
      <Note Number="37"  Name="7=Reverse TR-909 Kick1"/>
      <Note Number="38"  Name="8=Reverse Hip-Hop Kick1"/>
      <Note Number="39"  Name="9=Reverse Jungle Kick2"/>
@@ -13200,7 +13200,7 @@
      <Note Number="90"  Name="0=Calculating..."/>
      <Note Number="91"  Name="1=Saw LFO"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 STANDARD 1 Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -13323,7 +13323,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 STANDARD 2 Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -13442,7 +13442,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 STANDARD L/R Set">
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
      <Note Number="22"  Name="2=MC-500 Beep 1"/>
@@ -13537,9 +13537,9 @@
      <Note Number="117"  Name="7=[R] Standard High Tom"/>
      <Note Number="118"  Name="8=[R] Standard Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ROOM Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 HIP HOP Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -13668,7 +13668,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 JUNGLE Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -13797,7 +13797,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TECHNO Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -13926,11 +13926,11 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ROOM L/R Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 HOUSE Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 POWER Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -14049,7 +14049,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ELECTRONIC Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -14168,7 +14168,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TR-808 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -14287,7 +14287,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 DANCE Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -14416,7 +14416,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 CR-78 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -14535,7 +14535,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TR-606 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -14654,7 +14654,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TR-707 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -14773,7 +14773,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 TR-909 Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -14892,7 +14892,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 JAZZ Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -15012,7 +15012,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare 2"/>
      <Note Number="127"  Name="7=[88] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 JAZZ L/R Set">
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
      <Note Number="22"  Name="2=MC-500 Beep 1"/>
@@ -15107,7 +15107,7 @@
      <Note Number="117"  Name="7=[R] Jazz High Tom"/>
      <Note Number="118"  Name="8=[R] Jazz Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 BRUSH Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -15223,41 +15223,41 @@
      <Note Number="126"  Name="6=[88] Electric Snare 2"/>
      <Note Number="127"  Name="7=[88] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 BRUSH 2 Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 BRUSH 2 L/R Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ORCHESTRA Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ETHNIC Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 KICK &amp; SNARE Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 KICK &amp; SNARE 2 Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 ASIA Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 CYMBAL&amp;CLAPS Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 GAMELAN 1 Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 GAMELAN 2 Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 SFX Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 RHYTHM FX Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 RHYTHM FX 2 Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 RHYTHM FX 3 Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="R0oland SC-8820 SFX 2 Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 VOICE Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-8820 CYM&amp;CLAPS 2 Set">
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 BRUSH 2 L/R Set">
      <Note Number="17"  Name="7=[Pro] Voice One"/>
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
@@ -15353,7 +15353,7 @@
      <Note Number="117"  Name="7=[R] Brush High Tom"/>
      <Note Number="118"  Name="8=[R] Brush Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 BRUSH 2 Set">
      <Note Number="0"  Name="0=[88] Standard 1 Kick 1"/>
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
@@ -15474,7 +15474,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare 2"/>
      <Note Number="127"  Name="7=[88] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 BRUSH Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -15590,7 +15590,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare 2"/>
      <Note Number="127"  Name="7=[88] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 CR-78 Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
@@ -15710,7 +15710,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 CYM&amp;CLAPS 2 Set">
      <Note Number="33"  Name="3=Reverse Room Closed Hi-Hat"/>
      <Note Number="34"  Name="4=Reverse Jazz Closed Hi-Hat"/>
      <Note Number="35"  Name="5=Reverse Brush Closed Hi-Hat"/>
@@ -15776,7 +15776,7 @@
      <Note Number="95"  Name="5=[Pro] Hand Clap 2"/>
      <Note Number="96"  Name="6=[Pro] TR-707 Hand Clap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 CYMBAL&amp;CLAPS Set">
      <Note Number="33"  Name="3=Reverse Closed Hi-Hat 1"/>
      <Note Number="34"  Name="4=Reverse Closed Hi-Hat 2"/>
      <Note Number="35"  Name="5=Jungle Hi-Hat"/>
@@ -15842,7 +15842,7 @@
      <Note Number="95"  Name="5=Hand Clap 2"/>
      <Note Number="96"  Name="6=TR-707 Hand Clap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 DANCE Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
@@ -15972,7 +15972,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 ELECTRONIC Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
@@ -16092,7 +16092,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 ETHNIC Set">
      <Note Number="26"  Name="6=Tambourine"/>
      <Note Number="27"  Name="7=Castanets"/>
      <Note Number="28"  Name="8=Crash Cymbal 1"/>
@@ -16168,7 +16168,7 @@
      <Note Number="98"  Name="8=High Wood Block"/>
      <Note Number="99"  Name="9=Low Wood Block"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 GAMELAN 1 Set">
      <Note Number="37"  Name="7=Kendang Lanang"/>
      <Note Number="38"  Name="8=Bebarongan"/>
      <Note Number="39"  Name="9=Pelegongan"/>
@@ -16222,7 +16222,7 @@
      <Note Number="87"  Name="7=Reyong"/>
      <Note Number="88"  Name="8=Reyong"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 GAMELAN 2 Set">
      <Note Number="36"  Name="6=Kendang Wadon"/>
      <Note Number="37"  Name="7=Kendang Lanang"/>
      <Note Number="38"  Name="8=Bebarongan"/>
@@ -16277,7 +16277,7 @@
      <Note Number="87"  Name="7=Reyong"/>
      <Note Number="88"  Name="8=Reyong"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 HIP HOP Set">
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
      <Note Number="3"  Name="3=[Pro] CR-78 Kick 2"/>
@@ -16406,7 +16406,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 HOUSE Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
@@ -16536,7 +16536,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 JAZZ L/R Set">
      <Note Number="17"  Name="7=[Pro] Voice One"/>
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
@@ -16632,7 +16632,7 @@
      <Note Number="117"  Name="7=[R] Jazz High Tom"/>
      <Note Number="118"  Name="8=[R] Jazz Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 JAZZ Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -16752,7 +16752,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare 2"/>
      <Note Number="127"  Name="7=[88] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 JUNGLE Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
@@ -16882,7 +16882,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 KICK &amp; SNARE 2 Set">
      <Note Number="26"  Name="6=[Pro] CR-78 Kick 2"/>
      <Note Number="27"  Name="7=[Pro] TR-606 Kick"/>
      <Note Number="28"  Name="8=[Pro] TR-707 Kick"/>
@@ -16970,7 +16970,7 @@
      <Note Number="110"  Name="0=[Pro] TR-909 Snare 1"/>
      <Note Number="111"  Name="1=[Pro] TR-909 Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 KICK &amp; SNARE Set">
      <Note Number="26"  Name="6=CR-78 Kick 2"/>
      <Note Number="27"  Name="7=TR-606 Kick"/>
      <Note Number="28"  Name="8=TR-707 Kick"/>
@@ -17058,7 +17058,7 @@
      <Note Number="110"  Name="0=TR-909 Snare 1"/>
      <Note Number="111"  Name="1=TR-909 Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 ORCHESTRA Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -17163,7 +17163,7 @@
      <Note Number="112"  Name="2=[55] Timpani e"/>
      <Note Number="113"  Name="3=[55] Timpani f"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 POWER Set">
      <Note Number="0"  Name="0=[88] Standard 1 Kick 1"/>
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
@@ -17283,7 +17283,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 RHYTHM FX 2 Set">
      <Note Number="37"  Name="7=Reverse TR-909 Kick 1"/>
      <Note Number="38"  Name="8=Reverse Hip-Hop Kick 1"/>
      <Note Number="39"  Name="9=Reverse Jungle Kick 2"/>
@@ -17340,7 +17340,7 @@
      <Note Number="90"  Name="0=Calculating..."/>
      <Note Number="91"  Name="1=Saw LFO"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 RHYTHM FX 3 Set">
      <Note Number="18"  Name="8=Reverse Bass Touch Noise"/>
      <Note Number="19"  Name="9=Reverse Bass Attack Noise"/>
      <Note Number="20"  Name="0=Reverse Clean Guitar Cut Noise Up"/>
@@ -17444,7 +17444,7 @@
      <Note Number="118"  Name="8=Reverse Keyboard Typing 5"/>
      <Note Number="119"  Name="9=Reverse Keyboard Typing 6"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 RHYTHM FX Set">
      <Note Number="37"  Name="7=Reverse Concert Bass Drum"/>
      <Note Number="38"  Name="8=Reverse Power Kick1"/>
      <Note Number="39"  Name="9=Reverse Electric Kick 1"/>
@@ -17498,7 +17498,7 @@
      <Note Number="87"  Name="7=Space Birds"/>
      <Note Number="88"  Name="8=Flying Monster"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 ROOM L/R Set">
      <Note Number="17"  Name="7=[Pro] Voice One"/>
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
@@ -17594,7 +17594,7 @@
      <Note Number="117"  Name="7=[R] Room High Tom"/>
      <Note Number="118"  Name="8=[R] Room Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 ROOM Set">
      <Note Number="0"  Name="0=[88] Standard 1 Kick 1"/>
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
@@ -17718,7 +17718,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 SFX 2 Set">
      <Note Number="32"  Name="2=Acoustic Bass Touch Noise"/>
      <Note Number="33"  Name="3=Acoustic Bass Attack Noise"/>
      <Note Number="34"  Name="4=Distortion Guitar Mute Noise"/>
@@ -17779,7 +17779,7 @@
      <Note Number="89"  Name="9=Dist Knock"/>
      <Note Number="90"  Name="0=Bound"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 SFX Set">
      <Note Number="22"  Name="2=MC-500 Beep 2"/>
      <Note Number="23"  Name="3=Guitar Slide"/>
      <Note Number="24"  Name="4=Guitar Wah"/>
@@ -17856,7 +17856,7 @@
      <Note Number="95"  Name="5=Big Shot"/>
      <Note Number="96"  Name="6=Percussion Bang"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 STANDARD 1 Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -17979,7 +17979,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 STANDARD 2 Set">
      <Note Number="1"  Name="1=[88] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[88] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[88] Standard 2 Kick 2"/>
@@ -18098,7 +18098,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=[Pro] House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 STANDARD L/R Set">
      <Note Number="18"  Name="8=[Pro] Voice Two"/>
      <Note Number="19"  Name="9=[Pro] Voice Three"/>
      <Note Number="22"  Name="2=MC-500 Beep 1"/>
@@ -18193,7 +18193,7 @@
      <Note Number="117"  Name="7=[R] Standard High Tom"/>
      <Note Number="118"  Name="8=[R] Standard Open Hi-Hat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 TECHNO Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=[Pro] CR-78 Kick 1"/>
@@ -18323,7 +18323,7 @@
      <Note Number="126"  Name="6=[Pro] Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 TR-606 Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
@@ -18443,7 +18443,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 TR-707 Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
@@ -18563,7 +18563,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 TR-808 Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
@@ -18683,7 +18683,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 TR-909 Set">
      <Note Number="0"  Name="0=[88] Electric Kick 2"/>
      <Note Number="1"  Name="1=[88] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
@@ -18803,7 +18803,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-D70 VOICE Set">
      <Note Number="37"  Name="7=Reverse Breath Short"/>
      <Note Number="38"  Name="8=Reverse Breath Strong"/>
      <Note Number="39"  Name="9=Reverse Woman's Breath"/>

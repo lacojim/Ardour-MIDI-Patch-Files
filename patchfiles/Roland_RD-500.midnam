@@ -181,7 +181,23 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland RD-500">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1 (sustain)"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft Pedal"/>
+      <Control Type="7bit"  Number="91"  Name="91-Reverb Depth"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus Depth"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset Controllers"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland RD-500 Rhythm Set">
      <Note Number="37"  Name="7=Cross Stick"/>
      <Note Number="38"  Name="8=Snare Drum 1"/>
      <Note Number="39"  Name="9=Hand Clap"/>

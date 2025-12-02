@@ -1794,8 +1794,139 @@
           <Patch Number="31"  Name="PR-B:32 All FX"  ProgramChange="31"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Roland XP-30 Rhythm USER">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10240"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="USER:001 HouseDrumSet1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="USER:002 JazzDrumSet1"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-30 Rhythm PR-A">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10368"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-A:001 PopDrumSet1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-A:002 PopDrumSet2"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-30 Rhythm PR-B">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10369"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-B:001 PowerDrumSet"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-B:002 RaveDrumSet"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-30 Rhythm PR-C">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10370"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-C:001 JazzDrumSet2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-C:002 OrchDrumSet"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-30 Rhythm GM">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10371"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="GM:001 GM Drum Set"  ProgramChange="0"/>
+          <Patch Number="1"  Name="GM:002 BrushDrumSet"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-30 Rhythm PR-E">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10372"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-E:001 PowerDrmSet2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-E:002 PowerRaveSet"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-30 Session Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10752"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Sess:SessionSet 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Sess:SessionSet 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Sess:SessionSet 3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Sess:SessionSet 4"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Sess:SessionSet 5"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Sess:SessionSet 6"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Sess:SessionSet 7"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Sess:SessionSet 8"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Sess:Demo Drum"  ProgramChange="8"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-30 Techno Rhythm 001-008">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10756"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Tkno:01 TR-909 SET"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Tkno:02 TR-808 SET"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Tkno:03 TR-606 SET"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Tkno:04 Techno SET"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Tkno:05 House SET"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Tkno:06 Jungle SET"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Tkno:07 Gabba SET"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Tkno:08 Indust. SET"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland XP-30 Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="2-Breath"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="8"  Name="8-Balance"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft pedal"/>
+      <Control Type="7bit"  Number="69"  Name="69-Hold 2"/>
+      <Control Type="7bit"  Number="71"  Name="71-Resonance"/>
+      <Control Type="7bit"  Number="72"  Name="72-Decay Time"/>
+      <Control Type="7bit"  Number="73"  Name="73-Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="74-Cutoff"/>
+      <Control Type="7bit"  Number="80"  Name="80-Tone 1 Level"/>
+      <Control Type="7bit"  Number="81"  Name="81-Tone 2 Level"/>
+      <Control Type="7bit"  Number="82"  Name="82-Tone 3 Level"/>
+      <Control Type="7bit"  Number="83"  Name="83-Tone 4 Level"/>
+      <Control Type="7bit"  Number="84"  Name="84-Portamento control"/>
+      <Control Type="7bit"  Number="91"  Name="91-Reverb"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound OFF"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes OFF"/>
+      <Control Type="7bit"  Number="124"  Name="124-Omni Off"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono On"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly On"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland XP-30 BrushDrumSet">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Brush Swish"/>
@@ -1860,7 +1991,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 GM Drum Set">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -1925,7 +2056,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 HouseDrumSet1">
      <Note Number="36"  Name="6=808 SN"/>
      <Note Number="37"  Name="7=Dry Stick"/>
      <Note Number="38"  Name="8=808 SN"/>
@@ -1990,7 +2121,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 JazzDrumSet1">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -2055,7 +2186,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 JazzDrumSet2">
      <Note Number="36"  Name="6=Old Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -2120,7 +2251,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 OrchDrumSet">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -2185,7 +2316,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 PopDrumSet1">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Natural SN2"/>
@@ -2250,7 +2381,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 PopDrumSet2">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Dry Stick"/>
      <Note Number="38"  Name="8=Piccolo SN"/>
@@ -2315,7 +2446,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 PowerDrumSet">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Dry Stick"/>
      <Note Number="38"  Name="8=Piccolo SN"/>
@@ -2380,7 +2511,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 PowerDrmSet2">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Dry Stick"/>
      <Note Number="38"  Name="8=Piccolo SN"/>
@@ -2445,7 +2576,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 PowerRaveSet">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Dry Stick"/>
      <Note Number="38"  Name="8=Piccolo SN"/>
@@ -2510,7 +2641,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 RaveDrumSet">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=808 SN"/>
@@ -2575,7 +2706,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 SessionSet 1">
      <Note Number="36"  Name="6=Mix Kick"/>
      <Note Number="37"  Name="7=Side Kick"/>
      <Note Number="38"  Name="8=Solo Snr"/>
@@ -2640,7 +2771,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Gtr Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 SessionSet 2">
      <Note Number="36"  Name="6=Deep Kick 3"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Loose Snr"/>
@@ -2705,7 +2836,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=REV Snr Buzz"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 SessionSet 3">
      <Note Number="36"  Name="6=TD7 Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Rap Snr"/>
@@ -2770,7 +2901,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=REV 909 Rim2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 SessionSet 4">
      <Note Number="36"  Name="6=Dance Kick 3"/>
      <Note Number="37"  Name="7=909 Rim 2"/>
      <Note Number="38"  Name="8=909 Snr 2"/>
@@ -2835,7 +2966,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Tamb.Long"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 SessionSet 5">
      <Note Number="36"  Name="6=Dance Kick 3"/>
      <Note Number="37"  Name="7=909 Rim 2"/>
      <Note Number="38"  Name="8=909 Snr 3"/>
@@ -2900,7 +3031,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=REV 707 Clps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 SessionSet 6">
      <Note Number="36"  Name="6=Dance Kick 2"/>
      <Note Number="37"  Name="7=Mute Snr"/>
      <Note Number="38"  Name="8=Jingle Snr"/>
@@ -2966,7 +3097,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=FingerSnap 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 SessionSet 7">
      <Note Number="36"  Name="6=Mix Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Solo Snr"/>
@@ -3032,7 +3163,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=REV 909 Clp2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Demo Drum">
      <Note Number="36"  Name="6=Hybrid Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Loose Snr"/>
@@ -3098,7 +3229,7 @@
      <Note Number="97"  Name="7=Piccolo SN"/>
      <Note Number="98"  Name="8=Dry Tom Lo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 TR-909 SET">
      <Note Number="36"  Name="6=TR909 Kick 1"/>
      <Note Number="37"  Name="7=TR909 Rim"/>
      <Note Number="38"  Name="8=TR909 Snr 5"/>
@@ -3163,7 +3294,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 TR-808 SET">
      <Note Number="36"  Name="6=TR808 Lick 1"/>
      <Note Number="37"  Name="7=TR808 Rim"/>
      <Note Number="38"  Name="8=TR808 Snr 1"/>
@@ -3228,7 +3359,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 TR-606 SET">
      <Note Number="36"  Name="6=TR606 Kick 1"/>
      <Note Number="37"  Name="7=TR808 Rim"/>
      <Note Number="38"  Name="8=TR606 Snr 2"/>
@@ -3293,7 +3424,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Techno SET">
      <Note Number="36"  Name="6=TR909 Kick 1"/>
      <Note Number="37"  Name="7=TR909 Rim"/>
      <Note Number="38"  Name="8=TR909 Snr 5"/>
@@ -3358,7 +3489,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 House SET">
      <Note Number="36"  Name="6=Tekno Kick"/>
      <Note Number="37"  Name="7=TR909 Rim"/>
      <Note Number="38"  Name="8=DJ Snare"/>
@@ -3423,7 +3554,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Jungle SET">
      <Note Number="36"  Name="6=JungleKick 2"/>
      <Note Number="37"  Name="7=Lo-Fi Snare"/>
      <Note Number="38"  Name="8=Urban Snare"/>
@@ -3488,7 +3619,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Gabba SET">
      <Note Number="36"  Name="6=TR909 Dst BD"/>
      <Note Number="37"  Name="7=TR808 RimLng"/>
      <Note Number="38"  Name="8=SNR MENU 1"/>
@@ -3553,7 +3684,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Indust. SET">
      <Note Number="36"  Name="6=INDUST. MENU"/>
      <Note Number="37"  Name="7=Thrill"/>
      <Note Number="38"  Name="8=PCM Press"/>
@@ -3618,7 +3749,7 @@
      <Note Number="97"  Name="7=MC500 Beep 1"/>
      <Note Number="98"  Name="8=MC500 Beep 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Orch:249 Rhythm Set">
      <Note Number="37"  Name="7=Slapstick"/>
      <Note Number="38"  Name="8=Concert SNR1"/>
      <Note Number="39"  Name="9=Castanets 1"/>
@@ -3641,7 +3772,7 @@
      <Note Number="56"  Name="6=Perc Hit 2"/>
      <Note Number="57"  Name="7=Gong"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:027 Phrase Menu">
      <Note Number="61"  Name="1=120:House 2"/>
      <Note Number="62"  Name="2=120:House 3"/>
      <Note Number="63"  Name="3=120:TeknoBNG"/>
@@ -3655,7 +3786,7 @@
      <Note Number="71"  Name="1=120:Electro1"/>
      <Note Number="72"  Name="2=138:Electro2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:077 Vocoder Menu">
      <Note Number="61"  Name="1=VP ii"/>
      <Note Number="62"  Name="2=VP ai"/>
      <Note Number="63"  Name="3=VP ou"/>
@@ -3672,7 +3803,7 @@
      <Note Number="74"  Name="4=VP rhythm"/>
      <Note Number="75"  Name="5=VP machine"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:222 Hits&amp;IndsMenu">
      <Note Number="49"  Name="9=Noise Click"/>
      <Note Number="50"  Name="0=Electr Prc"/>
      <Note Number="51"  Name="1=Analog Bird"/>
@@ -3711,10 +3842,10 @@
      <Note Number="84"  Name="4=TB reso"/>
      <Note Number="85"  Name="5=Tonality"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:223 GTR FX Menu">
      <Note Number="61"  Name="1=GTR FX 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:226 Snr Menu 1">
      <Note Number="61"  Name="1=TR909 Snr 2"/>
      <Note Number="62"  Name="2=TR909 Snr 3"/>
      <Note Number="63"  Name="3=TR909 Snr 4"/>
@@ -3754,7 +3885,7 @@
      <Note Number="97"  Name="7=TekRk Snare"/>
      <Note Number="98"  Name="8=Indus Snare"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:227 Snr Menu 2">
      <Note Number="61"  Name="1=Jungle Snr 2"/>
      <Note Number="62"  Name="2=Jungle Snr 3"/>
      <Note Number="63"  Name="3=Jungle Snr 6"/>
@@ -3774,7 +3905,7 @@
      <Note Number="77"  Name="7=Electro Snr"/>
      <Note Number="78"  Name="8=Roll Snare"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:228 Kick Menu">
      <Note Number="49"  Name="9=TR909 Kick 2"/>
      <Note Number="50"  Name="0=TR909 Kick 3"/>
      <Note Number="51"  Name="1=Plastic BD 1"/>
@@ -3806,7 +3937,7 @@
      <Note Number="77"  Name="7=TR909 Dst BD"/>
      <Note Number="78"  Name="8=Roll Kick"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:229 Hi Hat Menu">
      <Note Number="49"  Name="9=TR909 CHH 2"/>
      <Note Number="50"  Name="0=TR909 CHH 3"/>
      <Note Number="51"  Name="1=TR808 CHH 1"/>
@@ -3849,7 +3980,7 @@
      <Note Number="88"  Name="8=R8 OHH"/>
      <Note Number="89"  Name="9=Cym OHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:230 Perc Menu">
      <Note Number="49"  Name="9=TR808 Conga3"/>
      <Note Number="50"  Name="0=Hi Bongo L.F"/>
      <Note Number="51"  Name="1=Lo Bongo L.F"/>
@@ -3893,7 +4024,7 @@
      <Note Number="89"  Name="9=Claptail"/>
      <Note Number="90"  Name="0=909 Clp Fuzz"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-30 Tkno:231 Tom&amp;Cym Menu">
      <Note Number="49"  Name="9=TR909 DstTom"/>
      <Note Number="50"  Name="0=TR808 Tom"/>
      <Note Number="51"  Name="1=TR606 Tom"/>

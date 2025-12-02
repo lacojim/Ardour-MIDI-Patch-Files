@@ -316,6 +316,54 @@
           <Patch Number="127"  Name="128:Sci-Fi FX x4"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="JV-2080 PR-E Drums 001-002">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PowerDrmSet2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PowerRaveSet"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="JV/XP Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="2-Breath"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="8"  Name="8-Balance"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft pedal"/>
+      <Control Type="7bit"  Number="69"  Name="69-Hold 2"/>
+      <Control Type="7bit"  Number="71"  Name="71-Sound controller 2"/>
+      <Control Type="7bit"  Number="72"  Name="72-Sound controller 3"/>
+      <Control Type="7bit"  Number="73"  Name="73-Sound controller 4"/>
+      <Control Type="7bit"  Number="74"  Name="74-Sound controller 5"/>
+      <Control Type="7bit"  Number="80"  Name="80-General Purpose Controller 5"/>
+      <Control Type="7bit"  Number="81"  Name="81-General Purpose Controller 6"/>
+      <Control Type="7bit"  Number="82"  Name="82-General Purpose Controller 7"/>
+      <Control Type="7bit"  Number="83"  Name="83-General Purpose Controller 8"/>
+      <Control Type="7bit"  Number="84"  Name="84-Portamento control"/>
+      <Control Type="7bit"  Number="91"  Name="91-Reverb"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound OFF"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes OFF"/>
+      <Control Type="7bit"  Number="124"  Name="124-Omni Off"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono On"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly On"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

@@ -86,7 +86,7 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Ambient(Layer)(7)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -142,7 +142,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 BigGym(Layer)(8)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -198,7 +198,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Brush 1(6)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -254,7 +254,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Brush 2(25)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -310,7 +310,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Cheap(9)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -366,7 +366,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Chorus(29)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -422,7 +422,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Dance 1(12)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 3"/>
      <Note Number="30"  Name="0=scratch 4"/>
@@ -478,7 +478,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Dance 2(13)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -534,7 +534,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Dance 3(14)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -590,7 +590,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Delay(30)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -646,7 +646,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Electronic(3)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -702,7 +702,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 FX(22)">
      <Note Number="28"  Name="8=reverse ambience"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -758,7 +758,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Hyper(Layer)(11)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -814,7 +814,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Jazz 1(5)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -870,7 +870,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Jazz 2(24)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -926,7 +926,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Light(21)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -982,7 +982,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Perc 1(17)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1038,7 +1038,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Perc 2(18)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1094,7 +1094,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Perc 3(19)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=CR-78 tambourine"/>
      <Note Number="30"  Name="0=TR-808 cowbell"/>
@@ -1150,7 +1150,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Pop(Layer)(10)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1206,7 +1206,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Power 1(2)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1262,7 +1262,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Power 2(15)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1318,7 +1318,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Power 3(16)">
      <Note Number="28"  Name="8=hi-Q"/>
      <Note Number="29"  Name="9=bongo high"/>
      <Note Number="30"  Name="0=bongo low"/>
@@ -1374,7 +1374,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Reggae(20)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1430,7 +1430,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Room(1)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1486,7 +1486,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 SlapBs(26)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1542,7 +1542,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Standard(0)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1598,7 +1598,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Syn Bs(27)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1654,7 +1654,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 TR808(4)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1710,7 +1710,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 TR909(23)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1766,7 +1766,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 Vrb &amp; Dly(31)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>
@@ -1822,7 +1822,7 @@
      <Note Number="80"  Name="0=triangle"/>
      <Note Number="81"  Name="1=triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="BOSS DR-660 X fade(28)">
      <Note Number="28"  Name="8=dance clap"/>
      <Note Number="29"  Name="9=scratch 1"/>
      <Note Number="30"  Name="0=scratch 2"/>

@@ -50,16 +50,16 @@
           <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number="0 "  Name="1 Piano"  ProgramChange="0 "/>
-          <Patch Number="1 "  Name="2 Piano"  ProgramChange="1 "/>
-          <Patch Number="2 "  Name="3 Piano"  ProgramChange="2 "/>
-          <Patch Number="3 "  Name="HarpsiChord"  ProgramChange="3 "/>
-          <Patch Number="4 "  Name="Clavi"  ProgramChange="4 "/>
-          <Patch Number="5 "  Name="VibraPhone"  ProgramChange="5 "/>
-          <Patch Number="6 "  Name="1 E Piano"  ProgramChange="6 "/>
-          <Patch Number="7 "  Name="2 E Piano"  ProgramChange="7 "/>
-          <Patch Number="8 "  Name="1 Piano  /chorus"  ProgramChange="8 "/>
-          <Patch Number="9 "  Name="2 Piano  /chorus"  ProgramChange="9 "/>
+          <Patch Number="0"  Name="1 Piano"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2 Piano"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3 Piano"  ProgramChange="2"/>
+          <Patch Number="3"  Name="HarpsiChord"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Clavi"  ProgramChange="4"/>
+          <Patch Number="5"  Name="VibraPhone"  ProgramChange="5"/>
+          <Patch Number="6"  Name="1 E Piano"  ProgramChange="6"/>
+          <Patch Number="7"  Name="2 E Piano"  ProgramChange="7"/>
+          <Patch Number="8"  Name="1 Piano  /chorus"  ProgramChange="8"/>
+          <Patch Number="9"  Name="2 Piano  /chorus"  ProgramChange="9"/>
           <Patch Number="10"  Name="3 Piano  /chorus"  ProgramChange="10"/>
           <Patch Number="11"  Name="HarpsiChord  /chorus"  ProgramChange="11"/>
           <Patch Number="12"  Name="Clavi  /chorus"  ProgramChange="12"/>

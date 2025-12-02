@@ -66,7 +66,27 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Standard">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="2-Breath"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento time"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="8"  Name="8-Balance"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="64"  Name="64-Pedal (sustain)"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Pedal (sostenuto)"/>
+      <Control Type="7bit"  Number="67"  Name="67-Pedal (soft)"/>
+      <Control Type="7bit"  Number="69"  Name="69-Hold 2"/>
+      <Control Type="7bit"  Number="91"  Name="91-External Effects depth"/>
+      <Control Type="7bit"  Number="92"  Name="92-Tremelo depth"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus depth"/>
+      <Control Type="7bit"  Number="94"  Name="94-Celeste (detune) depth"/>
+      <Control Type="7bit"  Number="95"  Name="95-Phaser depth"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland R70 User Set 1">
      <Note Number="1"  Name="1=RevrbK"/>
      <Note Number="2"  Name="2=BriteK"/>
      <Note Number="3"  Name="3=PillwK"/>
@@ -195,7 +215,7 @@
      <Note Number="126"  Name="6=BrRlS2"/>
      <Note Number="127"  Name="7=808Stk"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 User Set 2">
      <Note Number="2"  Name="2=BriteK"/>
      <Note Number="3"  Name="3=PillwK"/>
      <Note Number="4"  Name="4=Dry K"/>
@@ -323,7 +343,7 @@
      <Note Number="126"  Name="6=BrRlS2"/>
      <Note Number="127"  Name="7=808Stk"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 User Set 3">
      <Note Number="1"  Name="1=Room K"/>
      <Note Number="2"  Name="2=PillwK"/>
      <Note Number="3"  Name="3=Ez   K"/>
@@ -413,7 +433,7 @@
      <Note Number="92"  Name="2=PndOpn"/>
      <Note Number="93"  Name="3=Tambrm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 User Set 4">
      <Note Number="1"  Name="1=Room K"/>
      <Note Number="2"  Name="2=Gate K"/>
      <Note Number="3"  Name="3=SmashK"/>
@@ -503,7 +523,7 @@
      <Note Number="92"  Name="2=PndOpn"/>
      <Note Number="93"  Name="3=Tambrm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 Standard Set">
      <Note Number="1"  Name="1=Room K"/>
      <Note Number="2"  Name="2=PillwK"/>
      <Note Number="3"  Name="3=Ez   K"/>
@@ -593,7 +613,7 @@
      <Note Number="92"  Name="2=PndOpn"/>
      <Note Number="93"  Name="3=Tambrm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 Room Set">
      <Note Number="1"  Name="1=Room K"/>
      <Note Number="2"  Name="2=Gate K"/>
      <Note Number="3"  Name="3=SmashK"/>
@@ -683,7 +703,7 @@
      <Note Number="92"  Name="2=PndOpn"/>
      <Note Number="93"  Name="3=Tambrm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 Power Set">
      <Note Number="1"  Name="1=SolidK"/>
      <Note Number="2"  Name="2=RevrbK"/>
      <Note Number="3"  Name="3=Gate K"/>
@@ -773,7 +793,7 @@
      <Note Number="92"  Name="2=PndOpn"/>
      <Note Number="93"  Name="3=Tambrm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 Electronic Set">
      <Note Number="1"  Name="1=BriteK"/>
      <Note Number="2"  Name="2=Room K"/>
      <Note Number="3"  Name="3=Gate K"/>
@@ -863,7 +883,7 @@
      <Note Number="92"  Name="2=PndOpn"/>
      <Note Number="93"  Name="3=Tambrm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 TR-808 Set">
      <Note Number="1"  Name="1=CmBrtK"/>
      <Note Number="2"  Name="2=BoSldK"/>
      <Note Number="3"  Name="3=808GtK"/>
@@ -953,7 +973,7 @@
      <Note Number="92"  Name="2=PndOpn"/>
      <Note Number="93"  Name="3=Tambrm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 Jazz Set">
      <Note Number="1"  Name="1=Dry  K"/>
      <Note Number="2"  Name="2=Ez   K"/>
      <Note Number="3"  Name="3=ComrcK"/>
@@ -1043,7 +1063,7 @@
      <Note Number="92"  Name="2=PndOpn"/>
      <Note Number="93"  Name="3=Tambrm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 Brush Set">
      <Note Number="1"  Name="1=Dry  K"/>
      <Note Number="2"  Name="2=Ez   K"/>
      <Note Number="3"  Name="3=ComrcK"/>
@@ -1133,7 +1153,7 @@
      <Note Number="92"  Name="2=PndOpn"/>
      <Note Number="93"  Name="3=Tambrm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 All Set 1">
      <Note Number="1"  Name="1=RevrbK"/>
      <Note Number="2"  Name="2=BriteK"/>
      <Note Number="3"  Name="3=PillwK"/>
@@ -1262,7 +1282,7 @@
      <Note Number="126"  Name="6=BrRlS2"/>
      <Note Number="127"  Name="7=808Stk"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland R70 All Set 2">
      <Note Number="1"  Name="1=Dry T2"/>
      <Note Number="2"  Name="2=Dry T3"/>
      <Note Number="3"  Name="3=Dry T4"/>

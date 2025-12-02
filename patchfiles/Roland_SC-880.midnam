@@ -2688,7 +2688,37 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland SC-880 Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft"/>
+      <Control Type="7bit"  Number="84"  Name="84-Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="91-Effect1 (Reverb Send Level)"/>
+      <Control Type="7bit"  Number="93"  Name="93-Effect3 (Chorus Send Level)"/>
+      <Control Type="7bit"  Number="94"  Name="94-Effect4 (Delay Send Level)"/>
+      <Control Type="7bit"  Number="98"  Name="98-NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="99-NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound OFF"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes OFF"/>
+      <Control Type="7bit"  Number="124"  Name="124-Omni Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-Omni On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono On"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly On"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland SC-880 User01 Standard 1 Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -2752,7 +2782,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User02 Standard Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -2816,7 +2846,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User03 Standard 1 Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -2880,7 +2910,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User04 Standard 2 Set">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -2999,7 +3029,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User05 Standard 3 Set">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -3118,7 +3148,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User06 Room Set">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -3237,7 +3267,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User07 Hip Hop Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -3356,7 +3386,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User08 Jungle Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -3475,7 +3505,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User09 Techno Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -3594,7 +3624,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User10 Power Set">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -3713,7 +3743,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User11 Electronic Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -3832,7 +3862,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User12 TR-808 Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -3951,7 +3981,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User13 Dance Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -4070,7 +4100,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User14 CR-78 Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -4189,7 +4219,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User15 TR-606 Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -4308,7 +4338,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 User16 TR-707 Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -4427,7 +4457,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 Brush Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -4491,7 +4521,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 Electronic Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -4553,7 +4583,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 Jazz Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -4615,7 +4645,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 Orchestra Set">
      <Note Number="27"  Name="7=Closed Hi-Hat"/>
      <Note Number="28"  Name="8=Pedal Hi-Hat"/>
      <Note Number="29"  Name="9=Open Hi-Hat"/>
@@ -4679,7 +4709,7 @@
      <Note Number="87"  Name="7=Open Surdo"/>
      <Note Number="88"  Name="8=Applause"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 Power Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -4741,7 +4771,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 Room Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -4803,7 +4833,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 SFX Set">
      <Note Number="40"  Name="0=Slap"/>
      <Note Number="41"  Name="1=Scratch Push"/>
      <Note Number="42"  Name="2=Scratch Pull"/>
@@ -4850,7 +4880,7 @@
      <Note Number="83"  Name="3=Stream"/>
      <Note Number="84"  Name="4=Bubble"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 Standard Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -4912,7 +4942,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 TR-808 Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -4974,7 +5004,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-55 CM-64/32L Set">
      <Note Number="36"  Name="6=Acoustic Bass Drum"/>
      <Note Number="37"  Name="7=Rim Shot"/>
      <Note Number="38"  Name="8=Acoustic Snare Drum"/>
@@ -5042,7 +5072,7 @@
      <Note Number="107"  Name="7=Stream"/>
      <Note Number="108"  Name="8=Bubble"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Standard Set 1">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -5106,7 +5136,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Standard Set 2">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -5170,7 +5200,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Room Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -5234,7 +5264,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Power Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -5298,7 +5328,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Electronic Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -5362,7 +5392,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 TR-808/909 Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -5426,7 +5456,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Dance Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -5490,7 +5520,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Jazz Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -5554,7 +5584,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Brush Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=High Q"/>
      <Note Number="28"  Name="8=Slap"/>
@@ -5617,7 +5647,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Orchestra Set">
      <Note Number="26"  Name="6=Finger Snap"/>
      <Note Number="27"  Name="7=Closed Hi Hat2"/>
      <Note Number="28"  Name="8=Pedal Hi Hat"/>
@@ -5682,7 +5712,7 @@
      <Note Number="87"  Name="7=Open Surdo"/>
      <Note Number="88"  Name="8=Applause"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Ethnic Set">
      <Note Number="26"  Name="6=Tambourine"/>
      <Note Number="27"  Name="7=Castanets"/>
      <Note Number="28"  Name="8=Crash Cymbal1"/>
@@ -5758,7 +5788,7 @@
      <Note Number="98"  Name="8=High Wood Block"/>
      <Note Number="99"  Name="9=Low Wood Block"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Kick &amp; Snare Set">
      <Note Number="41"  Name="1=Standard 1 Kick 2"/>
      <Note Number="42"  Name="2=Standard 2 Kick 1"/>
      <Note Number="43"  Name="3=Standard 2 Kick 2"/>
@@ -5811,7 +5841,7 @@
      <Note Number="90"  Name="0=Brush Swirl2"/>
      <Note Number="91"  Name="1=Brush Long Swirl"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 SFX Set">
      <Note Number="32"  Name="2=Scratch Pull2"/>
      <Note Number="33"  Name="3=Cutting Noise 2 Up"/>
      <Note Number="34"  Name="4=Cutting Noise 2 Down"/>
@@ -5872,7 +5902,7 @@
      <Note Number="89"  Name="9=Telephone1"/>
      <Note Number="90"  Name="0=Telephone2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-88 Rhythm FX Set">
      <Note Number="37"  Name="7=Reverse Concert BD 1"/>
      <Note Number="38"  Name="8=Reverse Power Kick 1"/>
      <Note Number="39"  Name="9=Reverse Electric Kick 1"/>
@@ -5926,7 +5956,7 @@
      <Note Number="87"  Name="7=Space Bird"/>
      <Note Number="88"  Name="8=Flying Monster"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Standard Set 1">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -6045,7 +6075,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Standard Set 2">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -6164,7 +6194,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Standard Set 3">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -6283,7 +6313,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Room Set">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -6402,7 +6432,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Hip Hop Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -6521,7 +6551,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Jungle Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -6640,7 +6670,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Techno Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -6759,7 +6789,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Power Set">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -6878,7 +6908,7 @@
      <Note Number="126"  Name="6=[88] House Snare"/>
      <Note Number="127"  Name="7=House Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Electronic Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -6997,7 +7027,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 TR-808 Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -7116,7 +7146,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Dance Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -7235,7 +7265,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 CR-78 Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -7354,7 +7384,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 TR-606 Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -7473,7 +7503,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 TR-707 Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -7592,7 +7622,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 TR-909 Set">
      <Note Number="1"  Name="1=[88] Electric Kick1"/>
      <Note Number="2"  Name="2=CR-78 Kick1"/>
      <Note Number="3"  Name="3=CR-78 Kick2"/>
@@ -7710,7 +7740,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[88] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Jazz Set">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -7829,7 +7859,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare2"/>
      <Note Number="127"  Name="7=[88] Electric Snare3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Brush Set">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -7949,7 +7979,7 @@
      <Note Number="126"  Name="6=[88] Electric Snare2"/>
      <Note Number="127"  Name="7=[88] Electric Snare3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Orchestra Set">
      <Note Number="1"  Name="1=[88] Standard1 Kick2"/>
      <Note Number="2"  Name="2=[88] Standard2 Kick1"/>
      <Note Number="3"  Name="3=[88] Standard2 Kick2"/>
@@ -8068,7 +8098,7 @@
      <Note Number="126"  Name="6=126"/>
      <Note Number="127"  Name="7=127"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Ethnic Set">
      <Note Number="26"  Name="6=Tambourine"/>
      <Note Number="27"  Name="7=Castanets"/>
      <Note Number="28"  Name="8=Crash Cymbal1"/>
@@ -8144,7 +8174,7 @@
      <Note Number="98"  Name="8=High Wood Block"/>
      <Note Number="99"  Name="9=Low Wood Block"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Kick &amp; Snare Set">
      <Note Number="26"  Name="6=CR-78 Kick2"/>
      <Note Number="27"  Name="7=TR-606 Kick1"/>
      <Note Number="28"  Name="8=TR-707 Kick"/>
@@ -8232,7 +8262,7 @@
      <Note Number="110"  Name="0=TR-909 Snare1"/>
      <Note Number="111"  Name="1=TR-909 Snare2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Asia Set">
      <Note Number="26"  Name="6=Gamelan Gong 2"/>
      <Note Number="27"  Name="7=Gamelan Gong 3"/>
      <Note Number="28"  Name="8=Gamelan Gong 4"/>
@@ -8297,7 +8327,7 @@
      <Note Number="87"  Name="7=Nao Bo"/>
      <Note Number="88"  Name="8=Xiao Bo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Cymbal &amp; Claps Set">
      <Note Number="33"  Name="3=Reverse Closed Hi-Hat1"/>
      <Note Number="34"  Name="4=Reverse Closed Hi-Hat2"/>
      <Note Number="35"  Name="5=Jungle Hi-Hat"/>
@@ -8363,7 +8393,7 @@
      <Note Number="95"  Name="5=Hand Clap2"/>
      <Note Number="96"  Name="6=TR-707 Hand Clap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 SFX Set">
      <Note Number="22"  Name="2=MC-505 Beep2"/>
      <Note Number="23"  Name="3=Guitar Slide"/>
      <Note Number="24"  Name="4=Guitar Wah"/>
@@ -8440,7 +8470,7 @@
      <Note Number="95"  Name="5=Big Shot"/>
      <Note Number="96"  Name="6=Percussion Bang"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Rhythm FX Set">
      <Note Number="37"  Name="7=Reverse Concert Bass Drum"/>
      <Note Number="38"  Name="8=Reverse Power Kick1"/>
      <Note Number="39"  Name="9=Reverse Electric Kick1"/>
@@ -8494,7 +8524,7 @@
      <Note Number="87"  Name="7=Space Bird"/>
      <Note Number="88"  Name="8=Flying Monster"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SC-880 Rhythm FX Set 2">
      <Note Number="37"  Name="7=Reverse TR-909 Kick1"/>
      <Note Number="38"  Name="8=Reverse Hip-Hop Kick1"/>
      <Note Number="39"  Name="9=Reverse Jungle Kick2"/>

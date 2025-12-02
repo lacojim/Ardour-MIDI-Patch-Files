@@ -98,5 +98,18 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Roland RD-100 Controllers">
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1 (sustain)"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft Pedal"/>
+      <Control Type="7bit"  Number="91"  Name="91-Reverb Depth"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus Depth"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset Controllers"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

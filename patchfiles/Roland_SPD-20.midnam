@@ -152,7 +152,17 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland SPD-20 Controllers">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot Control"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="16"  Name="16-General Controller 1"/>
+      <Control Type="7bit"  Number="17"  Name="17-General Controller 2"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland SR-JV80-05 Rhythm:01 JV Rhythm">
      <Note Number="37"  Name="7=Surdo Mute"/>
      <Note Number="38"  Name="8=PandeiroL Lo"/>
      <Note Number="39"  Name="9=PandieroL Rm"/>
@@ -214,17 +224,17 @@
      <Note Number="95"  Name="5=Clapstick"/>
      <Note Number="96"  Name="6=Boomerang"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:006 BerimbauMenu">
      <Note Number="62"  Name="2=Berimbau Up"/>
      <Note Number="64"  Name="4=Berimbau Dn"/>
      <Note Number="65"  Name="5=Berimbau Mut"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:014 AfropercMenu">
      <Note Number="62"  Name="2=AfroDrum Op2"/>
      <Note Number="64"  Name="4=AfroDrum Flm"/>
      <Note Number="65"  Name="5=AfroDrum Rat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:015 Udu Pot Menu">
      <Note Number="62"  Name="2=(Udu Lo Phrase)"/>
      <Note Number="64"  Name="4=(Udu Hi Phrase)"/>
      <Note Number="65"  Name="5=Udu Pot1 Lo"/>
@@ -235,13 +245,13 @@
      <Note Number="74"  Name="4=Udu Pot2 Sht"/>
      <Note Number="76"  Name="6=Udu Pot2 Mut"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:076 AsiaCYM Menu">
      <Note Number="63"  Name="3=Chenchen Opn"/>
      <Note Number="67"  Name="7=Chenchen Cls"/>
      <Note Number="69"  Name="9=BaliCym Opn"/>
      <Note Number="73"  Name="3=BaliCym Cls"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:077 Gong Menu">
      <Note Number="63"  Name="3=Asian Gong 2"/>
      <Note Number="67"  Name="7=Asian Gong 3"/>
      <Note Number="69"  Name="9=Asian Gong 4"/>
@@ -251,7 +261,7 @@
      <Note Number="83"  Name="3=REV Gong 5"/>
      <Note Number="87"  Name="7=REV Gong 7"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:079 China Menu">
      <Note Number="62"  Name="2=Gu Hi"/>
      <Note Number="64"  Name="4=Ban Gu 1"/>
      <Note Number="65"  Name="5=Ban Gu 2"/>
@@ -260,7 +270,7 @@
      <Note Number="71"  Name="1=Asian Gong 6"/>
      <Note Number="72"  Name="2=Asian Gong 7"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:080 Kabuki Menu">
      <Note Number="62"  Name="2=Sime Taiko"/>
      <Note Number="64"  Name="4=Tsuzumi Lo"/>
      <Note Number="65"  Name="5=Tsuzumi Hi"/>
@@ -269,13 +279,13 @@
      <Note Number="71"  Name="1=Atarigane"/>
      <Note Number="72"  Name="2=Yyoo Dude"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:175 Doholla Menu">
      <Note Number="62"  Name="2=Doholla Sak"/>
      <Note Number="64"  Name="4=Doholla Tak"/>
      <Note Number="66"  Name="6=Doholla Roll"/>
      <Note Number="67"  Name="7=Doholla Stop"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:176 Egypt Tablah">
      <Note Number="62"  Name="2=(Tabla Loop 2)"/>
      <Note Number="64"  Name="4=(Tabla Loop 3)"/>
      <Note Number="65"  Name="5=(Tabla Loop 4)"/>
@@ -285,21 +295,21 @@
      <Note Number="72"  Name="2=Tabla Rim"/>
      <Note Number="74"  Name="4=Tabla Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:177 Madal Menu">
      <Note Number="62"  Name="2=Madal Din"/>
      <Note Number="64"  Name="4=Madal Ta"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:178 Dholak Menu">
      <Note Number="62"  Name="2=Dholak Ta"/>
      <Note Number="64"  Name="4=Dholak Tun"/>
      <Note Number="65"  Name="5=Dholak Na"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:204 Rek Menu">
      <Note Number="62"  Name="2=Rek Tek"/>
      <Note Number="64"  Name="4=Rek Open"/>
      <Note Number="65"  Name="5=Rek Trill"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:205 Shaker Menu">
      <Note Number="62"  Name="2=Shaker Ptn (2)"/>
      <Note Number="64"  Name="4=Shaker 1"/>
      <Note Number="65"  Name="5=Shaker 2"/>
@@ -307,12 +317,12 @@
      <Note Number="69"  Name="9=Chekere 1"/>
      <Note Number="71"  Name="1=Chekere 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:206 Caixa Menu">
      <Note Number="62"  Name="2=Caixa Open2"/>
      <Note Number="64"  Name="4=Caixa Roll"/>
      <Note Number="65"  Name="5=Caixa Mute"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:207 Cowbell Menu">
      <Note Number="62"  Name="2=Agogo 2 Hi"/>
      <Note Number="64"  Name="4=Agogo 3 Lo"/>
      <Note Number="65"  Name="5=Agogo 3 Hi"/>
@@ -320,16 +330,16 @@
      <Note Number="69"  Name="9=Cowbell 2"/>
      <Note Number="71"  Name="1=Cowbell 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:208 Bongo Set">
      <Note Number="62"  Name="2=Bongo 1 Hi"/>
      <Note Number="64"  Name="4=Bongo 2 Lo"/>
      <Note Number="65"  Name="5=Bongo 2 Hi"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:210 Samba Menu">
      <Note Number="62"  Name="2=(Samba Loop 2)"/>
      <Note Number="64"  Name="4=(Samba Ptn)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:211 PandeiroMenu">
      <Note Number="62"  Name="2=PandieroL Hi"/>
      <Note Number="64"  Name="4=PandieroL Sp"/>
      <Note Number="65"  Name="5=PandieroL Rm"/>
@@ -337,16 +347,16 @@
      <Note Number="69"  Name="9=PandieroS Sp"/>
      <Note Number="71"  Name="1=PandieroS Rm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:212 Surdo Menu">
      <Note Number="62"  Name="2=Surdo Open H"/>
      <Note Number="64"  Name="4=Surdo Mute"/>
      <Note Number="65"  Name="5=Surdo Rim"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:242 JawHarp Menu">
      <Note Number="62"  Name="2=Jaw Harp Wow"/>
      <Note Number="64"  Name="4=(REV Harp)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SR-JV80-05 Menu:244 Voice Set">
      <Note Number="63"  Name="3=How Tribe"/>
      <Note Number="67"  Name="7=Hey Brazil"/>
      <Note Number="69"  Name="9=Yyoo Dude"/>

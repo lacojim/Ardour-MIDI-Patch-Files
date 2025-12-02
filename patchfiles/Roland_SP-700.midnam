@@ -725,5 +725,54 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Roland SP-700 Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Panpot"/>
+      <Control Type="7bit"  Number="16"  Name="16-EQ1 Lo Gain"/>
+      <Control Type="7bit"  Number="17"  Name="17-EQ2 Lo Gain"/>
+      <Control Type="7bit"  Number="18"  Name="18-EQ3 Lo Gain"/>
+      <Control Type="7bit"  Number="19"  Name="19-EQ4 Lo Gain"/>
+      <Control Type="7bit"  Number="20"  Name="20-EQ5 Lo Gain"/>
+      <Control Type="7bit"  Number="21"  Name="21-EQ6 Lo Gain"/>
+      <Control Type="7bit"  Number="22"  Name="22-EQ7 Lo Gain"/>
+      <Control Type="7bit"  Number="23"  Name="23-EQ8 Lo Gain"/>
+      <Control Type="7bit"  Number="24"  Name="24-EQ1 Hi Gain"/>
+      <Control Type="7bit"  Number="25"  Name="25-EQ2 Hi Gain"/>
+      <Control Type="7bit"  Number="26"  Name="26-EQ3 Hi Gain"/>
+      <Control Type="7bit"  Number="27"  Name="27-EQ4 Hi Gain"/>
+      <Control Type="7bit"  Number="28"  Name="28-EQ5 Hi Gain"/>
+      <Control Type="7bit"  Number="29"  Name="29-EQ6 Hi Gain"/>
+      <Control Type="7bit"  Number="30"  Name="30-EQ7 Hi Gain"/>
+      <Control Type="7bit"  Number="31"  Name="31-EQ8 Hi Gain"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="70"  Name="70-EQ1 Lo Freq"/>
+      <Control Type="7bit"  Number="71"  Name="71-EQ2 Lo Freq"/>
+      <Control Type="7bit"  Number="72"  Name="72-EQ3 Lo Freq"/>
+      <Control Type="7bit"  Number="73"  Name="73-EQ4 Lo Freq"/>
+      <Control Type="7bit"  Number="74"  Name="74-EQ5 Lo Freq"/>
+      <Control Type="7bit"  Number="75"  Name="75-EQ6 Lo Freq"/>
+      <Control Type="7bit"  Number="76"  Name="76-EQ7 Lo Freq"/>
+      <Control Type="7bit"  Number="77"  Name="77-EQ8 Lo Freq"/>
+      <Control Type="7bit"  Number="78"  Name="78-EQ1 Hi Freq"/>
+      <Control Type="7bit"  Number="79"  Name="79-EQ2 Hi Freq"/>
+      <Control Type="7bit"  Number="80"  Name="80-EQ3 Hi Freq"/>
+      <Control Type="7bit"  Number="81"  Name="81-EQ4 Hi Freq"/>
+      <Control Type="7bit"  Number="82"  Name="82-EQ5 Hi Freq"/>
+      <Control Type="7bit"  Number="83"  Name="83-EQ6 Hi Freq"/>
+      <Control Type="7bit"  Number="84"  Name="84-EQ7 Hi Freq"/>
+      <Control Type="7bit"  Number="85"  Name="85-EQ8 Hi Freq"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Note Off"/>
+      <Control Type="7bit"  Number="124"  Name="124-Omni Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-Omni On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

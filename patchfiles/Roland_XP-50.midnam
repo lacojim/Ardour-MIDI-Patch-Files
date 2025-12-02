@@ -844,8 +844,88 @@
           <Patch Number="31"  Name="PR-B:32 Drone / Pipe"  ProgramChange="31"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Roland XP-50 Rhythm USER">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10240"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="USER:001 HouseDrumSet1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="USER:002 JazzDrumSet1"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 Rhythm PR-A">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10368"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-A:001 PopDrumSet1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-A:002 PopDrumSet2"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 Rhythm PR-B">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10369"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-B:001 PowerDrumSet"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-B:002 RaveDrumSet"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 Rhythm PR-C">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10370"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PR-C:001 JazzDrumSet2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PR-C:002 OrchDrumSet"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland XP-50 Rhythm GM">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="10371"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="GM:001 GM Drum Set"  ProgramChange="0"/>
+          <Patch Number="1"  Name="GM:002 BrushDrumSet"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland XP-50 Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="2-Breath"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="8"  Name="8-Balance"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft pedal"/>
+      <Control Type="7bit"  Number="69"  Name="69-Hold 2"/>
+      <Control Type="7bit"  Number="84"  Name="84-Portamento control"/>
+      <Control Type="7bit"  Number="91"  Name="91-Reverb"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound OFF"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes OFF"/>
+      <Control Type="7bit"  Number="124"  Name="124-Omni Off"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono On"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly On"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland XP-50 BrushDrumSet">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Brush Swish"/>
@@ -910,7 +990,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-50 GM Drum Set">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -975,7 +1055,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-50 HouseDrumSet1">
      <Note Number="36"  Name="6=808 SN"/>
      <Note Number="37"  Name="7=Dry Stick"/>
      <Note Number="38"  Name="8=808 SN"/>
@@ -1040,7 +1120,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-50 JazzDrumSet1">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -1105,7 +1185,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-50 JazzDrumSet2">
      <Note Number="36"  Name="6=Old Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -1170,7 +1250,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-50 OrchDrumSet">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -1235,7 +1315,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-50 PopDrumSet1">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Natural SN2"/>
@@ -1300,7 +1380,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-50 PopDrumSet2">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Dry Stick"/>
      <Note Number="38"  Name="8=Piccolo SN"/>
@@ -1365,7 +1445,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-50 PowerDrumSet">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Dry Stick"/>
      <Note Number="38"  Name="8=Piccolo SN"/>
@@ -1430,7 +1510,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland XP-50 RaveDrumSet">
      <Note Number="36"  Name="6=Round Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=808 SN"/>

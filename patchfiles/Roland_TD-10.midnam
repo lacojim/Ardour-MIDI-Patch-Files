@@ -165,7 +165,26 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland TD-10 Controllers">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot Control"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="16"  Name="16-General Controller 1"/>
+      <Control Type="7bit"  Number="17"  Name="17-General Controller 2"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Note Off"/>
+      <Control Type="7bit"  Number="124"  Name="124-Omni Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-Omni On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland TD-10 Preset Kit * RAW *">
      <Note Number="23"  Name="3= -"/>
      <Note Number="24"  Name="4= -"/>
      <Note Number="25"  Name="5= -"/>
@@ -238,7 +257,7 @@
      <Note Number="92"  Name="2= -"/>
      <Note Number="93"  Name="3= -"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland TD-10 Group 1 GM * RAW *">
      <Note Number="23"  Name="3=Ou!"/>
      <Note Number="24"  Name="4=WahGtDw1"/>
      <Note Number="25"  Name="5=WahGtUp1"/>
@@ -311,7 +330,7 @@
      <Note Number="92"  Name="2=PandroOp"/>
      <Note Number="93"  Name="3=PandroSl"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland TD-10 Group 2 Other * RAW *">
      <Note Number="23"  Name="3=808Clavs"/>
      <Note Number="24"  Name="4=808Cwbl1"/>
      <Note Number="25"  Name="5=808Clap"/>
@@ -384,7 +403,7 @@
      <Note Number="92"  Name="2=Gong"/>
      <Note Number="93"  Name="3=TemplBel"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland TD-10 Group 3 SFX1 * RAW *">
      <Note Number="23"  Name="3=TB Bass"/>
      <Note Number="24"  Name="4=BsSlide"/>
      <Note Number="25"  Name="5=RvsBSlid"/>
@@ -457,7 +476,7 @@
      <Note Number="92"  Name="2=RvsTom"/>
      <Note Number="93"  Name="3=RvsCrash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland TD-10 Group 4 SFX2 * RAW *">
      <Note Number="23"  Name="3=78 Cowbl"/>
      <Note Number="24"  Name="4=78 Guiro"/>
      <Note Number="25"  Name="5=78 Marcs"/>
@@ -530,7 +549,7 @@
      <Note Number="92"  Name="2=Count Ti"/>
      <Note Number="93"  Name="3=Count Ta"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland TD-10 Group 1 GM">
      <Note Number="23"  Name="3=Ou!"/>
      <Note Number="24"  Name="4=WahGtDw1"/>
      <Note Number="25"  Name="5=WahGtUp1"/>
@@ -603,7 +622,7 @@
      <Note Number="92"  Name="2=PandroOp"/>
      <Note Number="93"  Name="3=PandroSl"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland TD-10 Group 2 Other">
      <Note Number="23"  Name="3=808Clavs"/>
      <Note Number="24"  Name="4=808Cwbl1"/>
      <Note Number="25"  Name="5=808Clap"/>
@@ -676,7 +695,7 @@
      <Note Number="92"  Name="2=Gong"/>
      <Note Number="93"  Name="3=TemplBel"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland TD-10 Group 3 SFX1">
      <Note Number="23"  Name="3=TB Bass"/>
      <Note Number="24"  Name="4=BsSlide"/>
      <Note Number="25"  Name="5=RvsBSlid"/>
@@ -749,7 +768,7 @@
      <Note Number="92"  Name="2=RvsTom"/>
      <Note Number="93"  Name="3=RvsCrash"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland TD-10 Group 4 SFX2">
      <Note Number="23"  Name="3=78 Cowbl"/>
      <Note Number="24"  Name="4=78 Guiro"/>
      <Note Number="25"  Name="5=78 Marcs"/>

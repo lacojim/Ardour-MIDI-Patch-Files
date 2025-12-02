@@ -44,8 +44,206 @@
         <AvailableChannel Channel="15" Available="true"/>
         <AvailableChannel Channel="16" Available="true"/>
       </AvailableForChannels>
+      <DeviceModeEnable>
+        <MIDICommands>
+          <SysEx>F0 41 10 46 11 00 00 00 00 00 00 01 10 6F F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 00 10 00 00 00 10 00 60 F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 00 20 00 00 01 00 00 5F F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 01 20 00 00 01 00 00 5E F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 02 20 00 00 01 00 00 5D F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 03 20 00 00 01 00 00 5C F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 04 20 00 00 01 00 00 5B F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 05 20 00 00 01 00 00 5A F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 06 20 00 00 01 00 00 59 F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 07 40 00 00 00 3D 00 7C F7</SysEx>
+          <SysEx>F0 41 10 46 11 00 08 20 00 00 01 00 00 57 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 00 10 00 00 01 00 00 6E F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 01 10 00 00 01 00 00 6D F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 02 10 00 00 01 00 00 6C F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 03 10 00 00 01 00 00 6B F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 04 10 00 00 01 00 00 6A F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 05 10 00 00 01 00 00 69 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 06 10 00 00 01 00 00 68 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 07 10 00 00 01 00 00 67 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 08 10 00 00 01 00 00 66 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 09 10 00 00 01 00 00 65 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 0A 10 00 00 01 00 00 64 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 0B 10 00 00 01 00 00 63 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 0C 10 00 00 01 00 00 62 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 0D 10 00 00 01 00 00 61 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 0E 10 00 00 01 00 00 60 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 0F 10 00 00 01 00 00 5F F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 00 10 00 00 10 00 00 5F F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 7F 40 00 00 00 3D 00 03 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 40 20 00 00 01 00 00 1E F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 41 20 00 00 01 00 00 1D F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 42 20 00 00 01 00 00 1C F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 43 20 00 00 01 00 00 1B F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 44 20 00 00 01 00 00 1A F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 45 20 00 00 01 00 00 19 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 46 20 00 00 01 00 00 18 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 47 20 00 00 01 00 00 17 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 48 20 00 00 01 00 00 16 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 49 20 00 00 01 00 00 15 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 4A 20 00 00 01 00 00 14 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 4B 20 00 00 01 00 00 13 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 4C 20 00 00 01 00 00 12 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 4D 20 00 00 01 00 00 11 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 4E 20 00 00 01 00 00 10 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 4F 20 00 00 01 00 00 0F F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 50 20 00 00 01 00 00 0E F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 51 20 00 00 01 00 00 0D F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 52 20 00 00 01 00 00 0C F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 53 20 00 00 01 00 00 0B F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 54 20 00 00 01 00 00 0A F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 55 20 00 00 01 00 00 09 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 56 20 00 00 01 00 00 08 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 57 20 00 00 01 00 00 07 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 58 20 00 00 01 00 00 06 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 59 20 00 00 01 00 00 05 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 5A 20 00 00 01 00 00 04 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 5B 20 00 00 01 00 00 03 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 5C 20 00 00 01 00 00 02 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 5D 20 00 00 01 00 00 01 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 5E 20 00 00 01 00 00 00 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 5F 20 00 00 01 00 00 7F F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 60 20 00 00 01 00 00 7E F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 61 20 00 00 01 00 00 7D F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 62 20 00 00 01 00 00 7C F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 63 20 00 00 01 00 00 7B F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 64 20 00 00 01 00 00 7A F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 65 20 00 00 01 00 00 79 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 66 20 00 00 01 00 00 78 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 67 20 00 00 01 00 00 77 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 68 20 00 00 01 00 00 76 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 69 20 00 00 01 00 00 75 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 6A 20 00 00 01 00 00 74 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 6B 20 00 00 01 00 00 73 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 6C 20 00 00 01 00 00 72 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 6D 20 00 00 01 00 00 71 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 6E 20 00 00 01 00 00 70 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 6F 20 00 00 01 00 00 6F F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 70 20 00 00 01 00 00 6E F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 71 20 00 00 01 00 00 6D F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 72 20 00 00 01 00 00 6C F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 73 20 00 00 01 00 00 6B F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 74 20 00 00 01 00 00 6A F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 75 20 00 00 01 00 00 69 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 76 20 00 00 01 00 00 68 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 77 20 00 00 01 00 00 67 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 78 20 00 00 01 00 00 66 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 79 20 00 00 01 00 00 65 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 7A 20 00 00 01 00 00 64 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 7B 20 00 00 01 00 00 63 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 7C 20 00 00 01 00 00 62 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 7D 20 00 00 01 00 00 61 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 7E 20 00 00 01 00 00 60 F7</SysEx>
+          <SysEx>F0 41 10 46 11 01 7F 20 00 00 01 00 00 5F F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 00 10 00 00 01 00 00 6D F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 01 10 00 00 01 00 00 6C F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 02 10 00 00 01 00 00 6B F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 03 10 00 00 01 00 00 6A F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 04 10 00 00 01 00 00 69 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 05 10 00 00 01 00 00 68 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 06 10 00 00 01 00 00 67 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 07 10 00 00 01 00 00 66 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 08 10 00 00 01 00 00 65 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 09 10 00 00 01 00 00 64 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 0A 10 00 00 01 00 00 63 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 0B 10 00 00 01 00 00 62 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 0C 10 00 00 01 00 00 61 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 0D 10 00 00 01 00 00 60 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 0E 10 00 00 01 00 00 5F F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 0F 10 00 00 01 00 00 5E F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 00 10 00 00 10 00 00 5E F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 7F 40 00 00 00 3D 00 02 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 40 20 00 00 01 00 00 1D F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 41 20 00 00 01 00 00 1C F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 42 20 00 00 01 00 00 1B F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 43 20 00 00 01 00 00 1A F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 44 20 00 00 01 00 00 19 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 45 20 00 00 01 00 00 18 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 46 20 00 00 01 00 00 17 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 47 20 00 00 01 00 00 16 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 48 20 00 00 01 00 00 15 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 49 20 00 00 01 00 00 14 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 4A 20 00 00 01 00 00 13 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 4B 20 00 00 01 00 00 12 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 4C 20 00 00 01 00 00 11 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 4D 20 00 00 01 00 00 10 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 4E 20 00 00 01 00 00 0F F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 4F 20 00 00 01 00 00 0E F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 50 20 00 00 01 00 00 0D F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 51 20 00 00 01 00 00 0C F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 52 20 00 00 01 00 00 0B F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 53 20 00 00 01 00 00 0A F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 54 20 00 00 01 00 00 09 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 55 20 00 00 01 00 00 08 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 56 20 00 00 01 00 00 07 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 57 20 00 00 01 00 00 06 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 58 20 00 00 01 00 00 05 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 59 20 00 00 01 00 00 04 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 5A 20 00 00 01 00 00 03 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 5B 20 00 00 01 00 00 02 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 5C 20 00 00 01 00 00 01 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 5D 20 00 00 01 00 00 00 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 5E 20 00 00 01 00 00 7F F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 5F 20 00 00 01 00 00 7E F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 60 20 00 00 01 00 00 7D F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 61 20 00 00 01 00 00 7C F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 62 20 00 00 01 00 00 7B F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 63 20 00 00 01 00 00 7A F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 64 20 00 00 01 00 00 79 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 65 20 00 00 01 00 00 78 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 66 20 00 00 01 00 00 77 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 67 20 00 00 01 00 00 76 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 68 20 00 00 01 00 00 75 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 69 20 00 00 01 00 00 74 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 6A 20 00 00 01 00 00 73 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 6B 20 00 00 01 00 00 72 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 6C 20 00 00 01 00 00 71 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 6D 20 00 00 01 00 00 70 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 6E 20 00 00 01 00 00 6F F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 6F 20 00 00 01 00 00 6E F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 70 20 00 00 01 00 00 6D F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 71 20 00 00 01 00 00 6C F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 72 20 00 00 01 00 00 6B F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 73 20 00 00 01 00 00 6A F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 74 20 00 00 01 00 00 69 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 75 20 00 00 01 00 00 68 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 76 20 00 00 01 00 00 67 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 77 20 00 00 01 00 00 66 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 78 20 00 00 01 00 00 65 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 79 20 00 00 01 00 00 64 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 7A 20 00 00 01 00 00 63 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 7B 20 00 00 01 00 00 62 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 7C 20 00 00 01 00 00 61 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 7D 20 00 00 01 00 00 60 F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 7E 20 00 00 01 00 00 5F F7</SysEx>
+          <SysEx>F0 41 10 46 11 02 7F 20 00 00 01 00 00 5E F7</SysEx>
+          <SysEx>F0 41<SysExDeviceID/> 46 12 00 00 00 00 00 00 F7</SysEx>
+        </MIDICommands>
+      </DeviceModeEnable>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Roland JV-880">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB (ignored)"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Pedal (Sustain)"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="91"  Name="91-External Effects Depth"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus Depth"/>
+      <Control Type="7bit"  Number="100"  Name="100-Reg. Parm. No. LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-Reg. Parm. No. MSB"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+    </ControlNameList>
+    <NoteNameList  Name="Roland JV-880 Drums CRD">
      <Note Number="37"  Name="7=__________"/>
      <Note Number="38"  Name="8=__________"/>
      <Note Number="39"  Name="9=__________"/>
@@ -107,7 +305,7 @@
      <Note Number="95"  Name="5=__________"/>
      <Note Number="96"  Name="6=__________"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland JV-880 Drums INT">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=90's Snare"/>
      <Note Number="39"  Name="9=808 Claps"/>
@@ -169,7 +367,7 @@
      <Note Number="95"  Name="5=Open HAT 1"/>
      <Note Number="96"  Name="6=Open HAT 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland JV-880 Drums PRA">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=90's Snare"/>
      <Note Number="39"  Name="9=808 Claps"/>
@@ -231,7 +429,7 @@
      <Note Number="95"  Name="5=Wind Agogo"/>
      <Note Number="96"  Name="6=808 SNR 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland JV-880 Drums PRB">
      <Note Number="37"  Name="7=Cross Stick 1"/>
      <Note Number="38"  Name="8=Piccolo Snare"/>
      <Note Number="39"  Name="9=808 Claps"/>

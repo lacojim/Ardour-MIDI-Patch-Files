@@ -117,5 +117,34 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="VK-8 Controllers">
+      <Control Type="7bit"  Number="0"  Name="0 Bank Select"/>
+      <Control Type="7bit"  Number="1"  Name="1 Mod Wheel"/>
+      <Control Type="7bit"  Number="3"  Name="3 MIDI Control"/>
+      <Control Type="7bit"  Number="4"  Name="4 Foot Control"/>
+      <Control Type="7bit"  Number="5"  Name="5 MIDI Control"/>
+      <Control Type="7bit"  Number="6"  Name="6 Data Entry"/>
+      <Control Type="7bit"  Number="7"  Name="7 Volume"/>
+      <Control Type="7bit"  Number="8"  Name="8 Balance"/>
+      <Control Type="7bit"  Number="9"  Name="9 MIDI Control"/>
+      <Control Type="7bit"  Number="10"  Name="10 Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11 Expression"/>
+      <Control Type="7bit"  Number="16"  Name="16 Other Tones"/>
+      <Control Type="7bit"  Number="17"  Name="17 Wheel Brake"/>
+      <Control Type="7bit"  Number="64"  Name="64 Sustain"/>
+      <Control Type="7bit"  Number="70"  Name="70 Draw Bar 1"/>
+      <Control Type="7bit"  Number="71"  Name="71 Draw Bar 2"/>
+      <Control Type="7bit"  Number="72"  Name="72 Draw Bar 3"/>
+      <Control Type="7bit"  Number="73"  Name="73 Draw Bar 4"/>
+      <Control Type="7bit"  Number="74"  Name="74 Draw Bar 5"/>
+      <Control Type="7bit"  Number="75"  Name="75 Draw Bar 6"/>
+      <Control Type="7bit"  Number="76"  Name="76 Draw Bar 7"/>
+      <Control Type="7bit"  Number="77"  Name="77 Draw Bar 8"/>
+      <Control Type="7bit"  Number="78"  Name="78 Draw Bar 9"/>
+      <Control Type="7bit"  Number="120"  Name="120 AllSoundOff"/>
+      <Control Type="7bit"  Number="121"  Name="121 ResetCntrls"/>
+      <Control Type="7bit"  Number="122"  Name="122 LocalCntrlSw"/>
+      <Control Type="7bit"  Number="123"  Name="123 AllNotesOff"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

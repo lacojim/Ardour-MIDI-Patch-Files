@@ -4974,8 +4974,60 @@
           <Patch Number="27"  Name="v LP RearAtk"  ProgramChange="27"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="VA-7 ToneMap 4 Drumsets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="STANDARD 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="STANDARD 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="STANDARD L/R"  ProgramChange="2"/>
+          <Patch Number="3"  Name="V-Pop1St"  ProgramChange="3"/>
+          <Patch Number="4"  Name="V-R&amp;B"  ProgramChange="4"/>
+          <Patch Number="5"  Name="V-Fiesta"  ProgramChange="5"/>
+          <Patch Number="8"  Name="ROOM"  ProgramChange="8"/>
+          <Patch Number="9"  Name="HIP HOP"  ProgramChange="9"/>
+          <Patch Number="10"  Name="JUNGLE"  ProgramChange="10"/>
+          <Patch Number="11"  Name="TECHNO"  ProgramChange="11"/>
+          <Patch Number="12"  Name="ROOM L/R"  ProgramChange="12"/>
+          <Patch Number="13"  Name="HOUSE"  ProgramChange="13"/>
+          <Patch Number="16"  Name="POWER"  ProgramChange="16"/>
+          <Patch Number="17"  Name="V-Rock1St"  ProgramChange="17"/>
+          <Patch Number="18"  Name="V-Rock2St"  ProgramChange="18"/>
+          <Patch Number="24"  Name="ELECTRONIC"  ProgramChange="24"/>
+          <Patch Number="25"  Name="TR-808"  ProgramChange="25"/>
+          <Patch Number="26"  Name="DANCE"  ProgramChange="26"/>
+          <Patch Number="27"  Name="CR-78"  ProgramChange="27"/>
+          <Patch Number="28"  Name="TR-606"  ProgramChange="28"/>
+          <Patch Number="29"  Name="TR-707"  ProgramChange="29"/>
+          <Patch Number="30"  Name="TR-909"  ProgramChange="30"/>
+          <Patch Number="32"  Name="JAZZ"  ProgramChange="32"/>
+          <Patch Number="33"  Name="JAZZ L/R"  ProgramChange="33"/>
+          <Patch Number="40"  Name="BRUSH"  ProgramChange="40"/>
+          <Patch Number="41"  Name="BRUSH 2"  ProgramChange="41"/>
+          <Patch Number="42"  Name="BRUSH 2 L/R"  ProgramChange="42"/>
+          <Patch Number="43"  Name="V-JazzBrush"  ProgramChange="43"/>
+          <Patch Number="48"  Name="ORCHESTRA"  ProgramChange="48"/>
+          <Patch Number="49"  Name="ETHNIC"  ProgramChange="49"/>
+          <Patch Number="50"  Name="KICK &amp; SNARE"  ProgramChange="50"/>
+          <Patch Number="51"  Name="KICK&amp;SNARE 2"  ProgramChange="51"/>
+          <Patch Number="52"  Name="ASIA"  ProgramChange="52"/>
+          <Patch Number="53"  Name="CYMBAL&amp;CLAPS"  ProgramChange="53"/>
+          <Patch Number="54"  Name="GAMELAN 1"  ProgramChange="54"/>
+          <Patch Number="55"  Name="GAMELAN 2"  ProgramChange="55"/>
+          <Patch Number="56"  Name="SFX"  ProgramChange="56"/>
+          <Patch Number="57"  Name="RHYTHM FX"  ProgramChange="57"/>
+          <Patch Number="58"  Name="RHYTHM FX 2"  ProgramChange="58"/>
+          <Patch Number="59"  Name="RHYTHM FX 3"  ProgramChange="59"/>
+          <Patch Number="60"  Name="SFX 2"  ProgramChange="60"/>
+          <Patch Number="62"  Name="CYM&amp;CLAPS 2"  ProgramChange="62"/>
+          <Patch Number="63"  Name="V-VoxDrum"  ProgramChange="63"/>
+          <Patch Number="127"  Name="CM-64/32L"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 BRUSH">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -5104,7 +5156,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 CM-64 / 32L">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -5233,7 +5285,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 ELECTRONIC">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -5362,7 +5414,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 JAZZ">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -5491,7 +5543,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 ORCHESTRA">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -5620,7 +5672,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 POWER">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -5749,7 +5801,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 ROOM">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -5878,7 +5930,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 SFX">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -6007,7 +6059,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 STANDARD">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -6136,7 +6188,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 1 TR-808">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -6265,7 +6317,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 BRUSH">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -6394,7 +6446,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 CM-64/32L">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -6523,7 +6575,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 DANCE">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -6652,7 +6704,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 E40 Modified">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -6781,7 +6833,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 ELECTRONIC">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -6910,7 +6962,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 ETHNIC">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -7039,7 +7091,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 JAZZ">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -7168,7 +7220,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 KICK&amp;SNARE">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -7297,7 +7349,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 ORCHESTRA">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -7426,7 +7478,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 POWER">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -7555,7 +7607,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 RHYTHM FX">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -7684,7 +7736,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 ROOM">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -7813,7 +7865,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 SFX">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -7942,7 +7994,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 STANDARD1">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -8071,7 +8123,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 STANDARD2">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -8200,7 +8252,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 2 TR-808/909">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -8329,7 +8381,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 ASIA">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -8458,7 +8510,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 BRUSH">
      <Note Number="1"  Name="1=[#2] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[#2] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[#2] Standard 2 Kick 2"/>
@@ -8587,7 +8639,7 @@
      <Note Number="126"  Name="6=[#2] Electric Snare 2"/>
      <Note Number="127"  Name="7=[#2] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 CM-64/32L">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -8716,7 +8768,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 CR-78">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -8845,7 +8897,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 CYMBAL&amp;CLAPS">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -8974,7 +9026,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 DANCE">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -9103,7 +9155,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 ELECTRONIC">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -9232,7 +9284,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 ETHNIC">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -9361,7 +9413,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 Hip-Hop">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -9490,7 +9542,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 JAZZ">
      <Note Number="1"  Name="1=[#2] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[#2] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[#2] Standard 2 Kick 2"/>
@@ -9619,7 +9671,7 @@
      <Note Number="126"  Name="6=[#2] Electric Snare 2"/>
      <Note Number="127"  Name="7=[#2] Electric Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 JUNGLE">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -9748,7 +9800,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 KICK &amp; SNARE">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -9877,7 +9929,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 ORCHESTRA">
      <Note Number="1"  Name="1=[#2] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[#2] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[#2] Standard 2 Kick 2"/>
@@ -10006,7 +10058,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 POWER">
      <Note Number="1"  Name="1=[#2] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[#2] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[#2] Standard 2 Kick 2"/>
@@ -10135,7 +10187,7 @@
      <Note Number="126"  Name="6=[#2] House Snare"/>
      <Note Number="127"  Name="7=House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 RHYTHM FX">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -10264,7 +10316,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 RHYTHM FX2">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -10393,7 +10445,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 ROOM">
      <Note Number="1"  Name="1=[#2] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[#2] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[#2] Standard 2 Kick 2"/>
@@ -10522,7 +10574,7 @@
      <Note Number="126"  Name="6=[#2] House Snare"/>
      <Note Number="127"  Name="7=House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 SFX">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -10651,7 +10703,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 STANDARD1">
      <Note Number="1"  Name="1=[#2] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[#2] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[#2] Standard 2 Kick 2"/>
@@ -10780,7 +10832,7 @@
      <Note Number="126"  Name="6=[#2] House Snare"/>
      <Note Number="127"  Name="7=House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 STANDARD2">
      <Note Number="1"  Name="1=[#2] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[#2] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[#2] Standard 2 Kick 2"/>
@@ -10909,7 +10961,7 @@
      <Note Number="126"  Name="6=[#2] House Snare"/>
      <Note Number="127"  Name="7=House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 STANDARD3">
      <Note Number="1"  Name="1=[#2] Standard 1 Kick 2"/>
      <Note Number="2"  Name="2=[#2] Standard 2 Kick 1"/>
      <Note Number="3"  Name="3=[#2] Standard 2 Kick 2"/>
@@ -11038,7 +11090,7 @@
      <Note Number="126"  Name="6=[#2] House Snare"/>
      <Note Number="127"  Name="7=House Snare 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 TECHNO">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -11167,7 +11219,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 TR-606">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -11296,7 +11348,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 TR-707">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -11425,7 +11477,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 TR-808">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -11554,7 +11606,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 3 TR-909">
      <Note Number="1"  Name="1=[#2] Electric Kick 1"/>
      <Note Number="2"  Name="2=CR-78 Kick 1"/>
      <Note Number="3"  Name="3=CR-78 Kick 2"/>
@@ -11683,7 +11735,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=[#2] Slappy"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 ASIA">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -11812,7 +11864,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 BRUSH">
      <Note Number="1"  Name="1=Std.1 Kick2"/>
      <Note Number="2"  Name="2=Std.2 Kick1"/>
      <Note Number="3"  Name="3=Std2 Kick2"/>
@@ -11941,7 +11993,7 @@
      <Note Number="126"  Name="6=Elec Snare 2"/>
      <Note Number="127"  Name="7=Elec Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 BRUSH 2">
      <Note Number="1"  Name="1=Std.1 Kick2"/>
      <Note Number="2"  Name="2=Std.2 Kick1"/>
      <Note Number="3"  Name="3=Std2 Kick2"/>
@@ -12070,7 +12122,7 @@
      <Note Number="126"  Name="6=Elec Snare 2"/>
      <Note Number="127"  Name="7=Elec Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 BRUSH 2 L/R">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -12199,7 +12251,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 CM-64/32L">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -12328,7 +12380,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 CR-78">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -12457,7 +12509,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 CYM&amp;CLAPS 2">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -12586,7 +12638,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 CYMBAL&amp;CLAPS">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -12715,7 +12767,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 DANCE">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -12844,7 +12896,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 ELECTRONIC">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -12973,7 +13025,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 ETHNIC">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -13102,7 +13154,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 GAMELAN 1">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -13231,7 +13283,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 GAMELAN 2">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -13360,7 +13412,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 HIP HOP">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -13489,7 +13541,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 HOUSE">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -13618,7 +13670,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 JAZZ">
      <Note Number="1"  Name="1=Std.1 Kick2"/>
      <Note Number="2"  Name="2=Std.2 Kick1"/>
      <Note Number="3"  Name="3=Std2 Kick2"/>
@@ -13747,7 +13799,7 @@
      <Note Number="126"  Name="6=Elec Snare 2"/>
      <Note Number="127"  Name="7=Elec Snare 3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 JAZZ L/R">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -13876,7 +13928,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 JUNGLE">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -14005,7 +14057,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 KICK &amp; SNARE">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -14134,7 +14186,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 KICK&amp;SNARE 2">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -14263,7 +14315,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 ORCHESTRA">
      <Note Number="1"  Name="1=Std.1 Kick2"/>
      <Note Number="2"  Name="2=Std.2 Kick1"/>
      <Note Number="3"  Name="3=Std2 Kick2"/>
@@ -14392,7 +14444,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 POWER">
      <Note Number="1"  Name="1=Std.1 Kick2"/>
      <Note Number="2"  Name="2=Std.2 Kick1"/>
      <Note Number="3"  Name="3=Std2 Kick2"/>
@@ -14521,7 +14573,7 @@
      <Note Number="126"  Name="6=House Snare"/>
      <Note Number="127"  Name="7=House SD"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 RHYTHM FX">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -14650,7 +14702,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 RHYTHM FX 2">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -14779,7 +14831,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 RHYTHM FX 3">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -14908,7 +14960,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 ROOM">
      <Note Number="1"  Name="1=Std.1 Kick2"/>
      <Note Number="2"  Name="2=Std.2 Kick1"/>
      <Note Number="3"  Name="3=Std2 Kick2"/>
@@ -15037,7 +15089,7 @@
      <Note Number="126"  Name="6=House Snare"/>
      <Note Number="127"  Name="7=House SD"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 ROOM L/R">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -15166,7 +15218,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 SFX">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -15295,7 +15347,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 SFX 2">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -15424,7 +15476,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 STANDARD 1">
      <Note Number="1"  Name="1=Std.1 Kick2"/>
      <Note Number="2"  Name="2=Std.2 Kick1"/>
      <Note Number="3"  Name="3=Std2 Kick2"/>
@@ -15553,7 +15605,7 @@
      <Note Number="126"  Name="6=House Snare"/>
      <Note Number="127"  Name="7=House SD"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 STANDARD 2">
      <Note Number="1"  Name="1=Std.1 Kick2"/>
      <Note Number="2"  Name="2=Std.2 Kick1"/>
      <Note Number="3"  Name="3=Std2 Kick2"/>
@@ -15682,7 +15734,7 @@
      <Note Number="126"  Name="6=House Snare"/>
      <Note Number="127"  Name="7=House SD"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 STANDARD L/R">
      <Note Number="1"  Name="1=---"/>
      <Note Number="2"  Name="2=---"/>
      <Note Number="3"  Name="3=---"/>
@@ -15811,7 +15863,7 @@
      <Note Number="126"  Name="6=---"/>
      <Note Number="127"  Name="7=---"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 TECHNO">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -15940,7 +15992,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 TR-606">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -16069,7 +16121,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 TR-707">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -16198,7 +16250,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 TR-808">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -16327,7 +16379,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 TR-909">
      <Note Number="1"  Name="1=Elec Kick 1"/>
      <Note Number="2"  Name="2=CR78 BD 1"/>
      <Note Number="3"  Name="3=CR78 BD 2"/>
@@ -16456,7 +16508,7 @@
      <Note Number="126"  Name="6=Voice Tah"/>
      <Note Number="127"  Name="7=Noise Slap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 V-Fiesta">
      <Note Number="1"  Name="1=Jazz Kick 1"/>
      <Note Number="2"  Name="2=Mex_Kik36"/>
      <Note Number="3"  Name="3=85RmBsDrum1B"/>
@@ -16585,7 +16637,7 @@
      <Note Number="126"  Name="6=p33137v"/>
      <Note Number="127"  Name="7=p33168v"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 V-JazzBrush">
      <Note Number="1"  Name="1=Jazz Kick 1"/>
      <Note Number="2"  Name="2=Mex_Kik36"/>
      <Note Number="3"  Name="3=85RmBsDrum1B"/>
@@ -16714,7 +16766,7 @@
      <Note Number="126"  Name="6=p33137v"/>
      <Note Number="127"  Name="7=p33168v"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 V-Pop1St">
      <Note Number="1"  Name="1=Jazz Kick 1"/>
      <Note Number="2"  Name="2=Mex_Kik36"/>
      <Note Number="3"  Name="3=85RmBsDrum1B"/>
@@ -16843,7 +16895,7 @@
      <Note Number="126"  Name="6=p33137v"/>
      <Note Number="127"  Name="7=p33168v"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 V-R&amp;B">
      <Note Number="1"  Name="1=Jazz Kick 1"/>
      <Note Number="2"  Name="2=Mex_Kik36"/>
      <Note Number="3"  Name="3=85RmBsDrum1B"/>
@@ -16972,7 +17024,7 @@
      <Note Number="126"  Name="6=p33137v"/>
      <Note Number="127"  Name="7=p33168v"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 V-Rock1St">
      <Note Number="1"  Name="1=Jazz Kick 1"/>
      <Note Number="2"  Name="2=Mex_Kik36"/>
      <Note Number="3"  Name="3=85RmBsDrum1B"/>
@@ -17101,7 +17153,7 @@
      <Note Number="126"  Name="6=p33137v"/>
      <Note Number="127"  Name="7=p33168v"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 V-Rock2St">
      <Note Number="1"  Name="1=Jazz Kick 1"/>
      <Note Number="2"  Name="2=Mex_Kik36"/>
      <Note Number="3"  Name="3=85RmBsDrum1B"/>
@@ -17230,7 +17282,7 @@
      <Note Number="126"  Name="6=p33137v"/>
      <Note Number="127"  Name="7=p33168v"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="VA-7 ToneMap 4 V-VoxDrum">
      <Note Number="1"  Name="1=Jazz Kick 1"/>
      <Note Number="2"  Name="2=p05002v"/>
      <Note Number="3"  Name="3=85RmBsDrum1B"/>

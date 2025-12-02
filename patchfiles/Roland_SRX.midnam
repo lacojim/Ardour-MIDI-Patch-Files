@@ -2790,88 +2790,710 @@
           <Patch Number="99"  Name="100:BrsStac Echo"  ProgramChange="99"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="SRX-01 Dynamic Drum Kits 1-41">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11904"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:Kick 1  Menu"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:Kick 2  Menu"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:Kick 3  Menu"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:Kick 4  Menu"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:OldFnkS Menu"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:Latin S Menu"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:HiPiccS Menu"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:Tight S Menu"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:StdRk1S Menu"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:StdRk2S Menu"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:OhBabyS Menu"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12:PoppinS Menu"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13:StdFatS Menu"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14:JazStkS Menu"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15:StdJazS Menu"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16:BalladS Menu"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17:PwrBldS Menu"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18:AlBeefS Menu"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19:BigRckS Menu"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20:70BrshS Menu"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21:JzBrshS Menu"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22:CrsStk  Menu"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23:Latin T Menu"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24:Tight T Menu"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25:JazStkT Menu"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26:OldFnkT Menu"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27:OhBabyT Menu"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28:PwrBldT Menu"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29:BigRckT Menu"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30:OldBrsT Menu"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31:OhBabyH Menu"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32:JazStkH Menu"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33:Latin H Menu"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34:Disco H Menu"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35:OldFnkH Menu"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36:StreetH Menu"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37:BigRckH Menu"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38:OldBrsH Menu"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39:Crash   Menu"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40:Ride    Menu"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41:OthrCym Menu"  ProgramChange="40"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-01 Dynamic Drum Kits Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11776"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:Poppin KIT"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:StdRock1 KIT"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:TightRck1KIT"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:StudioJz KIT"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:Latin KIT"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:BigRock1 KIT"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:Pwr Blld KIT"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:TightRck2KIT"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:Dry Rock KIT"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:StdRock2 KIT"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:OhBabyRckKIT"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12:StudioFatKIT"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13:RoomBlld KIT"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14:Big Blld KIT"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15:BigRock2 KIT"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16:All Beef KIT"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17:Disco KIT"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18:VintagFnkKIT"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19:Phunque KIT"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20:70JzFunk KIT"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21:Jazz Mix KIT"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22:DynBrush KIT"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23:70'sBrushKIT"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24:PwrBrush KIT"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25:Latin Dry K"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26:Cool Dry K"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27:Disco/Funk K"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28:Old Funk K"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29:Power Rock K"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30:StudioRock K"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31:StreetRock K"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32:Big Rock K"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33:Wham Bam K"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34:StandrdJaz K"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35:Jazz Soul K"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36:Old Funk Sn"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37:70Phunque Sn"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38:Latin Sn"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39:HiPiccolo Sn"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40:Tight Sn"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41:Std Rock1 Sn"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42:Std Rock2 Sn"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43:OhBabyRck Sn"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44:Poppin Sn"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45:StudioFat Sn"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46:JazzStick Sn"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47:StudioJz Sn"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48:Ballad Sn"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49:PwrBallad Sn"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50:All Beef Sn"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51:Big Rock Sn"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52:70's BrushSn"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53:JazzBrush Sn"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54:Latin Tom"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55:Tight Tom"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56:JzStick Tom"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57:Old Funk Tom"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58:Oh Baby Tom"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59:PwrBalladTom"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60:Big Rock Tom"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61:OldBrush Tom"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62:Oh Baby Hat"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63:JzStick Hat"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64:Latin Hat"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65:Disco Hat"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66:Old Funk Hat"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67:Street Hat"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68:Big Rock Hat"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69:OldBrush Hat"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70:Stndrd Crash"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71:Jazz Crash"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72:Rock Crash"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73:Ballad Crash"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74:Brush Crash"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75:Jazz Ride"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76:Rock Ride"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77:Ballad Ride"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78:Latin Ride"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79:Brush Ride"  ProgramChange="78"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-03 STUDIO SRX Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11778"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:WideRock KIT"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:WideJazz KIT"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:TightRoomKIT"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:3rdBalladKIT"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:Studio 1 KIT"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:Studio 2 KIT"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:Studio 3 KIT"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:Studio 4 KIT"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:HipHop KIT"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:Dyn.Perc KIT"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:Drums MENU"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12:Perc. MENU"  ProgramChange="11"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-05 Supreme Dance 1-128">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11908"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:SecretDancer"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:Mean Streets"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:E-tronic"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:License2chil"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:Scratch Menu"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:Hit Specials"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:Motivation"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:Sine Vibrato"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:Acid Punch"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:E.Gtr Menu"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:Brite Flange"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12:Dance Vibes"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13:N-Trance"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14:Phatt"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15:DoubleDown"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16:LoopFX Dark"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17:Yo DJ"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18:HH Piledrivr"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19:Trush Head"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20:Rap 21"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21:Teknobeat"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22:Filter Beat"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23:FashionStyle"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24:Strobobeat"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25:SpaceGroove2"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26:Underground"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27:Extra Drive"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28:NakedPrey"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29:Mod It!"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30:Broken'Roll"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31:Drew Groove"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32:Beat Menu"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33:Sinewave Bs"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34:808 Bass"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35:Low Bass 2"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36:Low Bass 3"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37:Low Bass 4"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38:Hood Bass 2"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39:Rubber Bs 21"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40:Cheezee Bass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41:Bend Bs /sw"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42:Saws Bass"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43:Bass Kadett"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44:Qube Bass"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45:LegatoSynBs"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46:15inch Bass"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47:MG Filter Bs"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48:Plk Bass"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49:Flat SawBass"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50:SH-101 Bass"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51:Pulsing Bs"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52:Arrpy"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53:Acid Bass 2"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54:Euro Bass 21"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55:DarkEchoBass"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56:UnisonSwBass"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57:Dirty Bass"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58:Comp NzBass"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59:JunoDistBass"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60:TB Dist Bs 1"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61:TB Dist Bs 2"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62:TB Dist Bs 3"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63:Human Bass"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64:Interferenz"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65:16th SeqBass"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66:Woofer Blow"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67:Guitaron Oct"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68:Finger Bass6"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69:Noisy P.Bass"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70:FeelBass"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71:Ethno Bass 3"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72:FAT Rave"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73:JUNO Rave"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74:4 x Saws"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75:Euro Saws"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76:Super Sawz"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77:Step Phaser"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78:Vade Retro"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79:Pulse Keys"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80:P5 Pluck"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81:Alpha Waves"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82:Andes"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83:Northern Pls"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84:R&amp;B Pluck 2"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85:SynHarpsi"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86:Saw Wave HQ"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87:Sqr Wave HQ"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88:JU2 Wave 1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89:JU2 Wave 2"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90:Pulse Wave 1"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91:Pulse Wave 2"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92:SpectrumWave"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93:Pure Sine 2"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94:Slippers"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95:Climb Maj7th"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96:Return2Minor"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97:FallingStar"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98:Convulsions"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99:CrazZzeee"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100:Creative"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101:Juno Slice"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102:Epic Slice"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103:Klang Werk"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104:Ouverture"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105:Tropic Slice"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106:Strained"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107:Wicked DJ 2"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108:Ultra Noise"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109:JunoArpeggio"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110:Autoarpeggio"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111:SeqOctarveEP"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112:Sync Vox"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113:Stack Clavi"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114:Pump up"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115:Sine Seq"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116:Seq Saws"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117:Finale Hit"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118:Big Hit 3"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119:AnswerMe!Hit"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120:LoungeLizard"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121:Disco Stabs"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122:12x12'sDisco"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123:LittleDots"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124:TribalTechno"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125:Minor Bumwah"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126:Bobs Slide"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127:BrassHit 1"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128:BrassHit 2"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-05 Supreme Dance 129-256">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11909"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="129:BrassHit 3"  ProgramChange="0"/>
+          <Patch Number="1"  Name="130:BrassHit 4"  ProgramChange="1"/>
+          <Patch Number="2"  Name="131:BrassHit 5"  ProgramChange="2"/>
+          <Patch Number="3"  Name="132:BrassHit 6"  ProgramChange="3"/>
+          <Patch Number="4"  Name="133:BrassHit 7"  ProgramChange="4"/>
+          <Patch Number="5"  Name="134:SymphHit 1"  ProgramChange="5"/>
+          <Patch Number="6"  Name="135:SymphHit 2"  ProgramChange="6"/>
+          <Patch Number="7"  Name="136:SymphHit 3"  ProgramChange="7"/>
+          <Patch Number="8"  Name="137:OrgTrnsplnt"  ProgramChange="8"/>
+          <Patch Number="9"  Name="138:Organ Hit 3"  ProgramChange="9"/>
+          <Patch Number="10"  Name="139:Organ Hit 4"  ProgramChange="10"/>
+          <Patch Number="11"  Name="140:Chord Hit 1"  ProgramChange="11"/>
+          <Patch Number="12"  Name="141:Chord Hit 2"  ProgramChange="12"/>
+          <Patch Number="13"  Name="142:Chord Hit 3"  ProgramChange="13"/>
+          <Patch Number="14"  Name="143:Chord Hit 4"  ProgramChange="14"/>
+          <Patch Number="15"  Name="144:Crystal Hit"  ProgramChange="15"/>
+          <Patch Number="16"  Name="145:Stamp Hit"  ProgramChange="16"/>
+          <Patch Number="17"  Name="146:ThousandHit"  ProgramChange="17"/>
+          <Patch Number="18"  Name="147:9th Hit"  ProgramChange="18"/>
+          <Patch Number="19"  Name="148:Slap Hit 1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="149:Slap Hit 2"  ProgramChange="20"/>
+          <Patch Number="21"  Name="150:Dust Hit"  ProgramChange="21"/>
+          <Patch Number="22"  Name="151:Dist Hit 1"  ProgramChange="22"/>
+          <Patch Number="23"  Name="152:Dist Hit 2"  ProgramChange="23"/>
+          <Patch Number="24"  Name="153:Wah Hit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="154:Tremble Hit"  ProgramChange="25"/>
+          <Patch Number="26"  Name="155:Dah Hit"  ProgramChange="26"/>
+          <Patch Number="27"  Name="156:Pretty Hit"  ProgramChange="27"/>
+          <Patch Number="28"  Name="157:Smoky Hit"  ProgramChange="28"/>
+          <Patch Number="29"  Name="158:Fist Hit"  ProgramChange="29"/>
+          <Patch Number="30"  Name="159:Clavy Hit"  ProgramChange="30"/>
+          <Patch Number="31"  Name="160:Tread Hit"  ProgramChange="31"/>
+          <Patch Number="32"  Name="161:Old Org Hit"  ProgramChange="32"/>
+          <Patch Number="33"  Name="162:Cave Hit"  ProgramChange="33"/>
+          <Patch Number="34"  Name="163:Thru Hit"  ProgramChange="34"/>
+          <Patch Number="35"  Name="164:Mull Hit"  ProgramChange="35"/>
+          <Patch Number="36"  Name="165:Electronica"  ProgramChange="36"/>
+          <Patch Number="37"  Name="166:Ripper"  ProgramChange="37"/>
+          <Patch Number="38"  Name="167:Bounce Hit1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="168:Bounce Hit2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="169:Hit OneShots"  ProgramChange="40"/>
+          <Patch Number="41"  Name="170:Brass Stab"  ProgramChange="41"/>
+          <Patch Number="42"  Name="171:Null Zone"  ProgramChange="42"/>
+          <Patch Number="43"  Name="172:Loop Techno"  ProgramChange="43"/>
+          <Patch Number="44"  Name="173:Tribal RaveX"  ProgramChange="44"/>
+          <Patch Number="45"  Name="174:Raverlisious"  ProgramChange="45"/>
+          <Patch Number="46"  Name="175:2FingerRifff"  ProgramChange="46"/>
+          <Patch Number="47"  Name="176:UK Garage 01"  ProgramChange="47"/>
+          <Patch Number="48"  Name="177:UKgarage2002"  ProgramChange="48"/>
+          <Patch Number="49"  Name="178:XV-303"  ProgramChange="49"/>
+          <Patch Number="50"  Name="179:Psy-Tron"  ProgramChange="50"/>
+          <Patch Number="51"  Name="180:House128bpm"  ProgramChange="51"/>
+          <Patch Number="52"  Name="181:NewAcid Line"  ProgramChange="52"/>
+          <Patch Number="53"  Name="182:Raver Saws"  ProgramChange="53"/>
+          <Patch Number="54"  Name="183:Dist Saws"  ProgramChange="54"/>
+          <Patch Number="55"  Name="184:BoosterBips2"  ProgramChange="55"/>
+          <Patch Number="56"  Name="185:Auto 101"  ProgramChange="56"/>
+          <Patch Number="57"  Name="186:BPF Sweep"  ProgramChange="57"/>
+          <Patch Number="58"  Name="187:Elektrico"  ProgramChange="58"/>
+          <Patch Number="59"  Name="188:What The ??"  ProgramChange="59"/>
+          <Patch Number="60"  Name="189:PlayEuroRiff"  ProgramChange="60"/>
+          <Patch Number="61"  Name="190:MayhemAppegi"  ProgramChange="61"/>
+          <Patch Number="62"  Name="191:AmbientTranz"  ProgramChange="62"/>
+          <Patch Number="63"  Name="192:DanceStrSect"  ProgramChange="63"/>
+          <Patch Number="64"  Name="193:5thIn4th Tri"  ProgramChange="64"/>
+          <Patch Number="65"  Name="194:5th Vox"  ProgramChange="65"/>
+          <Patch Number="66"  Name="195:Kompakt Voic"  ProgramChange="66"/>
+          <Patch Number="67"  Name="196:Resound"  ProgramChange="67"/>
+          <Patch Number="68"  Name="197:StrikeWhstle"  ProgramChange="68"/>
+          <Patch Number="69"  Name="198:Rocket Blast"  ProgramChange="69"/>
+          <Patch Number="70"  Name="199:Future Drain"  ProgramChange="70"/>
+          <Patch Number="71"  Name="200:Foilage"  ProgramChange="71"/>
+          <Patch Number="72"  Name="201:JP-8000 Pad"  ProgramChange="72"/>
+          <Patch Number="73"  Name="202:SynthChord01"  ProgramChange="73"/>
+          <Patch Number="74"  Name="203:PWM"  ProgramChange="74"/>
+          <Patch Number="75"  Name="204:Introductory"  ProgramChange="75"/>
+          <Patch Number="76"  Name="205:Miracle Pad"  ProgramChange="76"/>
+          <Patch Number="77"  Name="206:5th Sweep 2"  ProgramChange="77"/>
+          <Patch Number="78"  Name="207:Choir Sweep"  ProgramChange="78"/>
+          <Patch Number="79"  Name="208:Retro Pad"  ProgramChange="79"/>
+          <Patch Number="80"  Name="209:Beautiful:-]"  ProgramChange="80"/>
+          <Patch Number="81"  Name="210:Steam Pad"  ProgramChange="81"/>
+          <Patch Number="82"  Name="211:AggressiveLd"  ProgramChange="82"/>
+          <Patch Number="83"  Name="212:I know Juno"  ProgramChange="83"/>
+          <Patch Number="84"  Name="213:Def Lead 21"  ProgramChange="84"/>
+          <Patch Number="85"  Name="214:HiPass"  ProgramChange="85"/>
+          <Patch Number="86"  Name="215:DynaPulseLd"  ProgramChange="86"/>
+          <Patch Number="87"  Name="216:Dist Lead"  ProgramChange="87"/>
+          <Patch Number="88"  Name="217:80's Memory"  ProgramChange="88"/>
+          <Patch Number="89"  Name="218:OD SyncLead"  ProgramChange="89"/>
+          <Patch Number="90"  Name="219:80'sTechLead"  ProgramChange="90"/>
+          <Patch Number="91"  Name="220:3-SquareLead"  ProgramChange="91"/>
+          <Patch Number="92"  Name="221:PortaSynLead"  ProgramChange="92"/>
+          <Patch Number="93"  Name="222:Tri Lead"  ProgramChange="93"/>
+          <Patch Number="94"  Name="223:Corrupt Sine"  ProgramChange="94"/>
+          <Patch Number="95"  Name="224:Neonlight"  ProgramChange="95"/>
+          <Patch Number="96"  Name="225:Higher&amp;Highr"  ProgramChange="96"/>
+          <Patch Number="97"  Name="226:Waspy Solo1"  ProgramChange="97"/>
+          <Patch Number="98"  Name="227:Waspy Solo2"  ProgramChange="98"/>
+          <Patch Number="99"  Name="228:Vib Sine"  ProgramChange="99"/>
+          <Patch Number="100"  Name="229:Legato Saw"  ProgramChange="100"/>
+          <Patch Number="101"  Name="230:Wet Saw Ld"  ProgramChange="101"/>
+          <Patch Number="102"  Name="231:Dry BassLead"  ProgramChange="102"/>
+          <Patch Number="103"  Name="232:PluckLead"  ProgramChange="103"/>
+          <Patch Number="104"  Name="233:Comp Piano 2"  ProgramChange="104"/>
+          <Patch Number="105"  Name="234:a Tack Piano"  ProgramChange="105"/>
+          <Patch Number="106"  Name="235:Analog Piano"  ProgramChange="106"/>
+          <Patch Number="107"  Name="236:Tri Rhodes"  ProgramChange="107"/>
+          <Patch Number="108"  Name="237:Pulsing EP"  ProgramChange="108"/>
+          <Patch Number="109"  Name="238:Cool Rhodes"  ProgramChange="109"/>
+          <Patch Number="110"  Name="239:Rhd Chd Menu"  ProgramChange="110"/>
+          <Patch Number="111"  Name="240:Rhd Maj 9th"  ProgramChange="111"/>
+          <Patch Number="112"  Name="241:Rhd Maj 11th"  ProgramChange="112"/>
+          <Patch Number="113"  Name="242:Rhd Min 11th"  ProgramChange="113"/>
+          <Patch Number="114"  Name="243:NoisySynthEP"  ProgramChange="114"/>
+          <Patch Number="115"  Name="244:CompClav/Rls"  ProgramChange="115"/>
+          <Patch Number="116"  Name="245:Comp Clavi"  ProgramChange="116"/>
+          <Patch Number="117"  Name="246:HarmoOrg/Mod"  ProgramChange="117"/>
+          <Patch Number="118"  Name="247:ZigZag Organ"  ProgramChange="118"/>
+          <Patch Number="119"  Name="248:Notre Organ"  ProgramChange="119"/>
+          <Patch Number="120"  Name="249:SpectrumBell"  ProgramChange="120"/>
+          <Patch Number="121"  Name="250:Square Bell1"  ProgramChange="121"/>
+          <Patch Number="122"  Name="251:Square Bell2"  ProgramChange="122"/>
+          <Patch Number="123"  Name="252:ClnGtr Slide"  ProgramChange="123"/>
+          <Patch Number="124"  Name="253:Gtr TrmDown"  ProgramChange="124"/>
+          <Patch Number="125"  Name="254:Waw Chord"  ProgramChange="125"/>
+          <Patch Number="126"  Name="255:Wha Wha Wha"  ProgramChange="126"/>
+          <Patch Number="127"  Name="256:Wha De Da"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-05 Supreme Dance 257-312">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11910"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="257:Fuzz Phaze"  ProgramChange="0"/>
+          <Patch Number="1"  Name="258:Ringmod Ting"  ProgramChange="1"/>
+          <Patch Number="2"  Name="259:BPF Strings"  ProgramChange="2"/>
+          <Patch Number="3"  Name="260:LoFiStringz"  ProgramChange="3"/>
+          <Patch Number="4"  Name="261:LightStrings"  ProgramChange="4"/>
+          <Patch Number="5"  Name="262:Flange Str"  ProgramChange="5"/>
+          <Patch Number="6"  Name="263:4th-LayerStr"  ProgramChange="6"/>
+          <Patch Number="7"  Name="264:LA Pizz"  ProgramChange="7"/>
+          <Patch Number="8"  Name="265:DanceClustor"  ProgramChange="8"/>
+          <Patch Number="9"  Name="266:CaveStrHit"  ProgramChange="9"/>
+          <Patch Number="10"  Name="267:StrChd Menu"  ProgramChange="10"/>
+          <Patch Number="11"  Name="268:StrScaleMaj"  ProgramChange="11"/>
+          <Patch Number="12"  Name="269:StrSpread"  ProgramChange="12"/>
+          <Patch Number="13"  Name="270:EuroBeat Brs"  ProgramChange="13"/>
+          <Patch Number="14"  Name="271:OB Brass 2"  ProgramChange="14"/>
+          <Patch Number="15"  Name="272:Funny Brass"  ProgramChange="15"/>
+          <Patch Number="16"  Name="273:Saws Brass"  ProgramChange="16"/>
+          <Patch Number="17"  Name="274:AnalogMaster"  ProgramChange="17"/>
+          <Patch Number="18"  Name="275:OneKeyMajor"  ProgramChange="18"/>
+          <Patch Number="19"  Name="276:Danz Braz"  ProgramChange="19"/>
+          <Patch Number="20"  Name="277:WindFX Menu"  ProgramChange="20"/>
+          <Patch Number="21"  Name="278:Flute FX 1"  ProgramChange="21"/>
+          <Patch Number="22"  Name="279:Flute FX 2"  ProgramChange="22"/>
+          <Patch Number="23"  Name="280:Flute FX 3"  ProgramChange="23"/>
+          <Patch Number="24"  Name="281:Sax FX 1"  ProgramChange="24"/>
+          <Patch Number="25"  Name="282:Sax FX 2"  ProgramChange="25"/>
+          <Patch Number="26"  Name="283:Sax FX 3"  ProgramChange="26"/>
+          <Patch Number="27"  Name="284:VINYL VOX"  ProgramChange="27"/>
+          <Patch Number="28"  Name="285:PsycheVocals"  ProgramChange="28"/>
+          <Patch Number="29"  Name="286:Vox Menu"  ProgramChange="29"/>
+          <Patch Number="30"  Name="287:Yeah F"  ProgramChange="30"/>
+          <Patch Number="31"  Name="288:Ho F"  ProgramChange="31"/>
+          <Patch Number="32"  Name="289:Oh F"  ProgramChange="32"/>
+          <Patch Number="33"  Name="290:Wow Yeah F"  ProgramChange="33"/>
+          <Patch Number="34"  Name="291:Ring Mod"  ProgramChange="34"/>
+          <Patch Number="35"  Name="292:Hydrolyze"  ProgramChange="35"/>
+          <Patch Number="36"  Name="293:Hydrolyze 2"  ProgramChange="36"/>
+          <Patch Number="37"  Name="294:Danger Zone"  ProgramChange="37"/>
+          <Patch Number="38"  Name="295:Danger Zone2"  ProgramChange="38"/>
+          <Patch Number="39"  Name="296:Horror"  ProgramChange="39"/>
+          <Patch Number="40"  Name="297:Space Scrach"  ProgramChange="40"/>
+          <Patch Number="41"  Name="298:OldSkool FX"  ProgramChange="41"/>
+          <Patch Number="42"  Name="299:Snare Bomb"  ProgramChange="42"/>
+          <Patch Number="43"  Name="300:CymbalMusic"  ProgramChange="43"/>
+          <Patch Number="44"  Name="301:Recollection"  ProgramChange="44"/>
+          <Patch Number="45"  Name="302:Dive Start !"  ProgramChange="45"/>
+          <Patch Number="46"  Name="303:DJ Mayhem"  ProgramChange="46"/>
+          <Patch Number="47"  Name="304:TurnOff>Rev"  ProgramChange="47"/>
+          <Patch Number="48"  Name="305:Scratch 4"  ProgramChange="48"/>
+          <Patch Number="49"  Name="306:Scratch 5"  ProgramChange="49"/>
+          <Patch Number="50"  Name="307:Scratch 6"  ProgramChange="50"/>
+          <Patch Number="51"  Name="308:Scratch 7"  ProgramChange="51"/>
+          <Patch Number="52"  Name="309:Scratch 8"  ProgramChange="52"/>
+          <Patch Number="53"  Name="310:Scratch 9"  ProgramChange="53"/>
+          <Patch Number="54"  Name="311:Scratch 10"  ProgramChange="54"/>
+          <Patch Number="55"  Name="312:Vinyl Nz"  ProgramChange="55"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-05 Supreme Dance Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11780"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:PhatTrak Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:Euro Kit"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:Urban Kit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:Tight Kit"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:BitzOHitzKit"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:Intl.Tek Kit"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:GloblHousKit"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:BreakBts Kit"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:Trip Kit"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:Bright Kit"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:Soulful Kit"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12:LiteStep Kit"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13:4onFloorKit"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14:Street Kit"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15:Machine Kit"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16:LoTek Kit"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17:Solid Kit"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18:TekTrio Kit"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19:TekQuartoKit"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20:Hit Menu"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21:Kick Menu 1"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22:Kick Menu 2"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23:Snare Menu 1"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24:Snare Menu 2"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25:Snare Menu 3"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26:RimShot Menu"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27:Tom Menu"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28:HiHats Menu"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29:Clap Menu"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30:Cymbal Menu"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31:Perc. Menu"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32:FX Menu"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33:SynPerc.Menu"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34:All TR Menu"  ProgramChange="33"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-06 Complete Orchestra Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11783"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:Orch. Kit 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:Orch. Kit 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:Melo OrchKit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:GM AssignKit"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:All Orch Kit"  ProgramChange="4"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-07 Ultimate Keys Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11787"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:Ring Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:Slam Kit"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:Verb Kit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:Slap Kit"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:RockOn Kit"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:DryFat Kit"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:LiteFunk Kit"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:Warm Kit"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:HiTune Kit"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:AnalogRhyKit"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:AllRhy Menu"  ProgramChange="10"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-08 Platinum Trax Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11791"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:Techno Kit 2"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:HipHop Kit"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:House Kit 2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:Trance Kit"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:DnB Kit"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:BrekBeatsKit"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:R&amp;B Kit 3"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:TR-909 Kit"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:TR-808 Kit"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:TR606/707Kit"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:Kick Menu"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12:Snare1 Menu"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13:Snr2&amp;RimMenu"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14:HHat&amp;TomMenu"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15:Cym&amp;Clp Menu"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16:Hit&amp;StabMenu"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17:Perc. Menu"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18:Vox Menu"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19:FX Menu"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20:Beat Menu 1"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21:Beat Menu 2"  ProgramChange="20"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SRX-09 World Collection Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11795"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:LatinDrmKit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:AsiaDrm Kit"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:IndiaDrmKit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:MidEastDrKit"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:World Phrase"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:Gtr Phrase"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:Latin Menu1"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:Latin Menu2"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:Latin Menu3"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:Asia Menu"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:India Menu"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12:MidEast Menu"  ProgramChange="11"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Roland SRX-01 Dynamic Drum Kits 1-79">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="11393"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="DDrum:01 Poppin Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="DDrum:02 Std Rock1 KIT"  ProgramChange="1"/>
+          <Patch Number="2"  Name="DDrum:03 TightRckKIT"  ProgramChange="2"/>
+          <Patch Number="3"  Name="DDrum:04 StudioJz KIT"  ProgramChange="3"/>
+          <Patch Number="4"  Name="DDrum:05 Latin KIT"  ProgramChange="4"/>
+          <Patch Number="5"  Name="DDrum:06 BigRock1 KIT"  ProgramChange="5"/>
+          <Patch Number="6"  Name="DDrum:07 Pwr Blld KIT"  ProgramChange="6"/>
+          <Patch Number="7"  Name="DDrum:08 TightRck2KIT"  ProgramChange="7"/>
+          <Patch Number="8"  Name="DDrum:09 Dry Rock KIT"  ProgramChange="8"/>
+          <Patch Number="9"  Name="DDrum:10 StdRock2KIT"  ProgramChange="9"/>
+          <Patch Number="10"  Name="DDrum:11 OhbabyRckKIT"  ProgramChange="10"/>
+          <Patch Number="11"  Name="DDrum:12 StudioFatKIT"  ProgramChange="11"/>
+          <Patch Number="12"  Name="DDrum:13 RoomBlld KIT"  ProgramChange="12"/>
+          <Patch Number="13"  Name="DDrum:14 Big BlldKIT"  ProgramChange="13"/>
+          <Patch Number="14"  Name="DDrum:15 BigRock2 KIT"  ProgramChange="14"/>
+          <Patch Number="15"  Name="DDrum:16 All Beef KIT"  ProgramChange="15"/>
+          <Patch Number="16"  Name="DDrum:17 Disco KIT"  ProgramChange="16"/>
+          <Patch Number="17"  Name="DDrum:18 VintagFnkKIT"  ProgramChange="17"/>
+          <Patch Number="18"  Name="DDrum:19 Phunque KIT"  ProgramChange="18"/>
+          <Patch Number="19"  Name="DDrum:20 70JzFunk KIT"  ProgramChange="19"/>
+          <Patch Number="20"  Name="DDrum:21 Jazz Mix KIT"  ProgramChange="20"/>
+          <Patch Number="21"  Name="DDrum:22 Dynbrush KIT"  ProgramChange="21"/>
+          <Patch Number="22"  Name="DDrum:23 70'sBrushKIT"  ProgramChange="22"/>
+          <Patch Number="23"  Name="DDrum:24 PwrBrush KIT"  ProgramChange="23"/>
+          <Patch Number="24"  Name="DDrum:25 Latin Dry K"  ProgramChange="24"/>
+          <Patch Number="25"  Name="DDrum:26 Cool Dry K"  ProgramChange="25"/>
+          <Patch Number="26"  Name="DDrum:27 Disco/Funk K"  ProgramChange="26"/>
+          <Patch Number="27"  Name="DDrum:28 Old Funk K"  ProgramChange="27"/>
+          <Patch Number="28"  Name="DDrum:29 Power Rock K"  ProgramChange="28"/>
+          <Patch Number="29"  Name="DDrum:30 StudioRock K"  ProgramChange="29"/>
+          <Patch Number="30"  Name="DDrum:31 StreetRock K"  ProgramChange="30"/>
+          <Patch Number="31"  Name="DDrum:32 Big Rock K"  ProgramChange="31"/>
+          <Patch Number="32"  Name="DDrum:33 Wham Bam K"  ProgramChange="32"/>
+          <Patch Number="33"  Name="DDrum:34 StandrdJaz K"  ProgramChange="33"/>
+          <Patch Number="34"  Name="DDrum:35 Jazz Soul K"  ProgramChange="34"/>
+          <Patch Number="35"  Name="DDrum:36 Old Funk Sn"  ProgramChange="35"/>
+          <Patch Number="36"  Name="DDrum:37 70Phunque Sn"  ProgramChange="36"/>
+          <Patch Number="37"  Name="DDrum:38 Latin Sn"  ProgramChange="37"/>
+          <Patch Number="38"  Name="DDrum:39 HiPiccolo Sn"  ProgramChange="38"/>
+          <Patch Number="39"  Name="DDrum:40 Tight Sn"  ProgramChange="39"/>
+          <Patch Number="40"  Name="DDrum:41 Std Rock1 Sn"  ProgramChange="40"/>
+          <Patch Number="41"  Name="DDrum:42 Std Rock2 Sn"  ProgramChange="41"/>
+          <Patch Number="42"  Name="DDrum:43 OhBaby Rck Sn"  ProgramChange="42"/>
+          <Patch Number="43"  Name="DDrum:44 Poppin Sn"  ProgramChange="43"/>
+          <Patch Number="44"  Name="DDrum:45 StudioFat Sn"  ProgramChange="44"/>
+          <Patch Number="45"  Name="DDrum:46 JazzStick Sn"  ProgramChange="45"/>
+          <Patch Number="46"  Name="DDrum:47 StudioJz Sn"  ProgramChange="46"/>
+          <Patch Number="47"  Name="DDrum:48 Ballad Sn"  ProgramChange="47"/>
+          <Patch Number="48"  Name="DDrum:49 PwrBallad Sn"  ProgramChange="48"/>
+          <Patch Number="49"  Name="DDrum:50 AllBeef Sn"  ProgramChange="49"/>
+          <Patch Number="50"  Name="DDrum:51 Big Rock Sn"  ProgramChange="50"/>
+          <Patch Number="51"  Name="DDrum:52 70's BrushSn"  ProgramChange="51"/>
+          <Patch Number="52"  Name="DDrum:53 JazzBrush Sn"  ProgramChange="52"/>
+          <Patch Number="53"  Name="DDrum:54 Latin Tom"  ProgramChange="53"/>
+          <Patch Number="54"  Name="DDrum:55 Tight Tom"  ProgramChange="54"/>
+          <Patch Number="55"  Name="DDrum:56 JzStck Tom"  ProgramChange="55"/>
+          <Patch Number="56"  Name="DDrum:57 Old Funk Tom"  ProgramChange="56"/>
+          <Patch Number="57"  Name="DDrum:58 Oh Baby Tom"  ProgramChange="57"/>
+          <Patch Number="58"  Name="DDrum:59 PwrBallad Tom"  ProgramChange="58"/>
+          <Patch Number="59"  Name="DDrum:60 Big Rock Tom"  ProgramChange="59"/>
+          <Patch Number="60"  Name="DDrum:61 Old Brush Tom"  ProgramChange="60"/>
+          <Patch Number="61"  Name="DDrum:62 Oh Baby Hat"  ProgramChange="61"/>
+          <Patch Number="62"  Name="DDrum:63 JzStick Hat"  ProgramChange="62"/>
+          <Patch Number="63"  Name="DDrum:64 Latin Hat"  ProgramChange="63"/>
+          <Patch Number="64"  Name="DDrum:65 Disco Hat"  ProgramChange="64"/>
+          <Patch Number="65"  Name="DDrum:66 Old Funk Hat"  ProgramChange="65"/>
+          <Patch Number="66"  Name="DDrum:67 Street Hat"  ProgramChange="66"/>
+          <Patch Number="67"  Name="DDrum:68 Big Rock Hat"  ProgramChange="67"/>
+          <Patch Number="68"  Name="DDrum:69 OldBrush Hat"  ProgramChange="68"/>
+          <Patch Number="69"  Name="DDrum:70 Stndrd Crash"  ProgramChange="69"/>
+          <Patch Number="70"  Name="DDrum:71 Jazz Crash"  ProgramChange="70"/>
+          <Patch Number="71"  Name="DDrum:72 Rock Crash"  ProgramChange="71"/>
+          <Patch Number="72"  Name="DDrum:73 Ballad Crash"  ProgramChange="72"/>
+          <Patch Number="73"  Name="DDrum:74 Brush Crash"  ProgramChange="73"/>
+          <Patch Number="74"  Name="DDrum:75 Jazz Ride"  ProgramChange="74"/>
+          <Patch Number="75"  Name="DDrum:76 Rock Ride"  ProgramChange="75"/>
+          <Patch Number="76"  Name="DDrum:77 Ballad Ride"  ProgramChange="76"/>
+          <Patch Number="77"  Name="DDrum:78 Latin Ride"  ProgramChange="77"/>
+          <Patch Number="78"  Name="DDrum:79 Brush Ride"  ProgramChange="78"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
-     <Note Number="1"  Name="1=DDrum:02 Std Rock1 KIT"/>
-     <Note Number="2"  Name="2=DDrum:03 TightRckKIT"/>
-     <Note Number="3"  Name="3=DDrum:04 StudioJz KIT"/>
-     <Note Number="4"  Name="4=DDrum:05 Latin KIT"/>
-     <Note Number="5"  Name="5=DDrum:06 BigRock1 KIT"/>
-     <Note Number="6"  Name="6=DDrum:07 Pwr Blld KIT"/>
-     <Note Number="7"  Name="7=DDrum:08 TightRck2KIT"/>
-     <Note Number="8"  Name="8=DDrum:09 Dry Rock KIT"/>
-     <Note Number="9"  Name="9=DDrum:10 StdRock2KIT"/>
-     <Note Number="10"  Name="0=DDrum:11 OhbabyRckKIT"/>
-     <Note Number="11"  Name="1=DDrum:12 StudioFatKIT"/>
-     <Note Number="12"  Name="2=DDrum:13 RoomBlld KIT"/>
-     <Note Number="13"  Name="3=DDrum:14 Big BlldKIT"/>
-     <Note Number="14"  Name="4=DDrum:15 BigRock2 KIT"/>
-     <Note Number="15"  Name="5=DDrum:16 All Beef KIT"/>
-     <Note Number="16"  Name="6=DDrum:17 Disco KIT"/>
-     <Note Number="17"  Name="7=DDrum:18 VintagFnkKIT"/>
-     <Note Number="18"  Name="8=DDrum:19 Phunque KIT"/>
-     <Note Number="19"  Name="9=DDrum:20 70JzFunk KIT"/>
-     <Note Number="20"  Name="0=DDrum:21 Jazz Mix KIT"/>
-     <Note Number="21"  Name="1=DDrum:22 Dynbrush KIT"/>
-     <Note Number="22"  Name="2=DDrum:23 70'sBrushKIT"/>
-     <Note Number="23"  Name="3=DDrum:24 PwrBrush KIT"/>
-     <Note Number="24"  Name="4=DDrum:25 Latin Dry K"/>
-     <Note Number="25"  Name="5=DDrum:26 Cool Dry K"/>
-     <Note Number="26"  Name="6=DDrum:27 Disco/Funk K"/>
-     <Note Number="27"  Name="7=DDrum:28 Old Funk K"/>
-     <Note Number="28"  Name="8=DDrum:29 Power Rock K"/>
-     <Note Number="29"  Name="9=DDrum:30 StudioRock K"/>
-     <Note Number="30"  Name="0=DDrum:31 StreetRock K"/>
-     <Note Number="31"  Name="1=DDrum:32 Big Rock K"/>
-     <Note Number="32"  Name="2=DDrum:33 Wham Bam K"/>
-     <Note Number="33"  Name="3=DDrum:34 StandrdJaz K"/>
-     <Note Number="34"  Name="4=DDrum:35 Jazz Soul K"/>
-     <Note Number="35"  Name="5=DDrum:36 Old Funk Sn"/>
-     <Note Number="36"  Name="6=DDrum:37 70Phunque Sn"/>
-     <Note Number="37"  Name="7=DDrum:38 Latin Sn"/>
-     <Note Number="38"  Name="8=DDrum:39 HiPiccolo Sn"/>
-     <Note Number="39"  Name="9=DDrum:40 Tight Sn"/>
-     <Note Number="40"  Name="0=DDrum:41 Std Rock1 Sn"/>
-     <Note Number="41"  Name="1=DDrum:42 Std Rock2 Sn"/>
-     <Note Number="42"  Name="2=DDrum:43 OhBaby Rck Sn"/>
-     <Note Number="43"  Name="3=DDrum:44 Poppin Sn"/>
-     <Note Number="44"  Name="4=DDrum:45 StudioFat Sn"/>
-     <Note Number="45"  Name="5=DDrum:46 JazzStick Sn"/>
-     <Note Number="46"  Name="6=DDrum:47 StudioJz Sn"/>
-     <Note Number="47"  Name="7=DDrum:48 Ballad Sn"/>
-     <Note Number="48"  Name="8=DDrum:49 PwrBallad Sn"/>
-     <Note Number="49"  Name="9=DDrum:50 AllBeef Sn"/>
-     <Note Number="50"  Name="0=DDrum:51 Big Rock Sn"/>
-     <Note Number="51"  Name="1=DDrum:52 70's BrushSn"/>
-     <Note Number="52"  Name="2=DDrum:53 JazzBrush Sn"/>
-     <Note Number="53"  Name="3=DDrum:54 Latin Tom"/>
-     <Note Number="54"  Name="4=DDrum:55 Tight Tom"/>
-     <Note Number="55"  Name="5=DDrum:56 JzStck Tom"/>
-     <Note Number="56"  Name="6=DDrum:57 Old Funk Tom"/>
-     <Note Number="57"  Name="7=DDrum:58 Oh Baby Tom"/>
-     <Note Number="58"  Name="8=DDrum:59 PwrBallad Tom"/>
-     <Note Number="59"  Name="9=DDrum:60 Big Rock Tom"/>
-     <Note Number="60"  Name="0=DDrum:61 Old Brush Tom"/>
-     <Note Number="61"  Name="1=DDrum:62 Oh Baby Hat"/>
-     <Note Number="62"  Name="2=DDrum:63 JzStick Hat"/>
-     <Note Number="63"  Name="3=DDrum:64 Latin Hat"/>
-     <Note Number="64"  Name="4=DDrum:65 Disco Hat"/>
-     <Note Number="65"  Name="5=DDrum:66 Old Funk Hat"/>
-     <Note Number="66"  Name="6=DDrum:67 Street Hat"/>
-     <Note Number="67"  Name="7=DDrum:68 Big Rock Hat"/>
-     <Note Number="68"  Name="8=DDrum:69 OldBrush Hat"/>
-     <Note Number="69"  Name="9=DDrum:70 Stndrd Crash"/>
-     <Note Number="70"  Name="0=DDrum:71 Jazz Crash"/>
-     <Note Number="71"  Name="1=DDrum:72 Rock Crash"/>
-     <Note Number="72"  Name="2=DDrum:73 Ballad Crash"/>
-     <Note Number="73"  Name="3=DDrum:74 Brush Crash"/>
-     <Note Number="74"  Name="4=DDrum:75 Jazz Ride"/>
-     <Note Number="75"  Name="5=DDrum:76 Rock Ride"/>
-     <Note Number="76"  Name="6=DDrum:77 Ballad Ride"/>
-     <Note Number="77"  Name="7=DDrum:78 Latin Ride"/>
-     <Note Number="78"  Name="8=DDrum:79 Brush Ride"/>
-    </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Roland SRX-01 Dynamic Drum Kits 1-41">
      <Note Number="1"  Name="1=DDrum:02 Kick 2 Menu"/>
      <Note Number="2"  Name="2=DDrum:03 Kick 3 Menu"/>
      <Note Number="3"  Name="3=DDrum:04 Kick 4 Menu"/>
@@ -2913,7 +3535,7 @@
      <Note Number="39"  Name="9=DDrum:40 Ride Menu"/>
      <Note Number="40"  Name="0=DDrum:41 OtherCym Menu"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="1:Poppin KIT">
      <Note Number="29"  Name="9=StdRckK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70NtrlK 2"/>
@@ -2986,7 +3608,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="2:StdRock1 KIT">
      <Note Number="29"  Name="9=StdRckK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70NtrlK 2"/>
@@ -3059,7 +3681,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="3:TightRck1KIT">
      <Note Number="29"  Name="9=70PhnqK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=ColDwnK"/>
@@ -3132,7 +3754,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="4:StudioJz KIT">
      <Note Number="29"  Name="9=OldFnkK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=JzSoulK"/>
@@ -3205,7 +3827,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="5:Latin KIT">
      <Note Number="29"  Name="9=OhBabyK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70NtrlK"/>
@@ -3278,7 +3900,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="6:BigRock1 KIT">
      <Note Number="29"  Name="9=OhBabyK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=PwrBldK"/>
@@ -3351,7 +3973,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="7:Pwr Blld KIT">
      <Note Number="29"  Name="9=ColDwnK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70PhnqK 2"/>
@@ -3424,7 +4046,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="8:TightRck2KIT">
      <Note Number="29"  Name="9=70PhnqK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=ColDwnK"/>
@@ -3497,7 +4119,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="9:Dry Rock KIT">
      <Note Number="29"  Name="9=Disco K"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70PhnqK 2"/>
@@ -3570,7 +4192,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="10:StdRock2 KIT">
      <Note Number="29"  Name="9=OhBabyK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70NtrlK 2"/>
@@ -3643,7 +4265,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="11:OhBabyRckKIT">
      <Note Number="29"  Name="9=Disco K"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=StudioK"/>
@@ -3716,7 +4338,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="12:StudioFatKIT">
      <Note Number="29"  Name="9=PwrBldK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=OhBabyK"/>
@@ -3789,7 +4411,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="13:RoomBlld KIT">
      <Note Number="29"  Name="9=Disco K"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70PhnqK"/>
@@ -3862,7 +4484,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="14:Big Blld KIT">
      <Note Number="29"  Name="9=StdRckK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70NtrlK"/>
@@ -3935,7 +4557,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="15:BigRock2 KIT">
      <Note Number="29"  Name="9=OhBabyK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=PwrBldK"/>
@@ -4008,7 +4630,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="16:All Beef KIT">
      <Note Number="29"  Name="9=PwrBldK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Rock Kick"/>
@@ -4081,7 +4703,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="17:Disco KIT">
      <Note Number="29"  Name="9=StdRckK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=OldFnkK 2"/>
@@ -4154,7 +4776,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="18:VintagFnkKIT">
      <Note Number="29"  Name="9=70PhnqK 2"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70NtrlK"/>
@@ -4227,7 +4849,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="19:Phunque KIT">
      <Note Number="29"  Name="9=70PhnqK 2"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70NtrlK"/>
@@ -4300,7 +4922,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="20:70JzFunk KIT">
      <Note Number="29"  Name="9=StudioK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=70NtrlK"/>
@@ -4373,7 +4995,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="21:Jazz Mix KIT">
      <Note Number="29"  Name="9=70NtrlK"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=OldJazK"/>
@@ -4446,7 +5068,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="22:DynBrush KIT">
      <Note Number="29"  Name="9=70NtrlK"/>
      <Note Number="30"  Name="0=Jazz Swish"/>
      <Note Number="31"  Name="1=OldJazK"/>
@@ -4519,7 +5141,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="23:70'sBrushKIT">
      <Note Number="29"  Name="9=JzSoulK"/>
      <Note Number="30"  Name="0=Jazz Swish"/>
      <Note Number="31"  Name="1=OldJazK"/>
@@ -4592,7 +5214,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="24:PwrBrush KIT">
      <Note Number="29"  Name="9=StdRckK"/>
      <Note Number="30"  Name="0=Jazz Swish"/>
      <Note Number="31"  Name="1=JzSoulK"/>
@@ -4665,210 +5287,210 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="25:Latin Dry K">
      <Note Number="29"  Name="9=RoomJzK"/>
      <Note Number="31"  Name="1=Disco K"/>
      <Note Number="33"  Name="3=ColDwnK"/>
      <Note Number="35"  Name="5=70NtrlK"/>
      <Note Number="36"  Name="6=Latin K"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="26:Cool Dry K">
      <Note Number="29"  Name="9=Disco K"/>
      <Note Number="31"  Name="1=OldFnkK"/>
      <Note Number="33"  Name="3=Latin K"/>
      <Note Number="35"  Name="5=ColDwnK"/>
      <Note Number="36"  Name="6=70NtrlK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="27:Disco/Funk K">
      <Note Number="29"  Name="9=ColDwnK"/>
      <Note Number="31"  Name="1=70NtrlK"/>
      <Note Number="33"  Name="3=OldFnkK"/>
      <Note Number="35"  Name="5=Disco K"/>
      <Note Number="36"  Name="6=70PhnqK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="28:Old Funk K">
      <Note Number="29"  Name="9=70PhnqK"/>
      <Note Number="31"  Name="1=70NtrlK"/>
      <Note Number="33"  Name="3=RoomJzK"/>
      <Note Number="35"  Name="5=JzSoulK"/>
      <Note Number="36"  Name="6=OldFnkK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="29:Power Rock K">
      <Note Number="29"  Name="9=StudioK"/>
      <Note Number="31"  Name="1=StdRckK"/>
      <Note Number="33"  Name="3=StreetK"/>
      <Note Number="35"  Name="5=PwrBldK"/>
      <Note Number="36"  Name="6=OhBabyK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="30:StudioRock K">
      <Note Number="29"  Name="9=OhBabyK"/>
      <Note Number="31"  Name="1=PwrBldK"/>
      <Note Number="33"  Name="3=StreetK"/>
      <Note Number="35"  Name="5=StudioK"/>
      <Note Number="36"  Name="6=StdRckK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="31:StreetRock K">
      <Note Number="29"  Name="9=Disco K"/>
      <Note Number="31"  Name="1=OhBabyK"/>
      <Note Number="33"  Name="3=StudioK"/>
      <Note Number="35"  Name="5=StdRckK"/>
      <Note Number="36"  Name="6=StreetK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="32:Big Rock K">
      <Note Number="29"  Name="9=OhBabyK"/>
      <Note Number="31"  Name="1=StdRckK"/>
      <Note Number="33"  Name="3=WhamBmK"/>
      <Note Number="35"  Name="5=B.DeepK"/>
      <Note Number="36"  Name="6=BigRckK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="33:Wham Bam K">
      <Note Number="29"  Name="9=OhBabyK"/>
      <Note Number="31"  Name="1=StdRckK"/>
      <Note Number="33"  Name="3=B.DeepK"/>
      <Note Number="35"  Name="5=BigRckK"/>
      <Note Number="36"  Name="6=WhamBmK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="34:StandrdJaz K">
      <Note Number="29"  Name="9=OldFnkK"/>
      <Note Number="31"  Name="1=RoomJzK"/>
      <Note Number="33"  Name="3=JzSoulK"/>
      <Note Number="35"  Name="5=StdJazK"/>
      <Note Number="36"  Name="6=OldJazK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="35:Jazz Soul K">
      <Note Number="29"  Name="9=OhBabyK"/>
      <Note Number="31"  Name="1=OldJazK"/>
      <Note Number="33"  Name="3=StdJazK"/>
      <Note Number="35"  Name="5=RoomJzK"/>
      <Note Number="36"  Name="6=JzSoulK"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="36:Old Funk Sn">
      <Note Number="32"  Name="2=OldFnkS flm1"/>
      <Note Number="37"  Name="7=OldFnkS stk"/>
      <Note Number="38"  Name="8=OldFnkS 1"/>
      <Note Number="39"  Name="9=OldFnkS flm2"/>
      <Note Number="40"  Name="0=OldFnkS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="37:70Phunque Sn">
      <Note Number="32"  Name="2=OldFnkS flm1"/>
      <Note Number="37"  Name="7=70PhunqStk"/>
      <Note Number="38"  Name="8=OldFnkS 1"/>
      <Note Number="39"  Name="9=OldFnkS flm2"/>
      <Note Number="40"  Name="0=OldFnkS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="38:Latin Sn">
      <Note Number="32"  Name="2=Latin S flm1"/>
      <Note Number="37"  Name="7=Latin S stk"/>
      <Note Number="38"  Name="8=Latin S 1"/>
      <Note Number="39"  Name="9=Latin S flm2"/>
      <Note Number="40"  Name="0=Latin S 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="39:HiPiccolo Sn">
      <Note Number="32"  Name="2=HiPiccS flm1"/>
      <Note Number="37"  Name="7=HiPiccS stk"/>
      <Note Number="38"  Name="8=HiPiccS 1"/>
      <Note Number="39"  Name="9=HiPiccS flm2"/>
      <Note Number="40"  Name="0=HiPiccS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="40:Tight Sn">
      <Note Number="32"  Name="2=Tight S flm"/>
      <Note Number="37"  Name="7=HiPiccS stk"/>
      <Note Number="38"  Name="8=Tight S 1"/>
      <Note Number="39"  Name="9=Tight S flm"/>
      <Note Number="40"  Name="0=Tight S 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="41:Std Rock1 Sn">
      <Note Number="32"  Name="2=StdRk1S flm1"/>
      <Note Number="37"  Name="7=StdFatS stk"/>
      <Note Number="38"  Name="8=StdRk1S 1"/>
      <Note Number="39"  Name="9=StdRk1S flm2"/>
      <Note Number="40"  Name="0=StdRk1S 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="42:Std Rock2 Sn">
      <Note Number="32"  Name="2=StdRk2S flm1"/>
      <Note Number="37"  Name="7=StdRk2S stk"/>
      <Note Number="38"  Name="8=StdRk2S 1"/>
      <Note Number="39"  Name="9=StdRk2S flm2"/>
      <Note Number="40"  Name="0=StdRk2S 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="43:OhBabyRck Sn">
      <Note Number="32"  Name="2=OhBabyS flm1"/>
      <Note Number="37"  Name="7=OhBabyS stk"/>
      <Note Number="38"  Name="8=OhBabyS 1"/>
      <Note Number="39"  Name="9=OhBabyS flm2"/>
      <Note Number="40"  Name="0=OhBabyS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="44:Poppin Sn">
      <Note Number="32"  Name="2=PoppinS flm1"/>
      <Note Number="37"  Name="7=PoppinS stk"/>
      <Note Number="38"  Name="8=PoppinS 1"/>
      <Note Number="39"  Name="9=PoppinS flm2"/>
      <Note Number="40"  Name="0=PoppinS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="45:StudioFat Sn">
      <Note Number="32"  Name="2=StdFatS flm1"/>
      <Note Number="37"  Name="7=StdFatS stk"/>
      <Note Number="38"  Name="8=StdFatS 1"/>
      <Note Number="39"  Name="9=StdFatS flm2"/>
      <Note Number="40"  Name="0=StdFatS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="46:JazzStick Sn">
      <Note Number="32"  Name="2=JazStkS flm1"/>
      <Note Number="37"  Name="7=JazStkS stk"/>
      <Note Number="38"  Name="8=JazStkS 1"/>
      <Note Number="39"  Name="9=JazStkS flm2"/>
      <Note Number="40"  Name="0=JazStkS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="47:StudioJz Sn">
      <Note Number="32"  Name="2=StdJazS flm1"/>
      <Note Number="37"  Name="7=StdJazS stk"/>
      <Note Number="38"  Name="8=StdJazS 1"/>
      <Note Number="39"  Name="9=StdJazS flm2"/>
      <Note Number="40"  Name="0=StdJazS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="48:Ballad Sn">
      <Note Number="32"  Name="2=BalladS flm1"/>
      <Note Number="37"  Name="7=BalladS stk"/>
      <Note Number="38"  Name="8=BalladS 1"/>
      <Note Number="39"  Name="9=BalladS flm2"/>
      <Note Number="40"  Name="0=BalladS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="49:PwrBallad Sn">
      <Note Number="32"  Name="2=PwrBldS flm1"/>
      <Note Number="37"  Name="7=PwrBldS stk"/>
      <Note Number="38"  Name="8=PwrBldS 1"/>
      <Note Number="39"  Name="9=PwrBldS flm2"/>
      <Note Number="40"  Name="0=PwrBldS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="50:All Beef Sn">
      <Note Number="32"  Name="2=AlBeefS flm1"/>
      <Note Number="37"  Name="7=AlBeefS stk"/>
      <Note Number="38"  Name="8=AlBeefS 1"/>
      <Note Number="39"  Name="9=AlBeefS flm2"/>
      <Note Number="40"  Name="0=AlBeefS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="51:Big Rock Sn">
      <Note Number="32"  Name="2=BigRckS flm1"/>
      <Note Number="37"  Name="7=BigRckS stk"/>
      <Note Number="38"  Name="8=BigRckS 1"/>
      <Note Number="39"  Name="9=BigRckS flm2"/>
      <Note Number="40"  Name="0=BigRckS 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="52:70's BrushSn">
      <Note Number="32"  Name="2=BrshSwshSlap"/>
      <Note Number="37"  Name="7=JazStkS stk"/>
      <Note Number="38"  Name="8=70BrshS swsh"/>
      <Note Number="39"  Name="9=70BrshS swep"/>
      <Note Number="40"  Name="0=70BrshS tap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="53:JazzBrush Sn">
      <Note Number="32"  Name="2=BrshSwshSlap"/>
      <Note Number="37"  Name="7=JazStkS stk"/>
      <Note Number="38"  Name="8=JzBrshS swsh"/>
      <Note Number="39"  Name="9=JzBrshS swep"/>
      <Note Number="40"  Name="0=JzBrshS tap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="54:Latin Tom">
      <Note Number="43"  Name="3=Latin T3"/>
      <Note Number="45"  Name="5=Latin T2"/>
      <Note Number="47"  Name="7=Latin T2"/>
@@ -4881,7 +5503,7 @@
      <Note Number="60"  Name="0=Latin T1 flm"/>
      <Note Number="62"  Name="2=Latin T1 flm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="55:Tight Tom">
      <Note Number="43"  Name="3=Tight T3"/>
      <Note Number="45"  Name="5=Tight T2"/>
      <Note Number="47"  Name="7=Tight T2"/>
@@ -4894,7 +5516,7 @@
      <Note Number="60"  Name="0=Tight T1 flm"/>
      <Note Number="62"  Name="2=Tight T1 flm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="56:JzStick Tom">
      <Note Number="43"  Name="3=JazStkT3"/>
      <Note Number="45"  Name="5=JazStkT2"/>
      <Note Number="47"  Name="7=JazStkT2"/>
@@ -4907,7 +5529,7 @@
      <Note Number="60"  Name="0=JazStkT1 flm"/>
      <Note Number="62"  Name="2=JazStkT1 flm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="57:Old Funk Tom">
      <Note Number="43"  Name="3=OldFnkT3"/>
      <Note Number="45"  Name="5=OldFnkT2"/>
      <Note Number="47"  Name="7=OldFnkT2"/>
@@ -4920,7 +5542,7 @@
      <Note Number="60"  Name="0=JazStkT1 flm"/>
      <Note Number="62"  Name="2=JazStkT1 flm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="58:Oh Baby Tom">
      <Note Number="43"  Name="3=OhBabyT3"/>
      <Note Number="45"  Name="5=OhBabyT2"/>
      <Note Number="47"  Name="7=OhBabyT2"/>
@@ -4933,7 +5555,7 @@
      <Note Number="60"  Name="0=OhBabyT1 flm"/>
      <Note Number="62"  Name="2=OhBabyT1 flm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="59:PwrBalladTom">
      <Note Number="43"  Name="3=PwrBldT3"/>
      <Note Number="45"  Name="5=PwrBldT2"/>
      <Note Number="47"  Name="7=PwrBldT2"/>
@@ -4946,7 +5568,7 @@
      <Note Number="60"  Name="0=PwrBldT1 flm"/>
      <Note Number="62"  Name="2=PwrBldT1 flm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="60:Big Rock Tom">
      <Note Number="43"  Name="3=BigRckT3"/>
      <Note Number="45"  Name="5=BigRckT2"/>
      <Note Number="47"  Name="7=BigRckT2"/>
@@ -4959,7 +5581,7 @@
      <Note Number="60"  Name="0=BigRckT1 flm"/>
      <Note Number="62"  Name="2=BigRckT1 flm"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="61:OldBrush Tom">
      <Note Number="43"  Name="3=OldBrsT3"/>
      <Note Number="45"  Name="5=OldBrsT2"/>
      <Note Number="47"  Name="7=OldBrsT2"/>
@@ -4972,47 +5594,47 @@
      <Note Number="60"  Name="0=OldBrsT1"/>
      <Note Number="62"  Name="2=OldBrsT1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="62:Oh Baby Hat">
      <Note Number="42"  Name="2=OhBabyH cl1"/>
      <Note Number="44"  Name="4=OhBabyH cl2"/>
      <Note Number="46"  Name="6=OhBabyH op"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="63:JzStick Hat">
      <Note Number="42"  Name="2=JazStkH cl1"/>
      <Note Number="44"  Name="4=JazStkH cl2"/>
      <Note Number="46"  Name="6=JazStkH op"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="64:Latin Hat">
      <Note Number="42"  Name="2=Latin H cl1"/>
      <Note Number="44"  Name="4=Latin H cl2"/>
      <Note Number="46"  Name="6=Latin H op"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="65:Disco Hat">
      <Note Number="42"  Name="2=Disco H cl1"/>
      <Note Number="44"  Name="4=Disco H cl2"/>
      <Note Number="46"  Name="6=Disco H op"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="66:Old Funk Hat">
      <Note Number="42"  Name="2=OldFnkH cl1"/>
      <Note Number="44"  Name="4=OldFnkH cl2"/>
      <Note Number="46"  Name="6=OldFnkH op"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="67:Street Hat">
      <Note Number="42"  Name="2=StreetH cl1"/>
      <Note Number="44"  Name="4=StreetH cl2"/>
      <Note Number="46"  Name="6=StreetH op"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="68:Big Rock Hat">
      <Note Number="42"  Name="2=BigRckH cl1"/>
      <Note Number="44"  Name="4=BigRckH cl2"/>
      <Note Number="46"  Name="6=BigRckH op"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="69:OldBrush Hat">
      <Note Number="42"  Name="2=OldBrsH cl1"/>
      <Note Number="44"  Name="4=OldBrsH cl2"/>
      <Note Number="46"  Name="6=OldBrsH op"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="70:Stndrd Crash">
      <Note Number="52"  Name="2=StreetCr"/>
      <Note Number="54"  Name="4=Crash Cym 2"/>
      <Note Number="56"  Name="6=Light Splsh"/>
@@ -5020,7 +5642,7 @@
      <Note Number="61"  Name="1=JazStkCr"/>
      <Note Number="64"  Name="4=BalladSplsh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="71:Jazz Crash">
      <Note Number="52"  Name="2=BalladCr"/>
      <Note Number="54"  Name="4=StreetCr"/>
      <Note Number="56"  Name="6=Light Splsh"/>
@@ -5028,7 +5650,7 @@
      <Note Number="61"  Name="1=BalladCr"/>
      <Note Number="64"  Name="4=BalladSplsh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="72:Rock Crash">
      <Note Number="52"  Name="2=StreetCr 1"/>
      <Note Number="54"  Name="4=StreetCr 2"/>
      <Note Number="56"  Name="6=BalladSplsh"/>
@@ -5036,7 +5658,7 @@
      <Note Number="61"  Name="1=JazStkCr"/>
      <Note Number="64"  Name="4=Light Splsh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="73:Ballad Crash">
      <Note Number="52"  Name="2=StreetCr"/>
      <Note Number="54"  Name="4=JazStkCr"/>
      <Note Number="56"  Name="6=BalladSplsh"/>
@@ -5044,7 +5666,7 @@
      <Note Number="61"  Name="1=StreetCr"/>
      <Note Number="64"  Name="4=Light Splsh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="74:Brush Crash">
      <Note Number="52"  Name="2=OldBrsh Cr 2"/>
      <Note Number="54"  Name="4=JazStkCr"/>
      <Note Number="56"  Name="6=Light Splsh"/>
@@ -5052,22 +5674,22 @@
      <Note Number="61"  Name="1=BalladCr"/>
      <Note Number="64"  Name="4=BalladSplsh"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="75:Jazz Ride">
      <Note Number="63"  Name="3=SizzleRd"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="76:Rock Ride">
      <Note Number="63"  Name="3=JazStkRd"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="77:Ballad Ride">
      <Note Number="63"  Name="3=JazStkRd"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="78:Latin Ride">
      <Note Number="63"  Name="3=SizzleRd"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="79:Brush Ride">
      <Note Number="63"  Name="3=SizzleRd"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="1:WideRock KIT">
      <Note Number="29"  Name="9=JazzDry Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Jazz Kick"/>
@@ -5140,7 +5762,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="2:WideJazz KIT">
      <Note Number="29"  Name="9=Rock Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Studio 2 K"/>
@@ -5213,7 +5835,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="3:TightRoomKIT">
      <Note Number="29"  Name="9=JazzDry Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=MplLmtr Kick"/>
@@ -5286,7 +5908,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="4:3rdBalladKIT">
      <Note Number="29"  Name="9=JazzDry Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Jazz Kick"/>
@@ -5359,7 +5981,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="5:Studio 1 KIT">
      <Note Number="29"  Name="9=JazzDry Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Jazz Kick"/>
@@ -5432,7 +6054,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="6:Studio 2 KIT">
      <Note Number="29"  Name="9=JazzDry Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Jazz Kick"/>
@@ -5505,7 +6127,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="7:Studio 3 KIT">
      <Note Number="29"  Name="9=JazzDry Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Jazz Kick"/>
@@ -5578,7 +6200,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="8:Studio 4 KIT">
      <Note Number="29"  Name="9=JazzDry Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Jazz Kick"/>
@@ -5651,7 +6273,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="9:HipHop KIT">
      <Note Number="29"  Name="9=Round Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Jazz Kick"/>
@@ -5724,7 +6346,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="10:Dyn.Perc KIT">
      <Note Number="29"  Name="9=JazzDry Kick"/>
      <Note Number="30"  Name="0=Rock Roll"/>
      <Note Number="31"  Name="1=Jazz Kick"/>
@@ -5797,7 +6419,7 @@
      <Note Number="98"  Name="8=Metronome 1"/>
      <Note Number="99"  Name="9=Hand Claps"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="11:Drums MENU">
      <Note Number="36"  Name="6=Studio 2 K"/>
      <Note Number="38"  Name="8=Stdio1S 1"/>
      <Note Number="40"  Name="0=Stdio1S 2"/>
@@ -5829,7 +6451,7 @@
      <Note Number="84"  Name="4=StudioH op"/>
      <Note Number="86"  Name="6=StudioH pdl"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="12:Perc. MENU">
      <Note Number="50"  Name="0=Cng2Lo Open"/>
      <Note Number="52"  Name="2=Cng2Lo Roll"/>
      <Note Number="53"  Name="3=Cng2Hi Mute"/>
@@ -5855,7 +6477,7 @@
      <Note Number="89"  Name="9=Timbale3 Lo"/>
      <Note Number="91"  Name="1=Tmbl3LoPaila"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="1:PhatTrak Kit">
      <Note Number="29"  Name="9=Vinyl Kick"/>
      <Note Number="30"  Name="0=Dinky SD 3"/>
      <Note Number="31"  Name="1=Gan Kick"/>
@@ -5932,7 +6554,7 @@
      <Note Number="102"  Name="2=909 Dry OHH2"/>
      <Note Number="103"  Name="3=UltrafunkCH1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="2:Euro Kit">
      <Note Number="29"  Name="9=L-RiderKick2"/>
      <Note Number="30"  Name="0=Cartn Fall"/>
      <Note Number="31"  Name="1=Layer Kick 1"/>
@@ -6009,7 +6631,7 @@
      <Note Number="102"  Name="2=909 Dry OHH2"/>
      <Note Number="103"  Name="3=808 Dry CHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="3:Urban Kit">
      <Note Number="29"  Name="9=Metal Kick"/>
      <Note Number="30"  Name="0=Snare Ghost"/>
      <Note Number="31"  Name="1=Old Kick"/>
@@ -6086,7 +6708,7 @@
      <Note Number="102"  Name="2=Club SD1"/>
      <Note Number="103"  Name="3=Rocky SD 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="4:Tight Kit">
      <Note Number="29"  Name="9=Filter Kick"/>
      <Note Number="30"  Name="0=Basis Rim"/>
      <Note Number="31"  Name="1=Craze Kick 3"/>
@@ -6163,7 +6785,7 @@
      <Note Number="102"  Name="2=ClnGtrRif2"/>
      <Note Number="103"  Name="3=ClnGtrRif1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="5:BitzOHitzKit">
      <Note Number="29"  Name="9=BladeBt Kick"/>
      <Note Number="30"  Name="0=Basis Rim"/>
      <Note Number="31"  Name="1=R&amp;Bees Kick"/>
@@ -6240,7 +6862,7 @@
      <Note Number="102"  Name="2=StrSprd&amp;Bt"/>
      <Note Number="103"  Name="3=StrSprd&amp;Bt R"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="6:Intl.Tek Kit">
      <Note Number="29"  Name="9=Fat Kick"/>
      <Note Number="30"  Name="0=Lofi Clap3mb"/>
      <Note Number="31"  Name="1=ChickenKick2"/>
@@ -6317,7 +6939,7 @@
      <Note Number="102"  Name="2=UltrafunkCH1"/>
      <Note Number="103"  Name="3=Jiggle OHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="7:GloblHousKit">
      <Note Number="29"  Name="9=808 Dry Clap"/>
      <Note Number="30"  Name="0=Filter SD2Hi"/>
      <Note Number="31"  Name="1=Dance Kick 5"/>
@@ -6394,7 +7016,7 @@
      <Note Number="102"  Name="2=909 Dry OHH1"/>
      <Note Number="103"  Name="3=909 Dry OHH2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="8:BreakBts Kit">
      <Note Number="29"  Name="9=Swanky Kick"/>
      <Note Number="30"  Name="0=Lo-Fi CHH 2"/>
      <Note Number="31"  Name="1=Fuzz Kick"/>
@@ -6471,7 +7093,7 @@
      <Note Number="102"  Name="2=Lo-Tek HH1"/>
      <Note Number="103"  Name="3=Lo-Tek HH4"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="9:Trip Kit">
      <Note Number="29"  Name="9=Dance Kick 8"/>
      <Note Number="30"  Name="0=Soul SD mb"/>
      <Note Number="31"  Name="1=Fuzz Kick"/>
@@ -6548,7 +7170,7 @@
      <Note Number="102"  Name="2=UltrafunkCH1"/>
      <Note Number="103"  Name="3=UltrafunkOHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="10:Bright Kit">
      <Note Number="29"  Name="9=Rebo Kick 2"/>
      <Note Number="30"  Name="0=Rebo SD2"/>
      <Note Number="31"  Name="1=Rebo Kick 1"/>
@@ -6625,7 +7247,7 @@
      <Note Number="102"  Name="2=Lo-Tek HH4"/>
      <Note Number="103"  Name="3=Miami OHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="11:Soulful Kit">
      <Note Number="29"  Name="9=Soul Kick"/>
      <Note Number="30"  Name="0=R&amp;B SD 1"/>
      <Note Number="31"  Name="1=Abuz Kick"/>
@@ -6702,7 +7324,7 @@
      <Note Number="102"  Name="2=Dry CHH 3"/>
      <Note Number="103"  Name="3=Dry OHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="12:LiteStep Kit">
      <Note Number="29"  Name="9=808 DryKick5"/>
      <Note Number="30"  Name="0=Deviant RM3"/>
      <Note Number="31"  Name="1=808 DryKick5"/>
@@ -6779,7 +7401,7 @@
      <Note Number="102"  Name="2=909 Dry OHH1"/>
      <Note Number="103"  Name="3=909 Dry OHH2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="13:4onFloorKit">
      <Note Number="29"  Name="9=Blade Kick"/>
      <Note Number="30"  Name="0=909 Dry SD3"/>
      <Note Number="31"  Name="1=Light Kick 8"/>
@@ -6856,7 +7478,7 @@
      <Note Number="102"  Name="2=909 HPF OHH1"/>
      <Note Number="103"  Name="3=909 HPF OHH2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="14:Street Kit">
      <Note Number="29"  Name="9=Vinyl Kick"/>
      <Note Number="30"  Name="0=HipHop SD 1"/>
      <Note Number="31"  Name="1=Layer Kick 4"/>
@@ -6933,7 +7555,7 @@
      <Note Number="102"  Name="2=UltrafunkCH1"/>
      <Note Number="103"  Name="3=Jiggle OHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="15:Machine Kit">
      <Note Number="29"  Name="9=Craze Kick 1"/>
      <Note Number="30"  Name="0=707 Dry SD2"/>
      <Note Number="31"  Name="1=Alley Kick 1"/>
@@ -7010,7 +7632,7 @@
      <Note Number="102"  Name="2=Lo-Tek HH4"/>
      <Note Number="103"  Name="3=Jiggle OHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="16:LoTek Kit">
      <Note Number="29"  Name="9=Craze Kick 2"/>
      <Note Number="30"  Name="0=LoBtHf SD3mb"/>
      <Note Number="31"  Name="1=Lo-Tek Kick"/>
@@ -7087,7 +7709,7 @@
      <Note Number="102"  Name="2=Lo-Tek HH1"/>
      <Note Number="103"  Name="3=Lo-Tek HH4"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="17:Solid Kit">
      <Note Number="29"  Name="9=Croak Kick 1"/>
      <Note Number="30"  Name="0=Pump SD"/>
      <Note Number="31"  Name="1=Blade Kick"/>
@@ -7164,7 +7786,7 @@
      <Note Number="102"  Name="2=Dry CHH 3"/>
      <Note Number="103"  Name="3=Dry OHH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="18:TekTrio Kit">
      <Note Number="29"  Name="9=MG Kick 2"/>
      <Note Number="30"  Name="0=MG S Zap 2"/>
      <Note Number="31"  Name="1=MG Kick 1"/>
@@ -7241,7 +7863,7 @@
      <Note Number="102"  Name="2=909 Dry OHH1"/>
      <Note Number="103"  Name="3=909 Dry OHH2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="19:TekQuartoKit">
      <Note Number="29"  Name="9=808 DryKick3"/>
      <Note Number="30"  Name="0=SH2 S Zap 1"/>
      <Note Number="31"  Name="1=MG Kick 2"/>
@@ -7318,7 +7940,7 @@
      <Note Number="102"  Name="2=909 Dry OHH1"/>
      <Note Number="103"  Name="3=909 Dry OHH2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="20:Hit Menu">
      <Note Number="29"  Name="9=BrassHit 18"/>
      <Note Number="30"  Name="0=BrassHit 19"/>
      <Note Number="31"  Name="1=SymphHit 3"/>
@@ -7395,7 +8017,7 @@
      <Note Number="102"  Name="2=Tremble Hit"/>
      <Note Number="103"  Name="3=SymphHit 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="21:Kick Menu 1">
      <Note Number="37"  Name="7=Old Kick 1"/>
      <Note Number="38"  Name="8=Old Kick 2"/>
      <Note Number="39"  Name="9=Metal Kick"/>
@@ -7453,7 +8075,7 @@
      <Note Number="91"  Name="1=BigDrds Kick"/>
      <Note Number="92"  Name="2=DeeBee Kick"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="22:Kick Menu 2">
      <Note Number="37"  Name="7=LoBit Kick 2"/>
      <Note Number="38"  Name="8=Narrow Kick"/>
      <Note Number="39"  Name="9=Alley Kick 1"/>
@@ -7510,7 +8132,7 @@
      <Note Number="90"  Name="0=SnugBugaKick"/>
      <Note Number="91"  Name="1=Synth Kick"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="23:Snare Menu 1">
      <Note Number="37"  Name="7=R&amp;B SD 1"/>
      <Note Number="38"  Name="8=Lo-Bit SD 1"/>
      <Note Number="39"  Name="9=Basis SD 1"/>
@@ -7556,7 +8178,7 @@
      <Note Number="79"  Name="9=MGT SD mb"/>
      <Note Number="80"  Name="0=Old SD1 mb"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="24:Snare Menu 2">
      <Note Number="37"  Name="7=Old SD3 mb"/>
      <Note Number="38"  Name="8=Old SD4 mb"/>
      <Note Number="39"  Name="9=Old SD5 mb"/>
@@ -7602,7 +8224,7 @@
      <Note Number="79"  Name="9=Filter SD1"/>
      <Note Number="80"  Name="0=Filter SD2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="25:Snare Menu 3">
      <Note Number="37"  Name="7=Attack SD4"/>
      <Note Number="38"  Name="8=Layer SD5 mb"/>
      <Note Number="39"  Name="9=Ultra SD 1"/>
@@ -7646,7 +8268,7 @@
      <Note Number="77"  Name="7=106 SD1"/>
      <Note Number="78"  Name="8=106 SD2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="26:RimShot Menu">
      <Note Number="37"  Name="7=R&amp;B Crs Stk2"/>
      <Note Number="38"  Name="8=Lo-Bit CStk"/>
      <Note Number="39"  Name="9=707 Dry RSht"/>
@@ -7662,7 +8284,7 @@
      <Note Number="49"  Name="9=Hop RimShot1"/>
      <Note Number="50"  Name="0=Hop RimShot2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="27:Tom Menu">
      <Note Number="37"  Name="7=Old HTom A2"/>
      <Note Number="38"  Name="8=Old HTom A3"/>
      <Note Number="39"  Name="9=Old LTom A1"/>
@@ -7692,7 +8314,7 @@
      <Note Number="63"  Name="3=909 Dry MTom"/>
      <Note Number="64"  Name="4=909 Dry LTom"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="28:HiHats Menu">
      <Note Number="37"  Name="7=Lo-Tek HH2"/>
      <Note Number="38"  Name="8=Lo-Tek HH3"/>
      <Note Number="39"  Name="9=Lo-Tek HH4"/>
@@ -7736,7 +8358,7 @@
      <Note Number="77"  Name="7=909 Dry OHH1"/>
      <Note Number="78"  Name="8=909 Dry OHH2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="29:Clap Menu">
      <Note Number="37"  Name="7=Single HClp2"/>
      <Note Number="38"  Name="8=Single HClp3"/>
      <Note Number="39"  Name="9=Real Clap"/>
@@ -7752,7 +8374,7 @@
      <Note Number="49"  Name="9=808 Dry Clap"/>
      <Note Number="50"  Name="0=909 Dry Clap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="30:Cymbal Menu">
      <Note Number="37"  Name="7=Pop Crash2"/>
      <Note Number="38"  Name="8=Pop SprshCym"/>
      <Note Number="39"  Name="9=Pop ChinaCym"/>
@@ -7776,7 +8398,7 @@
      <Note Number="57"  Name="7=MG Nz Cym"/>
      <Note Number="58"  Name="8=US Nz Cym"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="31:Perc. Menu">
      <Note Number="37"  Name="7=WindChime Dn"/>
      <Note Number="38"  Name="8=Cwbl Lo"/>
      <Note Number="39"  Name="9=Cwbl Hi"/>
@@ -7828,7 +8450,7 @@
      <Note Number="85"  Name="5=Short FgSnap"/>
      <Note Number="86"  Name="6=St. FgSnap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="32:FX Menu">
      <Note Number="37"  Name="7=Cartn Fall"/>
      <Note Number="38"  Name="8=Cartn Boing1"/>
      <Note Number="39"  Name="9=Cartn Boing2"/>
@@ -7897,7 +8519,7 @@
      <Note Number="102"  Name="2=Vinyl NzLp 1"/>
      <Note Number="103"  Name="3=Vinyl NzLp 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="33:SynPerc.Menu">
      <Note Number="37"  Name="7=US Metal 1"/>
      <Note Number="38"  Name="8=OSC Perc 2"/>
      <Note Number="39"  Name="9=OSC Perc 1"/>
@@ -7927,7 +8549,7 @@
      <Note Number="63"  Name="3=US SweepU L1"/>
      <Note Number="64"  Name="4=US SweepU L2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="34:All TR Menu">
      <Note Number="37"  Name="7=707 DryKick2"/>
      <Note Number="38"  Name="8=707 Dry SD1"/>
      <Note Number="39"  Name="9=707 Dry SD2"/>
@@ -7996,7 +8618,7 @@
      <Note Number="102"  Name="2=909 Dry RD2"/>
      <Note Number="103"  Name="3=909 Dry RD3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="1:Orch. Kit 1">
      <Note Number="35"  Name="5=Orch BD"/>
      <Note Number="36"  Name="6=Concert BD 1"/>
      <Note Number="37"  Name="7=OrchSnr Roll"/>
@@ -8062,7 +8684,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="2:Orch. Kit 2">
      <Note Number="35"  Name="5=Concert BD 3"/>
      <Note Number="36"  Name="6=Concert BD 2"/>
      <Note Number="37"  Name="7=OrchSnr Roll"/>
@@ -8128,7 +8750,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="3:Melo OrchKit">
      <Note Number="35"  Name="5=Orch BD"/>
      <Note Number="36"  Name="6=Concert BD 1"/>
      <Note Number="37"  Name="7=OrchSnr Roll"/>
@@ -8194,7 +8816,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="4:GM AssignKit">
      <Note Number="28"  Name="8=Pedal HiHat2"/>
      <Note Number="29"  Name="9=Open HiHat2"/>
      <Note Number="30"  Name="0=Ride Cymbal"/>
@@ -8257,7 +8879,7 @@
      <Note Number="87"  Name="7=Open Surdo"/>
      <Note Number="88"  Name="8=Applause"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="5:All Orch Kit">
      <Note Number="29"  Name="9=Tubular 2"/>
      <Note Number="30"  Name="0=Church Bells"/>
      <Note Number="31"  Name="1=ChurchBell 2"/>
@@ -8334,7 +8956,7 @@
      <Note Number="102"  Name="2=Harp b9  Up"/>
      <Note Number="103"  Name="3=Harp b9  Dwn"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="1:Ring Kit">
      <Note Number="34"  Name="4=18 Hat hlf 1"/>
      <Note Number="35"  Name="5=Boomer Kick2"/>
      <Note Number="36"  Name="6=Medium Kick"/>
@@ -8403,7 +9025,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="2:Slam Kit">
      <Note Number="34"  Name="4=18 Hat hlf 2"/>
      <Note Number="35"  Name="5=Comp Kick 2"/>
      <Note Number="36"  Name="6=Comp Kick 1"/>
@@ -8472,7 +9094,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="3:Verb Kit">
      <Note Number="34"  Name="4=18 Hat hlf 2"/>
      <Note Number="35"  Name="5=Real Dry K2"/>
      <Note Number="36"  Name="6=Real Dry K1"/>
@@ -8541,7 +9163,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="4:Slap Kit">
      <Note Number="34"  Name="4=18 Hat hlf 2"/>
      <Note Number="35"  Name="5=Boomer Kick2"/>
      <Note Number="36"  Name="6=Medium Kick"/>
@@ -8610,7 +9232,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="5:RockOn Kit">
      <Note Number="34"  Name="4=18 Hat hlf 1"/>
      <Note Number="35"  Name="5=Comp Kick 3"/>
      <Note Number="36"  Name="6=Lo-Fi Kick"/>
@@ -8679,7 +9301,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="6:DryFat Kit">
      <Note Number="34"  Name="4=18 Hat hlf 1"/>
      <Note Number="35"  Name="5=Real Dry K2"/>
      <Note Number="36"  Name="6=Real Dry K1"/>
@@ -8748,7 +9370,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="7:LiteFunk Kit">
      <Note Number="34"  Name="4=16 Hat hlf 1"/>
      <Note Number="35"  Name="5=Real Dry K2"/>
      <Note Number="36"  Name="6=Real Dry K3"/>
@@ -8817,7 +9439,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="8:Warm Kit">
      <Note Number="34"  Name="4=16 Hat hlf 1"/>
      <Note Number="35"  Name="5=Real Dry K2"/>
      <Note Number="36"  Name="6=Real Dry K3"/>
@@ -8886,7 +9508,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="9:HiTune Kit">
      <Note Number="34"  Name="4=16 Hat hlf 2"/>
      <Note Number="35"  Name="5=Stomp Kick"/>
      <Note Number="36"  Name="6=Deep Dry K"/>
@@ -8955,7 +9577,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="10:AnalogRhyKit">
      <Note Number="34"  Name="4=CR78 Hat Mt"/>
      <Note Number="35"  Name="5=MG Blip Kick"/>
      <Note Number="36"  Name="6=SQR Kick"/>
@@ -9024,7 +9646,7 @@
      <Note Number="99"  Name="9=Small Club"/>
      <Note Number="100"  Name="0=Record Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="11:AllRhy Menu">
      <Note Number="29"  Name="9=Boomer Kick1"/>
      <Note Number="30"  Name="0=Boomer Kick2"/>
      <Note Number="31"  Name="1=Medium Kick"/>
@@ -9100,7 +9722,7 @@
      <Note Number="101"  Name="1=Shaker 4"/>
      <Note Number="102"  Name="2=Shaker 5"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="1:Techno Kit 2">
      <Note Number="29"  Name="9=Sim Kick"/>
      <Note Number="30"  Name="0=Fat Snare"/>
      <Note Number="31"  Name="1=TR808 Kick 3"/>
@@ -9177,7 +9799,7 @@
      <Note Number="102"  Name="2=Air Gun"/>
      <Note Number="103"  Name="3=Dr.Beat"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="2:HipHop Kit">
      <Note Number="29"  Name="9=JungleKick 1"/>
      <Note Number="30"  Name="0=Cut Hats Snr"/>
      <Note Number="31"  Name="1=Wet Kick"/>
@@ -9254,7 +9876,7 @@
      <Note Number="102"  Name="2=89:BuzyFunky"/>
      <Note Number="103"  Name="3=91:Cruis'n"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="3:House Kit 2">
      <Note Number="29"  Name="9=Optic Kick"/>
      <Note Number="30"  Name="0=Little SN"/>
      <Note Number="31"  Name="1=Bottom 909 K"/>
@@ -9331,7 +9953,7 @@
      <Note Number="102"  Name="2=125:Tamb Man"/>
      <Note Number="103"  Name="3=125:Triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="4:Trance Kit">
      <Note Number="29"  Name="9=Medium K2"/>
      <Note Number="30"  Name="0=TR909 Snr 7"/>
      <Note Number="31"  Name="1=Plastic BD 1"/>
@@ -9408,7 +10030,7 @@
      <Note Number="102"  Name="2=Thrill"/>
      <Note Number="103"  Name="3=MetallicShot"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="5:DnB Kit">
      <Note Number="29"  Name="9=Sub &amp; Noiz K"/>
      <Note Number="30"  Name="0=Ragga Snr 2"/>
      <Note Number="31"  Name="1=Plastic BD 2"/>
@@ -9485,7 +10107,7 @@
      <Note Number="102"  Name="2=Air Gun"/>
      <Note Number="103"  Name="3=Neon Hum"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="6:BrekBeatsKit">
      <Note Number="29"  Name="9=DrctRehrsalK"/>
      <Note Number="30"  Name="0=Flat Snare"/>
      <Note Number="31"  Name="1=Slamn'Kick 1"/>
@@ -9562,7 +10184,7 @@
      <Note Number="102"  Name="2=Metal Box"/>
      <Note Number="103"  Name="3=FX Triangle"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="7:R&amp;B Kit 3">
      <Note Number="29"  Name="9=ElectricKick"/>
      <Note Number="30"  Name="0=DJ Snare"/>
      <Note Number="31"  Name="1=TR808 Kick 3"/>
@@ -9639,7 +10261,7 @@
      <Note Number="102"  Name="2=94:Ya Mon"/>
      <Note Number="103"  Name="3=96:Jane 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="8:TR-909 Kit">
      <Note Number="29"  Name="9=TR606 Kick 2"/>
      <Note Number="30"  Name="0=TR909 Snr 7"/>
      <Note Number="31"  Name="1=Tekno Kick"/>
@@ -9716,7 +10338,7 @@
      <Note Number="102"  Name="2=125:Tamb Man"/>
      <Note Number="103"  Name="3=125:StpBongo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="9:TR-808 Kit">
      <Note Number="29"  Name="9=TR606 Kick 2"/>
      <Note Number="30"  Name="0=TR808 Snr 3"/>
      <Note Number="31"  Name="1=TR808 Kick 1"/>
@@ -9793,7 +10415,7 @@
      <Note Number="102"  Name="2=116:Elect'80"/>
      <Note Number="103"  Name="3=120:Electro1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="10:TR606/707Kit">
      <Note Number="29"  Name="9=TR606 Kick 2"/>
      <Note Number="30"  Name="0=TR808 Snr 3"/>
      <Note Number="31"  Name="1=TR808 Kick 1"/>
@@ -9870,7 +10492,7 @@
      <Note Number="102"  Name="2=116:Elect'80"/>
      <Note Number="103"  Name="3=120:Electro1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="11:Kick Menu">
      <Note Number="29"  Name="9=TR606 Kick 2"/>
      <Note Number="30"  Name="0=TR707 Kick 1"/>
      <Note Number="31"  Name="1=TR707 Kick 3"/>
@@ -9940,7 +10562,7 @@
      <Note Number="95"  Name="5=BeatBox Kick"/>
      <Note Number="96"  Name="6=Roll Kick"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="12:Snare1 Menu">
      <Note Number="29"  Name="9=TR606 Snr 2"/>
      <Note Number="30"  Name="0=TR606 Snr 3"/>
      <Note Number="31"  Name="1=TR606 Snr 4"/>
@@ -10012,7 +10634,7 @@
      <Note Number="97"  Name="7=BeatBox Snr2"/>
      <Note Number="98"  Name="8=Roll Snare"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="13:Snr2&amp;RimMenu">
      <Note Number="37"  Name="7=Deep Snare"/>
      <Note Number="38"  Name="8=Fat Snare"/>
      <Note Number="39"  Name="9=DR Snare 2"/>
@@ -10048,7 +10670,7 @@
      <Note Number="69"  Name="9=Sizzle Rim"/>
      <Note Number="70"  Name="0=BeatBox Rim"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="14:HHat&amp;TomMenu">
      <Note Number="29"  Name="9=TR606 CHH"/>
      <Note Number="30"  Name="0=TR707 CHH"/>
      <Note Number="31"  Name="1=808 HH"/>
@@ -10122,7 +10744,7 @@
      <Note Number="99"  Name="9=Natural Tom"/>
      <Note Number="100"  Name="0=Can Tom"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="15:Cym&amp;Clp Menu">
      <Note Number="37"  Name="7=TR606 Cym 2"/>
      <Note Number="38"  Name="8=TR606 DstCym"/>
      <Note Number="39"  Name="9=TR808 Cymbal"/>
@@ -10165,7 +10787,7 @@
      <Note Number="76"  Name="6=Shot Clap"/>
      <Note Number="77"  Name="7=Room Clap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="16:Hit&amp;StabMenu">
      <Note Number="37"  Name="7=Smear Hit 1"/>
      <Note Number="38"  Name="8=Smear Hit 2"/>
      <Note Number="39"  Name="9=LoFi MinorHt"/>
@@ -10180,7 +10802,7 @@
      <Note Number="48"  Name="8=Thin Beef"/>
      <Note Number="49"  Name="9=Organ Hit 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="17:Perc. Menu">
      <Note Number="29"  Name="9=SynthCongaLo"/>
      <Note Number="30"  Name="0=TR808 Conga2"/>
      <Note Number="31"  Name="1=TR808 Conga1"/>
@@ -10256,7 +10878,7 @@
      <Note Number="101"  Name="1=Shot Perc."/>
      <Note Number="102"  Name="2=BeatBox Perc"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="18:Vox Menu">
      <Note Number="29"  Name="9=VC E"/>
      <Note Number="30"  Name="0=VC I"/>
      <Note Number="31"  Name="1=VC O"/>
@@ -10328,7 +10950,7 @@
      <Note Number="97"  Name="7=Ouhouhooohou"/>
      <Note Number="98"  Name="8=Auu"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="19:FX Menu">
      <Note Number="29"  Name="9=Beam HiQ"/>
      <Note Number="30"  Name="0=JUNO Blip 2"/>
      <Note Number="31"  Name="1=Sci-Fi 2"/>
@@ -10404,7 +11026,7 @@
      <Note Number="101"  Name="1=Fireball"/>
      <Note Number="102"  Name="2=Firebomb"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="20:Beat Menu 1">
      <Note Number="37"  Name="7=75:BoomRvBel"/>
      <Note Number="38"  Name="8=76:TrpHpKikn"/>
      <Note Number="39"  Name="9=78:NinjaBrek"/>
@@ -10457,7 +11079,7 @@
      <Note Number="86"  Name="6=160:Drum'nBs"/>
      <Note Number="87"  Name="7=184:Gabba"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="21:Beat Menu 2">
      <Note Number="37"  Name="7=125:Basic 2"/>
      <Note Number="38"  Name="8=125:ClpMania"/>
      <Note Number="39"  Name="9=125:LowToEnd"/>
@@ -10504,7 +11126,7 @@
      <Note Number="80"  Name="0=125:BendLick"/>
      <Note Number="81"  Name="1=125:Dry Funk"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="1:LatinDrmKit">
      <Note Number="29"  Name="9=SectChd Mj9"/>
      <Note Number="30"  Name="0=TimbalesFil4"/>
      <Note Number="31"  Name="1=TimbalesFil3"/>
@@ -10581,7 +11203,7 @@
      <Note Number="102"  Name="2=132:AgogoPtn"/>
      <Note Number="103"  Name="3=104:Shakin'"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="2:AsiaDrm Kit">
      <Note Number="29"  Name="9=Tsuzumi 2 mf"/>
      <Note Number="30"  Name="0=Tsuzumi 2 p"/>
      <Note Number="31"  Name="1=Tsuzumi Hi"/>
@@ -10658,7 +11280,7 @@
      <Note Number="102"  Name="2=122:GamelnP1"/>
      <Note Number="103"  Name="3=Chenchen Ptn"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="3:IndiaDrmKit">
      <Note Number="35"  Name="5=Fat BD"/>
      <Note Number="36"  Name="6=Room Kick 2"/>
      <Note Number="37"  Name="7=Cross Stick2"/>
@@ -10724,7 +11346,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="4:MidEastDrKit">
      <Note Number="35"  Name="5=Maple Kick"/>
      <Note Number="36"  Name="6=Warm Kick"/>
      <Note Number="37"  Name="7=Cross Stick2"/>
@@ -10790,7 +11412,7 @@
      <Note Number="97"  Name="7=R8 Click"/>
      <Note Number="98"  Name="8=Metronome 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="5:World Phrase">
      <Note Number="37"  Name="7=192:LatinPt1"/>
      <Note Number="38"  Name="8= 96:Cng6/8 1"/>
      <Note Number="39"  Name="9= 96:Cng6/8 2"/>
@@ -10854,7 +11476,7 @@
      <Note Number="97"  Name="7=African Ens"/>
      <Note Number="98"  Name="8=Morocco Ens"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="6:Gtr Phrase">
      <Note Number="37"  Name="7=120:Bnjo A"/>
      <Note Number="38"  Name="8=120:Bnjo B"/>
      <Note Number="39"  Name="9=120:Bnjo Cm"/>
@@ -10909,7 +11531,7 @@
      <Note Number="88"  Name="8=Fdl Riff 1"/>
      <Note Number="89"  Name="9=Fdl Riff 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="7:Latin Menu1">
      <Note Number="37"  Name="7=Agogo 2 Lo"/>
      <Note Number="38"  Name="8=Agogo 3 Hi"/>
      <Note Number="39"  Name="9=Agogo 3 Lo"/>
@@ -10970,7 +11592,7 @@
      <Note Number="94"  Name="4=Cowbell Op 1"/>
      <Note Number="95"  Name="5=Cowbell Op 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="8:Latin Menu2">
      <Note Number="37"  Name="7=Cuica Hi 1"/>
      <Note Number="38"  Name="8=Cuica Hi 2"/>
      <Note Number="39"  Name="9=Cuica Lo 1"/>
@@ -11023,7 +11645,7 @@
      <Note Number="86"  Name="6=Shaker Long"/>
      <Note Number="87"  Name="7=Shaker Short"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="9:Latin Menu3">
      <Note Number="37"  Name="7=Surdo Mute"/>
      <Note Number="38"  Name="8=Surdo Mute2"/>
      <Note Number="39"  Name="9=Surdo Open H"/>
@@ -11077,7 +11699,7 @@
      <Note Number="87"  Name="7=Fuego!"/>
      <Note Number="88"  Name="8=Hey Brazil"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="10:Asia Menu">
      <Note Number="37"  Name="7=Hyoshigi 2"/>
      <Note Number="38"  Name="8=Kane"/>
      <Note Number="39"  Name="9=Kane Side"/>
@@ -11146,7 +11768,7 @@
      <Note Number="102"  Name="2=Jaw Harp Opn"/>
      <Note Number="103"  Name="3=Jaw Harp Wow"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="11:India Menu">
      <Note Number="37"  Name="7=Bebarongan 2"/>
      <Note Number="38"  Name="8=Bebarongan 3"/>
      <Note Number="39"  Name="9=Pelegongan 1"/>
@@ -11205,7 +11827,7 @@
      <Note Number="92"  Name="2=Udu Pot2 Mut"/>
      <Note Number="93"  Name="3=Udu Pot2 Sht"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="12:MidEast Menu">
      <Note Number="37"  Name="7=Clapstick"/>
      <Note Number="38"  Name="8=Afro Zither"/>
      <Note Number="39"  Name="9=Afro Clap"/>

@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>Roland</Manufacturer>
+    <Model>Boss-SX_700</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Boss SX-700">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 WIDE REVERB"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 BELL REVERB"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 CHORUS REVERB"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 3D FLANGE REVERB"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 3D PHASE REVERB"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 ROTARY OD"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 HI BAND CHORUS"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 LARGE HALL #1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 LARGE HALL #2"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 PHASE CHORUS"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 4TAP DELAY"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 320+SPACE DELAY"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 ROTATE FLANGER"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 ENSEMBLE REVERB"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 GARAGE"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 ARENA"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 FALLING DOWN"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 RISE UP"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 3D HR ROOM REVERB"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 SLIGHT CHORUS"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 SPIRAL"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 TINY BUBBLES"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 MELLOW DELAY"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 BELL RSS"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 RADIO VOICE"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 HOPPING DELAY"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 DELAY PANNER"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 PANNING DLY+REV"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 METAL GARAGE"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 WIDE ROOM"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 LARGE ROOM"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 DEEP HALL"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 CONCERT HALL"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 SIDE REF. HALL"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 BATHROOM"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 SPREAD IMAGE"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 WARM PLATE"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 WARM ROOM"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 REVOLUTION"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 MODEL 147"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 FAST CHURCH"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 SLOW OVERDRIVE"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 FAST CHURCHEESE"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 FAT DRIVE"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 WIDE ENSEMBLE"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 NLR PHASER"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 ROOF REFLECTION"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 OCEAN FLOOR"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 WAREHOUSE"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 RICH REFLECTION"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 CAVE"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 BLIZZARD"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 LIVE HOUSE"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 FLYING BIRD"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 BIG FOOT"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 REBOUND DELAY"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 BALLROOM"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 MUSIC CLUB"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 LIGHT REVERB"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 ILLUSION"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 TWINKLE DELAY"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 DISTANCE CHORUS"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 DUCKING REVERB"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 CATHDERAL"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 CHURCH"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 THEATER"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 TRIPPLE TEMP DELAY"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 SPECIALREVERB"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 MONO > STEREO"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 MONO > STEREO 2"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 RHODES 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 OCTIVE +1 &amp; -1"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 RICH PLATE"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 GATE PANNER"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 JET PANNER"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 NIAGARA"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 MURMUR DELAY"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 DETUNE CHORUS"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 DENSE PLATE"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 BRIGHT PLATE"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 BASEMENT"  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 CORRIDOR"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 DEEP CORRIDOR"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 GALACTIC HALL"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 OUTER SPACE"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 ROUND DELAY"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 SPACE LEAD"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 TREMOLO FOR STR"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 MODULATION PITCH"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 TRI LFO"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 MINOR CHORD"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 OCTIVE UP &amp; DOWN"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 OD LFO"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 BROKEN PIANO"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 WAVELET"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 FANTASIA"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 WATER"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 PS DOUBLING 3D"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 SHAKE DELAY #2"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 STEREO ALTERNATE"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 SHORT WAVE"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 QUAD DELAY"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 140 PLATE"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 WIDE PLATE"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 ANSWER PLATE"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 DRUM ANBIENCE"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 TILED ROOM"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 STRINGS HALL"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 KICK GATE"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 BIG SNARE"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 CLEAR ROOM"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 VOCAL ROOM"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 REFLECT AMBIENCE"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 WARM CORRIDOR"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 KARAOKE"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 SIMPLE DLY>REV"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 BPF-DELAY +NLR"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 TEMPO DELAY CTLsw"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 MIDI CLICK DELAY"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 CTL TRIG PANNER"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 GATE FLANGER"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 SORROW"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 PANNER DELAY"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 ROTATE LOW"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 ROTATE HIGH"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 HUMANE VOICE"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 WONDER PHASE"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 ROTARY + RSS"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

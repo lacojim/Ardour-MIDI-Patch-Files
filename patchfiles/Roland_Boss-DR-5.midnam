@@ -134,6 +134,152 @@
           <Patch Number="81"  Name="082 Steel Drum"  ProgramChange="81"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Boss DR-5 Kits">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 Standard"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 Standard"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 Standard"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Standard"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Standard"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Standard"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 Standard"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 Standard"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 Room"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 Room"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 Room"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 Room"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 Room"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 Room"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 Room"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 Room"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Power"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Power"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Power"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 Power"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 Power"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Power"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Power"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Power"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Electronic"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 TR-808"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Electronic"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 Electronic"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Electronic"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Electronic"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Electronic"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Electronic"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Jazz"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 Jazz"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 Jazz"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Jazz"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 Jazz"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 Jazz"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 Jazz"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 Jazz"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 Brush"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 Brush"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Brush"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Brush"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 Brush"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Brush"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Brush"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Brush"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Orchestra"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 Orchestra"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 Orchestra"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Orchestra"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Orchestra"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Orchestra"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Orchestra"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 Orchestra"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Orchestra"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Orchestra"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 Orchestra"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Orchestra"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 Orchestra"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Orchestra"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Orchestra"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 Orchestra"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 Heavy"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 Arena"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Fx"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 Hybrid"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Ballad"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 Studio"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 Dance 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Dance 2"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Dance 3"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 Country 1"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 Country 2"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 Rock 1"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Rock 2"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Rocker"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 Mixture"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 Live"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 House"  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 Club"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 Funk 1"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 Funk 2"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 Funny"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 Pop 1"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 Pop 2"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 Pop 3"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 Pop 4"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 Blues 1"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 Blues 2"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 '70s"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 Dry"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 Ambient"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 R&amp;B 1"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 R&amp;B 2"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 Acoustic 1"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 Acoustic 2"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 Ensemble"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Resort"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 World"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 Raggae"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Percussion"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Latin"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 user kit 0"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 user kit 1"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 user kit 2"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 user kit 3"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 user kit 4"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 user kit 5"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 user kit 6"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 user kit 7"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 user kit 8"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 user kit 9"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 user kit 10"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 user kit 11"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 user kit 12"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 user kit 13"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 user kit 14"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 user kit 15"  ProgramChange="119"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Boss DR-5 Controllers">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold 1"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Note Off"/>
+      <Control Type="7bit"  Number="124"  Name="124-Omni Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-Omni On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>
