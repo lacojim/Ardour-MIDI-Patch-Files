@@ -14,6 +14,10 @@ Created with a TCL script converting Cakewalk .ins instrument definition files t
 
 ---
 
+A full compatibility table is available here:
+
+👉 [View complete MIDNAM support table](midnam-support-table2.md)
+
 *Ardour Sees It* -  Means it shows up in Ardour's manufacturers/model list.
 
 *Ardour Sees Patches* -  Means the patches show in the banks and listed. A few of the files you must click in the bank or patch pull down box to see the banks or patches.
