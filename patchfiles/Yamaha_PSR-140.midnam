@@ -159,7 +159,7 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR-140 Standard Kit 1">
     </NoteNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

@@ -1091,8 +1091,277 @@
           <Patch Number="63"  Name="EXTERNAL PERF. 64"  ProgramChange="63"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="S80 Drums External">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="8105"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="External Kit 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="External Kit 2"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 Drums Internal">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="8104"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="HipHop Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Urbanguard Kit"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 Drums Preset">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="8096"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Rock Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="House Kit"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Hip Kit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Trance Kit"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Nasty Kit"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Brush Kit"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Pop Kit"  ProgramChange="6"/>
+          <Patch Number="7"  Name="808 Kit"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 DRUMS EXT">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="External kit 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="External Kit 2"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 DRUMS INT">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="HipHop Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Urbanguard Kit"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 DRUMS PRE">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Rock Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="House Kit"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Hip Kit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Trance Kit"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Nasty Kit"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Brush Kit"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Pop Kit"  ProgramChange="6"/>
+          <Patch Number="7"  Name="808 Kit"  ProgramChange="7"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="SFX">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Trance1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Trance2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Trance3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Trance4"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Trance5"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Trance6"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Trance7"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Trance8"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Trance9"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Trance10"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Trance11"  ProgramChange="10"/>
+          <Patch Number="11"  Name="FunnyCPU"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Siren"  ProgramChange="12"/>
+          <Patch Number="13"  Name="SystmDwn"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Smoky"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Sonr&amp;CPU"  ProgramChange="15"/>
+          <Patch Number="16"  Name="FX-NG"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Machine?"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Bikers"  ProgramChange="18"/>
+          <Patch Number="19"  Name="RvrsLife"  ProgramChange="19"/>
+          <Patch Number="20"  Name="PanImpct"  ProgramChange="20"/>
+          <Patch Number="21"  Name="ShotStar"  ProgramChange="21"/>
+          <Patch Number="22"  Name="AnBubble"  ProgramChange="22"/>
+          <Patch Number="23"  Name="GameOver"  ProgramChange="23"/>
+          <Patch Number="24"  Name="ToneDeal"  ProgramChange="24"/>
+          <Patch Number="25"  Name="What?"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Zap Gun"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Hndrail1"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Hndrail2"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Hitchhik"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Digger"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Propelr1"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Propelr2"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Greeting"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Safari"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Sesame"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Buddha"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Wah Seq1"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Wah Seq2"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Biter"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Vaccum"  ProgramChange="40"/>
+          <Patch Number="41"  Name="BroknDwn"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Teleport"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Scat"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Disaster"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Match"  ProgramChange="45"/>
+          <Patch Number="46"  Name="LasrShot"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Whimsy1"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Whimsy2"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Feeder"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Rising"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Drain"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Spin"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Takeoff"  ProgramChange="53"/>
+          <Patch Number="54"  Name="GiantStp"  ProgramChange="54"/>
+          <Patch Number="55"  Name="CyberStp"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Typhoon"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Rocker"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Amphibia"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Escape"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Shower"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Thunder"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Wind"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Seashore"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Steam"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Bubble"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Dog"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Horse"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Tweet 1"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Tweet 2"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Growl"  ProgramChange="70"/>
+          <Patch Number="71"  Name="DoorSqek"  ProgramChange="71"/>
+          <Patch Number="72"  Name="DoorSlam"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Telphon1"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Telphon2"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Scratch"  ProgramChange="75"/>
+          <Patch Number="76"  Name="TurnTabl"  ProgramChange="76"/>
+          <Patch Number="77"  Name="TapeRwnd"  ProgramChange="77"/>
+          <Patch Number="78"  Name="GlasNoiz"  ProgramChange="78"/>
+          <Patch Number="79"  Name="MetalNz1"  ProgramChange="79"/>
+          <Patch Number="80"  Name="MetalNz2"  ProgramChange="80"/>
+          <Patch Number="81"  Name="IndstTom"  ProgramChange="81"/>
+          <Patch Number="82"  Name="CarEIgn"  ProgramChange="82"/>
+          <Patch Number="83"  Name="CarTSqel"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Car Pass"  ProgramChange="84"/>
+          <Patch Number="85"  Name="CarCrash"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Train"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Helicoptr"  ProgramChange="87"/>
+          <Patch Number="88"  Name="RevBurst"  ProgramChange="88"/>
+          <Patch Number="89"  Name="RevLowNz"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Laugh"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Scream"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Punch"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Heart"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Footstep"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Applause"  ProgramChange="95"/>
+          <Patch Number="96"  Name="BrthNoiz"  ProgramChange="96"/>
+          <Patch Number="97"  Name="GunShot"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Bomb"  ProgramChange="98"/>
+          <Patch Number="99"  Name="HIQ1"  ProgramChange="99"/>
+          <Patch Number="100"  Name="HIQ2"  ProgramChange="100"/>
+          <Patch Number="101"  Name="SFX Gun1"  ProgramChange="101"/>
+          <Patch Number="102"  Name="SFX Gun2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="BrstNoiz"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Ripper"  ProgramChange="104"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 8o8 Kit">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 Brush Kit">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 Hip Kit">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 HipHop Kit">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 House Kit">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 Nasty Kit">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 Pop Kit">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 Rock Kit">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Dr BdVar5"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Dr SdPcBH"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Dr SdWdH"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Dr SdVar1"  ProgramChange="3"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 Trance Kit">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S80 Urbanguard">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Standard Kit">
      <Note Number="30"  Name="0=Scratch Pull"/>
      <Note Number="31"  Name="1=Stick"/>
      <Note Number="32"  Name="2=Click Noise"/>

@@ -85,7 +85,7 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha QY-10 Drums">
      <Note Number="37"  Name="7=Bass Drum 2"/>
      <Note Number="38"  Name="8=Snare 1"/>
      <Note Number="39"  Name="9=Snare 2"/>

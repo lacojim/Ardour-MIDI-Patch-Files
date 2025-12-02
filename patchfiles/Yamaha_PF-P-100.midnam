@@ -63,5 +63,12 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="PF P-100 Controllers">
+      <Control Type="7bit"  Number="1"  Name="Modulation Wheel"/>
+      <Control Type="7bit"  Number="7"  Name="Volume"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain Pedal"/>
+      <Control Type="7bit"  Number="66"  Name="Sostenuto Pedal"/>
+      <Control Type="7bit"  Number="67"  Name="Soft Pedal"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

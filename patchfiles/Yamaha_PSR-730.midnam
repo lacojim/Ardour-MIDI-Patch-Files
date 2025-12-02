@@ -7388,8 +7388,122 @@
           <Patch Number="127"  Name="SndE:665-Gunshot"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Yamaha PSR-730 SFX Bank">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="8192"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="SFX:666-CuttngNz"  ProgramChange="0"/>
+          <Patch Number="1"  Name="SFX:667-CttngNz2"  ProgramChange="1"/>
+          <Patch Number="3"  Name="SFX:668-Str Slap"  ProgramChange="3"/>
+          <Patch Number="16"  Name="SFX:669-Fl.KClik"  ProgramChange="16"/>
+          <Patch Number="32"  Name="SFX:670-Rain"  ProgramChange="32"/>
+          <Patch Number="33"  Name="SFX:671-Thunder"  ProgramChange="33"/>
+          <Patch Number="34"  Name="SFX:672-Wind"  ProgramChange="34"/>
+          <Patch Number="35"  Name="SFX:673-Stream"  ProgramChange="35"/>
+          <Patch Number="36"  Name="SFX:674-Bubble"  ProgramChange="36"/>
+          <Patch Number="37"  Name="SFX:675-Feed"  ProgramChange="37"/>
+          <Patch Number="48"  Name="SFX:676-Dog"  ProgramChange="48"/>
+          <Patch Number="49"  Name="SFX:677-Horse"  ProgramChange="49"/>
+          <Patch Number="50"  Name="SFX:678-Bird 2"  ProgramChange="50"/>
+          <Patch Number="54"  Name="SFX:679-Ghost"  ProgramChange="54"/>
+          <Patch Number="55"  Name="SFX:680-Maou"  ProgramChange="55"/>
+          <Patch Number="64"  Name="SFX:681-Tel.Dial"  ProgramChange="64"/>
+          <Patch Number="65"  Name="SFX:682-DoorSqek"  ProgramChange="65"/>
+          <Patch Number="66"  Name="SFX:683-DoorSlam"  ProgramChange="66"/>
+          <Patch Number="67"  Name="SFX:684-Scratch"  ProgramChange="67"/>
+          <Patch Number="68"  Name="SFX:685-Scratch2"  ProgramChange="68"/>
+          <Patch Number="69"  Name="SFX:686-WindChm"  ProgramChange="69"/>
+          <Patch Number="70"  Name="SFX:687-Telphon2"  ProgramChange="70"/>
+          <Patch Number="80"  Name="SFX:688-CarEngin"  ProgramChange="80"/>
+          <Patch Number="81"  Name="SFX:689-Car Stop"  ProgramChange="81"/>
+          <Patch Number="82"  Name="SFX:690-Car Pass"  ProgramChange="82"/>
+          <Patch Number="83"  Name="SFX:691-CarCrash"  ProgramChange="83"/>
+          <Patch Number="84"  Name="SFX:692-Siren"  ProgramChange="84"/>
+          <Patch Number="85"  Name="SFX:693-Train"  ProgramChange="85"/>
+          <Patch Number="86"  Name="SFX:694-Jetplane"  ProgramChange="86"/>
+          <Patch Number="87"  Name="SFX:695-Starship"  ProgramChange="87"/>
+          <Patch Number="88"  Name="SFX:696-Burst"  ProgramChange="88"/>
+          <Patch Number="89"  Name="SFX:697-Coaster"  ProgramChange="89"/>
+          <Patch Number="90"  Name="SFX:698-SbMarine"  ProgramChange="90"/>
+          <Patch Number="96"  Name="SFX:699-Laughing"  ProgramChange="96"/>
+          <Patch Number="97"  Name="SFX:700-Scream"  ProgramChange="97"/>
+          <Patch Number="98"  Name="SFX:701-Punch"  ProgramChange="98"/>
+          <Patch Number="99"  Name="SFX:702-Heart"  ProgramChange="99"/>
+          <Patch Number="100"  Name="SFX:703-FootStep"  ProgramChange="100"/>
+          <Patch Number="112"  Name="SFX:704-MchinGun"  ProgramChange="112"/>
+          <Patch Number="113"  Name="SFX:705-LaserGun"  ProgramChange="113"/>
+          <Patch Number="114"  Name="SFX:706-Xplosion"  ProgramChange="114"/>
+          <Patch Number="115"  Name="SFX:707-FireWork"  ProgramChange="115"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha PSR-730 SFX">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16128"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="SFX Kit1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="SFX Kit2"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha PSR-730 Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16256"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Drum:216-Std.Kit1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Drum:217-Std.Kit2"  ProgramChange="1"/>
+          <Patch Number="8"  Name="Drum:218-Room Kit"  ProgramChange="8"/>
+          <Patch Number="16"  Name="Drum:219-Rock Kit"  ProgramChange="16"/>
+          <Patch Number="24"  Name="Drum:220-Electro Kit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Drum:221-Analog Kit"  ProgramChange="25"/>
+          <Patch Number="27"  Name="Drum:222-Dance Kit"  ProgramChange="27"/>
+          <Patch Number="32"  Name="Drum:223-Jazz Kit"  ProgramChange="32"/>
+          <Patch Number="40"  Name="Drum:224-Brush Kit"  ProgramChange="40"/>
+          <Patch Number="48"  Name="Drum:225-Classic Kit"  ProgramChange="48"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha PSR-730 Controllers">
+      <Control Type="7bit"  Number="0"  Name="000-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="001-Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="005-Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="006-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="007-Master Volume"/>
+      <Control Type="7bit"  Number="10"  Name="010-Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="011-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="032-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="038-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="064-Sustain"/>
+      <Control Type="7bit"  Number="65"  Name="065-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="066-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="067-Soft Pedal"/>
+      <Control Type="7bit"  Number="71"  Name="071-Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="072-Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="073-Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="074-Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="084-Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="091-Reverb Send Level"/>
+      <Control Type="7bit"  Number="93"  Name="093-Chorus Send Level"/>
+      <Control Type="7bit"  Number="94"  Name="094-Variation Send Level"/>
+      <Control Type="7bit"  Number="96"  Name="096-RPN Increment"/>
+      <Control Type="7bit"  Number="97"  Name="097-RPN Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="098-NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="099-NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="124-OMNI Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-OMNI On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="Yamaha PSR-730 Std.Kit1">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -7462,7 +7576,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-730 Std.Kit2">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -7535,7 +7649,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-730 Room Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -7608,7 +7722,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-730 Rock Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -7681,7 +7795,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-730 Electro Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -7754,7 +7868,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-730 Analog Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -7827,7 +7941,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-730 Dance Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -7900,7 +8014,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-730 Jazz Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -7973,7 +8087,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-730 Brush Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -8046,7 +8160,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-730 Classic Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>

@@ -397,5 +397,18 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Yamaha PSR-6700">
+      <Control Type="7bit"  Number="0"  Name="0 Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1 Modulation Wheel"/>
+      <Control Type="7bit"  Number="7"  Name="7 Main Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10 Pan"/>
+      <Control Type="7bit"  Number="32"  Name="32 Bank Select LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64 Sustain"/>
+      <Control Type="7bit"  Number="80"  Name="80 Foot Controller"/>
+      <Control Type="7bit"  Number="122"  Name="122 Local Control"/>
+      <Control Type="7bit"  Number="123"  Name="123 All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="124 OMNI Mode Off"/>
+      <Control Type="7bit"  Number="125"  Name="125 OMNI Mode On"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

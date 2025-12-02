@@ -46,8 +46,8 @@
       </AvailableForChannels>
       <PatchBank Name="Yamaha VL70-m CSTM">
         <MIDICommands>
-          <ControlChange Control="0" Value="2"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="1"  ProgramChange="0"/>
@@ -60,8 +60,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha VL70-m INT">
         <MIDICommands>
-          <ControlChange Control="0" Value="3"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="01"  ProgramChange="0"/>
@@ -268,8 +268,8 @@
       </PatchBank>
       <PatchBank Name="Yamaha VL70-m PR-B">
         <MIDICommands>
-          <ControlChange Control="0" Value="1"/>
-          <ControlChange Control="32" Value="0"/>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="001 Vento"  ProgramChange="0"/>

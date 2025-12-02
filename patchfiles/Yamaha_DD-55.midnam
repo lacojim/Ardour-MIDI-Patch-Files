@@ -69,7 +69,43 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha XG Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Master Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Sustain"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft Pedal"/>
+      <Control Type="7bit"  Number="71"  Name="71-Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="72-Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="73-Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="74-Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="84-Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="91-Effects Send Level 1 (reverb)"/>
+      <Control Type="7bit"  Number="93"  Name="93-Effects Send Level 3 (chorus)"/>
+      <Control Type="7bit"  Number="94"  Name="94-Effects Send Level 4 (variation)"/>
+      <Control Type="7bit"  Number="96"  Name="96-RPN Increment"/>
+      <Control Type="7bit"  Number="97"  Name="97-RPN Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="98-NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="99-NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="124-OMNI Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-OMNI On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="DD-55 Standard 2">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -142,7 +178,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DD-55 GM (XG) Standard 1">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -215,7 +251,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DD-55 Jazz">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -288,7 +324,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DD-55 Stereo &amp; Latin">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -369,7 +405,7 @@
      <Note Number="91"  Name="1=Tamborim Nylon Volta"/>
      <Note Number="92"  Name="2=Conga Muff"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DD-55 Dance">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -442,7 +478,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DD-55 Electronic Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -515,7 +551,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DD-55 Rock">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -588,7 +624,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DD-55 Room">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>

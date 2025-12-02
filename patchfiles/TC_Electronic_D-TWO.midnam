@@ -3,7 +3,7 @@
 <MIDINameDocument>
   <Author>Karl Swisher taken From Cakewalk</Author>
   <MasterDeviceNames>
-    <Manufacturer>TC Electronic</Manufacturer>
+    <Manufacturer>TC_Electronic</Manufacturer>
     <Model>D-TWO</Model>
     <CustomDeviceMode Name="Mode 1">
       <ChannelNameSetAssignments>
@@ -211,5 +211,11 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="T.C. Electronic Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes Off"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

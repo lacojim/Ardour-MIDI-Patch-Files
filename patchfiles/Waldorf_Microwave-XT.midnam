@@ -453,5 +453,107 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Microwave XT Controllers">
+      <Control Type="7bit"  Number="1"  Name="01-Modulation wheel"/>
+      <Control Type="7bit"  Number="2"  Name="02-Breath control"/>
+      <Control Type="7bit"  Number="4"  Name="04-Foot controller"/>
+      <Control Type="7bit"  Number="5"  Name="05-Glide Time"/>
+      <Control Type="7bit"  Number="7"  Name="07-Channel Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Panning"/>
+      <Control Type="7bit"  Number="12"  Name="12-Chorus"/>
+      <Control Type="7bit"  Number="14"  Name="14-Filter Env Attack"/>
+      <Control Type="7bit"  Number="15"  Name="15-Filter Env Decay"/>
+      <Control Type="7bit"  Number="16"  Name="16-Filter Env Sustain"/>
+      <Control Type="7bit"  Number="17"  Name="17-Filter Env Release"/>
+      <Control Type="7bit"  Number="18"  Name="18-Amp Env Attack"/>
+      <Control Type="7bit"  Number="19"  Name="19-Amp Env Decay"/>
+      <Control Type="7bit"  Number="20"  Name="20-Amp Env Sustain"/>
+      <Control Type="7bit"  Number="21"  Name="21-Amp Env Release"/>
+      <Control Type="7bit"  Number="22"  Name="22-Glide Type"/>
+      <Control Type="7bit"  Number="23"  Name="23-Glide Mode"/>
+      <Control Type="7bit"  Number="24"  Name="24-LFO1 Rate"/>
+      <Control Type="7bit"  Number="25"  Name="25-LFO1 Shape"/>
+      <Control Type="7bit"  Number="26"  Name="26-LFO2 Rate"/>
+      <Control Type="7bit"  Number="27"  Name="27-LFO2 Delay"/>
+      <Control Type="7bit"  Number="28"  Name="28-LFO2 Shape"/>
+      <Control Type="7bit"  Number="29"  Name="29-Filter Env Trigger"/>
+      <Control Type="7bit"  Number="30"  Name="30-LFO1 Delay"/>
+      <Control Type="7bit"  Number="31"  Name="31-Amp Env Trigger"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select"/>
+      <Control Type="7bit"  Number="33"  Name="33-OSC1 Octave"/>
+      <Control Type="7bit"  Number="34"  Name="34-OSC1 Semitone"/>
+      <Control Type="7bit"  Number="35"  Name="35-OSC1 Detune"/>
+      <Control Type="7bit"  Number="36"  Name="36-OSC1 Pitchbend Scale"/>
+      <Control Type="7bit"  Number="37"  Name="37-OSC1 Keytrack"/>
+      <Control Type="7bit"  Number="38"  Name="38-OSC2 Octave"/>
+      <Control Type="7bit"  Number="39"  Name="39-OSC2 Semitone"/>
+      <Control Type="7bit"  Number="40"  Name="40-OSC2 Detune"/>
+      <Control Type="7bit"  Number="41"  Name="41-OSC2 Sync"/>
+      <Control Type="7bit"  Number="42"  Name="42-OSC2 Pitchbend Scale"/>
+      <Control Type="7bit"  Number="43"  Name="43-OSC2 Keytrack"/>
+      <Control Type="7bit"  Number="44"  Name="44-OSC2 Link"/>
+      <Control Type="7bit"  Number="45"  Name="45-Wave 1 Level"/>
+      <Control Type="7bit"  Number="46"  Name="46-Wave 2 Level"/>
+      <Control Type="7bit"  Number="47"  Name="47-RingMod Level"/>
+      <Control Type="7bit"  Number="48"  Name="48-Noise Level"/>
+      <Control Type="7bit"  Number="50"  Name="50-Filter 1 Cutoff"/>
+      <Control Type="7bit"  Number="51"  Name="51-Filter 1 Keytrack"/>
+      <Control Type="7bit"  Number="52"  Name="52-Filter 1 Env Amount"/>
+      <Control Type="7bit"  Number="53"  Name="53-Filter 1 Env Velocity"/>
+      <Control Type="7bit"  Number="54"  Name="54-Filter 1 Type"/>
+      <Control Type="7bit"  Number="55"  Name="55-Amp Keytrack"/>
+      <Control Type="7bit"  Number="56"  Name="56-Filter 1 Resonance"/>
+      <Control Type="7bit"  Number="57"  Name="57-Amp Volume"/>
+      <Control Type="7bit"  Number="58"  Name="58-Amp Env Velocity"/>
+      <Control Type="7bit"  Number="60"  Name="60-Filter 2 Cutoff"/>
+      <Control Type="7bit"  Number="61"  Name="61-Filter 2 Type"/>
+      <Control Type="7bit"  Number="62"  Name="62-Filter 2 Keytrack"/>
+      <Control Type="7bit"  Number="64"  Name="64-Sustain Switch"/>
+      <Control Type="7bit"  Number="65"  Name="65-Glide on/off"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto Switch"/>
+      <Control Type="7bit"  Number="70"  Name="70-Wavetable"/>
+      <Control Type="7bit"  Number="71"  Name="71-Wave 1 Startwave"/>
+      <Control Type="7bit"  Number="72"  Name="72-Wave 1 Phase"/>
+      <Control Type="7bit"  Number="73"  Name="73-Wave 1  Env Amnt."/>
+      <Control Type="7bit"  Number="74"  Name="74-Wave 1 Env Vel. Amnt."/>
+      <Control Type="7bit"  Number="75"  Name="75-Wave 1 Keytrack"/>
+      <Control Type="7bit"  Number="76"  Name="76-Wave 1 Limit"/>
+      <Control Type="7bit"  Number="77"  Name="77-Wave 2 Startwave"/>
+      <Control Type="7bit"  Number="78"  Name="78-Wave 2 Phase"/>
+      <Control Type="7bit"  Number="79"  Name="79-Wave 2 Env Amnt."/>
+      <Control Type="7bit"  Number="80"  Name="80-Wave 2 Env Vel. Amnt."/>
+      <Control Type="7bit"  Number="81"  Name="81-Wave 2 Keytrack"/>
+      <Control Type="7bit"  Number="82"  Name="82-Wave 2 Limit"/>
+      <Control Type="7bit"  Number="83"  Name="83-Wave 2 Link"/>
+      <Control Type="7bit"  Number="85"  Name="85-Free Env Time 1"/>
+      <Control Type="7bit"  Number="86"  Name="86-Free Env Level 1"/>
+      <Control Type="7bit"  Number="87"  Name="87-Free Env Time 2"/>
+      <Control Type="7bit"  Number="88"  Name="88-Free Env Level 2"/>
+      <Control Type="7bit"  Number="89"  Name="89-Free Env Time 3"/>
+      <Control Type="7bit"  Number="90"  Name="90-Free Env Level 3"/>
+      <Control Type="7bit"  Number="91"  Name="91-Free Env Release Time"/>
+      <Control Type="7bit"  Number="92"  Name="92-Free Env Release Level"/>
+      <Control Type="7bit"  Number="93"  Name="93-Free Env Release Trigger"/>
+      <Control Type="7bit"  Number="102"  Name="102-Arp Active"/>
+      <Control Type="7bit"  Number="103"  Name="103-Arp Range"/>
+      <Control Type="7bit"  Number="104"  Name="104-Arp Clock"/>
+      <Control Type="7bit"  Number="105"  Name="105-Arp Tempo"/>
+      <Control Type="7bit"  Number="106"  Name="106-Arp Direction"/>
+      <Control Type="7bit"  Number="107"  Name="107-Arp Pattern"/>
+      <Control Type="7bit"  Number="108"  Name="108-Arp Note Order"/>
+      <Control Type="7bit"  Number="109"  Name="109-Arp Velocity"/>
+      <Control Type="7bit"  Number="110"  Name="110-Arp Reset"/>
+      <Control Type="7bit"  Number="111"  Name="111-Arp Pattern Length"/>
+      <Control Type="7bit"  Number="112"  Name="112-LFO1 Sync"/>
+      <Control Type="7bit"  Number="113"  Name="113-LFO1 Symmetry"/>
+      <Control Type="7bit"  Number="114"  Name="114-LFO 1 Humanize"/>
+      <Control Type="7bit"  Number="115"  Name="115-LFO2 Sync"/>
+      <Control Type="7bit"  Number="116"  Name="116-LFO2 Symmetry"/>
+      <Control Type="7bit"  Number="117"  Name="117-LFO2 Humanize"/>
+      <Control Type="7bit"  Number="118"  Name="118-LFO2 Phase"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound off"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All notes off"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

@@ -2055,8 +2055,249 @@
           <Patch Number="125"  Name="Burst Noise {GM2}        (Sfx)"  ProgramChange="125"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Drum Kits S910">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16256"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Standard Kit 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Standard Kit 2"  ProgramChange="1"/>
+          <Patch Number="4"  Name="Hit Kit"  ProgramChange="4"/>
+          <Patch Number="8"  Name="Room Kit"  ProgramChange="8"/>
+          <Patch Number="16"  Name="Rock Kit"  ProgramChange="16"/>
+          <Patch Number="24"  Name="Electro Kit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Analog Kit"  ProgramChange="25"/>
+          <Patch Number="27"  Name="Dance Kit"  ProgramChange="27"/>
+          <Patch Number="32"  Name="Jazz Kit"  ProgramChange="32"/>
+          <Patch Number="40"  Name="Brush Kit"  ProgramChange="40"/>
+          <Patch Number="48"  Name="Symphony Kit"  ProgramChange="48"/>
+          <Patch Number="58"  Name="Analog T8 Kit"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Analog T9 Kit"  ProgramChange="59"/>
+          <Patch Number="57"  Name="Break Kit"  ProgramChange="57"/>
+          <Patch Number="56"  Name="Hip Hop Kit"  ProgramChange="56"/>
+          <Patch Number="64"  Name="Arabic Mixture Kit"  ProgramChange="64"/>
+          <Patch Number="86"  Name="Studio Kit"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Power Kit 1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Power Kit 2"  ProgramChange="88"/>
+          <Patch Number="114"  Name="Indian Kit"  ProgramChange="114"/>
+          <Patch Number="124"  Name="Chinese Kit"  ProgramChange="124"/>
+          <Patch Number="127"  Name="Chinese Mixture Kit"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Drums+SFX S910">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16128"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="SFX Kit 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="SFX Kit 2"  ProgramChange="1"/>
+          <Patch Number="35"  Name="Arabic Kit"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Arabic Kit 1"  ProgramChange="36"/>
+          <Patch Number="40"  Name="CubanKit"  ProgramChange="40"/>
+          <Patch Number="43"  Name="PopLatinKit"  ProgramChange="43"/>
+          <Patch Number="64"  Name="Arabic Mixture Kit"  ProgramChange="64"/>
+          <Patch Number="114"  Name="Indian Kit"  ProgramChange="114"/>
+          <Patch Number="124"  Name="Chinese Kit"  ProgramChange="124"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="S910 Custom Drum Bank">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="7936"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="CustomDrm1 {S910}"  ProgramChange="0"/>
+          <Patch Number="1"  Name="CustomDrm2 {S910}"  ProgramChange="1"/>
+          <Patch Number="2"  Name="CustomDrm3 {S910}"  ProgramChange="2"/>
+          <Patch Number="3"  Name="CustomDrm4 {S910}"  ProgramChange="3"/>
+          <Patch Number="4"  Name="CustomDrm5 {S910}"  ProgramChange="4"/>
+          <Patch Number="5"  Name="CustomDrm6 {S910}"  ProgramChange="5"/>
+          <Patch Number="6"  Name="CustomDrm7 {S910}"  ProgramChange="6"/>
+          <Patch Number="7"  Name="CustomDrm8 {S910}"  ProgramChange="7"/>
+          <Patch Number="8"  Name="CustomDrm9 {S910}"  ProgramChange="8"/>
+          <Patch Number="9"  Name="CustomDrm10 {S910}"  ProgramChange="9"/>
+          <Patch Number="10"  Name="CustomDrm11 {S910}"  ProgramChange="10"/>
+          <Patch Number="11"  Name="CustomDrm12 {S910}"  ProgramChange="11"/>
+          <Patch Number="12"  Name="CustomDrm13 {S910}"  ProgramChange="12"/>
+          <Patch Number="13"  Name="CustomDrm14 {S910}"  ProgramChange="13"/>
+          <Patch Number="14"  Name="CustomDrm15 {S910}"  ProgramChange="14"/>
+          <Patch Number="15"  Name="CustomDrm16 {S910}"  ProgramChange="15"/>
+          <Patch Number="16"  Name="CustomDrm17 {S910}"  ProgramChange="16"/>
+          <Patch Number="17"  Name="CustomDrm18 {S910}"  ProgramChange="17"/>
+          <Patch Number="18"  Name="CustomDrm19 {S910}"  ProgramChange="18"/>
+          <Patch Number="19"  Name="CustomDrm20 {S910}"  ProgramChange="19"/>
+          <Patch Number="20"  Name="CustomDrm21 {S910}"  ProgramChange="20"/>
+          <Patch Number="21"  Name="CustomDrm22 {S910}"  ProgramChange="21"/>
+          <Patch Number="22"  Name="CustomDrm23 {S910}"  ProgramChange="22"/>
+          <Patch Number="23"  Name="CustomDrm24 {S910}"  ProgramChange="23"/>
+          <Patch Number="24"  Name="CustomDrm25 {S910}"  ProgramChange="24"/>
+          <Patch Number="25"  Name="CustomDrm26 {S910}"  ProgramChange="25"/>
+          <Patch Number="26"  Name="CustomDrm27 {S910}"  ProgramChange="26"/>
+          <Patch Number="27"  Name="CustomDrm28 {S910}"  ProgramChange="27"/>
+          <Patch Number="28"  Name="CustomDrm29 {S910}"  ProgramChange="28"/>
+          <Patch Number="29"  Name="CustomDrm30 {S910}"  ProgramChange="29"/>
+          <Patch Number="30"  Name="CustomDrm31 {S910}"  ProgramChange="30"/>
+          <Patch Number="31"  Name="CustomDrm32 {S910}"  ProgramChange="31"/>
+          <Patch Number="32"  Name="CustomDrm33 {S910}"  ProgramChange="32"/>
+          <Patch Number="33"  Name="CustomDrm34 {S910}"  ProgramChange="33"/>
+          <Patch Number="34"  Name="CustomDrm35 {S910}"  ProgramChange="34"/>
+          <Patch Number="35"  Name="CustomDrm36 {S910}"  ProgramChange="35"/>
+          <Patch Number="36"  Name="CustomDrm37 {S910}"  ProgramChange="36"/>
+          <Patch Number="37"  Name="CustomDrm38 {S910}"  ProgramChange="37"/>
+          <Patch Number="38"  Name="CustomDrm39 {S910}"  ProgramChange="38"/>
+          <Patch Number="39"  Name="CustomDrm40 {S910}"  ProgramChange="39"/>
+          <Patch Number="40"  Name="CustomDrm41 {S910}"  ProgramChange="40"/>
+          <Patch Number="41"  Name="CustomDrm42 {S910}"  ProgramChange="41"/>
+          <Patch Number="42"  Name="CustomDrm43 {S910}"  ProgramChange="42"/>
+          <Patch Number="43"  Name="CustomDrm44 {S910}"  ProgramChange="43"/>
+          <Patch Number="44"  Name="CustomDrm45 {S910}"  ProgramChange="44"/>
+          <Patch Number="45"  Name="CustomDrm46 {S910}"  ProgramChange="45"/>
+          <Patch Number="46"  Name="CustomDrm47 {S910}"  ProgramChange="46"/>
+          <Patch Number="47"  Name="CustomDrm48 {S910}"  ProgramChange="47"/>
+          <Patch Number="48"  Name="CustomDrm49 {S910}"  ProgramChange="48"/>
+          <Patch Number="49"  Name="CustomDrm50 {S910}"  ProgramChange="49"/>
+          <Patch Number="50"  Name="CustomDrm51 {S910}"  ProgramChange="50"/>
+          <Patch Number="51"  Name="CustomDrm52 {S910}"  ProgramChange="51"/>
+          <Patch Number="52"  Name="CustomDrm53 {S910}"  ProgramChange="52"/>
+          <Patch Number="53"  Name="CustomDrm54 {S910}"  ProgramChange="53"/>
+          <Patch Number="54"  Name="CustomDrm55 {S910}"  ProgramChange="54"/>
+          <Patch Number="55"  Name="CustomDrm56 {S910}"  ProgramChange="55"/>
+          <Patch Number="56"  Name="CustomDrm57 {S910}"  ProgramChange="56"/>
+          <Patch Number="57"  Name="CustomDrm58 {S910}"  ProgramChange="57"/>
+          <Patch Number="58"  Name="CustomDrm59 {S910}"  ProgramChange="58"/>
+          <Patch Number="59"  Name="CustomDrm60 {S910}"  ProgramChange="59"/>
+          <Patch Number="60"  Name="CustomDrm61 {S910}"  ProgramChange="60"/>
+          <Patch Number="61"  Name="CustomDrm62 {S910}"  ProgramChange="61"/>
+          <Patch Number="62"  Name="CustomDrm63 {S910}"  ProgramChange="62"/>
+          <Patch Number="63"  Name="CustomDrm64 {S910}"  ProgramChange="63"/>
+          <Patch Number="64"  Name="CustomDrm65 {S910}"  ProgramChange="64"/>
+          <Patch Number="65"  Name="CustomDrm66 {S910}"  ProgramChange="65"/>
+          <Patch Number="66"  Name="CustomDrm67 {S910}"  ProgramChange="66"/>
+          <Patch Number="67"  Name="CustomDrm68 {S910}"  ProgramChange="67"/>
+          <Patch Number="68"  Name="CustomDrm79 {S910}"  ProgramChange="68"/>
+          <Patch Number="69"  Name="CustomDrm70 {S910}"  ProgramChange="69"/>
+          <Patch Number="70"  Name="CustomDrm71 {S910}"  ProgramChange="70"/>
+          <Patch Number="71"  Name="CustomDrm72 {S910}"  ProgramChange="71"/>
+          <Patch Number="72"  Name="CustomDrm73 {S910}"  ProgramChange="72"/>
+          <Patch Number="73"  Name="CustomDrm74 {S910}"  ProgramChange="73"/>
+          <Patch Number="74"  Name="CustomDrm75 {S910}"  ProgramChange="74"/>
+          <Patch Number="75"  Name="CustomDrm76 {S910}"  ProgramChange="75"/>
+          <Patch Number="76"  Name="CustomDrm77 {S910}"  ProgramChange="76"/>
+          <Patch Number="77"  Name="CustomDrm78 {S910}"  ProgramChange="77"/>
+          <Patch Number="78"  Name="CustomDrm79 {S910}"  ProgramChange="78"/>
+          <Patch Number="79"  Name="CustomDrm80 {S910}"  ProgramChange="79"/>
+          <Patch Number="80"  Name="CustomDrm81 {S910}"  ProgramChange="80"/>
+          <Patch Number="81"  Name="CustomDrm82 {S910}"  ProgramChange="81"/>
+          <Patch Number="82"  Name="CustomDrm83 {S910}"  ProgramChange="82"/>
+          <Patch Number="83"  Name="CustomDrm84 {S910}"  ProgramChange="83"/>
+          <Patch Number="84"  Name="CustomDrm85 {S910}"  ProgramChange="84"/>
+          <Patch Number="85"  Name="CustomDrm86 {S910}"  ProgramChange="85"/>
+          <Patch Number="86"  Name="CustomDrm87 {S910}"  ProgramChange="86"/>
+          <Patch Number="87"  Name="CustomDrm88 {S910}"  ProgramChange="87"/>
+          <Patch Number="88"  Name="CustomDrm89 {S910}"  ProgramChange="88"/>
+          <Patch Number="89"  Name="CustomDrm90 {S910}"  ProgramChange="89"/>
+          <Patch Number="90"  Name="CustomDrm91 {S910}"  ProgramChange="90"/>
+          <Patch Number="91"  Name="CustomDrm92 {S910}"  ProgramChange="91"/>
+          <Patch Number="92"  Name="CustomDrm93 {S910}"  ProgramChange="92"/>
+          <Patch Number="93"  Name="CustomDrm94 {S910}"  ProgramChange="93"/>
+          <Patch Number="94"  Name="CustomDrm95 {S910}"  ProgramChange="94"/>
+          <Patch Number="95"  Name="CustomDrm96 {S910}"  ProgramChange="95"/>
+          <Patch Number="96"  Name="CustomDrm97 {S910}"  ProgramChange="96"/>
+          <Patch Number="97"  Name="CustomDrm98 {S910}"  ProgramChange="97"/>
+          <Patch Number="98"  Name="CustomDrm99 {S910}"  ProgramChange="98"/>
+          <Patch Number="99"  Name="CustomDrm100 {S910}"  ProgramChange="99"/>
+          <Patch Number="100"  Name="CustomDrm101 {S910}"  ProgramChange="100"/>
+          <Patch Number="101"  Name="CustomDrm102 {S910}"  ProgramChange="101"/>
+          <Patch Number="102"  Name="CustomDrm103 {S910}"  ProgramChange="102"/>
+          <Patch Number="103"  Name="CustomDrm104 {S910}"  ProgramChange="103"/>
+          <Patch Number="104"  Name="CustomDrm105 {S910}"  ProgramChange="104"/>
+          <Patch Number="105"  Name="CustomDrm106 {S910}"  ProgramChange="105"/>
+          <Patch Number="106"  Name="CustomDrm107 {S910}"  ProgramChange="106"/>
+          <Patch Number="107"  Name="CustomDrm108 {S910}"  ProgramChange="107"/>
+          <Patch Number="108"  Name="CustomDrm109 {S910}"  ProgramChange="108"/>
+          <Patch Number="109"  Name="CustomDrm110 {S910}"  ProgramChange="109"/>
+          <Patch Number="110"  Name="CustomDrm111 {S910}"  ProgramChange="110"/>
+          <Patch Number="111"  Name="CustomDrm112 {S910}"  ProgramChange="111"/>
+          <Patch Number="112"  Name="CustomDrm113 {S910}"  ProgramChange="112"/>
+          <Patch Number="113"  Name="CustomDrm114 {S910}"  ProgramChange="113"/>
+          <Patch Number="114"  Name="CustomDrm115 {S910}"  ProgramChange="114"/>
+          <Patch Number="115"  Name="CustomDrm116 {S910}"  ProgramChange="115"/>
+          <Patch Number="116"  Name="CustomDrm117 {S910}"  ProgramChange="116"/>
+          <Patch Number="117"  Name="CustomDrm118 {S910}"  ProgramChange="117"/>
+          <Patch Number="118"  Name="CustomDrm119 {S910}"  ProgramChange="118"/>
+          <Patch Number="119"  Name="CustomDrm120 {S910}"  ProgramChange="119"/>
+          <Patch Number="120"  Name="CustomDrm121 {S910}"  ProgramChange="120"/>
+          <Patch Number="121"  Name="CustomDrm122 {S910}"  ProgramChange="121"/>
+          <Patch Number="122"  Name="CustomDrm123 {S910}"  ProgramChange="122"/>
+          <Patch Number="123"  Name="CustomDrm124 {S910}"  ProgramChange="123"/>
+          <Patch Number="124"  Name="CustomDrm125 {S910}"  ProgramChange="124"/>
+          <Patch Number="125"  Name="CustomDrm126 {S910}"  ProgramChange="125"/>
+          <Patch Number="126"  Name="CustomDrm127 {S910}"  ProgramChange="126"/>
+          <Patch Number="127"  Name="CustomDrm128 {S910}"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="GM2 Drums+Sfx Kits">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="15360"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Standard Set {GM2}         (Kit)"  ProgramChange="0"/>
+          <Patch Number="8"  Name="Room Set {GM2}             (Kit)"  ProgramChange="8"/>
+          <Patch Number="16"  Name="Power Set {GM2}           (Kit)"  ProgramChange="16"/>
+          <Patch Number="24"  Name="Electronic Set {GM2}      (Kit)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Analog Set {GM2}          (Kit)"  ProgramChange="25"/>
+          <Patch Number="32"  Name="Jazz Set {GM2}            (Kit)"  ProgramChange="32"/>
+          <Patch Number="40"  Name="Brush Set {GM2}           (Kit)"  ProgramChange="40"/>
+          <Patch Number="48"  Name="Orchestra Set {GM2}       (Kit)"  ProgramChange="48"/>
+          <Patch Number="56"  Name="SFX Set {GM2}             (Kit)"  ProgramChange="56"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="S-Series Controllers">
+      <Control Type="7bit"  Number="0"  Name="0 Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1 Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="5 Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="6 Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7 Main Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10 Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="11 Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32 Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38 Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64 Sustain"/>
+      <Control Type="7bit"  Number="65"  Name="65 Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66 Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67 Soft Pedal"/>
+      <Control Type="7bit"  Number="71"  Name="71 Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="72 Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="73 Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="74 Brightness"/>
+      <Control Type="7bit"  Number="75"  Name="75 Decay Time"/>
+      <Control Type="7bit"  Number="76"  Name="76 Vibrato Rate"/>
+      <Control Type="7bit"  Number="77"  Name="77 Vibrato Depth"/>
+      <Control Type="7bit"  Number="78"  Name="78 Vibrato Delay"/>
+      <Control Type="7bit"  Number="84"  Name="84 Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="91 Reverb Send Level"/>
+      <Control Type="7bit"  Number="92"  Name="92 Tremolo Depth"/>
+      <Control Type="7bit"  Number="93"  Name="93 Chorus Send Level"/>
+      <Control Type="7bit"  Number="94"  Name="94 Variation Send Level"/>
+      <Control Type="7bit"  Number="96"  Name="96 RPN Increment"/>
+      <Control Type="7bit"  Number="97"  Name="97 RPN Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="98 NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="99 NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100 RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101 RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120 All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="121 Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123 All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="124 OMNI Off"/>
+      <Control Type="7bit"  Number="125"  Name="125 OMNI On"/>
+      <Control Type="7bit"  Number="126"  Name="126 Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127 Poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="GM2 Standard">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -2118,7 +2359,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Room">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -2180,7 +2421,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Power">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -2242,7 +2483,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Electronic">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -2304,7 +2545,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Analog">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -2366,7 +2607,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Jazz">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -2428,7 +2669,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Brush">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -2490,7 +2731,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Orchestra">
      <Note Number="28"  Name="8=Pedal Hi-Hat"/>
      <Note Number="29"  Name="9=Open Hi-Hat"/>
      <Note Number="30"  Name="0=Ride Cymbal 1"/>
@@ -2553,7 +2794,7 @@
      <Note Number="87"  Name="7=Open Surdo"/>
      <Note Number="88"  Name="8=Applause"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 SFX">
      <Note Number="40"  Name="0=Slap"/>
      <Note Number="41"  Name="1=Scratch Push"/>
      <Note Number="42"  Name="2=Scratch Pull"/>
@@ -2600,7 +2841,7 @@
      <Note Number="83"  Name="3=Stream"/>
      <Note Number="84"  Name="4=Bubble"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="SFX Kit 1">
      <Note Number="37"  Name="7=Cutting Noise 2"/>
      <Note Number="39"  Name="9=String Slap"/>
      <Note Number="52"  Name="2=FLute Key Click"/>
@@ -2616,7 +2857,7 @@
      <Note Number="90"  Name="0=Ghost"/>
      <Note Number="91"  Name="1=Maou"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="SFX Kit 2">
      <Note Number="37"  Name="7=Door Squeak"/>
      <Note Number="38"  Name="8=Door Slam"/>
      <Note Number="39"  Name="9=Scratch"/>
@@ -2644,7 +2885,7 @@
      <Note Number="86"  Name="6=Explosion"/>
      <Note Number="87"  Name="7=Firework"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Arabic Kit">
      <Note Number="25"  Name="5=Cabasa"/>
      <Note Number="26"  Name="6=Nakarazan Edge"/>
      <Note Number="27"  Name="7=Hager Dom"/>
@@ -2705,7 +2946,7 @@
      <Note Number="83"  Name="3=Rik Sak"/>
      <Note Number="84"  Name="4=Rik Tik"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Afro Cuban Kit">
      <Note Number="23"  Name="3=Conga H Heel Stereo"/>
      <Note Number="24"  Name="4=Conga H Open Stereo"/>
      <Note Number="25"  Name="5=Conga H Mute Stereo"/>
@@ -2743,7 +2984,7 @@
      <Note Number="73"  Name="3=Shaker Stereo"/>
      <Note Number="74"  Name="4=Cabasa Stereo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Pop Latin Kit">
      <Note Number="22"  Name="2=Conga H Tip Stereo"/>
      <Note Number="23"  Name="3=Conga H Heel Stereo"/>
      <Note Number="24"  Name="4=Conga H Open Stereo"/>
@@ -2787,7 +3028,7 @@
      <Note Number="82"  Name="2=Triangle Open Stereo"/>
      <Note Number="84"  Name="4=Wind Chime Stereo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Standard Kit 1">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2860,7 +3101,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Standard Kit 2">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2933,7 +3174,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Hit Kit S-Series">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3006,7 +3247,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Room Kit S-Series">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3079,7 +3320,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Rock Kit S-Series">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3152,7 +3393,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Electro Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3225,7 +3466,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Analog Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3298,7 +3539,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Dance Kit S-Series">
      <Note Number="14"  Name="4=Kick Dance 2"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3371,7 +3612,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Jazz Kit S-Series">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3444,7 +3685,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Brush Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3517,7 +3758,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Symphony Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3590,7 +3831,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Studio Kit">
      <Note Number="26"  Name="6=Brush Swirl Stereo"/>
      <Note Number="27"  Name="7=Brush Slap Stereo"/>
      <Note Number="28"  Name="8=Brush Tap Swirl Stereo"/>
@@ -3640,7 +3881,7 @@
      <Note Number="82"  Name="2=Shaker Stereo"/>
      <Note Number="84"  Name="4=Wind Chime Stereo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Power Kit 1">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3713,7 +3954,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Power Kit 2">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3786,7 +4027,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Analog T8 Kit">
      <Note Number="20"  Name="0=Kick Zap Hard"/>
      <Note Number="21"  Name="1=Snare Garg L"/>
      <Note Number="22"  Name="2=Kick TekPower"/>

@@ -133,7 +133,32 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha DTX Controllers">
+      <Control Type="7bit"  Number="0"  Name="Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="Modulation"/>
+      <Control Type="7bit"  Number="4"  Name="Foot Controler"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="Master Volume"/>
+      <Control Type="7bit"  Number="10"  Name="Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="Expression"/>
+      <Control Type="7bit"  Number="64"  Name="Hold 1"/>
+      <Control Type="7bit"  Number="71"  Name="Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="Effect 1 Depth"/>
+      <Control Type="7bit"  Number="100"  Name="Data increment/decrement"/>
+      <Control Type="7bit"  Number="101"  Name="Data increment/decrement"/>
+      <Control Type="7bit"  Number="120"  Name="All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="all note off"/>
+      <Control Type="7bit"  Number="124"  Name="omni off"/>
+      <Control Type="7bit"  Number="125"  Name="omni on"/>
+      <Control Type="7bit"  Number="126"  Name="mono"/>
+      <Control Type="7bit"  Number="127"  Name="poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="DTX Bank 32 GroovKit">
      <Note Number="1"  Name="1=T Dry Hi"/>
      <Note Number="3"  Name="3=T Dry Lo"/>
      <Note Number="4"  Name="4=K BD DRY 1"/>
@@ -155,7 +180,7 @@
      <Note Number="48"  Name="8=H Hpsplsh1"/>
      <Note Number="120"  Name="0=s Manycure"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 18 SoDance">
      <Note Number="2"  Name="2=E Ambush"/>
      <Note Number="4"  Name="4=s Analog H"/>
      <Note Number="12"  Name="2=H H TiCls2"/>
@@ -176,7 +201,7 @@
      <Note Number="73"  Name="3=T ACTomL"/>
      <Note Number="83"  Name="3=E USS"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 31 InDaHood">
      <Note Number="1"  Name="1=T Dry1 Hi"/>
      <Note Number="2"  Name="2=K 2HedMed2"/>
      <Note Number="3"  Name="3=T Dry Lo"/>
@@ -200,7 +225,7 @@
      <Note Number="48"  Name="8=H Hpsplsh1"/>
      <Note Number="120"  Name="0=s Manycure"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 17 Dance 2">
      <Note Number="4"  Name="4=H H ClsA2"/>
      <Note Number="5"  Name="5=H H ClsMu"/>
      <Note Number="12"  Name="2=s AnSStick"/>
@@ -220,7 +245,7 @@
      <Note Number="56"  Name="6=P Shake1"/>
      <Note Number="78"  Name="8=P Tambourn"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 41 GM Standard 2">
      <Note Number="14"  Name="4=P Surdo"/>
      <Note Number="15"  Name="5=P HiQ"/>
      <Note Number="16"  Name="6=P WHP"/>
@@ -293,7 +318,7 @@
      <Note Number="83"  Name="3=P Jingle Bell"/>
      <Note Number="84"  Name="4=P Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 6 RockDry3">
      <Note Number="5"  Name="5=C CrshDRK"/>
      <Note Number="16"  Name="6=C RideDark"/>
      <Note Number="19"  Name="9=s Electrik"/>
@@ -312,7 +337,7 @@
      <Note Number="76"  Name="6=T Room 1Mid"/>
      <Note Number="77"  Name="7=T Room 1 Lo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 43 GM Rock">
      <Note Number="14"  Name="4=P Surdo"/>
      <Note Number="15"  Name="5=P HiQ"/>
      <Note Number="16"  Name="6=P WHP"/>
@@ -385,7 +410,7 @@
      <Note Number="83"  Name="3=P Jingle Bell"/>
      <Note Number="84"  Name="4=P Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 26 Reggae">
      <Note Number="3"  Name="3=C C  Crash"/>
      <Note Number="7"  Name="7=K BD DRY 4"/>
      <Note Number="10"  Name="0=H H QOpn13"/>
@@ -404,7 +429,7 @@
      <Note Number="90"  Name="0=P Udo L"/>
      <Note Number="110"  Name="0=S S SStck2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 10 BeBop">
      <Note Number="17"  Name="7=S LiteSnr1"/>
      <Note Number="19"  Name="9=T Jazz Hi"/>
      <Note Number="20"  Name="0=T Jazz Mid"/>
@@ -423,7 +448,7 @@
      <Note Number="79"  Name="9=S OpnRim"/>
      <Note Number="100"  Name="0=s BrshAtak"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 5 RockDry2">
      <Note Number="1"  Name="1=T Dry1 Hi"/>
      <Note Number="2"  Name="2=T Dry1 Mid"/>
      <Note Number="3"  Name="3=T Dry1 Hi"/>
@@ -444,7 +469,7 @@
      <Note Number="84"  Name="4=T Night M"/>
      <Note Number="85"  Name="5=T Night L"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 30 GoezOn!?">
      <Note Number="3"  Name="3=s AnaHit"/>
      <Note Number="6"  Name="6=s AnaalogH1"/>
      <Note Number="12"  Name="2=k BDDance9"/>
@@ -462,7 +487,7 @@
      <Note Number="53"  Name="3=e DOPPLER"/>
      <Note Number="74"  Name="4=e Vocal04"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 16 Dance 1">
      <Note Number="4"  Name="4=H H ClsMu"/>
      <Note Number="5"  Name="5=H H ClsA2"/>
      <Note Number="6"  Name="6=P AnMaracs"/>
@@ -483,7 +508,7 @@
      <Note Number="78"  Name="8=P Tambourn"/>
      <Note Number="95"  Name="5=s Tekk3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 33 Bs.@Base">
      <Note Number="4"  Name="4=L LITEOOP"/>
      <Note Number="5"  Name="5=H H OPMU"/>
      <Note Number="8"  Name="8=e JNGLSN8"/>
@@ -497,7 +522,7 @@
      <Note Number="80"  Name="0=s S Gate1"/>
      <Note Number="118"  Name="8=s Shotgun"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 37 MondoKit">
      <Note Number="5"  Name="5=H H ClsMu"/>
      <Note Number="7"  Name="7=H H ClsTc1"/>
      <Note Number="8"  Name="8=t Ana 2flr"/>
@@ -512,7 +537,7 @@
      <Note Number="43"  Name="3=H FTsplRK2"/>
      <Note Number="118"  Name="8=S SnareLes"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 11 Andora">
      <Note Number="2"  Name="2=T Dry1 Mid"/>
      <Note Number="4"  Name="4=T Dry1 Flr"/>
      <Note Number="11"  Name="1=T Maple10"/>
@@ -531,7 +556,7 @@
      <Note Number="48"  Name="8=H Hpsplsh 1"/>
      <Note Number="79"  Name="9=S OpnRim"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 45 GM Analog">
      <Note Number="14"  Name="4=P Surdo"/>
      <Note Number="15"  Name="5=P HiQ"/>
      <Note Number="16"  Name="6=P WHP"/>
@@ -604,7 +629,7 @@
      <Note Number="83"  Name="3=P Jingle Bell"/>
      <Note Number="84"  Name="4=P Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 28 Cocktail">
      <Note Number="5"  Name="5=H H ClsMu"/>
      <Note Number="8"  Name="8=H H ClsTc3"/>
      <Note Number="9"  Name="9=C PaperThn"/>
@@ -621,7 +646,7 @@
      <Note Number="79"  Name="9=P Tambrn"/>
      <Note Number="81"  Name="1=P TimbH"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 20 D@RK">
      <Note Number="1"  Name="1=C CrashB"/>
      <Note Number="2"  Name="2=C BriteCrs"/>
      <Note Number="6"  Name="6=T DRY GM5"/>
@@ -642,7 +667,7 @@
      <Note Number="50"  Name="0=H H OpnAn"/>
      <Note Number="64"  Name="4=e RUNNER"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 39 Mystery">
      <Note Number="1"  Name="1=e JNGLSN1"/>
      <Note Number="3"  Name="3=C C Crash"/>
      <Note Number="5"  Name="5=H H ClsMu"/>
@@ -658,7 +683,7 @@
      <Note Number="76"  Name="6=e FRAG14"/>
      <Note Number="82"  Name="2=e FRAG05"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 44 GM Electronic">
      <Note Number="14"  Name="4=P Surdo"/>
      <Note Number="15"  Name="5=P HiQ"/>
      <Note Number="16"  Name="6=P WHP"/>
@@ -731,7 +756,7 @@
      <Note Number="83"  Name="3=P Jingle Bell"/>
      <Note Number="84"  Name="4=P Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 47 GM Brush">
      <Note Number="14"  Name="4=P Surdo"/>
      <Note Number="15"  Name="5=P HiQ"/>
      <Note Number="16"  Name="6=P WHP"/>
@@ -804,7 +829,7 @@
      <Note Number="83"  Name="3=P Jingle Bell"/>
      <Note Number="84"  Name="4=P Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 15 HipFunky">
      <Note Number="1"  Name="1=H H Cls01"/>
      <Note Number="3"  Name="3=C C Crash"/>
      <Note Number="6"  Name="6=P AnMaracs"/>
@@ -824,7 +849,7 @@
      <Note Number="38"  Name="8=T Dry2 Flr"/>
      <Note Number="48"  Name="8=H H Hpsplsh1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 40 GM Standard 1">
      <Note Number="14"  Name="4=P Surdo"/>
      <Note Number="15"  Name="5=P HiQ"/>
      <Note Number="16"  Name="6=P WHP"/>
@@ -897,7 +922,7 @@
      <Note Number="83"  Name="3=P Jingle Bell"/>
      <Note Number="84"  Name="4=P Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 36 JumpBack">
      <Note Number="2"  Name="2=H HCls13"/>
      <Note Number="3"  Name="3=e JNGLSN3"/>
      <Note Number="4"  Name="4=C C CrshAC"/>
@@ -914,7 +939,7 @@
      <Note Number="45"  Name="5=E INDride2"/>
      <Note Number="80"  Name="0=E TungDrum"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 23 LatinPer">
      <Note Number="3"  Name="3=P AgogoH2"/>
      <Note Number="11"  Name="1=P Bongo Hi"/>
      <Note Number="12"  Name="2=P Bongo Lo"/>
@@ -934,7 +959,7 @@
      <Note Number="89"  Name="9=P Udo H"/>
      <Note Number="90"  Name="0=P Udo L"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 42 GM Room">
      <Note Number="14"  Name="4=P Surdo"/>
      <Note Number="15"  Name="5=P HiQ"/>
      <Note Number="16"  Name="6=P WHP"/>
@@ -1007,7 +1032,7 @@
      <Note Number="83"  Name="3=P Jingle Bell"/>
      <Note Number="84"  Name="4=P Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 2 NewBeat">
      <Note Number="1"  Name="1=H H Cls01"/>
      <Note Number="2"  Name="2=C BriteCrs"/>
      <Note Number="6"  Name="6=T DRY GM5"/>
@@ -1026,7 +1051,7 @@
      <Note Number="60"  Name="0=T Rock 3"/>
      <Note Number="61"  Name="1=T Rock 2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 25 World">
      <Note Number="14"  Name="4=P Surdo"/>
      <Note Number="15"  Name="5=P CongaBL"/>
      <Note Number="16"  Name="6=P Tabla M"/>
@@ -1099,7 +1124,7 @@
      <Note Number="83"  Name="3=P Jingle Bell"/>
      <Note Number="84"  Name="4=E TineDrum"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 9 Ballade">
      <Note Number="1"  Name="1=T Dry1 Hi"/>
      <Note Number="2"  Name="2=T Dry1 Mid"/>
      <Note Number="3"  Name="3=T Dry1 Lo"/>
@@ -1117,7 +1142,7 @@
      <Note Number="48"  Name="8=H Hpsplsh1"/>
      <Note Number="110"  Name="0=S SStck2"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 14 In&amp;Out">
      <Note Number="1"  Name="1=T  Dry1 Hi"/>
      <Note Number="11"  Name="1=P Bongo Hi"/>
      <Note Number="19"  Name="9=C RideLite"/>
@@ -1132,7 +1157,7 @@
      <Note Number="50"  Name="0=e D&amp;FRAG20"/>
      <Note Number="82"  Name="2=s S Gate3"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 3 Rock Kit">
      <Note Number="14"  Name="4=T Night Mid"/>
      <Note Number="15"  Name="5=T Night Low"/>
      <Note Number="16"  Name="6=C HHRoKopn"/>
@@ -1205,7 +1230,7 @@
      <Note Number="83"  Name="3=C Bell A"/>
      <Note Number="84"  Name="4=E LoMLoop"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 27 Tabla">
      <Note Number="2"  Name="2=P AgogoH1"/>
      <Note Number="3"  Name="3=P AgogoH2"/>
      <Note Number="23"  Name="3=H H OpnL2"/>
@@ -1226,7 +1251,7 @@
      <Note Number="89"  Name="9=P Udo H"/>
      <Note Number="90"  Name="0=P Udo L"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 35 SnapKit">
      <Note Number="3"  Name="3=H H ClsA1"/>
      <Note Number="5"  Name="5=H H ClsMu"/>
      <Note Number="9"  Name="9=L SNAPLOOP"/>
@@ -1246,7 +1271,7 @@
      <Note Number="64"  Name="4=e RUNNER"/>
      <Note Number="84"  Name="4=e FRAG20"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 4 RockDry1">
      <Note Number="2"  Name="2=H H Cls 13"/>
      <Note Number="3"  Name="3=C C Crash"/>
      <Note Number="22"  Name="2=C RideRock"/>
@@ -1266,7 +1291,7 @@
      <Note Number="96"  Name="6=S Fatbrim"/>
      <Note Number="97"  Name="7=S Brass55"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 19 Manh">
      <Note Number="1"  Name="1=S Looosy"/>
      <Note Number="6"  Name="6=T DRY GM5"/>
      <Note Number="8"  Name="8=T DRY GM3"/>
@@ -1285,7 +1310,7 @@
      <Note Number="64"  Name="4=e RUNNER"/>
      <Note Number="74"  Name="4=e Vocal04"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 12 Room Kit">
      <Note Number="1"  Name="1=C CrashB"/>
      <Note Number="19"  Name="9=K Maple20"/>
      <Note Number="23"  Name="3=H H OpnL2"/>
@@ -1305,7 +1330,7 @@
      <Note Number="79"  Name="9=S OpnRim"/>
      <Note Number="85"  Name="5=S ParadeS"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 21 Oh!No!">
      <Note Number="6"  Name="6=T DRY GM5"/>
      <Note Number="8"  Name="8=T DRY GM3"/>
      <Note Number="10"  Name="0=T DRY GM1"/>
@@ -1320,7 +1345,7 @@
      <Note Number="58"  Name="8=E OrcHt1"/>
      <Note Number="59"  Name="9=P SlBell"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 22 Latin/Tm">
      <Note Number="1"  Name="1=P XfadeTri"/>
      <Note Number="2"  Name="2=P AgogoH1"/>
      <Note Number="19"  Name="9=C RideLite"/>
@@ -1337,7 +1362,7 @@
      <Note Number="82"  Name="2=P TimbL"/>
      <Note Number="102"  Name="2=S Latinrim"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DTX Bank 29 JamKit99">
      <Note Number="10"  Name="0=C ReverseC"/>
      <Note Number="17"  Name="7=k Sub2"/>
      <Note Number="18"  Name="8=S Tosh Sn"/>

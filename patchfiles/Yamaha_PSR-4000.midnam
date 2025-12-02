@@ -447,8 +447,24 @@
           <Patch Number="110"  Name="Fiddle"  ProgramChange="110"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Yamaha PSR4000 Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16256"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Standard Kit"  ProgramChange="0"/>
+          <Patch Number="9"  Name="Room Kit"  ProgramChange="9"/>
+          <Patch Number="17"  Name="Rock Kit"  ProgramChange="17"/>
+          <Patch Number="25"  Name="Electro Kit"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Analog Kit"  ProgramChange="26"/>
+          <Patch Number="33"  Name="Jazz Kit"  ProgramChange="33"/>
+          <Patch Number="41"  Name="Brush Kit"  ProgramChange="41"/>
+          <Patch Number="49"  Name="Classic Kit"  ProgramChange="49"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR4000 Analog Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -521,7 +537,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR4000 Brush Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -594,7 +610,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR4000 Electronic Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -667,7 +683,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR4000 Jazz Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -740,7 +756,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR4000 Rock Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -813,7 +829,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR4000 Room Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -886,7 +902,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR4000 Standard Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -959,7 +975,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR4000 Style Brush Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -1032,7 +1048,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR4000 Classic Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>

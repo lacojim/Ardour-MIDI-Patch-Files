@@ -818,7 +818,43 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha XG Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Master Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38-Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64-Sustain"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft Pedal"/>
+      <Control Type="7bit"  Number="71"  Name="71-Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="72-Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="73-Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="74-Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="84-Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="91-Effects Send Level 1 (reverb)"/>
+      <Control Type="7bit"  Number="93"  Name="93-Effects Send Level 3 (chorus)"/>
+      <Control Type="7bit"  Number="94"  Name="94-Effects Send Level 4 (variation)"/>
+      <Control Type="7bit"  Number="96"  Name="96-RPN Increment"/>
+      <Control Type="7bit"  Number="97"  Name="97-RPN Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="98-NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="99-NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120-All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="124-OMNI Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-OMNI On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="RM1x Aco.Kit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -888,7 +924,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x Big Kit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -958,7 +994,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x BD Kit">
      <Note Number="28"  Name="8=BD Analog Comp"/>
      <Note Number="29"  Name="9=BD Analog Deep"/>
      <Note Number="30"  Name="0=BD Ana Hard 2"/>
@@ -996,7 +1032,7 @@
      <Note Number="62"  Name="2=Punch"/>
      <Note Number="63"  Name="3=Heart"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x AmbntKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -1066,7 +1102,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Wind Chime"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x Acid Kit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -1136,7 +1172,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x AnlgKit1">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -1206,7 +1242,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x AnlgKit2">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -1276,7 +1312,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x BreakKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -1346,7 +1382,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Turntable Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x SFX Kit2">
      <Note Number="28"  Name="8=Thunder"/>
      <Note Number="29"  Name="9=Wind"/>
      <Note Number="30"  Name="0=Seashore"/>
@@ -1392,7 +1428,7 @@
      <Note Number="70"  Name="0=BrstNoiz"/>
      <Note Number="71"  Name="1=Ripper"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x SFX Kit1">
      <Note Number="28"  Name="8=Trance2"/>
      <Note Number="29"  Name="9=Trance3"/>
      <Note Number="30"  Name="0=Trance4"/>
@@ -1453,7 +1489,7 @@
      <Note Number="85"  Name="5=Amphibia"/>
      <Note Number="86"  Name="6=Escape"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x SE Kit">
      <Note Number="17"  Name="7=Rev Syn Cymbal 1"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -1523,7 +1559,7 @@
      <Note Number="83"  Name="3=Vibraslap Synth"/>
      <Note Number="84"  Name="4=Tape Rewind"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x SD Kit">
      <Note Number="28"  Name="8=Snare Analog 2"/>
      <Note Number="29"  Name="9=Snare Analog 2 Q"/>
      <Note Number="30"  Name="0=Snare Ana Gate"/>
@@ -1584,7 +1620,7 @@
      <Note Number="85"  Name="5=Hand Clap Large"/>
      <Note Number="86"  Name="6=Finger Snap"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x RhBoxKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Brush Swirl"/>
@@ -1654,7 +1690,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x PsychKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -1724,7 +1760,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x PercsKit">
      <Note Number="17"  Name="7=Digeridoo 3 Long"/>
      <Note Number="18"  Name="8=Gong 1"/>
      <Note Number="19"  Name="9=Digeridoo 2"/>
@@ -1794,7 +1830,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x JunglKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -1864,7 +1900,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x HouseKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -1934,7 +1970,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x HipHpKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -2004,7 +2040,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Turntable Noise"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x HH&amp;CyKit">
      <Note Number="28"  Name="8=HH Op Hard Short"/>
      <Note Number="29"  Name="9=HH Op Hard"/>
      <Note Number="30"  Name="0=HH Cl Hard H"/>
@@ -2072,7 +2108,7 @@
      <Note Number="92"  Name="2=Gong 3"/>
      <Note Number="93"  Name="3=Finger Cymbal 1"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x Hard Kit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -2142,7 +2178,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x GM StandKit">
      <Note Number="36"  Name="6=BD Dry"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Snare Dry"/>
@@ -2190,7 +2226,7 @@
      <Note Number="80"  Name="0=Triangle Mute"/>
      <Note Number="81"  Name="1=Triangle Open"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x D&amp;B Kit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -2260,7 +2296,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x BrushKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Brush Swirl Short"/>
@@ -2330,7 +2366,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x Jazz Kit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Brush Swirl"/>
@@ -2400,7 +2436,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x SynthKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>
@@ -2470,7 +2506,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x Tom Kit">
      <Note Number="28"  Name="8=Tom Analog 2"/>
      <Note Number="29"  Name="9=Tom Analog 3"/>
      <Note Number="30"  Name="0=Tom Analog 4"/>
@@ -2531,7 +2567,7 @@
      <Note Number="85"  Name="5=Tom Brush 5"/>
      <Note Number="86"  Name="6=Tom Brush 6"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="RM1x TeknoKit">
      <Note Number="17"  Name="7=Rev Syn Cymbal"/>
      <Note Number="18"  Name="8=Reverse Cymbal"/>
      <Note Number="19"  Name="9=Reverse Roll"/>

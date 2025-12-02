@@ -117,7 +117,14 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha SY-55 Controllers">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="2-Breath Controller"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="64"  Name="64-Sustain Pedal"/>
+    </ControlNameList>
+    <NoteNameList  Name="Yamaha SY-55 Drum Set 1">
      <Note Number="37"  Name="7=Bass Drum 2"/>
      <Note Number="38"  Name="8=Bass Drum 3"/>
      <Note Number="39"  Name="9=Bass Drum 3"/>
@@ -179,7 +186,7 @@
      <Note Number="95"  Name="5=Syn Bass"/>
      <Note Number="96"  Name="6=Syn Bass"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha SY-55 Drum Set 2">
      <Note Number="37"  Name="7=Bass Drum 1"/>
      <Note Number="38"  Name="8=Bass Drum 3"/>
      <Note Number="39"  Name="9=Bass Drum 3"/>
@@ -241,7 +248,7 @@
      <Note Number="95"  Name="5=Syn Bass"/>
      <Note Number="96"  Name="6=Syn Bass"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha SY-55 Drums Set 1">
      <Note Number="37"  Name="7=Bass Drum 2"/>
      <Note Number="38"  Name="8=Bass Drum 3"/>
      <Note Number="39"  Name="9=Bass Drum 3"/>

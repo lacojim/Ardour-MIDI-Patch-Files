@@ -3,11 +3,12 @@
 <MIDINameDocument>
   <Author>Karl Swisher taken From Cakewalk</Author>
   <MasterDeviceNames>
-    <Manufacturer>TC Electronic</Manufacturer>
+    <Manufacturer>TC_Electronic</Manufacturer>
     <Model>VoicePrismPlus</Model>
     <CustomDeviceMode Name="Mode 1">
       <ChannelNameSetAssignments>
         <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
         <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
         <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
         <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
@@ -180,5 +181,53 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="VoicePrismPlus Controllers">
+      <Control Type="7bit"  Number="1"  Name="1 Vibrato Depth 0-127"/>
+      <Control Type="7bit"  Number="2"  Name="2 Detune 0-127"/>
+      <Control Type="7bit"  Number="7"  Name="7 Sound Module Volume"/>
+      <Control Type="7bit"  Number="12"  Name="12 Harm Level 0-127"/>
+      <Control Type="7bit"  Number="13"  Name="13 Lead Level 0-127"/>
+      <Control Type="7bit"  Number="14"  Name="14 Effect 1 Level 0-127"/>
+      <Control Type="7bit"  Number="15"  Name="15 Effect 2 Level 0-127"/>
+      <Control Type="7bit"  Number="16"  Name="16 Scale Select 0-5 Library 6-Custom"/>
+      <Control Type="7bit"  Number="17"  Name="17 Song Step Forward 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="18"  Name="18 Song Step Backward 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="19"  Name="19 Thickiner Depth 0-50"/>
+      <Control Type="7bit"  Number="20"  Name="20 Vibrato Rate 0-127"/>
+      <Control Type="7bit"  Number="21"  Name="21 Chord Recog 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="22"  Name="22 Song Select 0-49"/>
+      <Control Type="7bit"  Number="23"  Name="23 Auto Transpose Off/On"/>
+      <Control Type="7bit"  Number="24"  Name="24 Split Point Off/On"/>
+      <Control Type="7bit"  Number="25"  Name="25 Split Note Off/On"/>
+      <Control Type="7bit"  Number="26"  Name="26 HarmMute 127=Off,0=On"/>
+      <Control Type="7bit"  Number="27"  Name="27 Bypass Off/On"/>
+      <Control Type="7bit"  Number="30"  Name="30 Voice 1 Level 0-127 where 0=off, 127 0db"/>
+      <Control Type="7bit"  Number="31"  Name="31 Voice 2 Level 0-127 where 0=off, 127=0db"/>
+      <Control Type="7bit"  Number="33"  Name="33 Voice 3 Level 0-127 where 0=off, 127=0db"/>
+      <Control Type="7bit"  Number="34"  Name="34 Voice 4 Level 0-127 where 0=off, 127=0db"/>
+      <Control Type="7bit"  Number="35"  Name="35 Voice 1 Pan 0=full left, 1-63=left center, 64=center, 65-126=right center, 127=full right"/>
+      <Control Type="7bit"  Number="36"  Name="36 Voice 2 Pan (see voice 1 pan)"/>
+      <Control Type="7bit"  Number="37"  Name="37 Voice 3 Pan (see voice 1 pan)"/>
+      <Control Type="7bit"  Number="39"  Name="39 Voice 4 Pan (see voice 1 pan)"/>
+      <Control Type="7bit"  Number="40"  Name="40 Voice 1 Gender 0-1000=Male, 50=none, 100=female, 101-127 same as 100"/>
+      <Control Type="7bit"  Number="41"  Name="41 Voice 2 Gender (same as voice 1)"/>
+      <Control Type="7bit"  Number="42"  Name="42 Voice 3 Gender (same as voice 1)"/>
+      <Control Type="7bit"  Number="43"  Name="43 Voice 4 Gender (same as voice 1)"/>
+      <Control Type="7bit"  Number="48"  Name="48 Dry/VM Balance 0=100% Dry, 127=100% VM"/>
+      <Control Type="7bit"  Number="49"  Name="49 Dry Pan (same as Voice 1 Pan)"/>
+      <Control Type="7bit"  Number="50"  Name="50 VM Pan (same as Voice 1 Pan)"/>
+      <Control Type="7bit"  Number="51"  Name="51 Detune Amount 0=50 cents, 50=0, 100=+50 cents"/>
+      <Control Type="7bit"  Number="52"  Name="52 VM Vibrato Style"/>
+      <Control Type="7bit"  Number="53"  Name="53 VM Vibrato Amount Off/On"/>
+      <Control Type="7bit"  Number="54"  Name="54 VM Inflection Style"/>
+      <Control Type="7bit"  Number="55"  Name="55 VM Inflection Amount Off/On"/>
+      <Control Type="7bit"  Number="56"  Name="56 VM Glottal Style"/>
+      <Control Type="7bit"  Number="57"  Name="57 VM Glottal Amount Off/On"/>
+      <Control Type="7bit"  Number="58"  Name="58 VM Warp Style"/>
+      <Control Type="7bit"  Number="59"  Name="59 VM Warp Amount Off/On"/>
+      <Control Type="7bit"  Number="60"  Name="60 VM Spectra Style"/>
+      <Control Type="7bit"  Number="61"  Name="61 VM Spectra Amount Off/On"/>
+      <Control Type="7bit"  Number="64"  Name="64 Harm Hold (Damper Message)"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

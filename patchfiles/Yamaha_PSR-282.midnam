@@ -336,8 +336,72 @@
           <Patch Number="127"  Name="Gunshot"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="PSR282 Drum Kits">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16256"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="PSR282 Standard Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="PSR282 Standard Kit 2"  ProgramChange="1"/>
+          <Patch Number="8"  Name="PSR282 Room Kit"  ProgramChange="8"/>
+          <Patch Number="16"  Name="PSR282 Rock Kit"  ProgramChange="16"/>
+          <Patch Number="24"  Name="PSR282 Electronic Kit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="PSR282 Analog Kit"  ProgramChange="25"/>
+          <Patch Number="27"  Name="PSR282 Dance Kit"  ProgramChange="27"/>
+          <Patch Number="32"  Name="PSR282 Jazz Kit"  ProgramChange="32"/>
+          <Patch Number="40"  Name="PSR282 Brush Kit"  ProgramChange="40"/>
+          <Patch Number="48"  Name="PSR282 Symphony Kit"  ProgramChange="48"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Standard">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="2-Breath"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento time"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="8"  Name="8-Balance"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="64"  Name="64-Pedal (sustain)"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Pedal (sostenuto)"/>
+      <Control Type="7bit"  Number="67"  Name="67-Pedal (soft)"/>
+      <Control Type="7bit"  Number="69"  Name="69-Hold 2"/>
+      <Control Type="7bit"  Number="91"  Name="91-External Effects depth"/>
+      <Control Type="7bit"  Number="92"  Name="92-Tremolo depth"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus depth"/>
+      <Control Type="7bit"  Number="94"  Name="94-Celeste (detune) depth"/>
+      <Control Type="7bit"  Number="95"  Name="95-Phaser depth"/>
+    </ControlNameList>
+    <ControlNameList Name="PSR282 Controllers">
+      <Control Type="7bit"  Number="0"  Name="Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="Modulation"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="Master Volume"/>
+      <Control Type="7bit"  Number="10"  Name="Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="Expression"/>
+      <Control Type="7bit"  Number="32"  Name="Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain"/>
+      <Control Type="7bit"  Number="84"  Name="Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="Reverb Send Level"/>
+      <Control Type="7bit"  Number="93"  Name="Chorus Send Level"/>
+      <Control Type="7bit"  Number="94"  Name="Variation Send Level"/>
+      <Control Type="7bit"  Number="96"  Name="RPN Increment"/>
+      <Control Type="7bit"  Number="97"  Name="RPN Decrement"/>
+      <Control Type="7bit"  Number="100"  Name="RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="OMNI Off"/>
+      <Control Type="7bit"  Number="125"  Name="OMNI On"/>
+      <Control Type="7bit"  Number="126"  Name="Mono"/>
+      <Control Type="7bit"  Number="127"  Name="Poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="PSR282 Standard Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -410,7 +474,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR282 Standard Kit 2">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -483,7 +547,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR282 Room Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -556,7 +620,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR282 Rock Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -629,7 +693,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR282 Electronic Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -702,7 +766,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR282 Analog Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -775,7 +839,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR282 Dance Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -848,7 +912,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR282 Jazz Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -921,7 +985,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR282 Brush Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -994,7 +1058,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="PSR282 Symphony Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>

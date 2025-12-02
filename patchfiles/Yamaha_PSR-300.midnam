@@ -152,8 +152,52 @@
           <Patch Number="99"  Name="Drums"  ProgramChange="99"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Yamaha PSR-300 Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Drums"  ProgramChange="0"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha PSR-300 Controllers">
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="64"  Name="64-Sustain"/>
+      <Control Type="7bit"  Number="120"  Name="120-All sounds off"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset all controllers"/>
+    </ControlNameList>
+    <ControlNameList Name="Yamaha PSR-520 Controllers">
+      <Control Type="7bit"  Number="0"  Name="Program Bank Select (MSB)"/>
+      <Control Type="7bit"  Number="1"  Name="Modulation"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry (MSB)"/>
+      <Control Type="7bit"  Number="7"  Name="Volume"/>
+      <Control Type="7bit"  Number="10"  Name="Pan"/>
+      <Control Type="7bit"  Number="11"  Name="Expression"/>
+      <Control Type="7bit"  Number="32"  Name="Program Bank Select (LSB)"/>
+      <Control Type="7bit"  Number="38"  Name="Data Entry (LSB)"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain"/>
+      <Control Type="7bit"  Number="66"  Name="Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="Soft Pedal"/>
+      <Control Type="7bit"  Number="71"  Name="Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="Reverb Send Level"/>
+      <Control Type="7bit"  Number="93"  Name="Chorus Send Level"/>
+      <Control Type="7bit"  Number="94"  Name="DSP Send Level"/>
+      <Control Type="7bit"  Number="96"  Name="Data Increment"/>
+      <Control Type="7bit"  Number="97"  Name="Data Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="All Sounds Off"/>
+      <Control Type="7bit"  Number="121"  Name="Reset All Controllers"/>
+    </ControlNameList>
+    <NoteNameList  Name="Yamaha PSR-300 Drums">
      <Note Number="27"  Name="7=Kick Dry"/>
      <Note Number="30"  Name="0=Low Tom"/>
      <Note Number="32"  Name="2=Low Mid Tom"/>

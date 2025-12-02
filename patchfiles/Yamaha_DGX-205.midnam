@@ -916,7 +916,37 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha DGX-205">
+      <Control Type="7bit"  Number="0"  Name="Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="Modulation"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="Volume"/>
+      <Control Type="7bit"  Number="10"  Name="Pan"/>
+      <Control Type="7bit"  Number="11"  Name="Expression"/>
+      <Control Type="7bit"  Number="32"  Name="Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain"/>
+      <Control Type="7bit"  Number="71"  Name="Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="Reverb Depth"/>
+      <Control Type="7bit"  Number="93"  Name="Chorus Depth"/>
+      <Control Type="7bit"  Number="96"  Name="RPN Increment"/>
+      <Control Type="7bit"  Number="97"  Name="RPN Decrement"/>
+      <Control Type="7bit"  Number="100"  Name="RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="All Sound OFF"/>
+      <Control Type="7bit"  Number="121"  Name="Reset all Controllers"/>
+      <Control Type="7bit"  Number="122"  Name="Local ON/OFF"/>
+      <Control Type="7bit"  Number="123"  Name="All Notes OFF"/>
+      <Control Type="7bit"  Number="124"  Name="All Notes OFF"/>
+      <Control Type="7bit"  Number="125"  Name="All Notes OFF"/>
+      <Control Type="7bit"  Number="126"  Name="All Sound OFF"/>
+      <Control Type="7bit"  Number="127"  Name="All Sound OFF"/>
+    </ControlNameList>
+    <NoteNameList  Name="DGX-205 Standard Kit 1">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -989,7 +1019,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 Electronic Kit">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -1062,7 +1092,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 Analog Kit">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -1135,7 +1165,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 Room Kit">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -1208,7 +1238,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 Standard Kit 2">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -1281,7 +1311,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 Dance Kit">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -1354,7 +1384,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 Jazz Kit">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -1427,7 +1457,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 Brush Kit">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -1500,7 +1530,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 Rock Kit">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -1573,7 +1603,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 Symphony Kit">
      <Note Number="26"  Name="6=Surdo Open"/>
      <Note Number="27"  Name="7=Hi Q"/>
      <Note Number="28"  Name="8=Whip Slap"/>
@@ -1646,7 +1676,7 @@
      <Note Number="95"  Name="5=Jingle Bell"/>
      <Note Number="96"  Name="6=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 SFX Kit 1">
      <Note Number="49"  Name="9=Cutting Noise 2"/>
      <Note Number="51"  Name="1=String Slap"/>
      <Note Number="64"  Name="4=Flute Key Click"/>
@@ -1661,7 +1691,7 @@
      <Note Number="98"  Name="8=Bird Tweet 2"/>
      <Note Number="103"  Name="3=Maou"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="DGX-205 SFX Kit 2">
      <Note Number="49"  Name="9=Door Squeak"/>
      <Note Number="50"  Name="0=Door Slam"/>
      <Note Number="51"  Name="1=Scratch Cut"/>

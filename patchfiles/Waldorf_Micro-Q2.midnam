@@ -4,7 +4,7 @@
   <Author>Karl Swisher taken From Cakewalk</Author>
   <MasterDeviceNames>
     <Manufacturer>Waldorf</Manufacturer>
-    <Model>Q</Model>
+    <Model>Micro-Q2</Model>
     <CustomDeviceMode Name="Mode 1">
       <ChannelNameSetAssignments>
         <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
@@ -44,7 +44,7 @@
         <AvailableChannel Channel="15" Available="true"/>
         <AvailableChannel Channel="16" Available="true"/>
       </AvailableForChannels>
-      <PatchBank Name="Q - Sound A">
+      <PatchBank Name="Micro Q - Sound A">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
           <ControlChange Control="32" Value="0"/>
@@ -152,7 +152,7 @@
           <Patch Number="99"  Name="A100-ARCTICA"  ProgramChange="99"/>
         </PatchNameList>
       </PatchBank>
-      <PatchBank Name="Q - Sound B">
+      <PatchBank Name="Micro Q - Sound B">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
           <ControlChange Control="32" Value="1"/>
@@ -260,7 +260,7 @@
           <Patch Number="99"  Name="B100-Hooked on Q"  ProgramChange="99"/>
         </PatchNameList>
       </PatchBank>
-      <PatchBank Name="Q - Sound C">
+      <PatchBank Name="Micro Q - Sound C">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
           <ControlChange Control="32" Value="2"/>
@@ -368,115 +368,7 @@
           <Patch Number="99"  Name="C100-Init Sound"  ProgramChange="99"/>
         </PatchNameList>
       </PatchBank>
-      <PatchBank Name="Q - Card">
-        <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="4"/>
-        </MIDICommands>
-        <PatchNameList>
-          <Patch Number="0"  Name="X001"  ProgramChange="0"/>
-          <Patch Number="1"  Name="X002"  ProgramChange="1"/>
-          <Patch Number="2"  Name="X003"  ProgramChange="2"/>
-          <Patch Number="3"  Name="X004"  ProgramChange="3"/>
-          <Patch Number="4"  Name="X005"  ProgramChange="4"/>
-          <Patch Number="5"  Name="X006"  ProgramChange="5"/>
-          <Patch Number="6"  Name="X007"  ProgramChange="6"/>
-          <Patch Number="7"  Name="X008"  ProgramChange="7"/>
-          <Patch Number="8"  Name="X009"  ProgramChange="8"/>
-          <Patch Number="9"  Name="X010"  ProgramChange="9"/>
-          <Patch Number="10"  Name="X011"  ProgramChange="10"/>
-          <Patch Number="11"  Name="X012"  ProgramChange="11"/>
-          <Patch Number="12"  Name="X013"  ProgramChange="12"/>
-          <Patch Number="13"  Name="X014"  ProgramChange="13"/>
-          <Patch Number="14"  Name="X015"  ProgramChange="14"/>
-          <Patch Number="15"  Name="X016"  ProgramChange="15"/>
-          <Patch Number="16"  Name="X017"  ProgramChange="16"/>
-          <Patch Number="17"  Name="X018"  ProgramChange="17"/>
-          <Patch Number="18"  Name="X019"  ProgramChange="18"/>
-          <Patch Number="19"  Name="X020"  ProgramChange="19"/>
-          <Patch Number="20"  Name="X021"  ProgramChange="20"/>
-          <Patch Number="21"  Name="X022"  ProgramChange="21"/>
-          <Patch Number="22"  Name="X023"  ProgramChange="22"/>
-          <Patch Number="23"  Name="X024"  ProgramChange="23"/>
-          <Patch Number="24"  Name="X025"  ProgramChange="24"/>
-          <Patch Number="25"  Name="X026"  ProgramChange="25"/>
-          <Patch Number="26"  Name="X027"  ProgramChange="26"/>
-          <Patch Number="27"  Name="X028"  ProgramChange="27"/>
-          <Patch Number="28"  Name="X029"  ProgramChange="28"/>
-          <Patch Number="29"  Name="X030"  ProgramChange="29"/>
-          <Patch Number="30"  Name="X031"  ProgramChange="30"/>
-          <Patch Number="31"  Name="X032"  ProgramChange="31"/>
-          <Patch Number="32"  Name="X033"  ProgramChange="32"/>
-          <Patch Number="33"  Name="X034"  ProgramChange="33"/>
-          <Patch Number="34"  Name="X035"  ProgramChange="34"/>
-          <Patch Number="35"  Name="X036"  ProgramChange="35"/>
-          <Patch Number="36"  Name="X037"  ProgramChange="36"/>
-          <Patch Number="37"  Name="X038"  ProgramChange="37"/>
-          <Patch Number="38"  Name="X039"  ProgramChange="38"/>
-          <Patch Number="39"  Name="X040"  ProgramChange="39"/>
-          <Patch Number="40"  Name="X041"  ProgramChange="40"/>
-          <Patch Number="41"  Name="X042"  ProgramChange="41"/>
-          <Patch Number="42"  Name="X043"  ProgramChange="42"/>
-          <Patch Number="43"  Name="X044"  ProgramChange="43"/>
-          <Patch Number="44"  Name="X045"  ProgramChange="44"/>
-          <Patch Number="45"  Name="X046"  ProgramChange="45"/>
-          <Patch Number="46"  Name="X047"  ProgramChange="46"/>
-          <Patch Number="47"  Name="X048"  ProgramChange="47"/>
-          <Patch Number="48"  Name="X049"  ProgramChange="48"/>
-          <Patch Number="49"  Name="X050"  ProgramChange="49"/>
-          <Patch Number="50"  Name="X051"  ProgramChange="50"/>
-          <Patch Number="51"  Name="X052"  ProgramChange="51"/>
-          <Patch Number="52"  Name="X053"  ProgramChange="52"/>
-          <Patch Number="53"  Name="X054"  ProgramChange="53"/>
-          <Patch Number="54"  Name="X055"  ProgramChange="54"/>
-          <Patch Number="55"  Name="X056"  ProgramChange="55"/>
-          <Patch Number="56"  Name="X057"  ProgramChange="56"/>
-          <Patch Number="57"  Name="X058"  ProgramChange="57"/>
-          <Patch Number="58"  Name="X059"  ProgramChange="58"/>
-          <Patch Number="59"  Name="X060"  ProgramChange="59"/>
-          <Patch Number="60"  Name="X061"  ProgramChange="60"/>
-          <Patch Number="61"  Name="X062"  ProgramChange="61"/>
-          <Patch Number="62"  Name="X063"  ProgramChange="62"/>
-          <Patch Number="63"  Name="X064"  ProgramChange="63"/>
-          <Patch Number="64"  Name="X065"  ProgramChange="64"/>
-          <Patch Number="65"  Name="X066"  ProgramChange="65"/>
-          <Patch Number="66"  Name="X067"  ProgramChange="66"/>
-          <Patch Number="67"  Name="X068"  ProgramChange="67"/>
-          <Patch Number="68"  Name="X069"  ProgramChange="68"/>
-          <Patch Number="69"  Name="X070"  ProgramChange="69"/>
-          <Patch Number="70"  Name="X071"  ProgramChange="70"/>
-          <Patch Number="71"  Name="X072"  ProgramChange="71"/>
-          <Patch Number="72"  Name="X073"  ProgramChange="72"/>
-          <Patch Number="73"  Name="X074"  ProgramChange="73"/>
-          <Patch Number="74"  Name="X075"  ProgramChange="74"/>
-          <Patch Number="75"  Name="X076"  ProgramChange="75"/>
-          <Patch Number="76"  Name="X077"  ProgramChange="76"/>
-          <Patch Number="77"  Name="X078"  ProgramChange="77"/>
-          <Patch Number="78"  Name="X079"  ProgramChange="78"/>
-          <Patch Number="79"  Name="X080"  ProgramChange="79"/>
-          <Patch Number="80"  Name="X081"  ProgramChange="80"/>
-          <Patch Number="81"  Name="X082"  ProgramChange="81"/>
-          <Patch Number="82"  Name="X083"  ProgramChange="82"/>
-          <Patch Number="83"  Name="X084"  ProgramChange="83"/>
-          <Patch Number="84"  Name="X085"  ProgramChange="84"/>
-          <Patch Number="85"  Name="X086"  ProgramChange="85"/>
-          <Patch Number="86"  Name="X087"  ProgramChange="86"/>
-          <Patch Number="87"  Name="X088"  ProgramChange="87"/>
-          <Patch Number="88"  Name="X089"  ProgramChange="88"/>
-          <Patch Number="89"  Name="X090"  ProgramChange="89"/>
-          <Patch Number="90"  Name="X091"  ProgramChange="90"/>
-          <Patch Number="91"  Name="X092"  ProgramChange="91"/>
-          <Patch Number="92"  Name="X093"  ProgramChange="92"/>
-          <Patch Number="93"  Name="X094"  ProgramChange="93"/>
-          <Patch Number="94"  Name="X095"  ProgramChange="94"/>
-          <Patch Number="95"  Name="X096"  ProgramChange="95"/>
-          <Patch Number="96"  Name="X097"  ProgramChange="96"/>
-          <Patch Number="97"  Name="X098"  ProgramChange="97"/>
-          <Patch Number="98"  Name="X099"  ProgramChange="98"/>
-          <Patch Number="99"  Name="X100"  ProgramChange="99"/>
-        </PatchNameList>
-      </PatchBank>
-      <PatchBank Name="Q - Drums">
+      <PatchBank Name="Micro Q - Drums">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
           <ControlChange Control="32" Value="3"/>
@@ -504,39 +396,10 @@
           <Patch Number="19"  Name="D20-Init Drummap 1.0"  ProgramChange="19"/>
         </PatchNameList>
       </PatchBank>
-      <PatchBank Name="Q - Pattern">
+      <PatchBank Name="Micro Q - Multi">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="0"/>
-        </MIDICommands>
-        <PatchNameList>
-          <Patch Number="0"  Name="P001-Init Ptrn 08 St."  ProgramChange="0"/>
-          <Patch Number="1"  Name="P002-Init Ptrn 16 St."  ProgramChange="1"/>
-          <Patch Number="2"  Name="P003-Init Ptrn 24 St."  ProgramChange="2"/>
-          <Patch Number="3"  Name="P004-Init Ptrn 32 St."  ProgramChange="3"/>
-          <Patch Number="4"  Name="P005-Poly Ptrn 08 St."  ProgramChange="4"/>
-          <Patch Number="5"  Name="P006-Poly Ptrn 16 St."  ProgramChange="5"/>
-          <Patch Number="6"  Name="P007-Poly Ptrn 24 St."  ProgramChange="6"/>
-          <Patch Number="7"  Name="P008-Poly Ptrn 32 St."  ProgramChange="7"/>
-          <Patch Number="8"  Name="P009-MonoBassl.16S"  ProgramChange="8"/>
-          <Patch Number="9"  Name="P010-MonoBassl.32S"  ProgramChange="9"/>
-          <Patch Number="10"  Name="P011-PolyPtrn 16S."  ProgramChange="10"/>
-          <Patch Number="11"  Name="P012-PolyPtrn 32S."  ProgramChange="11"/>
-          <Patch Number="12"  Name="P013-Drums 4/4beat"  ProgramChange="12"/>
-          <Patch Number="13"  Name="P014-Drums EBeat 1"  ProgramChange="13"/>
-          <Patch Number="14"  Name="P015-Drums 3/4beat"  ProgramChange="14"/>
-          <Patch Number="15"  Name="P016-Mono Leadline"  ProgramChange="15"/>
-          <Patch Number="16"  Name="P017-Mono Line 32"  ProgramChange="16"/>
-          <Patch Number="17"  Name="P018-CR Beat 4/4"  ProgramChange="17"/>
-          <Patch Number="18"  Name="P019-SimpleBass 32"  ProgramChange="18"/>
-          <Patch Number="19"  Name="P020-Pop Melo 32"  ProgramChange="19"/>
-          <Patch Number="20"  Name="P021-Drums Pop 4/4"  ProgramChange="20"/>
-        </PatchNameList>
-      </PatchBank>
-      <PatchBank Name="Q - Multi">
-        <MIDICommands>
-          <ControlChange Control="0" Value="0"/>
-          <ControlChange Control="32" Value="5"/>
+          <ControlChange Control="32" Value="4"/>
         </MIDICommands>
         <PatchNameList>
           <Patch Number="0"  Name="M001-Start me!"  ProgramChange="0"/>
@@ -642,7 +505,7 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <ControlNameList Name="Q Controllers">
+    <ControlNameList Name="Micro Q Controllers">
       <Control Type="7bit"  Number="0"  Name="0-Bank Select MSB"/>
       <Control Type="7bit"  Number="1"  Name="1-Modulation Wheel"/>
       <Control Type="7bit"  Number="2"  Name="2-Breath Control"/>

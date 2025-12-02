@@ -1256,7 +1256,7 @@
           <Patch Number="49"  Name="Orchestra Strings"  ProgramChange="49"/>
           <Patch Number="50"  Name="Slow Strings"  ProgramChange="50"/>
           <Patch Number="51"  Name="Syn Strings 2"  ProgramChange="51"/>
-          <Patch Number=";52"  Name="Ober Strings"  ProgramChange=";52"/>
+          <Patch Number="52"  Name="Ober Strings"  ProgramChange="52"/>
           <Patch Number="53"  Name="Vocal Ensemble"  ProgramChange="53"/>
           <Patch Number="54"  Name="Gothic Vox"  ProgramChange="54"/>
           <Patch Number="55"  Name="Voices"  ProgramChange="55"/>
@@ -1335,10 +1335,10 @@
           <Patch Number="90"  Name="Dunes"  ProgramChange="90"/>
           <Patch Number="94"  Name="Glass Pad"  ProgramChange="94"/>
           <Patch Number="95"  Name="Solaris"  ProgramChange="95"/>
-          <Patch Number=";96"  Name="HipaStrPad"  ProgramChange=";96"/>
-          <Patch Number=";99"  Name="Angel Vibes"  ProgramChange=";99"/>
-          <Patch Number=";100"  Name="Mediterrain"  ProgramChange=";100"/>
-          <Patch Number=";101"  Name="Sirius"  ProgramChange=";101"/>
+          <Patch Number="96"  Name="HipaStrPad"  ProgramChange="96"/>
+          <Patch Number="99"  Name="Angel Vibes"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Mediterrain"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Sirius"  ProgramChange="101"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 115">
@@ -1381,8 +1381,8 @@
           <Patch Number="89"  Name="GoldenAge"  ProgramChange="89"/>
           <Patch Number="90"  Name="Neo WarmPad"  ProgramChange="90"/>
           <Patch Number="95"  Name="Ionosphere"  ProgramChange="95"/>
-          <Patch Number=";96"  Name="Ober Sweep"  ProgramChange=";96"/>
-          <Patch Number=";102"  Name="S&amp;H Groove"  ProgramChange=";102"/>
+          <Patch Number="96"  Name="Ober Sweep"  ProgramChange="96"/>
+          <Patch Number="102"  Name="S&amp;H Groove"  ProgramChange="102"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 116">
@@ -1421,9 +1421,9 @@
           <Patch Number="82"  Name="Fire Wire"  ProgramChange="82"/>
           <Patch Number="85"  Name="Tekkline"  ProgramChange="85"/>
           <Patch Number="89"  Name="Time Travel"  ProgramChange="89"/>
-          <Patch Number=";90"  Name="Disclosure"  ProgramChange=";90"/>
-          <Patch Number=";96"  Name="Messenger"  ProgramChange=";96"/>
-          <Patch Number=";102"  Name="Velo. Ashrami"  ProgramChange=";102"/>
+          <Patch Number="90"  Name="Disclosure"  ProgramChange="90"/>
+          <Patch Number="96"  Name="Messenger"  ProgramChange="96"/>
+          <Patch Number="102"  Name="Velo. Ashrami"  ProgramChange="102"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 117">
@@ -1455,9 +1455,9 @@
           <Patch Number="82"  Name="Warp"  ProgramChange="82"/>
           <Patch Number="85"  Name="Tech. Lead"  ProgramChange="85"/>
           <Patch Number="89"  Name="Millenium"  ProgramChange="89"/>
-          <Patch Number=";90"  Name="Melody Maker"  ProgramChange=";90"/>
-          <Patch Number=";96"  Name="Mellow Pad"  ProgramChange=";96"/>
-          <Patch Number=";102"  Name="Evening Stars"  ProgramChange=";102"/>
+          <Patch Number="90"  Name="Melody Maker"  ProgramChange="90"/>
+          <Patch Number="96"  Name="Mellow Pad"  ProgramChange="96"/>
+          <Patch Number="102"  Name="Evening Stars"  ProgramChange="102"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 118">
@@ -1484,8 +1484,8 @@
           <Patch Number="67"  Name="Growl Sax"  ProgramChange="67"/>
           <Patch Number="81"  Name="Tiny Lead"  ProgramChange="81"/>
           <Patch Number="89"  Name="Sweet Heaven"  ProgramChange="89"/>
-          <Patch Number=";90"  Name="Big Tune"  ProgramChange=";90"/>
-          <Patch Number=";96"  Name="Dark Pad"  ProgramChange=";96"/>
+          <Patch Number="90"  Name="Big Tune"  ProgramChange="90"/>
+          <Patch Number="96"  Name="Dark Pad"  ProgramChange="96"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 119">
@@ -1497,17 +1497,17 @@
           <Patch Number="5"  Name="Cool! Electric Piano"  ProgramChange="5"/>
           <Patch Number="6"  Name="Smooth Tine"  ProgramChange="6"/>
           <Patch Number="17"  Name="Gospel Organ"  ProgramChange="17"/>
-          <Patch Number=";18"  Name="Perc Organ"  ProgramChange=";18"/>
-          <Patch Number=";19"  Name="Rock Organ 2"  ProgramChange=";19"/>
+          <Patch Number="18"  Name="Perc Organ"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Rock Organ 2"  ProgramChange="19"/>
           <Patch Number="26"  Name="18 String"  ProgramChange="26"/>
           <Patch Number="27"  Name="Smooth Lead"  ProgramChange="27"/>
           <Patch Number="28"  Name="El. 12Str Guitar"  ProgramChange="28"/>
           <Patch Number="50"  Name="Orch. Flute"  ProgramChange="50"/>
           <Patch Number="62"  Name="Mellow Horns"  ProgramChange="62"/>
-          <Patch Number=";63"  Name="Hybrid Comp."  ProgramChange=";63"/>
-          <Patch Number=";67"  Name="Ballad Brass"  ProgramChange=";67"/>
+          <Patch Number="63"  Name="Hybrid Comp."  ProgramChange="63"/>
+          <Patch Number="67"  Name="Ballad Brass"  ProgramChange="67"/>
           <Patch Number="82"  Name="Fargo"  ProgramChange="82"/>
-          <Patch Number=";89"  Name="Bell Heaven"  ProgramChange=";89"/>
+          <Patch Number="89"  Name="Bell Heaven"  ProgramChange="89"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 120">
@@ -1519,15 +1519,15 @@
           <Patch Number="5"  Name="Phase EP"  ProgramChange="5"/>
           <Patch Number="6"  Name="Chorus Bell"  ProgramChange="6"/>
           <Patch Number="17"  Name="Jazz Organ 3"  ProgramChange="17"/>
-          <Patch Number=";17"  Name="Drawbar Org. 1"  ProgramChange=";17"/>
+          <Patch Number="17"  Name="Drawbar Org. 1"  ProgramChange="17"/>
           <Patch Number="28"  Name="Vintage Trem"  ProgramChange="28"/>
           <Patch Number="50"  Name="Tutti"  ProgramChange="50"/>
           <Patch Number="62"  Name="Bright Brass"  ProgramChange="62"/>
-          <Patch Number=";62"  Name="Soft Velo. Brass"  ProgramChange=";62"/>
-          <Patch Number=";66"  Name="Saxy Mood"  ProgramChange=";66"/>
-          <Patch Number=";80"  Name="Pop Lead"  ProgramChange=";80"/>
+          <Patch Number="62"  Name="Soft Velo. Brass"  ProgramChange="62"/>
+          <Patch Number="66"  Name="Saxy Mood"  ProgramChange="66"/>
+          <Patch Number="80"  Name="Pop Lead"  ProgramChange="80"/>
           <Patch Number="82"  Name="Wire Lead"  ProgramChange="82"/>
-          <Patch Number=";88"  Name="Pan Heaven"  ProgramChange=";88"/>
+          <Patch Number="88"  Name="Pan Heaven"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 121">
@@ -1540,7 +1540,7 @@
           <Patch Number="50"  Name="Orch. Oboe"  ProgramChange="50"/>
           <Patch Number="62"  Name="Big Brass"  ProgramChange="62"/>
           <Patch Number="67"  Name="Live! Sax Section Soft"  ProgramChange="67"/>
-          <Patch Number=";80"  Name="Trance Lead"  ProgramChange=";80"/>
+          <Patch Number="80"  Name="Trance Lead"  ProgramChange="80"/>
           <Patch Number="82"  Name="Funky Lead"  ProgramChange="82"/>
           <Patch Number="89"  Name="DreamHeaven"  ProgramChange="89"/>
         </PatchNameList>
@@ -1551,15 +1551,15 @@
           <ControlChange Control="32" Value="122"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number=";16"  Name="Tibia 8+4"  ProgramChange=";16"/>
-          <Patch Number=";17"  Name="Tibia 8"  ProgramChange=";17"/>
+          <Patch Number="16"  Name="Tibia 8+4"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Tibia 8"  ProgramChange="17"/>
           <Patch Number="28"  Name="Wah Guitar"  ProgramChange="28"/>
           <Patch Number="50"  Name="Live! Allegro"  ProgramChange="50"/>
           <Patch Number="62"  Name="Trumpet Ensemble"  ProgramChange="62"/>
           <Patch Number="67"  Name="Live! Sax Section Hard"  ProgramChange="67"/>
           <Patch Number="80"  Name="Pan Lead"  ProgramChange="80"/>
           <Patch Number="82"  Name="Oxygen"  ProgramChange="82"/>
-          <Patch Number=";88"  Name="Pro Heaven"  ProgramChange=";88"/>
+          <Patch Number="88"  Name="Pro Heaven"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 123">
@@ -1568,14 +1568,14 @@
           <ControlChange Control="32" Value="123"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number=";16"  Name="Kinura 8"  ProgramChange=";16"/>
-          <Patch Number=";17"  Name="Vox 8"  ProgramChange=";17"/>
+          <Patch Number="16"  Name="Kinura 8"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Vox 8"  ProgramChange="17"/>
           <Patch Number="28"  Name="Vintage Open"  ProgramChange="28"/>
           <Patch Number="62"  Name="Soft Brass"  ProgramChange="62"/>
-          <Patch Number=";66"  Name="Sax Appeal"  ProgramChange=";66"/>
-          <Patch Number=";80"  Name="Perc. Square"  ProgramChange=";80"/>
+          <Patch Number="66"  Name="Sax Appeal"  ProgramChange="66"/>
+          <Patch Number="80"  Name="Perc. Square"  ProgramChange="80"/>
           <Patch Number="82"  Name="Matrix"  ProgramChange="82"/>
-          <Patch Number=";88"  Name="Sun Beam"  ProgramChange=";88"/>
+          <Patch Number="88"  Name="Sun Beam"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 124">
@@ -1584,14 +1584,14 @@
           <ControlChange Control="32" Value="124"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number=";16"  Name="Thtr Trp8"  ProgramChange=";16"/>
-          <Patch Number=";17"  Name="Thtr Trp16+8"  ProgramChange=";17"/>
+          <Patch Number="16"  Name="Thtr Trp8"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Thtr Trp16+8"  ProgramChange="17"/>
           <Patch Number="28"  Name="Chorus Gtr"  ProgramChange="28"/>
           <Patch Number="62"  Name="Natural Brass"  ProgramChange="62"/>
-          <Patch Number=";66"  Name="Sax Stack"  ProgramChange=";66"/>
-          <Patch Number=";80"  Name="Soft Mini"  ProgramChange=";80"/>
-          <Patch Number=";81"  Name="RoboLead"  ProgramChange=";81"/>
-          <Patch Number=";88"  Name="String Bells"  ProgramChange=";88"/>
+          <Patch Number="66"  Name="Sax Stack"  ProgramChange="66"/>
+          <Patch Number="80"  Name="Soft Mini"  ProgramChange="80"/>
+          <Patch Number="81"  Name="RoboLead"  ProgramChange="81"/>
+          <Patch Number="88"  Name="String Bells"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 125">
@@ -1600,13 +1600,13 @@
           <ControlChange Control="32" Value="125"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number=";16"  Name="Tibia+Vox"  ProgramChange=";16"/>
-          <Patch Number=";17"  Name="Trp+Kinura"  ProgramChange=";17"/>
+          <Patch Number="16"  Name="Tibia+Vox"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Trp+Kinura"  ProgramChange="17"/>
           <Patch Number="28"  Name="Cool! Vintage Lead"  ProgramChange="28"/>
           <Patch Number="62"  Name="Sforzando"  ProgramChange="62"/>
-          <Patch Number=";80"  Name="Bright Mini"  ProgramChange=";80"/>
-          <Patch Number=";81"  Name="Trumpet Saw"  ProgramChange=";81"/>
-          <Patch Number=";88"  Name="Crystal Eyes"  ProgramChange=";88"/>
+          <Patch Number="80"  Name="Bright Mini"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Trumpet Saw"  ProgramChange="81"/>
+          <Patch Number="88"  Name="Crystal Eyes"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Yamaha PSR3000 Bank 126">
@@ -1617,13 +1617,49 @@
         <PatchNameList>
           <Patch Number="17"  Name="Organ Flutes"  ProgramChange="17"/>
           <Patch Number="28"  Name="Vintage Strum"  ProgramChange="28"/>
-          <Patch Number=";61"  Name="Brass Hit"  ProgramChange=";61"/>
-          <Patch Number=";81"  Name="Attack Saw"  ProgramChange=";81"/>
-          <Patch Number=";88"  Name="Pad Bells"  ProgramChange=";88"/>
+          <Patch Number="61"  Name="Brass Hit"  ProgramChange="61"/>
+          <Patch Number="81"  Name="Attack Saw"  ProgramChange="81"/>
+          <Patch Number="88"  Name="Pad Bells"  ProgramChange="88"/>
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha PSR3000 Controllers">
+      <Control Type="7bit"  Number="0"  Name="Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="Master Volume"/>
+      <Control Type="7bit"  Number="10"  Name="Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="Expression"/>
+      <Control Type="7bit"  Number="32"  Name="Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain"/>
+      <Control Type="7bit"  Number="65"  Name="Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="Soft Pedal"/>
+      <Control Type="7bit"  Number="71"  Name="Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="Reverb Send Level"/>
+      <Control Type="7bit"  Number="93"  Name="Chorus Send Level"/>
+      <Control Type="7bit"  Number="94"  Name="Variation Send Level"/>
+      <Control Type="7bit"  Number="96"  Name="RPN Increment"/>
+      <Control Type="7bit"  Number="97"  Name="RPN Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="OMNI Off"/>
+      <Control Type="7bit"  Number="125"  Name="OMNI On"/>
+      <Control Type="7bit"  Number="126"  Name="Mono"/>
+      <Control Type="7bit"  Number="127"  Name="Poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="GM2 Standard Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -1685,7 +1721,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Room Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -1747,7 +1783,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Power Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -1809,7 +1845,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Electronic Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -1871,7 +1907,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Analog Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -1933,7 +1969,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Jazz Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -1995,7 +2031,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Brush Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -2057,7 +2093,7 @@
      <Note Number="86"  Name="6=Mute Surdo"/>
      <Note Number="87"  Name="7=Open Surdo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 Orchestra Set">
      <Note Number="28"  Name="8=Pedal Hi-Hat"/>
      <Note Number="29"  Name="9=Open Hi-Hat"/>
      <Note Number="30"  Name="0=Ride Cymbal 1"/>
@@ -2119,7 +2155,7 @@
      <Note Number="87"  Name="7=Open Surdo"/>
      <Note Number="88"  Name="8=Applause"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="GM2 SFX Set">
      <Note Number="40"  Name="0=Slap"/>
      <Note Number="41"  Name="1=Scratch Push"/>
      <Note Number="42"  Name="2=Scratch Pull"/>
@@ -2166,7 +2202,7 @@
      <Note Number="83"  Name="3=Stream"/>
      <Note Number="84"  Name="4=Bubble"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Analog Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2239,7 +2275,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Brush Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2312,7 +2348,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Dance Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2385,7 +2421,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Electronic Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2458,7 +2494,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Hit Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2531,7 +2567,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Jazz Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2604,7 +2640,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Rock Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2677,7 +2713,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Room Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2750,7 +2786,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 SFX Kit 1">
      <Note Number="37"  Name="7=Guitar Cutting Noise 2"/>
      <Note Number="39"  Name="9=String Slap"/>
      <Note Number="52"  Name="2=Flute Key Click"/>
@@ -2766,7 +2802,7 @@
      <Note Number="90"  Name="0=Ghost"/>
      <Note Number="91"  Name="1=Maou"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 SFX Kit 2">
      <Note Number="37"  Name="7=Door Creaking"/>
      <Note Number="38"  Name="8=Door Slam"/>
      <Note Number="39"  Name="9=Scratch Cut"/>
@@ -2794,7 +2830,7 @@
      <Note Number="86"  Name="6=Explosion"/>
      <Note Number="87"  Name="7=Firework"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Standard Kit 1">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2867,7 +2903,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Standard Kit 2">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -2940,7 +2976,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Symphonic Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3013,7 +3049,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Studio Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -3105,7 +3141,7 @@
      <Note Number="82"  Name="2=Shaker Stereo"/>
      <Note Number="84"  Name="4=Wind Chime Stereo"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR3000 Arabic Kit">
      <Note Number="25"  Name="5=cabasa"/>
      <Note Number="26"  Name="6=nakarazan edge"/>
      <Note Number="27"  Name="7=hager dom"/>

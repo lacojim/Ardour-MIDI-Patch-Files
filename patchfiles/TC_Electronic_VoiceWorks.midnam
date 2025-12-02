@@ -3,7 +3,7 @@
 <MIDINameDocument>
   <Author>Karl Swisher taken From Cakewalk</Author>
   <MasterDeviceNames>
-    <Manufacturer>TC Electronic</Manufacturer>
+    <Manufacturer>TC_Electronic</Manufacturer>
     <Model>VoiceWorks</Model>
     <CustomDeviceMode Name="Mode 1">
       <ChannelNameSetAssignments>
@@ -347,5 +347,107 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="VoiceWorks">
+      <Control Type="7bit"  Number="1"  Name="1 Global Vibrato 0-127"/>
+      <Control Type="7bit"  Number="3"  Name="3 Voice 4 Vibrato Style 0-Number of Styles"/>
+      <Control Type="7bit"  Number="9"  Name="9 Song Step Backward >63, Song Steps Backward"/>
+      <Control Type="7bit"  Number="11"  Name="11 Voice 1 Level 0-127"/>
+      <Control Type="7bit"  Number="12"  Name="12 Voice 1 Voicing Harmony Mode Dependent"/>
+      <Control Type="7bit"  Number="13"  Name="13 Voice 1 Gender 0-127"/>
+      <Control Type="7bit"  Number="14"  Name="14 Fx Delay Time 0-127"/>
+      <Control Type="7bit"  Number="15"  Name="15 Voice 3 Vibrato Amount 0-100"/>
+      <Control Type="7bit"  Number="16"  Name="16 Voice 1 Pan 0-127"/>
+      <Control Type="7bit"  Number="17"  Name="17 Voice 2 Level 0-127"/>
+      <Control Type="7bit"  Number="18"  Name="18 Voice 2 Voicing Harmony Mode Dependent"/>
+      <Control Type="7bit"  Number="19"  Name="19 Voice 2 Gender 0-127"/>
+      <Control Type="7bit"  Number="20"  Name="20 Voice 2 Pan 0-127"/>
+      <Control Type="7bit"  Number="21"  Name="21 Voice 3 Level 0-127"/>
+      <Control Type="7bit"  Number="22"  Name="22 Voice 3 Voicing Harmony Mode Dependent"/>
+      <Control Type="7bit"  Number="23"  Name="23 Voice 3 Gender 0-127"/>
+      <Control Type="7bit"  Number="24"  Name="24 Voice 3 Pan 0-127"/>
+      <Control Type="7bit"  Number="25"  Name="25 Voice 4 Level 0-127"/>
+      <Control Type="7bit"  Number="26"  Name="26 Voice 4 Voicing Harmony Mode Dependent"/>
+      <Control Type="7bit"  Number="27"  Name="27 Voice 4 Gender 0-127"/>
+      <Control Type="7bit"  Number="28"  Name="28 Voice 4 Pan 0-127"/>
+      <Control Type="7bit"  Number="29"  Name="29 Harmony Mode 0-3"/>
+      <Control Type="7bit"  Number="30"  Name="30 Harmony Root 0-11"/>
+      <Control Type="7bit"  Number="31"  Name="31 Harmony Type Harmony Mode Dependent"/>
+      <Control Type="7bit"  Number="35"  Name="35 Harmony Level 0-127"/>
+      <Control Type="7bit"  Number="36"  Name="36 Harmony Smooth 0-127"/>
+      <Control Type="7bit"  Number="37"  Name="37 harmony Lead 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="40"  Name="40 Harmony Style 0-Number of Styles"/>
+      <Control Type="7bit"  Number="41"  Name="41 Harmony Style Amount 0-127"/>
+      <Control Type="7bit"  Number="42"  Name="42 Harmony Tuning 0-2"/>
+      <Control Type="7bit"  Number="43"  Name="43 Harmony Portamento 0-127"/>
+      <Control Type="7bit"  Number="44"  Name="44 Harmony Notes Attack 0-127"/>
+      <Control Type="7bit"  Number="45"  Name="45 Harmony Notes Release 0-127"/>
+      <Control Type="7bit"  Number="46"  Name="46 Fx Reverb Color High Freq 0-6"/>
+      <Control Type="7bit"  Number="47"  Name="47 Thickening Level 0-127"/>
+      <Control Type="7bit"  Number="48"  Name="48 Thickening Detune 0-127"/>
+      <Control Type="7bit"  Number="49"  Name="49 Thickening Spread 0-127"/>
+      <Control Type="7bit"  Number="50"  Name="50 Fx Level 0-127"/>
+      <Control Type="7bit"  Number="51"  Name="51 Fx Rev:Delay Mix 0-127"/>
+      <Control Type="7bit"  Number="52"  Name="52 Fx Lead2Reverb Send 0-127"/>
+      <Control Type="7bit"  Number="53"  Name="53 Fx Harmony2Reverb Send 0-127"/>
+      <Control Type="7bit"  Number="54"  Name="54 Fx Aux2Reverb Send 0-127"/>
+      <Control Type="7bit"  Number="55"  Name="55 Fx Lead2Delay Send 0-127"/>
+      <Control Type="7bit"  Number="56"  Name="56 Fx Harmony2Delay Send 0-127"/>
+      <Control Type="7bit"  Number="57"  Name="57 Fx Aux2Delay Semd 0-127"/>
+      <Control Type="7bit"  Number="58"  Name="58 Fx Delay2Reverb Send 0-127"/>
+      <Control Type="7bit"  Number="59"  Name="59 Fx Reverb Type 0-13"/>
+      <Control Type="7bit"  Number="60"  Name="60 Fx Reverb PreDelay Level 0-127"/>
+      <Control Type="7bit"  Number="61"  Name="61 Fx Reverb Decay Time 0-127"/>
+      <Control Type="7bit"  Number="62"  Name="62 Fx Reverb Color Low Freq 0-6"/>
+      <Control Type="7bit"  Number="63"  Name="63 Fx Delay Type 0-2"/>
+      <Control Type="7bit"  Number="64"  Name="64 Sustain Pedal 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="65"  Name="65 Fx Delay Feedback 0-127"/>
+      <Control Type="7bit"  Number="66"  Name="66 Fx Delay High Freq Damp 0-127"/>
+      <Control Type="7bit"  Number="67"  Name="67 Correction Scale Root 0-11"/>
+      <Control Type="7bit"  Number="68"  Name="68 Correction Scale Type 0-5"/>
+      <Control Type="7bit"  Number="69"  Name="69 Correction Window 0-127"/>
+      <Control Type="7bit"  Number="70"  Name="70 Correction Attack 0-127"/>
+      <Control Type="7bit"  Number="71"  Name="71 Correction Amount 0-127"/>
+      <Control Type="7bit"  Number="72"  Name="72 Setup Dry Level 0-127"/>
+      <Control Type="7bit"  Number="73"  Name="73 Setup Lead Pan 0-127"/>
+      <Control Type="7bit"  Number="74"  Name="74 Setup Low Cut 0-3"/>
+      <Control Type="7bit"  Number="75"  Name="75 Setup Dynamics 0-3"/>
+      <Control Type="7bit"  Number="76"  Name="76 Setup Comp Threshold 0-127"/>
+      <Control Type="7bit"  Number="77"  Name="77 Setup Comp Ratio 0-13"/>
+      <Control Type="7bit"  Number="78"  Name="78 Setup Gate 0-127"/>
+      <Control Type="7bit"  Number="79"  Name="79 Setup EQ Routing 0-3"/>
+      <Control Type="7bit"  Number="80"  Name="80 Setup Low Shelf Freq 0-127"/>
+      <Control Type="7bit"  Number="81"  Name="81 Setup Low Cut Boost 0-127"/>
+      <Control Type="7bit"  Number="82"  Name="82 Setup High Shelf Freq 0-127"/>
+      <Control Type="7bit"  Number="83"  Name="83 Setup High Cut Boost 0-127"/>
+      <Control Type="7bit"  Number="84"  Name="84 Setup Mid Freq 0-127"/>
+      <Control Type="7bit"  Number="85"  Name="85 Setup Mid Boost 0-127"/>
+      <Control Type="7bit"  Number="86"  Name="86 Setup EQ Q 0-127"/>
+      <Control Type="7bit"  Number="87"  Name="87 Setup Output Level 0-127"/>
+      <Control Type="7bit"  Number="88"  Name="88 Setup Global Effect 0-100"/>
+      <Control Type="7bit"  Number="89"  Name="89 Voice 1 Vibrato Style 0-Number of Styles"/>
+      <Control Type="7bit"  Number="90"  Name="90 Voice 1 Vibrato Amount 0-100"/>
+      <Control Type="7bit"  Number="92"  Name="92 Voice 2 Vibrato Style 0-Number of Styles"/>
+      <Control Type="7bit"  Number="93"  Name="93 Voice 2 Vibrato Amount 0-100"/>
+      <Control Type="7bit"  Number="94"  Name="94 Voice 3 Vibrato Style 0-Number of Styles"/>
+      <Control Type="7bit"  Number="95"  Name="95 Harmony Latch 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="102"  Name="102 Setup FootSwitch 1 Assign 0-9"/>
+      <Control Type="7bit"  Number="103"  Name="103 Setup FootSwitch 2 Assign 0-9"/>
+      <Control Type="7bit"  Number="104"  Name="104 Setup FootSwitch 3 Assign 0-9"/>
+      <Control Type="7bit"  Number="105"  Name="105 Voice 4 Vibrato Amount 0-100"/>
+      <Control Type="7bit"  Number="106"  Name="106 Voice 1 Active 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="107"  Name="107 Voice 2 Active 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="108"  Name="108 Voice 3 Active 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="109"  Name="109 Voice 4 Active 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="110"  Name="110 Harmony Bypass 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="111"  Name="111 Thickening Bypass 0-127"/>
+      <Control Type="7bit"  Number="112"  Name="112 Fx Bypass 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="113"  Name="113 Correction Bypass 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="114"  Name="114 Bypass All 0-63 Off, 64-127 On"/>
+      <Control Type="7bit"  Number="115"  Name="115 Song Step Forward .63, Song Steps Forward"/>
+      <Control Type="7bit"  Number="116"  Name="116 Fx Delay Source 0-22"/>
+      <Control Type="7bit"  Number="117"  Name="117 Pitch Correction Scale Notes 0tuvwxyzB"/>
+      <Control Type="7bit"  Number="118"  Name="118 Pitch Correcion Scale Notes 0nnopqrsB"/>
+      <Control Type="7bit"  Number="119"  Name="119 Harmony Hold CC Control 0-63 Off, 64-127 On"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

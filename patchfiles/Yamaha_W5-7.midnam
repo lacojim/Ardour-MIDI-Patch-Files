@@ -1028,8 +1028,74 @@
           <Patch Number="127"  Name="128 Gunshot"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="W5/7 General MIDI Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Standard Kit"  ProgramChange="0"/>
+          <Patch Number="8"  Name="Room Kit"  ProgramChange="8"/>
+          <Patch Number="16"  Name="Rock Kit"  ProgramChange="16"/>
+          <Patch Number="24"  Name="Electro Kit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Analog Kit"  ProgramChange="25"/>
+          <Patch Number="32"  Name="Jazz Kit"  ProgramChange="32"/>
+          <Patch Number="40"  Name="Brush Kit"  ProgramChange="40"/>
+          <Patch Number="48"  Name="Classic Kit"  ProgramChange="48"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="W5/7 Preset Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="QY-10 Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="SY85 Kit"  ProgramChange="1"/>
+          <Patch Number="2"  Name="HipHop Kit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Lofi Kit"  ProgramChange="3"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="W5-7 Controllers">
+      <Control Type="7bit"  Number="0"  Name="Bank Select"/>
+      <Control Type="7bit"  Number="1"  Name="Modulation Wheel"/>
+      <Control Type="7bit"  Number="2"  Name="Breath Controller"/>
+      <Control Type="7bit"  Number="4"  Name="Foot Controller"/>
+      <Control Type="7bit"  Number="5"  Name="Portamento Time Pedal"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry"/>
+      <Control Type="7bit"  Number="7"  Name="Instrument Volume"/>
+      <Control Type="7bit"  Number="8"  Name="Balance Controller"/>
+      <Control Type="7bit"  Number="10"  Name="Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="Expression Pedal"/>
+      <Control Type="7bit"  Number="16"  Name="General 1"/>
+      <Control Type="7bit"  Number="17"  Name="General 2"/>
+      <Control Type="7bit"  Number="18"  Name="General 3"/>
+      <Control Type="7bit"  Number="19"  Name="General 4"/>
+      <Control Type="7bit"  Number="32"  Name="Off"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain Pedal (on/off)"/>
+      <Control Type="7bit"  Number="65"  Name="Portamento (on/off)"/>
+      <Control Type="7bit"  Number="66"  Name="Sostenuto (on/off)"/>
+      <Control Type="7bit"  Number="67"  Name="Soft Pedal (on/off)"/>
+      <Control Type="7bit"  Number="69"  Name="Hold 2 (on/off)"/>
+      <Control Type="7bit"  Number="71"  Name="Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="Portamento Control (on/off)"/>
+      <Control Type="7bit"  Number="91"  Name="Effects Send 1 (Reverb)"/>
+      <Control Type="7bit"  Number="92"  Name="Effect 2"/>
+      <Control Type="7bit"  Number="93"  Name="Effects Send 2 (Chorus)"/>
+      <Control Type="7bit"  Number="94"  Name="Effects Send 3 (Delay/Reverb)"/>
+      <Control Type="7bit"  Number="95"  Name="Effect 5"/>
+      <Control Type="7bit"  Number="96"  Name="Increment"/>
+      <Control Type="7bit"  Number="97"  Name="Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="RPN MSB"/>
+    </ControlNameList>
+    <NoteNameList  Name="W5/7 GM Drums 1">
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>
      <Note Number="27"  Name="7=Brush Slap"/>
@@ -1092,7 +1158,7 @@
      <Note Number="84"  Name="4=Bell Tree"/>
      <Note Number="85"  Name="5=Hi Q"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 GM Drums 17">
      <Note Number="24"  Name="4=Click High"/>
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>
@@ -1156,7 +1222,7 @@
      <Note Number="84"  Name="4=Bell Tree"/>
      <Note Number="85"  Name="5=Hi Q"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 GM Drums 25">
      <Note Number="24"  Name="4=Click High"/>
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>
@@ -1220,7 +1286,7 @@
      <Note Number="84"  Name="4=Bell Tree"/>
      <Note Number="85"  Name="5=Hi Q"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 GM Drums 26">
      <Note Number="24"  Name="4=Click High"/>
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>
@@ -1284,7 +1350,7 @@
      <Note Number="84"  Name="4=Bell Tree"/>
      <Note Number="85"  Name="5=Hi Q"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 GM Drums 33">
      <Note Number="24"  Name="4=Click High"/>
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>
@@ -1348,7 +1414,7 @@
      <Note Number="84"  Name="4=Bell Tree"/>
      <Note Number="85"  Name="5=Hi Q"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 GM Drums 41">
      <Note Number="24"  Name="4=Click High"/>
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>
@@ -1412,7 +1478,7 @@
      <Note Number="84"  Name="4=Bell Tree"/>
      <Note Number="85"  Name="5=Hi Q"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 GM Drums 49">
      <Note Number="24"  Name="4=Click High"/>
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>
@@ -1476,7 +1542,7 @@
      <Note Number="84"  Name="4=Bell Tree"/>
      <Note Number="85"  Name="5=Hi Q"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 GM Drums 9">
      <Note Number="24"  Name="4=Click High"/>
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>
@@ -1540,7 +1606,7 @@
      <Note Number="84"  Name="4=Bell Tree"/>
      <Note Number="85"  Name="5=Hi Q"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 Preset Drums 1">
      <Note Number="37"  Name="7=Bass Drum Gate"/>
      <Note Number="38"  Name="8=Snare Rock"/>
      <Note Number="39"  Name="9=Snare Mid"/>
@@ -1567,7 +1633,7 @@
      <Note Number="71"  Name="1=Hi-Hat Analog Closed"/>
      <Note Number="72"  Name="2=Shaker"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 Preset Drums 2">
      <Note Number="37"  Name="7=Bass Drum RoomS"/>
      <Note Number="38"  Name="8=Bass Drum High"/>
      <Note Number="39"  Name="9=Bass Drum Low"/>
@@ -1629,7 +1695,7 @@
      <Note Number="95"  Name="5=SynBass B"/>
      <Note Number="96"  Name="6=SynBass C"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 Preset Drums 3">
      <Note Number="24"  Name="4=Click High"/>
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>
@@ -1693,7 +1759,7 @@
      <Note Number="84"  Name="4=Bell Tree"/>
      <Note Number="85"  Name="5=Hi Q"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="W5/7 Preset Drums 4">
      <Note Number="24"  Name="4=Click High"/>
      <Note Number="25"  Name="5=Brush Tap"/>
      <Note Number="26"  Name="6=Brush Swirl Low"/>

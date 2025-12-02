@@ -181,5 +181,58 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Yamaha REV500 Controllers">
+      <Control Type="7bit"  Number="0"  Name="0 Bank Select MSB"/>
+      <Control Type="7bit"  Number="6"  Name="6 Data Entry MSB"/>
+      <Control Type="7bit"  Number="12"  Name="12 Pre Delay"/>
+      <Control Type="7bit"  Number="13"  Name="13 Rev Time"/>
+      <Control Type="7bit"  Number="14"  Name="14 High Ration"/>
+      <Control Type="7bit"  Number="15"  Name="15 ER Level"/>
+      <Control Type="7bit"  Number="16"  Name="16 EFF Level"/>
+      <Control Type="7bit"  Number="17"  Name="17 Lo-Ratio"/>
+      <Control Type="7bit"  Number="18"  Name="18 Diffus"/>
+      <Control Type="7bit"  Number="19"  Name="19 HPF"/>
+      <Control Type="7bit"  Number="20"  Name="20 LPF"/>
+      <Control Type="7bit"  Number="21"  Name="21 Density"/>
+      <Control Type="7bit"  Number="22"  Name="22 Liveness"/>
+      <Control Type="7bit"  Number="23"  Name="23 E/R DLY"/>
+      <Control Type="7bit"  Number="24"  Name="24 Gate LVL"/>
+      <Control Type="7bit"  Number="25"  Name="25 Hold"/>
+      <Control Type="7bit"  Number="26"  Name="26 Decay"/>
+      <Control Type="7bit"  Number="27"  Name="27 Detect"/>
+      <Control Type="7bit"  Number="28"  Name="28 Sens"/>
+      <Control Type="7bit"  Number="29"  Name="29 Reso"/>
+      <Control Type="7bit"  Number="30"  Name="30 Decay"/>
+      <Control Type="7bit"  Number="31"  Name="31 Mix"/>
+      <Control Type="7bit"  Number="32"  Name="32 Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="38 Data Entry LSB"/>
+      <Control Type="7bit"  Number="70"  Name="70 Sens"/>
+      <Control Type="7bit"  Number="71"  Name="71 Offset"/>
+      <Control Type="7bit"  Number="72"  Name="72 Reso"/>
+      <Control Type="7bit"  Number="73"  Name="73 Decay"/>
+      <Control Type="7bit"  Number="74"  Name="74 Speed"/>
+      <Control Type="7bit"  Number="75"  Name="75 Depth"/>
+      <Control Type="7bit"  Number="76"  Name="76 FB LVL"/>
+      <Control Type="7bit"  Number="77"  Name="77 Mix"/>
+      <Control Type="7bit"  Number="78"  Name="78 Speed"/>
+      <Control Type="7bit"  Number="79"  Name="79 Depth"/>
+      <Control Type="7bit"  Number="80"  Name="80 Phase"/>
+      <Control Type="7bit"  Number="81"  Name="81 Wave"/>
+      <Control Type="7bit"  Number="82"  Name="82 FB LVL"/>
+      <Control Type="7bit"  Number="83"  Name="83 Cross FB"/>
+      <Control Type="7bit"  Number="96"  Name="96 Data Increment"/>
+      <Control Type="7bit"  Number="97"  Name="97 Data Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="98 NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="99 NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100 RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101 RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120 All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="121 Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123 All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="124 OMNI Off"/>
+      <Control Type="7bit"  Number="125"  Name="125 OMNI On"/>
+      <Control Type="7bit"  Number="126"  Name="126 Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127 Poly"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

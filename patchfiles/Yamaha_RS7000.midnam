@@ -1259,5 +1259,37 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="RS-7000 Controllers">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot Control"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento Time"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="16"  Name="16-Amp Mod Depth"/>
+      <Control Type="7bit"  Number="17"  Name="17-Filter Mod Depth"/>
+      <Control Type="7bit"  Number="18"  Name="18-Amp EG Sustain"/>
+      <Control Type="7bit"  Number="19"  Name="19-Filter EG Dpeth"/>
+      <Control Type="7bit"  Number="64"  Name="64-Sustain"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento Switch"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="71"  Name="71-Resonance"/>
+      <Control Type="7bit"  Number="72"  Name="72-Amp EG Release"/>
+      <Control Type="7bit"  Number="73"  Name="73-Amp EG Cutoff"/>
+      <Control Type="7bit"  Number="74"  Name="74-Cutoff"/>
+      <Control Type="7bit"  Number="75"  Name="75-Amp EG Decay"/>
+      <Control Type="7bit"  Number="76"  Name="76-LFO Speed"/>
+      <Control Type="7bit"  Number="77"  Name="77-Pitch Mod Depth"/>
+      <Control Type="7bit"  Number="80"  Name="80-Filter EG Attack"/>
+      <Control Type="7bit"  Number="81"  Name="81-Filter EG Decay"/>
+      <Control Type="7bit"  Number="82"  Name="82-Filter EG Sustain"/>
+      <Control Type="7bit"  Number="83"  Name="83-Filter EG Release"/>
+      <Control Type="7bit"  Number="84"  Name="84-Potamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="91-Reverb Send"/>
+      <Control Type="7bit"  Number="93"  Name="93-Delay Send"/>
+      <Control Type="7bit"  Number="94"  Name="94-Vari Multi FX Send"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono Mode"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly Mode"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

@@ -181,5 +181,18 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Yamaha DX11 Controllers">
+      <Control Type="7bit"  Number="1"  Name="Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="Breath Controller"/>
+      <Control Type="7bit"  Number="4"  Name="Foot Control"/>
+      <Control Type="7bit"  Number="5"  Name="Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry"/>
+      <Control Type="7bit"  Number="7"  Name="Volume"/>
+      <Control Type="7bit"  Number="10"  Name="Pan"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain"/>
+      <Control Type="7bit"  Number="65"  Name="Portamento"/>
+      <Control Type="7bit"  Number="96"  Name="Data Entry +1"/>
+      <Control Type="7bit"  Number="97"  Name="Data Entry -1"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

@@ -668,8 +668,36 @@
           <Patch Number="116"  Name="Firework"  ProgramChange="116"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Yamaha PSR295 Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16256"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="1"  Name="Yamaha PSR295 Standard Kit 1"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Yamaha PSR295 Standard Kit 2"  ProgramChange="2"/>
+          <Patch Number="9"  Name="Yamaha PSR295 Room Kit"  ProgramChange="9"/>
+          <Patch Number="17"  Name="Yamaha PSR295 Rock Kit"  ProgramChange="17"/>
+          <Patch Number="25"  Name="Yamaha PSR295 Electronic Kit"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Yamaha PSR295 Analog Kit"  ProgramChange="26"/>
+          <Patch Number="28"  Name="Yamaha PSR295 Dance Kit"  ProgramChange="28"/>
+          <Patch Number="33"  Name="Yamaha PSR295 Jazz Kit"  ProgramChange="33"/>
+          <Patch Number="41"  Name="Yamaha PSR295 Brush Kit"  ProgramChange="41"/>
+          <Patch Number="49"  Name="Yamaha PSR295 Symphony Kit"  ProgramChange="49"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Yamaha PSR295 SFX">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16128"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="1"  Name="SFX Kit1"  ProgramChange="1"/>
+          <Patch Number="2"  Name="SFX Kit2"  ProgramChange="2"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 Analog Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -744,7 +772,7 @@
      <Note Number="90"  Name="0=Scratch Push1"/>
      <Note Number="91"  Name="1=Scratch Pull"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 Brush Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -817,7 +845,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 Dance Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -890,7 +918,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 Electronic Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -963,7 +991,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 Jazz Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -1036,7 +1064,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 Rock Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -1109,7 +1137,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 Room Kit">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -1182,7 +1210,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 SFX Kit 1">
      <Note Number="37"  Name="7=Guitar Cutting Noise 2"/>
      <Note Number="39"  Name="9=String Slap"/>
      <Note Number="52"  Name="2=Flute Key Click"/>
@@ -1198,7 +1226,7 @@
      <Note Number="90"  Name="0=Ghost"/>
      <Note Number="91"  Name="1=Maou"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 SFX Kit 2">
      <Note Number="37"  Name="7=Door Creaking"/>
      <Note Number="38"  Name="8=Door Slam"/>
      <Note Number="39"  Name="9=Scratch Cut"/>
@@ -1226,7 +1254,7 @@
      <Note Number="86"  Name="6=Explosion"/>
      <Note Number="87"  Name="7=Firework"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 Standard Kit 1">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>
@@ -1299,7 +1327,7 @@
      <Note Number="83"  Name="3=Jingle Bell"/>
      <Note Number="84"  Name="4=Bell Tree"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR295 Standard Kit 2">
      <Note Number="14"  Name="4=Surdo Open"/>
      <Note Number="15"  Name="5=Hi Q"/>
      <Note Number="16"  Name="6=Whip Slap"/>

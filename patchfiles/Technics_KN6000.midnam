@@ -1709,6 +1709,184 @@
           <Patch Number="127"  Name="GM-Gunshot"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Technics Drum Kits">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4864"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Drums Standard Kit1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Drums Standard Kit2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Drums Light Rock Kit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Drums Pop Kit"  ProgramChange="3"/>
+          <Patch Number="8"  Name="Drums Room Kit"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Drums Live Rock Kit"  ProgramChange="9"/>
+          <Patch Number="16"  Name="Drums Power Kit"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Drums Funk Kit"  ProgramChange="17"/>
+          <Patch Number="24"  Name="Drums Electric Kit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Drums Analog Kit 1"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Drums Analog Kit 2"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Drums Soul Kit"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Drums House Kit"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Drums Dance Kit"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Drums Hip Hop Kit"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Drums Techno Kit"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Drums Jazz Kit"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Drums Trad Kit"  ProgramChange="33"/>
+          <Patch Number="48"  Name="Drums Orchestral Kit"  ProgramChange="48"/>
+          <Patch Number="52"  Name="Drums Previous Orch. Kit"  ProgramChange="52"/>
+          <Patch Number="56"  Name="Drums Sound Effect Kit"  ProgramChange="56"/>
+          <Patch Number="64"  Name="Drums Voice Kit"  ProgramChange="64"/>
+          <Patch Number="72"  Name="Drums Bongo&amp;Conga Kit"  ProgramChange="72"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="Technics GM2 Drum Kits">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="15360"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="GM2 Drums Standard Kit"  ProgramChange="0"/>
+          <Patch Number="8"  Name="GM2 Drums Room Kit"  ProgramChange="8"/>
+          <Patch Number="16"  Name="GM2 Drums Power Kit"  ProgramChange="16"/>
+          <Patch Number="24"  Name="GM2 Drums Electric Kit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="GM2 Drums Analog Kit"  ProgramChange="25"/>
+          <Patch Number="32"  Name="GM2 Drums Jazz Kit"  ProgramChange="32"/>
+          <Patch Number="40"  Name="GM2 Drums Brush Kit"  ProgramChange="40"/>
+          <Patch Number="48"  Name="GM2 Drums Orchestral Kit"  ProgramChange="48"/>
+          <Patch Number="56"  Name="GM2 Drums SFX Kit"  ProgramChange="56"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Technics KN6000">
+      <Control Type="7bit"  Number="0"  Name="0-bank select"/>
+      <Control Type="7bit"  Number="1"  Name="1-modulation"/>
+      <Control Type="7bit"  Number="2"  Name="*** breath control"/>
+      <Control Type="7bit"  Number="3"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="4"  Name="*** foot controller"/>
+      <Control Type="7bit"  Number="5"  Name="*** portamento time"/>
+      <Control Type="7bit"  Number="6"  Name="6-data entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-volume channel"/>
+      <Control Type="7bit"  Number="8"  Name="*** balance"/>
+      <Control Type="7bit"  Number="9"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="10"  Name="10-panpot"/>
+      <Control Type="7bit"  Number="11"  Name="11-expression"/>
+      <Control Type="7bit"  Number="12"  Name="*** effect control 1"/>
+      <Control Type="7bit"  Number="13"  Name="*** effect control 2"/>
+      <Control Type="7bit"  Number="14"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="15"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="16"  Name="*** general purpose"/>
+      <Control Type="7bit"  Number="17"  Name="*** general purpose"/>
+      <Control Type="7bit"  Number="18"  Name="*** general purpose"/>
+      <Control Type="7bit"  Number="19"  Name="*** general purpose"/>
+      <Control Type="7bit"  Number="20"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="21"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="22"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="23"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="24"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="25"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="26"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="27"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="28"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="29"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="30"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="31"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="32"  Name="32-bank select"/>
+      <Control Type="7bit"  Number="33"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="34"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="35"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="36"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="37"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="38"  Name="38-data entry LSB"/>
+      <Control Type="7bit"  Number="39"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="40"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="41"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="42"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="43"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="44"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="45"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="46"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="47"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="48"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="49"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="50"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="51"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="52"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="53"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="54"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="55"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="56"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="57"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="58"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="59"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="60"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="61"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="62"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="63"  Name="*** LSB cont. 0-31"/>
+      <Control Type="7bit"  Number="64"  Name="64-sustain (Sustain pedal)"/>
+      <Control Type="7bit"  Number="65"  Name="*** portamento on/off"/>
+      <Control Type="7bit"  Number="66"  Name="*** sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="*** soft pedal"/>
+      <Control Type="7bit"  Number="68"  Name="*** legato footswitch"/>
+      <Control Type="7bit"  Number="69"  Name="*** hold 2"/>
+      <Control Type="7bit"  Number="70"  Name="*** sound ctler 1 (sound variation)"/>
+      <Control Type="7bit"  Number="71"  Name="*** sound ctler 2 (Harmonic Content)"/>
+      <Control Type="7bit"  Number="72"  Name="*** sound ctler 3 (release time)"/>
+      <Control Type="7bit"  Number="73"  Name="*** sound ctler 4 (attack time)"/>
+      <Control Type="7bit"  Number="74"  Name="*** sound ctler 5 (Brightness)"/>
+      <Control Type="7bit"  Number="75"  Name="*** sound ctler 6 (Decay Time)"/>
+      <Control Type="7bit"  Number="76"  Name="*** sound ctler 7 (Vibrato Rate)"/>
+      <Control Type="7bit"  Number="77"  Name="*** sound ctler 8 (Vibrato Depth)"/>
+      <Control Type="7bit"  Number="78"  Name="*** sound ctler 9 (Vibrato Delay)"/>
+      <Control Type="7bit"  Number="79"  Name="*** sound ctler 10"/>
+      <Control Type="7bit"  Number="80"  Name="*** general purpose 1"/>
+      <Control Type="7bit"  Number="81"  Name="*** general purpose 2"/>
+      <Control Type="7bit"  Number="82"  Name="82-intro, fill in, ending"/>
+      <Control Type="7bit"  Number="83"  Name="*** general purpose 3"/>
+      <Control Type="7bit"  Number="84"  Name="*** portamento control"/>
+      <Control Type="7bit"  Number="85"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="86"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="87"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="88"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="89"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="90"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="91"  Name="91-effects 1 depth (Reverb Send Level)"/>
+      <Control Type="7bit"  Number="92"  Name="*** effects 2 depth (Multi Effect Send Level)"/>
+      <Control Type="7bit"  Number="93"  Name="93-effects 3 depth (Chorus Send Level)"/>
+      <Control Type="7bit"  Number="94"  Name="94-effects 4 depth (Digital effect on/off)"/>
+      <Control Type="7bit"  Number="95"  Name="*** effects 5 depth (Sound DSP Send Level)"/>
+      <Control Type="7bit"  Number="96"  Name="*** data increment"/>
+      <Control Type="7bit"  Number="97"  Name="*** data decrement"/>
+      <Control Type="7bit"  Number="98"  Name="*** NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="*** NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="102"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="103"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="104"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="105"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="106"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="107"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="108"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="109"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="110"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="111"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="112"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="113"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="114"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="115"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="116"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="117"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="118"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="119"  Name="*** undefined"/>
+      <Control Type="7bit"  Number="120"  Name="120-all sound off"/>
+      <Control Type="7bit"  Number="121"  Name="121-reset all controllers"/>
+      <Control Type="7bit"  Number="122"  Name="*** mode messages"/>
+      <Control Type="7bit"  Number="123"  Name="123-Alle Note Off"/>
+      <Control Type="7bit"  Number="124"  Name="124 Omni Off"/>
+      <Control Type="7bit"  Number="125"  Name="125-Omni On"/>
+      <Control Type="7bit"  Number="126"  Name="126-Mono"/>
+      <Control Type="7bit"  Number="127"  Name="127-Poly"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

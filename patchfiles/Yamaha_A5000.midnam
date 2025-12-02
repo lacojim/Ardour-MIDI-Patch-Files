@@ -181,5 +181,43 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Yamaha A5000 Controllers">
+      <Control Type="7bit"  Number="0"  Name="Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="Breath Controller"/>
+      <Control Type="7bit"  Number="3"  Name="Unused"/>
+      <Control Type="7bit"  Number="4"  Name="Foot Controller"/>
+      <Control Type="7bit"  Number="5"  Name="Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="Master Volume"/>
+      <Control Type="7bit"  Number="10"  Name="Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="Expression"/>
+      <Control Type="7bit"  Number="32"  Name="Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain"/>
+      <Control Type="7bit"  Number="65"  Name="Portamento"/>
+      <Control Type="7bit"  Number="67"  Name="Soft Pedal"/>
+      <Control Type="7bit"  Number="71"  Name="Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="Effects Send Level 1 (reverb)"/>
+      <Control Type="7bit"  Number="93"  Name="Effects Send Level 3 (chorus)"/>
+      <Control Type="7bit"  Number="94"  Name="Effects Send Level 4 (variation)"/>
+      <Control Type="7bit"  Number="96"  Name="RPN Increment"/>
+      <Control Type="7bit"  Number="97"  Name="RPN Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="OMNI Off"/>
+      <Control Type="7bit"  Number="125"  Name="OMNI On"/>
+      <Control Type="7bit"  Number="126"  Name="Mono"/>
+      <Control Type="7bit"  Number="127"  Name="Poly"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

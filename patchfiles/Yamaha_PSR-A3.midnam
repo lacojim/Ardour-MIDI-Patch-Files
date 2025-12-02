@@ -134,8 +134,62 @@
           <Patch Number="105"  Name="Oud with tremolo"  ProgramChange="105"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Yamaha PSR-A3 Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="16256"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Standard Kit"  ProgramChange="0"/>
+          <Patch Number="8"  Name="Room Kit"  ProgramChange="8"/>
+          <Patch Number="16"  Name="Rock Kit"  ProgramChange="16"/>
+          <Patch Number="24"  Name="Electronic Kit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Analog Kit"  ProgramChange="25"/>
+          <Patch Number="32"  Name="Jazz Kit"  ProgramChange="32"/>
+          <Patch Number="40"  Name="Brush Kit"  ProgramChange="40"/>
+          <Patch Number="48"  Name="Classic Kit"  ProgramChange="48"/>
+          <Patch Number="64"  Name="Arabic Kit"  ProgramChange="64"/>
+          <Patch Number="64"  Name="GM Arabic Kit"  ProgramChange="64"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha PSR-A3 Controllers">
+      <Control Type="7bit"  Number="0"  Name="Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="Master Volume"/>
+      <Control Type="7bit"  Number="10"  Name="Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="Expression"/>
+      <Control Type="7bit"  Number="32"  Name="Bank Select LSB"/>
+      <Control Type="7bit"  Number="38"  Name="Data Entry LSB"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain"/>
+      <Control Type="7bit"  Number="65"  Name="Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="Soft Pedal"/>
+      <Control Type="7bit"  Number="71"  Name="Harmonic Content"/>
+      <Control Type="7bit"  Number="72"  Name="Release Time"/>
+      <Control Type="7bit"  Number="73"  Name="Attack Time"/>
+      <Control Type="7bit"  Number="74"  Name="Brightness"/>
+      <Control Type="7bit"  Number="84"  Name="Portamento Control"/>
+      <Control Type="7bit"  Number="91"  Name="Reverb Send Level"/>
+      <Control Type="7bit"  Number="93"  Name="Chorus Send Level"/>
+      <Control Type="7bit"  Number="94"  Name="Variation Send Level"/>
+      <Control Type="7bit"  Number="96"  Name="RPN Increment"/>
+      <Control Type="7bit"  Number="97"  Name="RPN Decrement"/>
+      <Control Type="7bit"  Number="98"  Name="NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="All Notes Off"/>
+      <Control Type="7bit"  Number="124"  Name="OMNI Off"/>
+      <Control Type="7bit"  Number="125"  Name="OMNI On"/>
+      <Control Type="7bit"  Number="126"  Name="Mono"/>
+      <Control Type="7bit"  Number="127"  Name="Poly"/>
+    </ControlNameList>
+    <NoteNameList  Name="Yamaha PSR-A3 Analog Kit">
      <Note Number="42"  Name="2=Hi Q 2"/>
      <Note Number="31"  Name="1=Snare Drum Rock H"/>
      <Note Number="33"  Name="3=Bass Drum M"/>
@@ -163,7 +217,7 @@
      <Note Number="78"  Name="8=Scratch Push"/>
      <Note Number="79"  Name="9=Scratch Pull"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-A3 Brush Kit">
      <Note Number="36"  Name="6=BD Jazz"/>
      <Note Number="38"  Name="8=Brush Slap"/>
      <Note Number="40"  Name="0=Brush Tap"/>
@@ -174,7 +228,7 @@
      <Note Number="48"  Name="8=Brush Tom 5"/>
      <Note Number="50"  Name="0=Brush Tom 6"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-A3 Dance Kit">
      <Note Number="30"  Name="0=Hi Q 2"/>
      <Note Number="31"  Name="1=AnSD Snappy"/>
      <Note Number="33"  Name="3=AnSD Dance-1"/>
@@ -203,7 +257,7 @@
      <Note Number="78"  Name="8=Scratch Push"/>
      <Note Number="79"  Name="9=Scratch Pull"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-A3 Electronic Kit">
      <Note Number="30"  Name="0=Hi Q"/>
      <Note Number="31"  Name="1=Snare M"/>
      <Note Number="33"  Name="3=Bass Drum H 4"/>
@@ -220,12 +274,12 @@
      <Note Number="78"  Name="8=Scratch Push"/>
      <Note Number="79"  Name="9=Scratch Pull"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-A3 Jazz Kit">
      <Note Number="36"  Name="6=BD Jazz"/>
      <Note Number="38"  Name="8=SD Jazz L"/>
      <Note Number="40"  Name="0=SD Jazz M"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-A3 Rock Kit">
      <Note Number="35"  Name="5=Bass Drum H"/>
      <Note Number="36"  Name="6=BD Rock"/>
      <Note Number="38"  Name="8=SD Rock L"/>
@@ -237,7 +291,7 @@
      <Note Number="48"  Name="8=Rock Tom 5"/>
      <Note Number="50"  Name="0=Rock Tom 6"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-A3 Room Kit">
      <Note Number="40"  Name="0=SD Room H"/>
      <Note Number="41"  Name="1=Room Tom 1"/>
      <Note Number="43"  Name="3=Room Tom 2"/>
@@ -246,7 +300,7 @@
      <Note Number="48"  Name="8=Room Tom 5"/>
      <Note Number="50"  Name="0=Room Tom 6"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha PSR-A3 Symphonic Kit">
      <Note Number="35"  Name="5=Gran Cassa"/>
      <Note Number="36"  Name="6=Gran Cassa Mute"/>
      <Note Number="38"  Name="8=Marching Sn M"/>

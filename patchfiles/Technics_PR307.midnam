@@ -431,5 +431,16 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Technics PR307">
+      <Control Type="7bit"  Number="1"  Name="Modulation"/>
+      <Control Type="7bit"  Number="7"  Name="Volume"/>
+      <Control Type="7bit"  Number="10"  Name="Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="Expression"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain"/>
+      <Control Type="7bit"  Number="66"  Name="Sostenute pedal"/>
+      <Control Type="7bit"  Number="67"  Name="Soft Pedal"/>
+      <Control Type="7bit"  Number="91"  Name="Reverb"/>
+      <Control Type="7bit"  Number="93"  Name="Digital Effect"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

@@ -44,6 +44,15 @@
         <AvailableChannel Channel="15" Available="true"/>
         <AvailableChannel Channel="16" Available="true"/>
       </AvailableForChannels>
+      <DeviceModeEnable>
+        <MIDICommands>
+          <SysEx>F0 43 21 7E 4C 4D 20 20 30 30 31 32 56 45 FE F7</SysEx>
+          <SysEx>F0 43 21 7E 4C 4D 20 20 30 30 31 32 56 43 F7</SysEx>
+          <SysEx>F0 43 21 7E 4C 4D 20 20 30 30 31 32 4D 45 F7</SysEx>
+          <SysEx>F0 43 21 7E 4C 4D 20 20 30 30 31 32 4D 55 F7</SysEx>
+          <SysEx>F0 43 21 7E 4C 4D 20 20 30 30 31 32 53 59 F7</SysEx>
+        </MIDICommands>
+      </DeviceModeEnable>
       <PatchBank Name="Yamaha TG-33 Bank 1 Tones">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
@@ -501,7 +510,16 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Yamaha TG-33">
+      <Control Type="7bit"  Number="0"  Name="0 Bank Select MSB"/>
+      <Control Type="7bit"  Number="1"  Name="1 Modulation Wheel"/>
+      <Control Type="7bit"  Number="7"  Name="Volume"/>
+      <Control Type="7bit"  Number="16"  Name="16 Vector X-axis ;receive if vector switch is on."/>
+      <Control Type="7bit"  Number="17"  Name="17 Vector Y-axis ;receive if vector switch is on."/>
+      <Control Type="7bit"  Number="32"  Name="32 Bank Select LSB"/>
+      <Control Type="7bit"  Number="64"  Name="64 Sustain"/>
+    </ControlNameList>
+    <NoteNameList  Name="Yamaha TG-33 Drum Kit 1">
      <Note Number="37"  Name="7=Triangle closed"/>
      <Note Number="38"  Name="8=SD 1"/>
      <Note Number="39"  Name="9=Triangle open"/>
@@ -563,7 +581,7 @@
      <Note Number="95"  Name="5=High Timpani"/>
      <Note Number="96"  Name="6=Metal Hit"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Yamaha TG-33 Drum Kit EFX">
      <Note Number="37"  Name="7=Triangle closed"/>
      <Note Number="38"  Name="8=SD 1"/>
      <Note Number="39"  Name="9=Triangle open"/>

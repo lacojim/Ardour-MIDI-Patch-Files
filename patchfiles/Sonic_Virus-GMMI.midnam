@@ -665,8 +665,95 @@
           <Patch Number="28"  Name="Scratch 27"  ProgramChange="28"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Bank 127 Drums&amp;Percussion">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="127"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Live Drums *"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Live Drums 2*"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Baz Drums *"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Groove Drums Kit*"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Modern Drums Kit*"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Voc Drums Kit*"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Ultra Drums Kit*"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Sliv Drums Kit*"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Sim Drums Kit*"  ProgramChange="8"/>
+          <Patch Number="9"  Name="ElRoom Drums Kit*"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Wid Drums Kit*"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Acid Drums Kit*"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Box Drums Kit*"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Rubber Drums*"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Fat Drums Kit*"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Sim Drums Kit 2*"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Power Drums Kit 1*"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Electric Power Kit*"  ProgramChange="17"/>
+          <Patch Number="18"  Name="TR-909 Extended*"  ProgramChange="18"/>
+          <Patch Number="19"  Name="TR-CR Dreams Kit*"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Power Drums 3*"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Acid Drums 2*"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Pip Drums Kit*"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Wid Drums 2*"  ProgramChange="23"/>
+          <Patch Number="24"  Name="TR-909*"  ProgramChange="24"/>
+          <Patch Number="25"  Name="TR-808*"  ProgramChange="25"/>
+          <Patch Number="26"  Name="CR-78*"  ProgramChange="26"/>
+          <Patch Number="27"  Name="All Bass Drums"  ProgramChange="27"/>
+          <Patch Number="28"  Name="All Snare Drums"  ProgramChange="28"/>
+          <Patch Number="29"  Name="All HiHats"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Toms 808 Kit"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Toms 909 Kit"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Modern Toms Kit"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Groove Toms Kit"  ProgramChange="33"/>
+          <Patch Number="34"  Name="BAZ Toms Kit"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Acoustic Toms Kit"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Dinamic Toms Kit"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Sim Toms Kit"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Acoustic Toms Kit 2"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Sim Toms Kit 2"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Brush Drums Kit*"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Live Crash&amp;Rides"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Crash&amp;Rides 808"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Modern Crash&amp;Rides"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Groove Crash&amp;Rides"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Electro Crash&amp;Rides"  ProgramChange="45"/>
+          <Patch Number="46"  Name="All Drum Sticks"  ProgramChange="46"/>
+          <Patch Number="47"  Name="All Clapses"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Orchestra Drums"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Baz-Bongo Kit"  ProgramChange="49"/>
+          <Patch Number="50"  Name="TR-909 Bongo Kit"  ProgramChange="50"/>
+          <Patch Number="51"  Name="TR-808 Bongo Kit"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Acoustic Congas Kit"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Timbales Kit"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Cabasa"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Maracas 1"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Maracas 2"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Whistles"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Guiros"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Clave"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Electro Cuica"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Synth Triangle"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Shaker"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Jingle Bell"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Bell Tree"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Castanet"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Crash Cymbal 1"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Crash Cymbal 2"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Crash Cymbal 3"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Brush Cymbal"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Flange Crash 1"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Ride Cymbal 1"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Ride Cymbal 2"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Ride Bell"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Flange Ride"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Brush Ride L"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Brush Ride R"  ProgramChange="76"/>
+          <Patch Number="77"  Name="China Cymbal"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Flange China Cymbal"  ProgramChange="78"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:0">
      <Note Number="35"  Name="5=BD 01(L)"/>
      <Note Number="36"  Name="6=36 BD 4-1 Lv(L)"/>
      <Note Number="37"  Name="7=Live Stick(R)"/>
@@ -721,7 +808,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:1">
      <Note Number="35"  Name="5=35 BD 2 Lv(L)"/>
      <Note Number="36"  Name="6=36 BD 4-1 Lv(L)"/>
      <Note Number="37"  Name="7=Live Stick(R)"/>
@@ -775,7 +862,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:2">
      <Note Number="36"  Name="6=36 BD 07(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 SD03(L)"/>
@@ -829,7 +916,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:3">
      <Note Number="36"  Name="6=36 Gr BD 2(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Gr Snare 1(L)"/>
@@ -882,7 +969,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:4">
      <Note Number="36"  Name="6=36 Mod BD 2(L)"/>
      <Note Number="37"  Name="7=37 Mod Stick(L)"/>
      <Note Number="38"  Name="8=38 Mod Snare 1(L)"/>
@@ -936,7 +1023,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:5">
      <Note Number="36"  Name="6=36 BD Voc(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare Voc(L)"/>
@@ -990,7 +1077,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:6">
      <Note Number="36"  Name="6=36 BD Ul(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare Ul 1(L)"/>
@@ -1044,7 +1131,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:7">
      <Note Number="36"  Name="6=35 BD 05(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare Sl(L)"/>
@@ -1098,7 +1185,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:8">
      <Note Number="36"  Name="6=36 BD Sim(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare Sim(L)"/>
@@ -1152,7 +1239,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:9">
      <Note Number="36"  Name="6=36 BD 03(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare 03(L)"/>
@@ -1206,7 +1293,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:10">
      <Note Number="36"  Name="6=36 BD 04(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare 04(L)"/>
@@ -1260,7 +1347,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:11">
      <Note Number="36"  Name="6=36 BD 05(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare 05(L)"/>
@@ -1314,7 +1401,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:12">
      <Note Number="36"  Name="6=36 BD 06(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare 06(L)"/>
@@ -1368,7 +1455,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:13">
      <Note Number="36"  Name="6=36 BD Ul(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare Rb(L)"/>
@@ -1422,7 +1509,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:14">
      <Note Number="36"  Name="6=35 BD Voc(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare Fat(L)"/>
@@ -1476,7 +1563,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:15">
      <Note Number="36"  Name="6=35 BD Sim(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare Fat(L)"/>
@@ -1530,7 +1617,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:16">
      <Note Number="35"  Name="5=35 BD P1(L)"/>
      <Note Number="36"  Name="6=36 BD P1(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
@@ -1585,7 +1672,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:17">
      <Note Number="36"  Name="6=36 BD P2(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare P2(L)"/>
@@ -1639,7 +1726,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:18">
      <Note Number="36"  Name="6=36 BD Sim(L)"/>
      <Note Number="37"  Name="7=37 909Rimsh(L)"/>
      <Note Number="38"  Name="8=38 909Snare(L)"/>
@@ -1693,7 +1780,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:19">
      <Note Number="35"  Name="5=35 Mod BD 1(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=Live Snare 2(R)"/>
@@ -1747,7 +1834,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:20">
      <Note Number="36"  Name="6=35 BD Sim(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare P2(L)"/>
@@ -1801,7 +1888,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:21">
      <Note Number="36"  Name="6=36 BD 05(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=Snare Fly(L)"/>
@@ -1855,7 +1942,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:22">
      <Note Number="36"  Name="6=35 BD 04(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Gr Snare 1(L)"/>
@@ -1909,7 +1996,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:23">
      <Note Number="36"  Name="6=36 BD 04(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 Snare 04(L)"/>
@@ -1963,7 +2050,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:24">
      <Note Number="36"  Name="6=36 909Kick(L)"/>
      <Note Number="37"  Name="7=37 909Rimsh(L)"/>
      <Note Number="38"  Name="8=38 909Snare(L)"/>
@@ -2016,7 +2103,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:25">
      <Note Number="36"  Name="6=36 BD 2 808(L)"/>
      <Note Number="37"  Name="7=37 Rim Snare 808(L)"/>
      <Note Number="38"  Name="8=38 Snare 1 808(L)"/>
@@ -2069,7 +2156,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:26">
      <Note Number="36"  Name="6=36 CR BD 2(L)"/>
      <Note Number="37"  Name="7=37 CR Rim Shot(L)"/>
      <Note Number="38"  Name="8=38 CR Snare 1(L)"/>
@@ -2123,7 +2210,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:32">
      <Note Number="35"  Name="5=36 BD 4-2 Lv(L)"/>
      <Note Number="36"  Name="6=36 Gr BD 2(L)"/>
      <Note Number="38"  Name="8=38 Gr Snare 1(L)"/>
@@ -2176,7 +2263,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:40">
      <Note Number="35"  Name="5=35 BD Brush(L)"/>
      <Note Number="36"  Name="6=36 BD Br 10(L)"/>
      <Note Number="37"  Name="7=37 Rim Shot(L)"/>
@@ -2231,7 +2318,7 @@
      <Note Number="86"  Name="6=86 Mute Surdo(L)"/>
      <Note Number="87"  Name="7=87 Open Surdo(L)"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Drums CC0:0 PRG:48">
      <Note Number="28"  Name="8=44 HH Foot BR(L)"/>
      <Note Number="29"  Name="9=46 HH Brush Op(L)"/>
      <Note Number="30"  Name="0=51 Ride 1(R)"/>
