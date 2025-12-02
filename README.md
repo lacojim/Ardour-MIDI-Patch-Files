@@ -1,6 +1,4 @@
 # Karl Ardour MIDI Definition Files
-<img width="1101" height="730" alt="image" src="https://github.com/user-attachments/assets/4caa7b05-6704-4566-8de6-ae1d6780f13d" />
-
 
 ## 🎬 Introduction:
 
