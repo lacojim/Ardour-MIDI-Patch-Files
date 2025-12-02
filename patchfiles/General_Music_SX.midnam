@@ -1986,5 +1986,33 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Generalmusic SX">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Change"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="12"  Name="12-Attack Time"/>
+      <Control Type="7bit"  Number="13"  Name="13-Release Time"/>
+      <Control Type="7bit"  Number="14"  Name="14-Filter 1 Cutoff Frequency"/>
+      <Control Type="7bit"  Number="15"  Name="15-Filter 2 Cutoff Frequency"/>
+      <Control Type="7bit"  Number="20"  Name="20-Filter 1+2 Cutoff Frequency"/>
+      <Control Type="7bit"  Number="64"  Name="64-Damper Pedal (sustain)"/>
+      <Control Type="7bit"  Number="66"  Name="66-Pedal (sostenuto)"/>
+      <Control Type="7bit"  Number="67"  Name="67-Pedal (soft)"/>
+      <Control Type="7bit"  Number="70"  Name="70-Start/Stop"/>
+      <Control Type="7bit"  Number="71"  Name="71-Var/Cont"/>
+      <Control Type="7bit"  Number="72"  Name="72-Intro/End"/>
+      <Control Type="7bit"  Number="73"  Name="73-Fill Tap"/>
+      <Control Type="7bit"  Number="74"  Name="74-Record"/>
+      <Control Type="7bit"  Number="75"  Name="75-Rewind"/>
+      <Control Type="7bit"  Number="76"  Name="76-Forward"/>
+      <Control Type="7bit"  Number="77"  Name="77-Punch"/>
+      <Control Type="7bit"  Number="78"  Name="78-Manual Perf"/>
+      <Control Type="7bit"  Number="79"  Name="79-Sync"/>
+      <Control Type="7bit"  Number="80"  Name="80-Tempo Fix"/>
+      <Control Type="7bit"  Number="81"  Name="81-Rotary Effect Slow/Fast"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

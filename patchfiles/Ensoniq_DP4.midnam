@@ -477,5 +477,155 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Ensoniq DP/4+ Controllers">
+      <Control Type="7bit"  Number="0"  Name="Bank Select #000"/>
+      <Control Type="7bit"  Number="1"  Name="Mod Wheel #001"/>
+      <Control Type="7bit"  Number="2"  Name="Breath #002"/>
+      <Control Type="7bit"  Number="3"  Name="MIDI Control#003"/>
+      <Control Type="7bit"  Number="4"  Name="Foot Control#004"/>
+      <Control Type="7bit"  Number="5"  Name="MIDI Control#005"/>
+      <Control Type="7bit"  Number="6"  Name="Data Entry #006"/>
+      <Control Type="7bit"  Number="7"  Name="Volume #007"/>
+      <Control Type="7bit"  Number="8"  Name="Balance #008"/>
+      <Control Type="7bit"  Number="9"  Name="MIDI Control#009"/>
+      <Control Type="7bit"  Number="10"  Name="Pan #010"/>
+      <Control Type="7bit"  Number="11"  Name="Expression #011"/>
+      <Control Type="7bit"  Number="12"  Name="FX Control1 #012"/>
+      <Control Type="7bit"  Number="13"  Name="FX Control2 #013"/>
+      <Control Type="7bit"  Number="14"  Name="MIDI Control#014"/>
+      <Control Type="7bit"  Number="15"  Name="MIDI Control#015"/>
+      <Control Type="7bit"  Number="16"  Name="GenPurpose1 #016"/>
+      <Control Type="7bit"  Number="17"  Name="GenPurpose2 #017"/>
+      <Control Type="7bit"  Number="18"  Name="GenPurpose3 #018"/>
+      <Control Type="7bit"  Number="19"  Name="GenPurpose4 #019"/>
+      <Control Type="7bit"  Number="20"  Name="MIDI Control#020"/>
+      <Control Type="7bit"  Number="21"  Name="MIDI Control#021"/>
+      <Control Type="7bit"  Number="22"  Name="MIDI Control#022"/>
+      <Control Type="7bit"  Number="23"  Name="MIDI Control#023"/>
+      <Control Type="7bit"  Number="24"  Name="MIDI Control#024"/>
+      <Control Type="7bit"  Number="25"  Name="MIDI Control#025"/>
+      <Control Type="7bit"  Number="26"  Name="MIDI Control#026"/>
+      <Control Type="7bit"  Number="27"  Name="MIDI Control#027"/>
+      <Control Type="7bit"  Number="28"  Name="MIDI Control#028"/>
+      <Control Type="7bit"  Number="29"  Name="MIDI Control#029"/>
+      <Control Type="7bit"  Number="30"  Name="MIDI Control#030"/>
+      <Control Type="7bit"  Number="31"  Name="MIDI Control#031"/>
+      <Control Type="7bit"  Number="32"  Name="Bank Select #032"/>
+      <Control Type="7bit"  Number="33"  Name="Mod Wheel #033"/>
+      <Control Type="7bit"  Number="34"  Name="Breath #034"/>
+      <Control Type="7bit"  Number="35"  Name="MIDI Control#035"/>
+      <Control Type="7bit"  Number="36"  Name="Foot Control#036"/>
+      <Control Type="7bit"  Number="37"  Name="MIDI Control#037"/>
+      <Control Type="7bit"  Number="38"  Name="Data Entry #038"/>
+      <Control Type="7bit"  Number="39"  Name="Volume #039"/>
+      <Control Type="7bit"  Number="40"  Name="Balance #040"/>
+      <Control Type="7bit"  Number="41"  Name="MIDI Control#041"/>
+      <Control Type="7bit"  Number="42"  Name="Pan #042"/>
+      <Control Type="7bit"  Number="43"  Name="Expression #043"/>
+      <Control Type="7bit"  Number="44"  Name="FX Control1 #044"/>
+      <Control Type="7bit"  Number="45"  Name="FX Control2 #045"/>
+      <Control Type="7bit"  Number="46"  Name="MIDI Control#046"/>
+      <Control Type="7bit"  Number="47"  Name="MIDI Control#047"/>
+      <Control Type="7bit"  Number="48"  Name="GenPurpose1 #048"/>
+      <Control Type="7bit"  Number="49"  Name="GenPurpose2 #049"/>
+      <Control Type="7bit"  Number="50"  Name="GenPurpose3 #050"/>
+      <Control Type="7bit"  Number="51"  Name="GenPurpose4 #051"/>
+      <Control Type="7bit"  Number="52"  Name="MIDI Control#052"/>
+      <Control Type="7bit"  Number="53"  Name="MIDI Control#053"/>
+      <Control Type="7bit"  Number="54"  Name="MIDI Control#054"/>
+      <Control Type="7bit"  Number="55"  Name="MIDI Control#055"/>
+      <Control Type="7bit"  Number="56"  Name="MIDI Control#056"/>
+      <Control Type="7bit"  Number="57"  Name="MIDI Control#057"/>
+      <Control Type="7bit"  Number="58"  Name="MIDI Control#058"/>
+      <Control Type="7bit"  Number="59"  Name="MIDI Control#059"/>
+      <Control Type="7bit"  Number="60"  Name="MIDI Control#060"/>
+      <Control Type="7bit"  Number="61"  Name="MIDI Control#061"/>
+      <Control Type="7bit"  Number="62"  Name="MIDI Control#062"/>
+      <Control Type="7bit"  Number="63"  Name="MIDI Control#063"/>
+      <Control Type="7bit"  Number="64"  Name="Sustain #064"/>
+      <Control Type="7bit"  Number="65"  Name="PortamentoSw#065"/>
+      <Control Type="7bit"  Number="66"  Name="Sostenuto #066"/>
+      <Control Type="7bit"  Number="67"  Name="Soft Pedal #067"/>
+      <Control Type="7bit"  Number="68"  Name="Legato Ftsw #068"/>
+      <Control Type="7bit"  Number="69"  Name="Hold 2 #069"/>
+      <Control Type="7bit"  Number="70"  Name="PatchSelect #070"/>
+      <Control Type="7bit"  Number="71"  Name="Timbre #071"/>
+      <Control Type="7bit"  Number="72"  Name="Release #072"/>
+      <Control Type="7bit"  Number="73"  Name="Attack #073"/>
+      <Control Type="7bit"  Number="74"  Name="Brightness #074"/>
+      <Control Type="7bit"  Number="75"  Name="SoundCntl 6 #075"/>
+      <Control Type="7bit"  Number="76"  Name="SoundCntl 7 #076"/>
+      <Control Type="7bit"  Number="77"  Name="SoundCntl 8 #077"/>
+      <Control Type="7bit"  Number="78"  Name="SoundCntl 9 #078"/>
+      <Control Type="7bit"  Number="79"  Name="SoundCntl 10 #079"/>
+      <Control Type="7bit"  Number="80"  Name="GenPurpose5 #080"/>
+      <Control Type="7bit"  Number="81"  Name="GenPurpose6 #081"/>
+      <Control Type="7bit"  Number="82"  Name="GenPurpose7 #082"/>
+      <Control Type="7bit"  Number="83"  Name="GenPurpose8 #083"/>
+      <Control Type="7bit"  Number="84"  Name="Portamento #084"/>
+      <Control Type="7bit"  Number="85"  Name="MIDI Control#085"/>
+      <Control Type="7bit"  Number="86"  Name="MIDI Control#086"/>
+      <Control Type="7bit"  Number="87"  Name="MIDI Control#087"/>
+      <Control Type="7bit"  Number="88"  Name="MIDI Control#088"/>
+      <Control Type="7bit"  Number="89"  Name="MIDI Control#089"/>
+      <Control Type="7bit"  Number="90"  Name="MIDI Control#090"/>
+      <Control Type="7bit"  Number="91"  Name="FX Depth 1 #091"/>
+      <Control Type="7bit"  Number="92"  Name="FX Depth 2 #092"/>
+      <Control Type="7bit"  Number="93"  Name="FX Depth 3 #093"/>
+      <Control Type="7bit"  Number="94"  Name="FX Depth 4 #094"/>
+      <Control Type="7bit"  Number="95"  Name="FX Depth 5 #095"/>
+      <Control Type="7bit"  Number="96"  Name="Data Inc #096"/>
+      <Control Type="7bit"  Number="97"  Name="Data Dec #097"/>
+      <Control Type="7bit"  Number="98"  Name="NonRegPmMSB #098"/>
+      <Control Type="7bit"  Number="99"  Name="NonRegPmLSB #099"/>
+      <Control Type="7bit"  Number="100"  Name="RegPmMSB #100"/>
+      <Control Type="7bit"  Number="101"  Name="RegPmLSB #101"/>
+      <Control Type="7bit"  Number="102"  Name="MIDI Control#102"/>
+      <Control Type="7bit"  Number="103"  Name="MIDI Control#103"/>
+      <Control Type="7bit"  Number="104"  Name="MIDI Control#104"/>
+      <Control Type="7bit"  Number="105"  Name="MIDI Control#105"/>
+      <Control Type="7bit"  Number="106"  Name="MIDI Control#106"/>
+      <Control Type="7bit"  Number="107"  Name="MIDI Control#107"/>
+      <Control Type="7bit"  Number="108"  Name="MIDI Control#108"/>
+      <Control Type="7bit"  Number="109"  Name="MIDI Control#109"/>
+      <Control Type="7bit"  Number="110"  Name="MIDI Control#110"/>
+      <Control Type="7bit"  Number="111"  Name="MIDI Control#111"/>
+      <Control Type="7bit"  Number="112"  Name="MIDI Control#112"/>
+      <Control Type="7bit"  Number="113"  Name="MIDI Control#113"/>
+      <Control Type="7bit"  Number="114"  Name="MIDI Control#114"/>
+      <Control Type="7bit"  Number="115"  Name="MIDI Control#115"/>
+      <Control Type="7bit"  Number="116"  Name="MIDI Control#116"/>
+      <Control Type="7bit"  Number="117"  Name="MIDI Control#117"/>
+      <Control Type="7bit"  Number="118"  Name="MIDI Control#118"/>
+      <Control Type="7bit"  Number="119"  Name="MIDI Control#119"/>
+      <Control Type="7bit"  Number="120"  Name="AllSoundOff #120"/>
+      <Control Type="7bit"  Number="121"  Name="ResetCntrls #121"/>
+      <Control Type="7bit"  Number="122"  Name="LocalCntrlSw#122"/>
+      <Control Type="7bit"  Number="123"  Name="AllNotesOff #123"/>
+      <Control Type="7bit"  Number="124"  Name="OmniModeOff #124"/>
+      <Control Type="7bit"  Number="125"  Name="OmniModeOn #125"/>
+      <Control Type="7bit"  Number="126"  Name="MonoModeOn #126"/>
+      <Control Type="7bit"  Number="127"  Name="PolyModeOn #127"/>
+    </ControlNameList>
+    <ControlNameList Name="Standard">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="2-Breath"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento time"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="8"  Name="8-Balance"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="64"  Name="64-Pedal (sustain)"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Pedal (sostenuto)"/>
+      <Control Type="7bit"  Number="67"  Name="67-Pedal (soft)"/>
+      <Control Type="7bit"  Number="69"  Name="69-Hold 2"/>
+      <Control Type="7bit"  Number="91"  Name="91-External Effects depth"/>
+      <Control Type="7bit"  Number="92"  Name="92-Tremolo depth"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus depth"/>
+      <Control Type="7bit"  Number="94"  Name="94-Celeste (detune) depth"/>
+      <Control Type="7bit"  Number="95"  Name="95-Phaser depth"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

@@ -388,8 +388,91 @@
           <Patch Number="127"  Name="D88 Explosion"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Korg is40 Drum Kits">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Dr11 GM Kit 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Dr12 GM Kit 2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Dr11 GM Kit 1"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Dr11 GM Kit 1"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Dr11 GM Kit 1"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Dr11 GM Kit 1"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Dr11 GM Kit 1"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Dr11 GM Kit 1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Dr13 Room Kit"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Dr13 Room Kit"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Dr13 Room Kit"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Dr13 Room Kit"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Dr13 Room Kit"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Dr13 Room Kit"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Dr13 Room Kit"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Dr13 Room Kit"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Dr14 Power Kit"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Dr14 Power Kit"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Dr14 Power Kit"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Dr14 Power Kit"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Dr14 Power Kit"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Dr14 Power Kit"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Dr14 Power Kit"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Dr14 Power Kit"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Dr15 Electronic Kit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Dr16 Analog Kit"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Dr17 Dance Kit"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Dr15 Electronic Kit"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Dr15 Electronic Kit"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Dr15 Electronic Kit"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Dr15 Electronic Kit"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Dr15 Electronic Kit"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Dr18 Jazz Kit"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Dr18 Jazz Kit"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Dr18 Jazz Kit"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Dr18 Jazz Kit"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Dr18 Jazz Kit"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Dr18 Jazz Kit"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Dr18 Jazz Kit"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Dr18 Jazz Kit"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Dr21 Brush Kit"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Dr21 Brush Kit"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Dr21 Brush Kit"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Dr21 Brush Kit"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Dr21 Brush Kit"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Dr21 Brush Kit"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Dr21 Brush Kit"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Dr21 Brush Kit"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Dr22 Orchestra Kit"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Dr22 Orchestra Kit"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Dr22 Orchestra Kit"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Dr22 Orchestra Kit"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Dr22 Orchestra Kit"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Dr22 Orchestra Kit"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Dr22 Orchestra Kit"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Dr22 Orchestra Kit"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Dr26 SFX Kit"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Dr26 SFX Kit"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Dr26 SFX Kit"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Dr26 SFX Kit"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Dr26 SFX Kit"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Dr26 SFX Kit"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Dr26 SFX Kit"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Dr26 SFX Kit"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Dr23 Percussion Kit"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Dr24 Latin Perc. Kit"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Dr23 Percussion Kit"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Dr23 Percussion Kit"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Dr23 Percussion Kit"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Dr23 Percussion Kit"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Dr23 Percussion Kit"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Dr23 Percussion Kit"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Dr27 (User 1)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Dr28 (User 2)"  ProgramChange="73"/>
+          <Patch Number="116"  Name="Dr25 Arabian Kit"  ProgramChange="116"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Analog Kit">
      <Note Number="30"  Name="0=Hi Q"/>
      <Note Number="31"  Name="1=SD Rock H"/>
      <Note Number="33"  Name="3=Bass Drum M"/>
@@ -458,7 +541,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Arabian Kit">
      <Note Number="30"  Name="0=Hi Q"/>
      <Note Number="31"  Name="1=SD Rock H"/>
      <Note Number="33"  Name="3=Bass Drum M"/>
@@ -527,7 +610,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Brush Kit">
      <Note Number="36"  Name="6=Jazz BD 1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Brush Tap"/>
@@ -592,7 +675,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Dance Kit">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -657,7 +740,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Electronic Kit">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -722,7 +805,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 GM Kit 1">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -787,7 +870,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 GM Kit 2">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -852,7 +935,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Jazz Kit">
      <Note Number="36"  Name="6=Jazz BD 1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -917,7 +1000,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Latin Perc. Kit">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -982,7 +1065,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Orchestra Kit">
      <Note Number="28"  Name="8=Pedal Hi-Hat"/>
      <Note Number="29"  Name="9=Open Hi-Hat"/>
      <Note Number="30"  Name="0=Ride Cymbal"/>
@@ -1051,7 +1134,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Percussion Kit">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -1116,7 +1199,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Power Kit">
      <Note Number="36"  Name="6=MONDO Kick"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Gated SD"/>
@@ -1181,7 +1264,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 Room Kit">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>
@@ -1246,7 +1329,7 @@
      <Note Number="97"  Name="7=Brush Roll"/>
      <Note Number="98"  Name="8=SN Roll"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg is40 SFX Kit">
      <Note Number="36"  Name="6=Hybrid Kick1"/>
      <Note Number="37"  Name="7=Side Stick"/>
      <Note Number="38"  Name="8=Ballad SN"/>

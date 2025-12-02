@@ -76,7 +76,7 @@
           <Patch Number="23"  Name="WarpFeed Dly"  ProgramChange="23"/>
           <Patch Number="24"  Name="250ms Delay"  ProgramChange="24"/>
           <Patch Number="25"  Name="500ms Delay"  ProgramChange="25"/>
-          <Patch Number="26"  Name="1000ms Delay "  ProgramChange="26"/>
+          <Patch Number="26"  Name="1000ms Delay"  ProgramChange="26"/>
           <Patch Number="27"  Name="4800ms Delay"  ProgramChange="27"/>
           <Patch Number="28"  Name="10 seconds"  ProgramChange="28"/>
           <Patch Number="29"  Name="Ltr Frm Home"  ProgramChange="29"/>

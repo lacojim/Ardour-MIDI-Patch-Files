@@ -3,8 +3,8 @@
 <MIDINameDocument>
   <Author>Karl Swisher taken From Cakewalk</Author>
   <MasterDeviceNames>
-    <Manufacturer>Korg</Manufacturer>
-    <Model>GeneralMIDI</Model>
+    <Manufacturer>JLCooper</Manufacturer>
+    <Model>Fadermaster</Model>
     <CustomDeviceMode Name="Mode 1">
       <ChannelNameSetAssignments>
         <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
@@ -44,6 +44,73 @@
         <AvailableChannel Channel="15" Available="true"/>
         <AvailableChannel Channel="16" Available="true"/>
       </AvailableForChannels>
+      <PatchBank Name="Fadermaster Factory Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="MIDI Volume Chan 1-8"  ProgramChange="0"/>
+          <Patch Number="1"  Name="MIDI Volume Chan 9-16"  ProgramChange="1"/>
+          <Patch Number="2"  Name="MIDI Pan Chan 1-8"  ProgramChange="2"/>
+          <Patch Number="3"  Name="MIDI Pan Chan 9-16"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Oberheim Matrix 6/1000"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Oberheim Matrix 6/1000"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Kawai K1"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Kawai K1"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Yamaha DX/TX General"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Yamaha DX/TX Osc"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Yamaha DX/TX OP1"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Yamaha DX/TX OP2"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Yamaha DX/TX OP3"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Yamaha DX/TX OP4"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Yamaha DX/TX OP5"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Yamaha DX/TX OP6"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Roland D-10, D-20, D-110"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Roland D-20"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Roland D-50/D-550"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Roland D-50/D-550"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Korg M1, M1R Single"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Korg M1, M1R Single"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Korg M1, M1R Double"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Korg M1, M1R Double"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Emu Proteus, Proteus II"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Emu Proteus, Proteus II"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Emu Proteus, Proteus II"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Ensoniq VFX Voice 1"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Ensoniq VFX Voice 2"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Ensoniq VFX Voice 3"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Lexicon LXP-1"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Lexicon LXP-5"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Lexicon LXP-5"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Lexicon LXP-5"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Yamaha SY-77, TG-77"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Yamaha SY-77, TG-77"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Yamaha SY-55, TG-55"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Yamaha SY-55, TG-55"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Yamaha TX-81Z Operator 1"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Yamaha TX-81Z Operator 3"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Yamaha TX-81Z Operator 2"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Yamaha TX-81Z Operator 4"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Peavey DPM-3"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Peavey DPM-3"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Roland D-70"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Roland U-20, U-220"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Roland U-20, U-220"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Roland MT-32"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Korg M-3R"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Korg M-3R"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Kawai K-4"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Kawai K-4"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Korg WS WaveStation"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Korg WS WaveStation"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Korg T-1, T-2, T-3 - Combi"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Korg T-1, T-2, T-3 - Combi"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Korg T-1, T-2, T-3 - Combi"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Korg T-1, T-2, T-3 - Combi"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Emu Proteus, Proteus II"  ProgramChange="58"/>
+        </PatchNameList>
+      </PatchBank>
       <PatchBank Name="General MIDI">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
@@ -181,114 +248,5 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="General MIDI Drums">
-     <Note Number="36"  Name="6=Bass Drum 1"/>
-     <Note Number="37"  Name="7=Side Stick"/>
-     <Note Number="38"  Name="8=Acoustic Snare"/>
-     <Note Number="39"  Name="9=Hand Clap"/>
-     <Note Number="40"  Name="0=Electric Snare"/>
-     <Note Number="41"  Name="1=Low Floor Tom"/>
-     <Note Number="42"  Name="2=Close Hi-Hat"/>
-     <Note Number="43"  Name="3=High Floor Tom"/>
-     <Note Number="44"  Name="4=Pedal Hi-Hat"/>
-     <Note Number="45"  Name="5=Low Tom"/>
-     <Note Number="46"  Name="6=Open Hi-Hat"/>
-     <Note Number="47"  Name="7=Low-Mid Tom"/>
-     <Note Number="48"  Name="8=Hi-Mid Tom"/>
-     <Note Number="49"  Name="9=Crash Cymbal 1"/>
-     <Note Number="50"  Name="0=High Tom"/>
-     <Note Number="51"  Name="1=Ride Cymbal 1"/>
-     <Note Number="52"  Name="2=Chinese Cymbal"/>
-     <Note Number="53"  Name="3=Ride Bell"/>
-     <Note Number="54"  Name="4=Tambourine"/>
-     <Note Number="55"  Name="5=Splash Cymbal"/>
-     <Note Number="56"  Name="6=Cowbell"/>
-     <Note Number="57"  Name="7=Crash Cymbal 2"/>
-     <Note Number="58"  Name="8=Vibraslap"/>
-     <Note Number="59"  Name="9=Ride Cymbal 2"/>
-     <Note Number="60"  Name="0=Hi Bongo"/>
-     <Note Number="61"  Name="1=Low Bongo"/>
-     <Note Number="62"  Name="2=Mute Hi Conga"/>
-     <Note Number="63"  Name="3=Open Hi Conga"/>
-     <Note Number="64"  Name="4=Low Conga"/>
-     <Note Number="65"  Name="5=High Timbale"/>
-     <Note Number="66"  Name="6=Low Timbale"/>
-     <Note Number="67"  Name="7=High Agogo"/>
-     <Note Number="68"  Name="8=Low Agogo"/>
-     <Note Number="69"  Name="9=Cabasa"/>
-     <Note Number="70"  Name="0=Maracas"/>
-     <Note Number="71"  Name="1=Short Whistle"/>
-     <Note Number="72"  Name="2=Long Whistle"/>
-     <Note Number="73"  Name="3=Short Guiro"/>
-     <Note Number="74"  Name="4=Long Guiro"/>
-     <Note Number="75"  Name="5=Claves"/>
-     <Note Number="76"  Name="6=Hi Wood Block"/>
-     <Note Number="77"  Name="7=Low Wood Block"/>
-     <Note Number="78"  Name="8=Mute Cuica"/>
-     <Note Number="79"  Name="9=Open Cuica"/>
-     <Note Number="80"  Name="0=Mute Triangle"/>
-     <Note Number="81"  Name="1=Open Triangle"/>
-    </NoteNameList>
-    <NoteNameList  Name="Korg 01/W Drum Kit A1">
-     <Note Number="36"  Name="6=FatKick"/>
-     <Note Number="37"  Name="7=RealKick"/>
-     <Note Number="38"  Name="8=AmbiKick"/>
-     <Note Number="39"  Name="9=SynKick2"/>
-     <Note Number="40"  Name="0=GatedKick"/>
-     <Note Number="41"  Name="1=PicloSnare"/>
-     <Note Number="42"  Name="2=SoftSnare"/>
-     <Note Number="43"  Name="3=GatedSnare"/>
-     <Note Number="44"  Name="4=SynSnare1"/>
-     <Note Number="45"  Name="5=Snare2"/>
-     <Note Number="46"  Name="6=SideStick"/>
-     <Note Number="47"  Name="7=RockSnare"/>
-     <Note Number="48"  Name="8=Tom"/>
-     <Note Number="49"  Name="9=ProcessTom"/>
-     <Note Number="50"  Name="0=Tom"/>
-     <Note Number="51"  Name="1=ProcessTom"/>
-     <Note Number="52"  Name="2=Tom"/>
-     <Note Number="53"  Name="3=TiteHH"/>
-     <Note Number="54"  Name="4=CloseSynHH"/>
-     <Note Number="55"  Name="5=CloseHH"/>
-     <Note Number="56"  Name="6=OpenSynHH"/>
-     <Note Number="57"  Name="7=OpenHH"/>
-     <Note Number="58"  Name="8=Tambourine"/>
-     <Note Number="59"  Name="9=PedalHH"/>
-     <Note Number="60"  Name="0=CrshCymbal"/>
-     <Note Number="61"  Name="1=CrshCymbal"/>
-     <Note Number="62"  Name="2=RideEdge"/>
-     <Note Number="63"  Name="3=RideCup"/>
-     <Note Number="64"  Name="4=S-Shaker"/>
-     <Note Number="65"  Name="5=Cabasa"/>
-     <Note Number="66"  Name="6=HandClaps"/>
-     <Note Number="67"  Name="7=LoBongo"/>
-     <Note Number="68"  Name="8=SlapBongo"/>
-     <Note Number="69"  Name="9=HiBongo"/>
-     <Note Number="70"  Name="0=Cowbell"/>
-     <Note Number="71"  Name="1=OpenConga"/>
-     <Note Number="72"  Name="2=OpenConga"/>
-     <Note Number="73"  Name="3=LoTimbal"/>
-     <Note Number="74"  Name="4=MuteTriang"/>
-     <Note Number="75"  Name="5=HiTimbal"/>
-     <Note Number="76"  Name="6=OpenTriang"/>
-     <Note Number="77"  Name="7=ScratchHi"/>
-     <Note Number="78"  Name="8=ScratchLo"/>
-     <Note Number="79"  Name="9=ScratchDbl"/>
-     <Note Number="80"  Name="0=RevSnare"/>
-     <Note Number="81"  Name="1=AmbiSnare"/>
-     <Note Number="82"  Name="2=RollSnare1"/>
-     <Note Number="83"  Name="3=RollSnare2"/>
-     <Note Number="84"  Name="4=Pole"/>
-     <Note Number="85"  Name="5=Fist"/>
-     <Note Number="86"  Name="6=Industry"/>
-     <Note Number="87"  Name="7=SynClaves"/>
-     <Note Number="88"  Name="8=SynTom1"/>
-     <Note Number="89"  Name="9=SynTom1"/>
-     <Note Number="90"  Name="0=SynRim"/>
-     <Note Number="91"  Name="1=SynTom2"/>
-     <Note Number="93"  Name="3=SynTom2"/>
-     <Note Number="95"  Name="5=SynTom2"/>
-     <Note Number="115"  Name="5=Gong"/>
-    </NoteNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

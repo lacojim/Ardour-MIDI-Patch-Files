@@ -50,7 +50,7 @@
           <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number="0"  Name="1:1 Welcome         "  ProgramChange="0"/>
+          <Patch Number="0"  Name="1:1 Welcome"  ProgramChange="0"/>
           <Patch Number="1"  Name="1:2 Blade run    ZON"  ProgramChange="1"/>
           <Patch Number="2"  Name="1:3 ElekTro       PG"  ProgramChange="2"/>
           <Patch Number="3"  Name="1:4 Tenu OB1      HN"  ProgramChange="3"/>
@@ -63,7 +63,7 @@
           <Patch Number="10"  Name="1:11 Big Lush     ZON"  ProgramChange="10"/>
           <Patch Number="11"  Name="1:12 Goa Head Bass TB"  ProgramChange="11"/>
           <Patch Number="12"  Name="1:13 PhaserPad     HN"  ProgramChange="12"/>
-          <Patch Number="13"  Name="1:14 Mix famalog     "  ProgramChange="13"/>
+          <Patch Number="13"  Name="1:14 Mix famalog"  ProgramChange="13"/>
           <Patch Number="14"  Name="1:15 Open Air      HN"  ProgramChange="14"/>
           <Patch Number="15"  Name="1:16 HomeTown      HN"  ProgramChange="15"/>
           <Patch Number="16"  Name="1:17 Matrix 6      HN"  ProgramChange="16"/>
@@ -90,12 +90,12 @@
           <Patch Number="37"  Name="1:38 SpaceCompany  HN"  ProgramChange="37"/>
           <Patch Number="38"  Name="1:39 Xpanbass      HN"  ProgramChange="38"/>
           <Patch Number="39"  Name="1:40 VoiceSound    HN"  ProgramChange="39"/>
-          <Patch Number="40"  Name="1:41 WelcomePad      "  ProgramChange="40"/>
+          <Patch Number="40"  Name="1:41 WelcomePad"  ProgramChange="40"/>
           <Patch Number="41"  Name="1:42 P5 puls       HN"  ProgramChange="41"/>
           <Patch Number="42"  Name="1:43 King B3       HN"  ProgramChange="42"/>
           <Patch Number="43"  Name="1:44 Saturnus      HN"  ProgramChange="43"/>
           <Patch Number="44"  Name="1:45 Singy        ZON"  ProgramChange="44"/>
-          <Patch Number="45"  Name="1:46 Fonky lead      "  ProgramChange="45"/>
+          <Patch Number="45"  Name="1:46 Fonky lead"  ProgramChange="45"/>
           <Patch Number="46"  Name="1:47 Free Wheely   PG"  ProgramChange="46"/>
           <Patch Number="47"  Name="1:48 SuperSync     HN"  ProgramChange="47"/>
           <Patch Number="48"  Name="1:49 Funkytron    ZON"  ProgramChange="48"/>
@@ -107,7 +107,7 @@
           <Patch Number="54"  Name="1:55 GrandExpand   HN"  ProgramChange="54"/>
           <Patch Number="55"  Name="1:56 FlangeOrgan2  HN"  ProgramChange="55"/>
           <Patch Number="56"  Name="1:57 E Bass        HN"  ProgramChange="56"/>
-          <Patch Number="57"  Name="1:58 Hard synch      "  ProgramChange="57"/>
+          <Patch Number="57"  Name="1:58 Hard synch"  ProgramChange="57"/>
           <Patch Number="58"  Name="1:59 Pro5 clic     HN"  ProgramChange="58"/>
           <Patch Number="59"  Name="1:60 DXmonica      HN"  ProgramChange="59"/>
           <Patch Number="60"  Name="1:61 FullTines     HN"  ProgramChange="60"/>
@@ -122,7 +122,7 @@
           <Patch Number="69"  Name="1:70 Juno1        DLX"  ProgramChange="69"/>
           <Patch Number="70"  Name="1:71 KnitterBass   HN"  ProgramChange="70"/>
           <Patch Number="71"  Name="1:72 Legato Str   ZON"  ProgramChange="71"/>
-          <Patch Number="72"  Name="1:73 Low sea         "  ProgramChange="72"/>
+          <Patch Number="72"  Name="1:73 Low sea"  ProgramChange="72"/>
           <Patch Number="73"  Name="1:74 SynOrgan      HN"  ProgramChange="73"/>
           <Patch Number="74"  Name="1:75 NewHybrid     HN"  ProgramChange="74"/>
           <Patch Number="75"  Name="1:76 AtmoPan      DLX"  ProgramChange="75"/>
@@ -131,11 +131,11 @@
           <Patch Number="78"  Name="1:79 OctaPad       HN"  ProgramChange="78"/>
           <Patch Number="79"  Name="1:80 Mysterius     HN"  ProgramChange="79"/>
           <Patch Number="80"  Name="1:81 NordLead 2    HN"  ProgramChange="80"/>
-          <Patch Number="81"  Name="1:82 FunkyPiano      "  ProgramChange="81"/>
+          <Patch Number="81"  Name="1:82 FunkyPiano"  ProgramChange="81"/>
           <Patch Number="82"  Name="1:83 FastLead      HN"  ProgramChange="82"/>
           <Patch Number="83"  Name="1:84 Deep Blue     TB"  ProgramChange="83"/>
           <Patch Number="84"  Name="1:85 Pado          MK"  ProgramChange="84"/>
-          <Patch Number="85"  Name="1:86 Padsong         "  ProgramChange="85"/>
+          <Patch Number="85"  Name="1:86 Padsong"  ProgramChange="85"/>
           <Patch Number="86"  Name="1:87 FMcello       HN"  ProgramChange="86"/>
           <Patch Number="87"  Name="1:88 FilterFM2     HN"  ProgramChange="87"/>
           <Patch Number="88"  Name="1:89 Phazz         PG"  ProgramChange="88"/>
@@ -146,19 +146,19 @@
           <Patch Number="93"  Name="1:94 HeartOpener   PG"  ProgramChange="93"/>
           <Patch Number="94"  Name="1:95 Steps         TB"  ProgramChange="94"/>
           <Patch Number="95"  Name="1:96 RandomChimes  HN"  ProgramChange="95"/>
-          <Patch Number="96"  Name="1:97 Resonace Sweep  "  ProgramChange="96"/>
+          <Patch Number="96"  Name="1:97 Resonace Sweep"  ProgramChange="96"/>
           <Patch Number="97"  Name="1:98 Scary         HN"  ProgramChange="97"/>
           <Patch Number="98"  Name="1:99 SharpFM       HN"  ProgramChange="98"/>
           <Patch Number="99"  Name="1:100 Sky High      PG"  ProgramChange="99"/>
-          <Patch Number="100"  Name="1:101 Snow            "  ProgramChange="100"/>
+          <Patch Number="100"  Name="1:101 Snow"  ProgramChange="100"/>
           <Patch Number="101"  Name="1:102 SoftPad1      HN"  ProgramChange="101"/>
           <Patch Number="102"  Name="1:103 Spectrasonic  TB"  ProgramChange="102"/>
           <Patch Number="103"  Name="1:104 SpitFire      PG"  ProgramChange="103"/>
           <Patch Number="104"  Name="1:105 StageMagnet   PG"  ProgramChange="104"/>
-          <Patch Number="105"  Name="1:106 Stringo         "  ProgramChange="105"/>
+          <Patch Number="105"  Name="1:106 Stringo"  ProgramChange="105"/>
           <Patch Number="106"  Name="1:107 FMsyncAMD     FH"  ProgramChange="106"/>
           <Patch Number="107"  Name="1:108 TranceChord   PG"  ProgramChange="107"/>
-          <Patch Number="108"  Name="1:109 MaleVoice       "  ProgramChange="108"/>
+          <Patch Number="108"  Name="1:109 MaleVoice"  ProgramChange="108"/>
           <Patch Number="109"  Name="1:110 SyncBaz       PG"  ProgramChange="109"/>
           <Patch Number="110"  Name="1:111 Funky Pedal   TB"  ProgramChange="110"/>
           <Patch Number="111"  Name="1:112 Synclavier    HN"  ProgramChange="111"/>
@@ -166,18 +166,18 @@
           <Patch Number="113"  Name="1:114 Mellow EP    ZON"  ProgramChange="113"/>
           <Patch Number="114"  Name="1:115 Ambience      TB"  ProgramChange="114"/>
           <Patch Number="115"  Name="1:116 Sytar         HN"  ProgramChange="115"/>
-          <Patch Number="116"  Name="1:117 Fonky           "  ProgramChange="116"/>
+          <Patch Number="116"  Name="1:117 Fonky"  ProgramChange="116"/>
           <Patch Number="117"  Name="1:118 Chick2        HN"  ProgramChange="117"/>
           <Patch Number="118"  Name="1:119 UltiTramp     PG"  ProgramChange="118"/>
           <Patch Number="119"  Name="1:120 WarmPad      DLX"  ProgramChange="119"/>
           <Patch Number="120"  Name="1:121 Water Nymph  ZON"  ProgramChange="120"/>
           <Patch Number="121"  Name="1:122 ArpHarp       HN"  ProgramChange="121"/>
-          <Patch Number="122"  Name="1:123 Box Strings     "  ProgramChange="122"/>
+          <Patch Number="122"  Name="1:123 Box Strings"  ProgramChange="122"/>
           <Patch Number="123"  Name="1:124 WinterMoon    HN"  ProgramChange="123"/>
           <Patch Number="124"  Name="1:125 WireStrung1   HN"  ProgramChange="124"/>
           <Patch Number="125"  Name="1:126 VoiceOrgan    HN"  ProgramChange="125"/>
           <Patch Number="126"  Name="1:127 Xtream G      PG"  ProgramChange="126"/>
-          <Patch Number="127"  Name="1:128 Yarem           "  ProgramChange="127"/>
+          <Patch Number="127"  Name="1:128 Yarem"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Nord Lead 3 Bank 2">
@@ -204,7 +204,7 @@
           <Patch Number="15"  Name="2:16 Bass to pad  ZON"  ProgramChange="15"/>
           <Patch Number="16"  Name="2:17 BigPad       DLX"  ProgramChange="16"/>
           <Patch Number="17"  Name="2:18 Blippin      DLX"  ProgramChange="17"/>
-          <Patch Number="18"  Name="2:19 BowBoys         "  ProgramChange="18"/>
+          <Patch Number="18"  Name="2:19 BowBoys"  ProgramChange="18"/>
           <Patch Number="19"  Name="2:20 Brachiator    PG"  ProgramChange="19"/>
           <Patch Number="20"  Name="2:21 Brassness    ZON"  ProgramChange="20"/>
           <Patch Number="21"  Name="2:22 Brassy       ZON"  ProgramChange="21"/>
@@ -216,7 +216,7 @@
           <Patch Number="27"  Name="2:28 Comper       ZON"  ProgramChange="27"/>
           <Patch Number="28"  Name="2:29 CrystalBells DLX"  ProgramChange="28"/>
           <Patch Number="29"  Name="2:30 DaftLead     DLX"  ProgramChange="29"/>
-          <Patch Number="30"  Name="2:31 DatchlerBassDLX "  ProgramChange="30"/>
+          <Patch Number="30"  Name="2:31 DatchlerBassDLX"  ProgramChange="30"/>
           <Patch Number="31"  Name="2:32 DeTunePad    DLX"  ProgramChange="31"/>
           <Patch Number="32"  Name="2:33 Digiorg      ZON"  ProgramChange="32"/>
           <Patch Number="33"  Name="2:34 DistBrass    DLX"  ProgramChange="33"/>
@@ -258,8 +258,8 @@
           <Patch Number="69"  Name="2:70 MelloStr     DLX"  ProgramChange="69"/>
           <Patch Number="70"  Name="2:71 Mellow EP2    HN"  ProgramChange="70"/>
           <Patch Number="71"  Name="2:72 Metallia     ZON"  ProgramChange="71"/>
-          <Patch Number="72"  Name="2:73 MoogBas1    DLX "  ProgramChange="72"/>
-          <Patch Number="73"  Name="2:74 MoogBas2    DLX "  ProgramChange="73"/>
+          <Patch Number="72"  Name="2:73 MoogBas1    DLX"  ProgramChange="72"/>
+          <Patch Number="73"  Name="2:74 MoogBas2    DLX"  ProgramChange="73"/>
           <Patch Number="74"  Name="2:75 MoogMorph    DLX"  ProgramChange="74"/>
           <Patch Number="75"  Name="2:76 Mountaineer  ZON"  ProgramChange="75"/>
           <Patch Number="76"  Name="2:77 MovingPad    DLX"  ProgramChange="76"/>
@@ -279,12 +279,12 @@
           <Patch Number="90"  Name="2:91 RichiM       DLX"  ProgramChange="90"/>
           <Patch Number="91"  Name="2:92 Sawbass      DLX"  ProgramChange="91"/>
           <Patch Number="92"  Name="2:93 ScamOrgan    DLX"  ProgramChange="92"/>
-          <Patch Number="93"  Name="2:94 Seq temp        "  ProgramChange="93"/>
+          <Patch Number="93"  Name="2:94 Seq temp"  ProgramChange="93"/>
           <Patch Number="94"  Name="2:95 Shiny        ZON"  ProgramChange="94"/>
           <Patch Number="95"  Name="2:96 Skateboard   ZON"  ProgramChange="95"/>
           <Patch Number="96"  Name="2:97 SlushPad     DLX"  ProgramChange="96"/>
           <Patch Number="97"  Name="2:98 SnoopBass    DLX"  ProgramChange="97"/>
-          <Patch Number="98"  Name="2:99 FlashoPad       "  ProgramChange="98"/>
+          <Patch Number="98"  Name="2:99 FlashoPad"  ProgramChange="98"/>
           <Patch Number="99"  Name="2:100 SoftPad      DLX"  ProgramChange="99"/>
           <Patch Number="100"  Name="2:101 Starscape    ZON"  ProgramChange="100"/>
           <Patch Number="101"  Name="2:102 StrawberryF  DLX"  ProgramChange="101"/>
@@ -307,12 +307,12 @@
           <Patch Number="118"  Name="2:119 Underbelly   ZON"  ProgramChange="118"/>
           <Patch Number="119"  Name="2:120 Waspy        DLX"  ProgramChange="119"/>
           <Patch Number="120"  Name="2:121 VeloClav     DLX"  ProgramChange="120"/>
-          <Patch Number="121"  Name="2:122 WetLead     DLX "  ProgramChange="121"/>
+          <Patch Number="121"  Name="2:122 WetLead     DLX"  ProgramChange="121"/>
           <Patch Number="122"  Name="2:123 WhaT         DLX"  ProgramChange="122"/>
           <Patch Number="123"  Name="2:124 Wheel Pad    ZON"  ProgramChange="123"/>
           <Patch Number="124"  Name="2:125 WheelPad     DLX"  ProgramChange="124"/>
           <Patch Number="125"  Name="2:126 VinceCBass   DLX"  ProgramChange="125"/>
-          <Patch Number="126"  Name="2:127 Voxomorph       "  ProgramChange="126"/>
+          <Patch Number="126"  Name="2:127 Voxomorph"  ProgramChange="126"/>
           <Patch Number="127"  Name="2:128 Voxpad       ZON"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
@@ -514,7 +514,7 @@
           <Patch Number="53"  Name="4:54 ObMod         HN"  ProgramChange="53"/>
           <Patch Number="54"  Name="4:55 PadMaker      HN"  ProgramChange="54"/>
           <Patch Number="55"  Name="4:56 PanPad        HN"  ProgramChange="55"/>
-          <Patch Number="56"  Name="4:57 Pipe sound      "  ProgramChange="56"/>
+          <Patch Number="56"  Name="4:57 Pipe sound"  ProgramChange="56"/>
           <Patch Number="57"  Name="4:58 PowerSweep    HN"  ProgramChange="57"/>
           <Patch Number="58"  Name="4:59 Prophet 6     HN"  ProgramChange="58"/>
           <Patch Number="59"  Name="4:60 ProSynth      HN"  ProgramChange="59"/>
@@ -598,7 +598,7 @@
           <Patch Number="1"  Name="5:2 Pad 5th       TB"  ProgramChange="1"/>
           <Patch Number="2"  Name="5:3 Agression     TB"  ProgramChange="2"/>
           <Patch Number="3"  Name="5:4 Albatross     TB"  ProgramChange="3"/>
-          <Patch Number="4"  Name="5:5 More of it      "  ProgramChange="4"/>
+          <Patch Number="4"  Name="5:5 More of it"  ProgramChange="4"/>
           <Patch Number="5"  Name="5:6 ArpBells Whl  TB"  ProgramChange="5"/>
           <Patch Number="6"  Name="5:7 Big Pad       TB"  ProgramChange="6"/>
           <Patch Number="7"  Name="5:8 Big Sweep     TB"  ProgramChange="7"/>
@@ -629,14 +629,14 @@
           <Patch Number="32"  Name="5:33 Eric Persing  TB"  ProgramChange="32"/>
           <Patch Number="33"  Name="5:34 EtnoLead      TB"  ProgramChange="33"/>
           <Patch Number="34"  Name="5:35 Falling 1     TB"  ProgramChange="34"/>
-          <Patch Number="35"  Name="5:36 Falling 2       "  ProgramChange="35"/>
+          <Patch Number="35"  Name="5:36 Falling 2"  ProgramChange="35"/>
           <Patch Number="36"  Name="5:37 Fantasia 2000 TB"  ProgramChange="36"/>
           <Patch Number="37"  Name="5:38 F-A-T 2       TB"  ProgramChange="37"/>
           <Patch Number="38"  Name="5:39 Fat 5ths      TB"  ProgramChange="38"/>
           <Patch Number="39"  Name="5:40 F-A-T Lead    TB"  ProgramChange="39"/>
           <Patch Number="40"  Name="5:41 Fat Square    TB"  ProgramChange="40"/>
           <Patch Number="41"  Name="5:42 FeedbackWheel TB"  ProgramChange="41"/>
-          <Patch Number="42"  Name="5:43 Not Bad         "  ProgramChange="42"/>
+          <Patch Number="42"  Name="5:43 Not Bad"  ProgramChange="42"/>
           <Patch Number="43"  Name="5:44 Frosty        TB"  ProgramChange="43"/>
           <Patch Number="44"  Name="5:45 GroOve        TB"  ProgramChange="44"/>
           <Patch Number="45"  Name="5:46 Hard Wind     TB"  ProgramChange="45"/>
@@ -660,9 +660,9 @@
           <Patch Number="63"  Name="5:64 Nord Pad      TB"  ProgramChange="63"/>
           <Patch Number="64"  Name="5:65 OctavBass     TB"  ProgramChange="64"/>
           <Patch Number="65"  Name="5:66 Optigan       TB"  ProgramChange="65"/>
-          <Patch Number="66"  Name="5:67 Not Bad leg     "  ProgramChange="66"/>
+          <Patch Number="66"  Name="5:67 Not Bad leg"  ProgramChange="66"/>
           <Patch Number="67"  Name="5:68 Pan Box       TB"  ProgramChange="67"/>
-          <Patch Number="68"  Name="5:69 Noted           "  ProgramChange="68"/>
+          <Patch Number="68"  Name="5:69 Noted"  ProgramChange="68"/>
           <Patch Number="69"  Name="5:70 PedalSoul     TB"  ProgramChange="69"/>
           <Patch Number="70"  Name="5:71 Peking        TB"  ProgramChange="70"/>
           <Patch Number="71"  Name="5:72 Play minor    TB"  ProgramChange="71"/>
@@ -676,7 +676,7 @@
           <Patch Number="79"  Name="5:80 Pop Pad 1     TB"  ProgramChange="79"/>
           <Patch Number="80"  Name="5:81 Pop Pad 3     TB"  ProgramChange="80"/>
           <Patch Number="81"  Name="5:82 PortaLead     TB"  ProgramChange="81"/>
-          <Patch Number="82"  Name="5:83 Mixtreme        "  ProgramChange="82"/>
+          <Patch Number="82"  Name="5:83 Mixtreme"  ProgramChange="82"/>
           <Patch Number="83"  Name="5:84 Pusher        TB"  ProgramChange="83"/>
           <Patch Number="84"  Name="5:85 Q Bass        TB"  ProgramChange="84"/>
           <Patch Number="85"  Name="5:86 Random Blibs  TB"  ProgramChange="85"/>
@@ -709,19 +709,19 @@
           <Patch Number="112"  Name="5:113 Wineyards     TB"  ProgramChange="112"/>
           <Patch Number="113"  Name="5:114 Zapp          TB"  ProgramChange="113"/>
           <Patch Number="114"  Name="5:115 Zapper Wheel  TB"  ProgramChange="114"/>
-          <Patch Number="115"  Name="5:116 Pain            "  ProgramChange="115"/>
-          <Patch Number="116"  Name="5:117 Painb           "  ProgramChange="116"/>
-          <Patch Number="117"  Name="5:118 Pomada          "  ProgramChange="117"/>
-          <Patch Number="118"  Name="5:119 Reversing       "  ProgramChange="118"/>
-          <Patch Number="119"  Name="5:120 Stockfeedback   "  ProgramChange="119"/>
-          <Patch Number="120"  Name="5:121 Stocklead       "  ProgramChange="120"/>
-          <Patch Number="121"  Name="5:122 Suttelness      "  ProgramChange="121"/>
-          <Patch Number="122"  Name="5:123 Suttle          "  ProgramChange="122"/>
-          <Patch Number="123"  Name="5:124 Tradd           "  ProgramChange="123"/>
-          <Patch Number="124"  Name="5:125 Twista          "  ProgramChange="124"/>
-          <Patch Number="125"  Name="5:126 Zeldome         "  ProgramChange="125"/>
-          <Patch Number="126"  Name="5:127 Zmock it        "  ProgramChange="126"/>
-          <Patch Number="127"  Name="5:128 Zmock on        "  ProgramChange="127"/>
+          <Patch Number="115"  Name="5:116 Pain"  ProgramChange="115"/>
+          <Patch Number="116"  Name="5:117 Painb"  ProgramChange="116"/>
+          <Patch Number="117"  Name="5:118 Pomada"  ProgramChange="117"/>
+          <Patch Number="118"  Name="5:119 Reversing"  ProgramChange="118"/>
+          <Patch Number="119"  Name="5:120 Stockfeedback"  ProgramChange="119"/>
+          <Patch Number="120"  Name="5:121 Stocklead"  ProgramChange="120"/>
+          <Patch Number="121"  Name="5:122 Suttelness"  ProgramChange="121"/>
+          <Patch Number="122"  Name="5:123 Suttle"  ProgramChange="122"/>
+          <Patch Number="123"  Name="5:124 Tradd"  ProgramChange="123"/>
+          <Patch Number="124"  Name="5:125 Twista"  ProgramChange="124"/>
+          <Patch Number="125"  Name="5:126 Zeldome"  ProgramChange="125"/>
+          <Patch Number="126"  Name="5:127 Zmock it"  ProgramChange="126"/>
+          <Patch Number="127"  Name="5:128 Zmock on"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Nord Lead 3 Bank 6">
@@ -730,133 +730,133 @@
           <ControlChange Control="32" Value="5"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number="0"  Name="6:1 1B Bass         "  ProgramChange="0"/>
-          <Patch Number="1"  Name="6:2 A beaty bit     "  ProgramChange="1"/>
-          <Patch Number="2"  Name="6:3 tiny little     "  ProgramChange="2"/>
-          <Patch Number="3"  Name="6:4 Bass slow       "  ProgramChange="3"/>
-          <Patch Number="4"  Name="6:5 Bass sweep      "  ProgramChange="4"/>
-          <Patch Number="5"  Name="6:6 Bassa           "  ProgramChange="5"/>
-          <Patch Number="6"  Name="6:7 Bassell         "  ProgramChange="6"/>
-          <Patch Number="7"  Name="6:8 Bassilt         "  ProgramChange="7"/>
-          <Patch Number="8"  Name="6:9 Bassman         "  ProgramChange="8"/>
-          <Patch Number="9"  Name="6:10 Bigge pad       "  ProgramChange="9"/>
-          <Patch Number="10"  Name="6:11 Biscu pad       "  ProgramChange="10"/>
-          <Patch Number="11"  Name="6:12 Boop            "  ProgramChange="11"/>
-          <Patch Number="12"  Name="6:13 Case music      "  ProgramChange="12"/>
-          <Patch Number="13"  Name="6:14 Cava            "  ProgramChange="13"/>
-          <Patch Number="14"  Name="6:15 Cavatronic      "  ProgramChange="14"/>
-          <Patch Number="15"  Name="6:16 Cave music      "  ProgramChange="15"/>
-          <Patch Number="16"  Name="6:17 Clockdocks      "  ProgramChange="16"/>
-          <Patch Number="17"  Name="6:18 Contemp         "  ProgramChange="17"/>
-          <Patch Number="18"  Name="6:19 Cool arp        "  ProgramChange="18"/>
-          <Patch Number="19"  Name="6:20 Coopela         "  ProgramChange="19"/>
+          <Patch Number="0"  Name="6:1 1B Bass"  ProgramChange="0"/>
+          <Patch Number="1"  Name="6:2 A beaty bit"  ProgramChange="1"/>
+          <Patch Number="2"  Name="6:3 tiny little"  ProgramChange="2"/>
+          <Patch Number="3"  Name="6:4 Bass slow"  ProgramChange="3"/>
+          <Patch Number="4"  Name="6:5 Bass sweep"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:6 Bassa"  ProgramChange="5"/>
+          <Patch Number="6"  Name="6:7 Bassell"  ProgramChange="6"/>
+          <Patch Number="7"  Name="6:8 Bassilt"  ProgramChange="7"/>
+          <Patch Number="8"  Name="6:9 Bassman"  ProgramChange="8"/>
+          <Patch Number="9"  Name="6:10 Bigge pad"  ProgramChange="9"/>
+          <Patch Number="10"  Name="6:11 Biscu pad"  ProgramChange="10"/>
+          <Patch Number="11"  Name="6:12 Boop"  ProgramChange="11"/>
+          <Patch Number="12"  Name="6:13 Case music"  ProgramChange="12"/>
+          <Patch Number="13"  Name="6:14 Cava"  ProgramChange="13"/>
+          <Patch Number="14"  Name="6:15 Cavatronic"  ProgramChange="14"/>
+          <Patch Number="15"  Name="6:16 Cave music"  ProgramChange="15"/>
+          <Patch Number="16"  Name="6:17 Clockdocks"  ProgramChange="16"/>
+          <Patch Number="17"  Name="6:18 Contemp"  ProgramChange="17"/>
+          <Patch Number="18"  Name="6:19 Cool arp"  ProgramChange="18"/>
+          <Patch Number="19"  Name="6:20 Coopela"  ProgramChange="19"/>
           <Patch Number="20"  Name="6:21 Dangerous Bas MK"  ProgramChange="20"/>
-          <Patch Number="21"  Name="6:22 Dharr           "  ProgramChange="21"/>
-          <Patch Number="22"  Name="6:23 Dirt legato     "  ProgramChange="22"/>
-          <Patch Number="23"  Name="6:24 Dirty and hard  "  ProgramChange="23"/>
-          <Patch Number="24"  Name="6:25 Distpad         "  ProgramChange="24"/>
-          <Patch Number="25"  Name="6:26 Dizzy           "  ProgramChange="25"/>
-          <Patch Number="26"  Name="6:27 Engine MK       "  ProgramChange="26"/>
+          <Patch Number="21"  Name="6:22 Dharr"  ProgramChange="21"/>
+          <Patch Number="22"  Name="6:23 Dirt legato"  ProgramChange="22"/>
+          <Patch Number="23"  Name="6:24 Dirty and hard"  ProgramChange="23"/>
+          <Patch Number="24"  Name="6:25 Distpad"  ProgramChange="24"/>
+          <Patch Number="25"  Name="6:26 Dizzy"  ProgramChange="25"/>
+          <Patch Number="26"  Name="6:27 Engine MK"  ProgramChange="26"/>
           <Patch Number="27"  Name="6:28 Ethnic flute  MK"  ProgramChange="27"/>
-          <Patch Number="28"  Name="6:29 Far fm          "  ProgramChange="28"/>
-          <Patch Number="29"  Name="6:30 Farem           "  ProgramChange="29"/>
-          <Patch Number="30"  Name="6:31 Feeddist        "  ProgramChange="30"/>
-          <Patch Number="31"  Name="6:32 Flashobass      "  ProgramChange="31"/>
-          <Patch Number="32"  Name="6:33 Fmesett         "  ProgramChange="32"/>
-          <Patch Number="33"  Name="6:34 Fm-overlay      "  ProgramChange="33"/>
-          <Patch Number="34"  Name="6:35 Fonky animal    "  ProgramChange="34"/>
-          <Patch Number="35"  Name="6:36 Gepynched       "  ProgramChange="35"/>
-          <Patch Number="36"  Name="6:37 Geschinked      "  ProgramChange="36"/>
-          <Patch Number="37"  Name="6:38 Gesynched       "  ProgramChange="37"/>
-          <Patch Number="38"  Name="6:39 Glide arpeggio  "  ProgramChange="38"/>
-          <Patch Number="39"  Name="6:40 Glide down      "  ProgramChange="39"/>
-          <Patch Number="40"  Name="6:41 Glide pad       "  ProgramChange="40"/>
-          <Patch Number="41"  Name="6:42 Heavy solo      "  ProgramChange="41"/>
-          <Patch Number="42"  Name="6:43 Hihat           "  ProgramChange="42"/>
-          <Patch Number="43"  Name="6:44 Atmos           "  ProgramChange="43"/>
-          <Patch Number="44"  Name="6:45 Horro           "  ProgramChange="44"/>
-          <Patch Number="45"  Name="6:46 I Lead          "  ProgramChange="45"/>
-          <Patch Number="46"  Name="6:47 Ici bella       "  ProgramChange="46"/>
-          <Patch Number="47"  Name="6:48 Icisematta      "  ProgramChange="47"/>
-          <Patch Number="48"  Name="6:49 Icisidorn       "  ProgramChange="48"/>
-          <Patch Number="49"  Name="6:50 Icista          "  ProgramChange="49"/>
-          <Patch Number="50"  Name="6:51 Icivawe         "  ProgramChange="50"/>
-          <Patch Number="51"  Name="6:52 Icy             "  ProgramChange="51"/>
-          <Patch Number="52"  Name="6:53 Industrieorgan  "  ProgramChange="52"/>
-          <Patch Number="53"  Name="6:54 Jumping octaves "  ProgramChange="53"/>
-          <Patch Number="54"  Name="6:55 Kaos pad        "  ProgramChange="54"/>
-          <Patch Number="55"  Name="6:56 Kaotica         "  ProgramChange="55"/>
-          <Patch Number="56"  Name="6:57 Kauster         "  ProgramChange="56"/>
-          <Patch Number="57"  Name="6:58 Kick            "  ProgramChange="57"/>
-          <Patch Number="58"  Name="6:59 Lead sm         "  ProgramChange="58"/>
-          <Patch Number="59"  Name="6:60 Lead Synti      "  ProgramChange="59"/>
-          <Patch Number="60"  Name="6:61 Little one      "  ProgramChange="60"/>
-          <Patch Number="61"  Name="6:62 Many Strings    "  ProgramChange="61"/>
-          <Patch Number="62"  Name="6:63 Mellow Organ MK "  ProgramChange="62"/>
-          <Patch Number="63"  Name="6:64 Metalbeat       "  ProgramChange="63"/>
-          <Patch Number="64"  Name="6:65 Metalbeat2      "  ProgramChange="64"/>
-          <Patch Number="65"  Name="6:66 Modnuss         "  ProgramChange="65"/>
-          <Patch Number="66"  Name="6:67 Modulmania      "  ProgramChange="66"/>
-          <Patch Number="67"  Name="6:68 Moving wheel    "  ProgramChange="67"/>
-          <Patch Number="68"  Name="6:69 Muted Synched   "  ProgramChange="68"/>
-          <Patch Number="69"  Name="6:70 New Trend       "  ProgramChange="69"/>
-          <Patch Number="70"  Name="6:71 Noisett         "  ProgramChange="70"/>
-          <Patch Number="71"  Name="6:72 Noisigt         "  ProgramChange="71"/>
-          <Patch Number="72"  Name="6:73 Oriental Blow   "  ProgramChange="72"/>
-          <Patch Number="73"  Name="6:74 Orientos        "  ProgramChange="73"/>
-          <Patch Number="74"  Name="6:75 Orintal Wind    "  ProgramChange="74"/>
-          <Patch Number="75"  Name="6:76 Paddelay        "  ProgramChange="75"/>
+          <Patch Number="28"  Name="6:29 Far fm"  ProgramChange="28"/>
+          <Patch Number="29"  Name="6:30 Farem"  ProgramChange="29"/>
+          <Patch Number="30"  Name="6:31 Feeddist"  ProgramChange="30"/>
+          <Patch Number="31"  Name="6:32 Flashobass"  ProgramChange="31"/>
+          <Patch Number="32"  Name="6:33 Fmesett"  ProgramChange="32"/>
+          <Patch Number="33"  Name="6:34 Fm-overlay"  ProgramChange="33"/>
+          <Patch Number="34"  Name="6:35 Fonky animal"  ProgramChange="34"/>
+          <Patch Number="35"  Name="6:36 Gepynched"  ProgramChange="35"/>
+          <Patch Number="36"  Name="6:37 Geschinked"  ProgramChange="36"/>
+          <Patch Number="37"  Name="6:38 Gesynched"  ProgramChange="37"/>
+          <Patch Number="38"  Name="6:39 Glide arpeggio"  ProgramChange="38"/>
+          <Patch Number="39"  Name="6:40 Glide down"  ProgramChange="39"/>
+          <Patch Number="40"  Name="6:41 Glide pad"  ProgramChange="40"/>
+          <Patch Number="41"  Name="6:42 Heavy solo"  ProgramChange="41"/>
+          <Patch Number="42"  Name="6:43 Hihat"  ProgramChange="42"/>
+          <Patch Number="43"  Name="6:44 Atmos"  ProgramChange="43"/>
+          <Patch Number="44"  Name="6:45 Horro"  ProgramChange="44"/>
+          <Patch Number="45"  Name="6:46 I Lead"  ProgramChange="45"/>
+          <Patch Number="46"  Name="6:47 Ici bella"  ProgramChange="46"/>
+          <Patch Number="47"  Name="6:48 Icisematta"  ProgramChange="47"/>
+          <Patch Number="48"  Name="6:49 Icisidorn"  ProgramChange="48"/>
+          <Patch Number="49"  Name="6:50 Icista"  ProgramChange="49"/>
+          <Patch Number="50"  Name="6:51 Icivawe"  ProgramChange="50"/>
+          <Patch Number="51"  Name="6:52 Icy"  ProgramChange="51"/>
+          <Patch Number="52"  Name="6:53 Industrieorgan"  ProgramChange="52"/>
+          <Patch Number="53"  Name="6:54 Jumping octaves"  ProgramChange="53"/>
+          <Patch Number="54"  Name="6:55 Kaos pad"  ProgramChange="54"/>
+          <Patch Number="55"  Name="6:56 Kaotica"  ProgramChange="55"/>
+          <Patch Number="56"  Name="6:57 Kauster"  ProgramChange="56"/>
+          <Patch Number="57"  Name="6:58 Kick"  ProgramChange="57"/>
+          <Patch Number="58"  Name="6:59 Lead sm"  ProgramChange="58"/>
+          <Patch Number="59"  Name="6:60 Lead Synti"  ProgramChange="59"/>
+          <Patch Number="60"  Name="6:61 Little one"  ProgramChange="60"/>
+          <Patch Number="61"  Name="6:62 Many Strings"  ProgramChange="61"/>
+          <Patch Number="62"  Name="6:63 Mellow Organ MK"  ProgramChange="62"/>
+          <Patch Number="63"  Name="6:64 Metalbeat"  ProgramChange="63"/>
+          <Patch Number="64"  Name="6:65 Metalbeat2"  ProgramChange="64"/>
+          <Patch Number="65"  Name="6:66 Modnuss"  ProgramChange="65"/>
+          <Patch Number="66"  Name="6:67 Modulmania"  ProgramChange="66"/>
+          <Patch Number="67"  Name="6:68 Moving wheel"  ProgramChange="67"/>
+          <Patch Number="68"  Name="6:69 Muted Synched"  ProgramChange="68"/>
+          <Patch Number="69"  Name="6:70 New Trend"  ProgramChange="69"/>
+          <Patch Number="70"  Name="6:71 Noisett"  ProgramChange="70"/>
+          <Patch Number="71"  Name="6:72 Noisigt"  ProgramChange="71"/>
+          <Patch Number="72"  Name="6:73 Oriental Blow"  ProgramChange="72"/>
+          <Patch Number="73"  Name="6:74 Orientos"  ProgramChange="73"/>
+          <Patch Number="74"  Name="6:75 Orintal Wind"  ProgramChange="74"/>
+          <Patch Number="75"  Name="6:76 Paddelay"  ProgramChange="75"/>
           <Patch Number="76"  Name="6:77 BasicStrings  HN"  ProgramChange="76"/>
-          <Patch Number="77"  Name="6:78 Peeano          "  ProgramChange="77"/>
-          <Patch Number="78"  Name="6:79 Prophet sync    "  ProgramChange="78"/>
-          <Patch Number="79"  Name="6:80 Repet pad       "  ProgramChange="79"/>
-          <Patch Number="80"  Name="6:81 Resonace Sweep2 "  ProgramChange="80"/>
-          <Patch Number="81"  Name="6:82 Reverba         "  ProgramChange="81"/>
-          <Patch Number="82"  Name="6:83 Ringy           "  ProgramChange="82"/>
-          <Patch Number="83"  Name="6:84 Atmos2          "  ProgramChange="83"/>
-          <Patch Number="84"  Name="6:85 Sharp           "  ProgramChange="84"/>
-          <Patch Number="85"  Name="6:86 Sinus star      "  ProgramChange="85"/>
-          <Patch Number="86"  Name="6:87 Sinus star2     "  ProgramChange="86"/>
-          <Patch Number="87"  Name="6:88 Sinussa         "  ProgramChange="87"/>
-          <Patch Number="88"  Name="6:89 Sinussa dist    "  ProgramChange="88"/>
-          <Patch Number="89"  Name="6:90 Soft sync arp   "  ProgramChange="89"/>
-          <Patch Number="90"  Name="6:91 Softu           "  ProgramChange="90"/>
-          <Patch Number="91"  Name="6:92 Solo            "  ProgramChange="91"/>
-          <Patch Number="92"  Name="6:93 Spacy padu      "  ProgramChange="92"/>
-          <Patch Number="93"  Name="6:94 Spooky fm       "  ProgramChange="93"/>
-          <Patch Number="94"  Name="6:95 Square Lead MK  "  ProgramChange="94"/>
-          <Patch Number="95"  Name="6:96 Stackatto pad   "  ProgramChange="95"/>
-          <Patch Number="96"  Name="6:97 Stringeling     "  ProgramChange="96"/>
-          <Patch Number="97"  Name="6:98 Strings         "  ProgramChange="97"/>
-          <Patch Number="98"  Name="6:99 Strinn          "  ProgramChange="98"/>
-          <Patch Number="99"  Name="6:100 dafter          "  ProgramChange="99"/>
-          <Patch Number="100"  Name="6:101 Sweet pad       "  ProgramChange="100"/>
-          <Patch Number="101"  Name="6:102 Sweet solo      "  ProgramChange="101"/>
-          <Patch Number="102"  Name="6:103 Sync Piano MK   "  ProgramChange="102"/>
-          <Patch Number="103"  Name="6:104 Synched arp 2   "  ProgramChange="103"/>
-          <Patch Number="104"  Name="6:105 Synknuss        "  ProgramChange="104"/>
-          <Patch Number="105"  Name="6:106 Synth Piano MK  "  ProgramChange="105"/>
-          <Patch Number="106"  Name="6:107 TBeArpeqg       "  ProgramChange="106"/>
-          <Patch Number="107"  Name="6:108 Donald Bass     "  ProgramChange="107"/>
-          <Patch Number="108"  Name="6:109 Drama           "  ProgramChange="108"/>
-          <Patch Number="109"  Name="6:110 Thootsound      "  ProgramChange="109"/>
-          <Patch Number="110"  Name="6:111 Tinutusa        "  ProgramChange="110"/>
-          <Patch Number="111"  Name="6:112 Tiny            "  ProgramChange="111"/>
-          <Patch Number="112"  Name="6:113 Fractome        "  ProgramChange="112"/>
-          <Patch Number="113"  Name="6:114 harsch          "  ProgramChange="113"/>
-          <Patch Number="114"  Name="6:115 Tremelos        "  ProgramChange="114"/>
-          <Patch Number="115"  Name="6:116 In hase         "  ProgramChange="115"/>
-          <Patch Number="116"  Name="6:117 Vanish in a box "  ProgramChange="116"/>
-          <Patch Number="117"  Name="6:118 Wheel Me MK     "  ProgramChange="117"/>
-          <Patch Number="118"  Name="6:119 Vibratoto pad   "  ProgramChange="118"/>
-          <Patch Number="119"  Name="6:120 Vowels MK       "  ProgramChange="119"/>
-          <Patch Number="120"  Name="6:121 xenti uaddi     "  ProgramChange="120"/>
-          <Patch Number="121"  Name="6:122 Xsynched        "  ProgramChange="121"/>
-          <Patch Number="122"  Name="6:123 Zengu soff      "  ProgramChange="122"/>
-          <Patch Number="123"  Name="6:124 Zimploa         "  ProgramChange="123"/>
-          <Patch Number="124"  Name="6:125 Zimplodia       "  ProgramChange="124"/>
-          <Patch Number="125"  Name="6:126 Zsynched        "  ProgramChange="125"/>
-          <Patch Number="126"  Name="6:127 Mix famaloga    "  ProgramChange="126"/>
+          <Patch Number="77"  Name="6:78 Peeano"  ProgramChange="77"/>
+          <Patch Number="78"  Name="6:79 Prophet sync"  ProgramChange="78"/>
+          <Patch Number="79"  Name="6:80 Repet pad"  ProgramChange="79"/>
+          <Patch Number="80"  Name="6:81 Resonace Sweep2"  ProgramChange="80"/>
+          <Patch Number="81"  Name="6:82 Reverba"  ProgramChange="81"/>
+          <Patch Number="82"  Name="6:83 Ringy"  ProgramChange="82"/>
+          <Patch Number="83"  Name="6:84 Atmos2"  ProgramChange="83"/>
+          <Patch Number="84"  Name="6:85 Sharp"  ProgramChange="84"/>
+          <Patch Number="85"  Name="6:86 Sinus star"  ProgramChange="85"/>
+          <Patch Number="86"  Name="6:87 Sinus star2"  ProgramChange="86"/>
+          <Patch Number="87"  Name="6:88 Sinussa"  ProgramChange="87"/>
+          <Patch Number="88"  Name="6:89 Sinussa dist"  ProgramChange="88"/>
+          <Patch Number="89"  Name="6:90 Soft sync arp"  ProgramChange="89"/>
+          <Patch Number="90"  Name="6:91 Softu"  ProgramChange="90"/>
+          <Patch Number="91"  Name="6:92 Solo"  ProgramChange="91"/>
+          <Patch Number="92"  Name="6:93 Spacy padu"  ProgramChange="92"/>
+          <Patch Number="93"  Name="6:94 Spooky fm"  ProgramChange="93"/>
+          <Patch Number="94"  Name="6:95 Square Lead MK"  ProgramChange="94"/>
+          <Patch Number="95"  Name="6:96 Stackatto pad"  ProgramChange="95"/>
+          <Patch Number="96"  Name="6:97 Stringeling"  ProgramChange="96"/>
+          <Patch Number="97"  Name="6:98 Strings"  ProgramChange="97"/>
+          <Patch Number="98"  Name="6:99 Strinn"  ProgramChange="98"/>
+          <Patch Number="99"  Name="6:100 dafter"  ProgramChange="99"/>
+          <Patch Number="100"  Name="6:101 Sweet pad"  ProgramChange="100"/>
+          <Patch Number="101"  Name="6:102 Sweet solo"  ProgramChange="101"/>
+          <Patch Number="102"  Name="6:103 Sync Piano MK"  ProgramChange="102"/>
+          <Patch Number="103"  Name="6:104 Synched arp 2"  ProgramChange="103"/>
+          <Patch Number="104"  Name="6:105 Synknuss"  ProgramChange="104"/>
+          <Patch Number="105"  Name="6:106 Synth Piano MK"  ProgramChange="105"/>
+          <Patch Number="106"  Name="6:107 TBeArpeqg"  ProgramChange="106"/>
+          <Patch Number="107"  Name="6:108 Donald Bass"  ProgramChange="107"/>
+          <Patch Number="108"  Name="6:109 Drama"  ProgramChange="108"/>
+          <Patch Number="109"  Name="6:110 Thootsound"  ProgramChange="109"/>
+          <Patch Number="110"  Name="6:111 Tinutusa"  ProgramChange="110"/>
+          <Patch Number="111"  Name="6:112 Tiny"  ProgramChange="111"/>
+          <Patch Number="112"  Name="6:113 Fractome"  ProgramChange="112"/>
+          <Patch Number="113"  Name="6:114 harsch"  ProgramChange="113"/>
+          <Patch Number="114"  Name="6:115 Tremelos"  ProgramChange="114"/>
+          <Patch Number="115"  Name="6:116 In hase"  ProgramChange="115"/>
+          <Patch Number="116"  Name="6:117 Vanish in a box"  ProgramChange="116"/>
+          <Patch Number="117"  Name="6:118 Wheel Me MK"  ProgramChange="117"/>
+          <Patch Number="118"  Name="6:119 Vibratoto pad"  ProgramChange="118"/>
+          <Patch Number="119"  Name="6:120 Vowels MK"  ProgramChange="119"/>
+          <Patch Number="120"  Name="6:121 xenti uaddi"  ProgramChange="120"/>
+          <Patch Number="121"  Name="6:122 Xsynched"  ProgramChange="121"/>
+          <Patch Number="122"  Name="6:123 Zengu soff"  ProgramChange="122"/>
+          <Patch Number="123"  Name="6:124 Zimploa"  ProgramChange="123"/>
+          <Patch Number="124"  Name="6:125 Zimplodia"  ProgramChange="124"/>
+          <Patch Number="125"  Name="6:126 Zsynched"  ProgramChange="125"/>
+          <Patch Number="126"  Name="6:127 Mix famaloga"  ProgramChange="126"/>
           <Patch Number="127"  Name="6:128"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
@@ -866,133 +866,133 @@
           <ControlChange Control="32" Value="6"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number="0"  Name="7:1 6dB Velocity    "  ProgramChange="0"/>
-          <Patch Number="1"  Name="7:2 80bass          "  ProgramChange="1"/>
-          <Patch Number="2"  Name="7:3 Air flush       "  ProgramChange="2"/>
-          <Patch Number="3"  Name="7:4 Air pad         "  ProgramChange="3"/>
-          <Patch Number="4"  Name="7:5 Ambios          "  ProgramChange="4"/>
-          <Patch Number="5"  Name="7:6 Anqlosaxians    "  ProgramChange="5"/>
-          <Patch Number="6"  Name="7:7 Arsain          "  ProgramChange="6"/>
-          <Patch Number="7"  Name="7:8 At once         "  ProgramChange="7"/>
-          <Patch Number="8"  Name="7:9 Backup          "  ProgramChange="8"/>
+          <Patch Number="0"  Name="7:1 6dB Velocity"  ProgramChange="0"/>
+          <Patch Number="1"  Name="7:2 80bass"  ProgramChange="1"/>
+          <Patch Number="2"  Name="7:3 Air flush"  ProgramChange="2"/>
+          <Patch Number="3"  Name="7:4 Air pad"  ProgramChange="3"/>
+          <Patch Number="4"  Name="7:5 Ambios"  ProgramChange="4"/>
+          <Patch Number="5"  Name="7:6 Anqlosaxians"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:7 Arsain"  ProgramChange="6"/>
+          <Patch Number="7"  Name="7:8 At once"  ProgramChange="7"/>
+          <Patch Number="8"  Name="7:9 Backup"  ProgramChange="8"/>
           <Patch Number="9"  Name="7:10 Bass panorama FH"  ProgramChange="9"/>
-          <Patch Number="10"  Name="7:11 Slavinett       "  ProgramChange="10"/>
-          <Patch Number="11"  Name="7:12 Bounce          "  ProgramChange="11"/>
+          <Patch Number="10"  Name="7:11 Slavinett"  ProgramChange="10"/>
+          <Patch Number="11"  Name="7:12 Bounce"  ProgramChange="11"/>
           <Patch Number="12"  Name="7:13 BP Pad        FH"  ProgramChange="12"/>
           <Patch Number="13"  Name="7:14 BP Pad -1oct  FH"  ProgramChange="13"/>
           <Patch Number="14"  Name="7:15 CarpetDoppler FH"  ProgramChange="14"/>
           <Patch Number="15"  Name="7:16 CaveMatic     PG"  ProgramChange="15"/>
-          <Patch Number="16"  Name="7:17 Cellot          "  ProgramChange="16"/>
-          <Patch Number="17"  Name="7:18 Cellotion       "  ProgramChange="17"/>
-          <Patch Number="18"  Name="7:19 Clean dist      "  ProgramChange="18"/>
-          <Patch Number="19"  Name="7:20 Comes aft       "  ProgramChange="19"/>
-          <Patch Number="20"  Name="7:21 Crass           "  ProgramChange="20"/>
-          <Patch Number="21"  Name="7:22 Crazy wheeling  "  ProgramChange="21"/>
+          <Patch Number="16"  Name="7:17 Cellot"  ProgramChange="16"/>
+          <Patch Number="17"  Name="7:18 Cellotion"  ProgramChange="17"/>
+          <Patch Number="18"  Name="7:19 Clean dist"  ProgramChange="18"/>
+          <Patch Number="19"  Name="7:20 Comes aft"  ProgramChange="19"/>
+          <Patch Number="20"  Name="7:21 Crass"  ProgramChange="20"/>
+          <Patch Number="21"  Name="7:22 Crazy wheeling"  ProgramChange="21"/>
           <Patch Number="22"  Name="7:23 CyberPad      PG"  ProgramChange="22"/>
-          <Patch Number="23"  Name="7:24 Deeano          "  ProgramChange="23"/>
-          <Patch Number="24"  Name="7:25 Deeep           "  ProgramChange="24"/>
+          <Patch Number="23"  Name="7:24 Deeano"  ProgramChange="23"/>
+          <Patch Number="24"  Name="7:25 Deeep"  ProgramChange="24"/>
           <Patch Number="25"  Name="7:26 DEstructiOn   PG"  ProgramChange="25"/>
-          <Patch Number="26"  Name="7:27 Dieano          "  ProgramChange="26"/>
-          <Patch Number="27"  Name="7:28 Disto           "  ProgramChange="27"/>
-          <Patch Number="28"  Name="7:29 Distopad        "  ProgramChange="28"/>
+          <Patch Number="26"  Name="7:27 Dieano"  ProgramChange="26"/>
+          <Patch Number="27"  Name="7:28 Disto"  ProgramChange="27"/>
+          <Patch Number="28"  Name="7:29 Distopad"  ProgramChange="28"/>
           <Patch Number="29"  Name="7:30 Drip Drop     FH"  ProgramChange="29"/>
           <Patch Number="30"  Name="7:31 EchoMorph     PG"  ProgramChange="30"/>
-          <Patch Number="31"  Name="7:32 Eff Gee         "  ProgramChange="31"/>
+          <Patch Number="31"  Name="7:32 Eff Gee"  ProgramChange="31"/>
           <Patch Number="32"  Name="7:33 Extra Dry Sub PG"  ProgramChange="32"/>
-          <Patch Number="33"  Name="7:34 Fincky          "  ProgramChange="33"/>
-          <Patch Number="34"  Name="7:35 Firm bass       "  ProgramChange="34"/>
-          <Patch Number="35"  Name="7:36 Float           "  ProgramChange="35"/>
-          <Patch Number="36"  Name="7:37 Floating        "  ProgramChange="36"/>
-          <Patch Number="37"  Name="7:38 Flue            "  ProgramChange="37"/>
-          <Patch Number="38"  Name="7:39 FM and out      "  ProgramChange="38"/>
+          <Patch Number="33"  Name="7:34 Fincky"  ProgramChange="33"/>
+          <Patch Number="34"  Name="7:35 Firm bass"  ProgramChange="34"/>
+          <Patch Number="35"  Name="7:36 Float"  ProgramChange="35"/>
+          <Patch Number="36"  Name="7:37 Floating"  ProgramChange="36"/>
+          <Patch Number="37"  Name="7:38 Flue"  ProgramChange="37"/>
+          <Patch Number="38"  Name="7:39 FM and out"  ProgramChange="38"/>
           <Patch Number="39"  Name="7:40 FM is in the mix"  ProgramChange="39"/>
-          <Patch Number="40"  Name="7:41 FM pad to hard  "  ProgramChange="40"/>
-          <Patch Number="41"  Name="7:42 FM rock         "  ProgramChange="41"/>
-          <Patch Number="42"  Name="7:43 Frequensie aura "  ProgramChange="42"/>
+          <Patch Number="40"  Name="7:41 FM pad to hard"  ProgramChange="40"/>
+          <Patch Number="41"  Name="7:42 FM rock"  ProgramChange="41"/>
+          <Patch Number="42"  Name="7:43 Frequensie aura"  ProgramChange="42"/>
           <Patch Number="43"  Name="7:44 HarPSI        PG"  ProgramChange="43"/>
           <Patch Number="44"  Name="7:45 HeliSurfin    PG"  ProgramChange="44"/>
-          <Patch Number="45"  Name="7:46 Hihat2          "  ProgramChange="45"/>
-          <Patch Number="46"  Name="7:47 I saw           "  ProgramChange="46"/>
-          <Patch Number="47"  Name="7:48 IF              "  ProgramChange="47"/>
-          <Patch Number="48"  Name="7:49 In the mix      "  ProgramChange="48"/>
-          <Patch Number="49"  Name="7:50 Inversion       "  ProgramChange="49"/>
+          <Patch Number="45"  Name="7:46 Hihat2"  ProgramChange="45"/>
+          <Patch Number="46"  Name="7:47 I saw"  ProgramChange="46"/>
+          <Patch Number="47"  Name="7:48 IF"  ProgramChange="47"/>
+          <Patch Number="48"  Name="7:49 In the mix"  ProgramChange="48"/>
+          <Patch Number="49"  Name="7:50 Inversion"  ProgramChange="49"/>
           <Patch Number="50"  Name="7:51 JazziFier     PG"  ProgramChange="50"/>
-          <Patch Number="51"  Name="7:52 Joy toy         "  ProgramChange="51"/>
-          <Patch Number="52"  Name="7:53 Kick2           "  ProgramChange="52"/>
+          <Patch Number="51"  Name="7:52 Joy toy"  ProgramChange="51"/>
+          <Patch Number="52"  Name="7:53 Kick2"  ProgramChange="52"/>
           <Patch Number="53"  Name="7:54 Knit seq      FH"  ProgramChange="53"/>
-          <Patch Number="54"  Name="7:55 Kraos pad       "  ProgramChange="54"/>
-          <Patch Number="55"  Name="7:56 Kraotica        "  ProgramChange="55"/>
-          <Patch Number="56"  Name="7:57 Kuularp         "  ProgramChange="56"/>
-          <Patch Number="57"  Name="7:58 Lean solo       "  ProgramChange="57"/>
-          <Patch Number="58"  Name="7:59 Lean to lean    "  ProgramChange="58"/>
-          <Patch Number="59"  Name="7:60 Legatomodd      "  ProgramChange="59"/>
+          <Patch Number="54"  Name="7:55 Kraos pad"  ProgramChange="54"/>
+          <Patch Number="55"  Name="7:56 Kraotica"  ProgramChange="55"/>
+          <Patch Number="56"  Name="7:57 Kuularp"  ProgramChange="56"/>
+          <Patch Number="57"  Name="7:58 Lean solo"  ProgramChange="57"/>
+          <Patch Number="58"  Name="7:59 Lean to lean"  ProgramChange="58"/>
+          <Patch Number="59"  Name="7:60 Legatomodd"  ProgramChange="59"/>
           <Patch Number="60"  Name="7:61 MetalBaz      PG"  ProgramChange="60"/>
           <Patch Number="61"  Name="7:62 Morphee       PG"  ProgramChange="61"/>
-          <Patch Number="62"  Name="7:63 Nano pad        "  ProgramChange="62"/>
-          <Patch Number="63"  Name="7:64 Naxios          "  ProgramChange="63"/>
+          <Patch Number="62"  Name="7:63 Nano pad"  ProgramChange="62"/>
+          <Patch Number="63"  Name="7:64 Naxios"  ProgramChange="63"/>
           <Patch Number="64"  Name="7:65 NoHarp        PG"  ProgramChange="64"/>
-          <Patch Number="65"  Name="7:66 Nois in the mix "  ProgramChange="65"/>
-          <Patch Number="66"  Name="7:67 Nuts            "  ProgramChange="66"/>
-          <Patch Number="67"  Name="7:68 Noisi boire     "  ProgramChange="67"/>
-          <Patch Number="68"  Name="7:69 Noisicboir      "  ProgramChange="68"/>
-          <Patch Number="69"  Name="7:70 Noisick         "  ProgramChange="69"/>
-          <Patch Number="70"  Name="7:71 Off and back    "  ProgramChange="70"/>
-          <Patch Number="71"  Name="7:72 One eko         "  ProgramChange="71"/>
-          <Patch Number="72"  Name="7:73 Ooisicboir      "  ProgramChange="72"/>
-          <Patch Number="73"  Name="7:74 Padomore        "  ProgramChange="73"/>
+          <Patch Number="65"  Name="7:66 Nois in the mix"  ProgramChange="65"/>
+          <Patch Number="66"  Name="7:67 Nuts"  ProgramChange="66"/>
+          <Patch Number="67"  Name="7:68 Noisi boire"  ProgramChange="67"/>
+          <Patch Number="68"  Name="7:69 Noisicboir"  ProgramChange="68"/>
+          <Patch Number="69"  Name="7:70 Noisick"  ProgramChange="69"/>
+          <Patch Number="70"  Name="7:71 Off and back"  ProgramChange="70"/>
+          <Patch Number="71"  Name="7:72 One eko"  ProgramChange="71"/>
+          <Patch Number="72"  Name="7:73 Ooisicboir"  ProgramChange="72"/>
+          <Patch Number="73"  Name="7:74 Padomore"  ProgramChange="73"/>
           <Patch Number="74"  Name="7:75 Pain IT earz  PG"  ProgramChange="74"/>
-          <Patch Number="75"  Name="7:76 Phaseit         "  ProgramChange="75"/>
-          <Patch Number="76"  Name="7:77 Power Sync      "  ProgramChange="76"/>
-          <Patch Number="77"  Name="7:78 Radio Chord     "  ProgramChange="77"/>
-          <Patch Number="78"  Name="7:79 Raw stuff       "  ProgramChange="78"/>
-          <Patch Number="79"  Name="7:80 Raw velociti    "  ProgramChange="79"/>
+          <Patch Number="75"  Name="7:76 Phaseit"  ProgramChange="75"/>
+          <Patch Number="76"  Name="7:77 Power Sync"  ProgramChange="76"/>
+          <Patch Number="77"  Name="7:78 Radio Chord"  ProgramChange="77"/>
+          <Patch Number="78"  Name="7:79 Raw stuff"  ProgramChange="78"/>
+          <Patch Number="79"  Name="7:80 Raw velociti"  ProgramChange="79"/>
           <Patch Number="80"  Name="7:81 RaveKordz     PG"  ProgramChange="80"/>
           <Patch Number="81"  Name="7:82 RaveLine      PG"  ProgramChange="81"/>
           <Patch Number="82"  Name="7:83 RaveOn1Finger FH"  ProgramChange="82"/>
           <Patch Number="83"  Name="7:84 RaveRage      PG"  ProgramChange="83"/>
           <Patch Number="84"  Name="7:85 Rhythmic Mod  FH"  ProgramChange="84"/>
-          <Patch Number="85"  Name="7:86 Ring man        "  ProgramChange="85"/>
-          <Patch Number="86"  Name="7:87 Rockit          "  ProgramChange="86"/>
+          <Patch Number="85"  Name="7:86 Ring man"  ProgramChange="85"/>
+          <Patch Number="86"  Name="7:87 Rockit"  ProgramChange="86"/>
           <Patch Number="87"  Name="7:88 Rough Cutz    PG"  ProgramChange="87"/>
-          <Patch Number="88"  Name="7:89 Sawtoo          "  ProgramChange="88"/>
-          <Patch Number="89"  Name="7:90 Sine in the mix "  ProgramChange="89"/>
+          <Patch Number="88"  Name="7:89 Sawtoo"  ProgramChange="88"/>
+          <Patch Number="89"  Name="7:90 Sine in the mix"  ProgramChange="89"/>
           <Patch Number="90"  Name="7:91 Sinus in the air"  ProgramChange="90"/>
           <Patch Number="91"  Name="7:92 Sirens        PG"  ProgramChange="91"/>
           <Patch Number="92"  Name="7:93 SM is in the mix"  ProgramChange="92"/>
-          <Patch Number="93"  Name="7:94 Oss two         "  ProgramChange="93"/>
-          <Patch Number="94"  Name="7:95 Sockit          "  ProgramChange="94"/>
-          <Patch Number="95"  Name="7:96 Softy pad       "  ProgramChange="95"/>
-          <Patch Number="96"  Name="7:97 Space clav      "  ProgramChange="96"/>
-          <Patch Number="97"  Name="7:98 Spacea          "  ProgramChange="97"/>
-          <Patch Number="98"  Name="7:99 Square in a mix "  ProgramChange="98"/>
-          <Patch Number="99"  Name="7:100 Stab solo       "  ProgramChange="99"/>
+          <Patch Number="93"  Name="7:94 Oss two"  ProgramChange="93"/>
+          <Patch Number="94"  Name="7:95 Sockit"  ProgramChange="94"/>
+          <Patch Number="95"  Name="7:96 Softy pad"  ProgramChange="95"/>
+          <Patch Number="96"  Name="7:97 Space clav"  ProgramChange="96"/>
+          <Patch Number="97"  Name="7:98 Spacea"  ProgramChange="97"/>
+          <Patch Number="98"  Name="7:99 Square in a mix"  ProgramChange="98"/>
+          <Patch Number="99"  Name="7:100 Stab solo"  ProgramChange="99"/>
           <Patch Number="100"  Name="7:101 Strait Disco  PG"  ProgramChange="100"/>
           <Patch Number="101"  Name="7:102 StratoSphere  PG"  ProgramChange="101"/>
-          <Patch Number="102"  Name="7:103 Styntsound      "  ProgramChange="102"/>
+          <Patch Number="102"  Name="7:103 Styntsound"  ProgramChange="102"/>
           <Patch Number="103"  Name="7:104 Sub Craft     PG"  ProgramChange="103"/>
           <Patch Number="104"  Name="7:105 Sweet Lead    PG"  ProgramChange="104"/>
-          <Patch Number="105"  Name="7:106 Padextacy       "  ProgramChange="105"/>
+          <Patch Number="105"  Name="7:106 Padextacy"  ProgramChange="105"/>
           <Patch Number="106"  Name="7:107 Syncopath     FH"  ProgramChange="106"/>
           <Patch Number="107"  Name="7:108 TalkMasta     PG"  ProgramChange="107"/>
           <Patch Number="108"  Name="7:109 Tech Conga    PG"  ProgramChange="108"/>
           <Patch Number="109"  Name="7:110 The Classic   PG"  ProgramChange="109"/>
-          <Patch Number="110"  Name="7:111 The tube        "  ProgramChange="110"/>
-          <Patch Number="111"  Name="7:112 Tini            "  ProgramChange="111"/>
-          <Patch Number="112"  Name="7:113 Tremolostrings  "  ProgramChange="112"/>
-          <Patch Number="113"  Name="7:114 Tri in the mix  "  ProgramChange="113"/>
-          <Patch Number="114"  Name="7:115 Tsin pad        "  ProgramChange="114"/>
-          <Patch Number="115"  Name="7:116 Tubbings        "  ProgramChange="115"/>
-          <Patch Number="116"  Name="7:117 Tubblead        "  ProgramChange="116"/>
-          <Patch Number="117"  Name="7:118 Twistpad        "  ProgramChange="117"/>
-          <Patch Number="118"  Name="7:119 UnisonBass      "  ProgramChange="118"/>
-          <Patch Number="119"  Name="7:120 Wakeup          "  ProgramChange="119"/>
-          <Patch Number="120"  Name="7:121 Waterspring     "  ProgramChange="120"/>
-          <Patch Number="121"  Name="7:122 Velocity        "  ProgramChange="121"/>
-          <Patch Number="122"  Name="7:123 Velocity Stab   "  ProgramChange="122"/>
+          <Patch Number="110"  Name="7:111 The tube"  ProgramChange="110"/>
+          <Patch Number="111"  Name="7:112 Tini"  ProgramChange="111"/>
+          <Patch Number="112"  Name="7:113 Tremolostrings"  ProgramChange="112"/>
+          <Patch Number="113"  Name="7:114 Tri in the mix"  ProgramChange="113"/>
+          <Patch Number="114"  Name="7:115 Tsin pad"  ProgramChange="114"/>
+          <Patch Number="115"  Name="7:116 Tubbings"  ProgramChange="115"/>
+          <Patch Number="116"  Name="7:117 Tubblead"  ProgramChange="116"/>
+          <Patch Number="117"  Name="7:118 Twistpad"  ProgramChange="117"/>
+          <Patch Number="118"  Name="7:119 UnisonBass"  ProgramChange="118"/>
+          <Patch Number="119"  Name="7:120 Wakeup"  ProgramChange="119"/>
+          <Patch Number="120"  Name="7:121 Waterspring"  ProgramChange="120"/>
+          <Patch Number="121"  Name="7:122 Velocity"  ProgramChange="121"/>
+          <Patch Number="122"  Name="7:123 Velocity Stab"  ProgramChange="122"/>
           <Patch Number="123"  Name="7:124 Wet Wire      PG"  ProgramChange="123"/>
-          <Patch Number="124"  Name="7:125 Wired           "  ProgramChange="124"/>
+          <Patch Number="124"  Name="7:125 Wired"  ProgramChange="124"/>
           <Patch Number="125"  Name="7:126 Woofer EX     PG"  ProgramChange="125"/>
-          <Patch Number="126"  Name="7:127 Yarem2          "  ProgramChange="126"/>
+          <Patch Number="126"  Name="7:127 Yarem2"  ProgramChange="126"/>
           <Patch Number="127"  Name="7:128 Zaaj sound    FH"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
@@ -1101,27 +1101,27 @@
           <Patch Number="96"  Name="8:97 Organic      ZON"  ProgramChange="96"/>
           <Patch Number="97"  Name="8:98 Sparkler     ZON"  ProgramChange="97"/>
           <Patch Number="98"  Name="8:99 Zapness      ZON"  ProgramChange="98"/>
-          <Patch Number="99"  Name="8:100 Stapa lead      "  ProgramChange="99"/>
-          <Patch Number="100"  Name="8:101 Distolux        "  ProgramChange="100"/>
-          <Patch Number="101"  Name="8:102 Mixtroqan       "  ProgramChange="101"/>
-          <Patch Number="102"  Name="8:103 Waterman        "  ProgramChange="102"/>
-          <Patch Number="103"  Name="8:104 No ad solo      "  ProgramChange="103"/>
-          <Patch Number="104"  Name="8:105 Zotropic        "  ProgramChange="104"/>
-          <Patch Number="105"  Name="8:106 Sanguscht       "  ProgramChange="105"/>
-          <Patch Number="106"  Name="8:107 branier         "  ProgramChange="106"/>
-          <Patch Number="107"  Name="8:108 Wochistic       "  ProgramChange="107"/>
-          <Patch Number="108"  Name="8:109 Zoorgano        "  ProgramChange="108"/>
-          <Patch Number="109"  Name="8:110 Vobiotic        "  ProgramChange="109"/>
-          <Patch Number="110"  Name="8:111 Sangust         "  ProgramChange="110"/>
-          <Patch Number="111"  Name="8:112 Stocksound      "  ProgramChange="111"/>
-          <Patch Number="112"  Name="8:113 Melodram        "  ProgramChange="112"/>
-          <Patch Number="113"  Name="8:114 Zoorgano2       "  ProgramChange="113"/>
-          <Patch Number="114"  Name="8:115 Revo harp       "  ProgramChange="114"/>
-          <Patch Number="115"  Name="8:116 Atmos3          "  ProgramChange="115"/>
-          <Patch Number="116"  Name="8:117 Distoluxus      "  ProgramChange="116"/>
-          <Patch Number="117"  Name="8:118 Offshore        "  ProgramChange="117"/>
+          <Patch Number="99"  Name="8:100 Stapa lead"  ProgramChange="99"/>
+          <Patch Number="100"  Name="8:101 Distolux"  ProgramChange="100"/>
+          <Patch Number="101"  Name="8:102 Mixtroqan"  ProgramChange="101"/>
+          <Patch Number="102"  Name="8:103 Waterman"  ProgramChange="102"/>
+          <Patch Number="103"  Name="8:104 No ad solo"  ProgramChange="103"/>
+          <Patch Number="104"  Name="8:105 Zotropic"  ProgramChange="104"/>
+          <Patch Number="105"  Name="8:106 Sanguscht"  ProgramChange="105"/>
+          <Patch Number="106"  Name="8:107 branier"  ProgramChange="106"/>
+          <Patch Number="107"  Name="8:108 Wochistic"  ProgramChange="107"/>
+          <Patch Number="108"  Name="8:109 Zoorgano"  ProgramChange="108"/>
+          <Patch Number="109"  Name="8:110 Vobiotic"  ProgramChange="109"/>
+          <Patch Number="110"  Name="8:111 Sangust"  ProgramChange="110"/>
+          <Patch Number="111"  Name="8:112 Stocksound"  ProgramChange="111"/>
+          <Patch Number="112"  Name="8:113 Melodram"  ProgramChange="112"/>
+          <Patch Number="113"  Name="8:114 Zoorgano2"  ProgramChange="113"/>
+          <Patch Number="114"  Name="8:115 Revo harp"  ProgramChange="114"/>
+          <Patch Number="115"  Name="8:116 Atmos3"  ProgramChange="115"/>
+          <Patch Number="116"  Name="8:117 Distoluxus"  ProgramChange="116"/>
+          <Patch Number="117"  Name="8:118 Offshore"  ProgramChange="117"/>
           <Patch Number="118"  Name="8:119 AbbaPad      DLX"  ProgramChange="118"/>
-          <Patch Number="119"  Name="8:120 Ambiotic        "  ProgramChange="119"/>
+          <Patch Number="119"  Name="8:120 Ambiotic"  ProgramChange="119"/>
           <Patch Number="120"  Name="8:121"  ProgramChange="120"/>
           <Patch Number="121"  Name="8:122"  ProgramChange="121"/>
           <Patch Number="122"  Name="8:123"  ProgramChange="122"/>
@@ -1133,5 +1133,102 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Nord Lead 3">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="5-Glide Rate"/>
+      <Control Type="7bit"  Number="7"  Name="7-Amplifier Level (rcvd only - see CC71)"/>
+      <Control Type="7bit"  Number="8"  Name="8-Oscillator Mix"/>
+      <Control Type="7bit"  Number="10"  Name="10-Panning (rcvd only)"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression Pedal Input"/>
+      <Control Type="7bit"  Number="14"  Name="14-Filter Keyboard Tracking On/Off"/>
+      <Control Type="7bit"  Number="15"  Name="15-Mono On/Off"/>
+      <Control Type="7bit"  Number="16"  Name="16-(Stereo) Unison On/Off"/>
+      <Control Type="7bit"  Number="17"  Name="17-Octave Shift"/>
+      <Control Type="7bit"  Number="19"  Name="19-LFO 1 Rate"/>
+      <Control Type="7bit"  Number="20"  Name="20-LFO 1 Waveform"/>
+      <Control Type="7bit"  Number="21"  Name="21-LFO 1 Destination"/>
+      <Control Type="7bit"  Number="22"  Name="22-LFO 1 Amount"/>
+      <Control Type="7bit"  Number="23"  Name="23-LFO 2 Rate"/>
+      <Control Type="7bit"  Number="24"  Name="24-LFO 2 Destination"/>
+      <Control Type="7bit"  Number="25"  Name="25-LFO 2 Amount"/>
+      <Control Type="7bit"  Number="26"  Name="26-Mod Env Attack"/>
+      <Control Type="7bit"  Number="27"  Name="27-Mod Env Decay/Release"/>
+      <Control Type="7bit"  Number="28"  Name="28-Mod Env Destination"/>
+      <Control Type="7bit"  Number="29"  Name="29-Mod Env Amount"/>
+      <Control Type="7bit"  Number="30"  Name="30-Osc 1 Waveform"/>
+      <Control Type="7bit"  Number="31"  Name="31-Osc 2 Waveform"/>
+      <Control Type="7bit"  Number="32"  Name="32-Bank Select"/>
+      <Control Type="7bit"  Number="33"  Name="33-Osc 2 Fine Tuning"/>
+      <Control Type="7bit"  Number="34"  Name="34-Osc 2 Keyboard Tracking On/Off"/>
+      <Control Type="7bit"  Number="35"  Name="35-Osc 1 Sync On/Off"/>
+      <Control Type="7bit"  Number="36"  Name="36-Amplifier Envelope Decay"/>
+      <Control Type="7bit"  Number="37"  Name="37-Amplifier Envelope Sustain"/>
+      <Control Type="7bit"  Number="38"  Name="38-Filter Envelope Attack"/>
+      <Control Type="7bit"  Number="39"  Name="39-Filter Envelope Decay"/>
+      <Control Type="7bit"  Number="40"  Name="40-Filter Envelope Sustain"/>
+      <Control Type="7bit"  Number="41"  Name="41-Filter Envelope Release"/>
+      <Control Type="7bit"  Number="42"  Name="42-Filter Resonance"/>
+      <Control Type="7bit"  Number="43"  Name="43-Filter Envelope Amount"/>
+      <Control Type="7bit"  Number="44"  Name="44-Filter Type"/>
+      <Control Type="7bit"  Number="45"  Name="45-Filter Envelope Velocity"/>
+      <Control Type="7bit"  Number="47"  Name="47-Arpeggio Run On/Off"/>
+      <Control Type="7bit"  Number="50"  Name="50-Arpeggio Rate"/>
+      <Control Type="7bit"  Number="52"  Name="52-Arpeggio Clock Sync On/Off"/>
+      <Control Type="7bit"  Number="53"  Name="53-(Stereo) Unison Detune"/>
+      <Control Type="7bit"  Number="54"  Name="54-Vibrato Rate"/>
+      <Control Type="7bit"  Number="55"  Name="55-Vibrato Amount"/>
+      <Control Type="7bit"  Number="56"  Name="56-Vibrato Source"/>
+      <Control Type="7bit"  Number="58"  Name="58-Filter 1 Slope"/>
+      <Control Type="7bit"  Number="59"  Name="59-Filter Frequency2 (in Multi Mode)"/>
+      <Control Type="7bit"  Number="60"  Name="60-Filter Oscillator Bypass On/Off"/>
+      <Control Type="7bit"  Number="61"  Name="61-Filter 2 Envelope Control (in Multi Mode)"/>
+      <Control Type="7bit"  Number="62"  Name="62-Filter Envelope Amount Invert On/Off"/>
+      <Control Type="7bit"  Number="63"  Name="63-Filter Envelope Attack Type"/>
+      <Control Type="7bit"  Number="64"  Name="64-Sustain Pedal Input"/>
+      <Control Type="7bit"  Number="65"  Name="65-Glide Mode (Normal/Auto)"/>
+      <Control Type="7bit"  Number="70"  Name="70-Oscillator Modulation Amount"/>
+      <Control Type="7bit"  Number="71"  Name="71-Amplifier Level"/>
+      <Control Type="7bit"  Number="72"  Name="72-Amplifier Envelope Release"/>
+      <Control Type="7bit"  Number="73"  Name="73-Amplifier Envelope Attack"/>
+      <Control Type="7bit"  Number="74"  Name="74-Filter Frequency1"/>
+      <Control Type="7bit"  Number="78"  Name="78-Osc 2 Coarse Tuning"/>
+      <Control Type="7bit"  Number="79"  Name="79-Osc 1 Shape"/>
+      <Control Type="7bit"  Number="81"  Name="81-LFO 1 Clock Sync On/Off"/>
+      <Control Type="7bit"  Number="82"  Name="82-LFO 1 Keyboard Sync/Single Cycle"/>
+      <Control Type="7bit"  Number="83"  Name="83-LFO 1 Mono mode On/Off"/>
+      <Control Type="7bit"  Number="84"  Name="84-LFO 1 Amount Invert On/Off"/>
+      <Control Type="7bit"  Number="85"  Name="85-LFO 2 Waveform"/>
+      <Control Type="7bit"  Number="86"  Name="86-LFO 2 Clock Sync On/Off"/>
+      <Control Type="7bit"  Number="87"  Name="87-LFO 2 Keyboard Sync/Single Cycle"/>
+      <Control Type="7bit"  Number="88"  Name="88-LFO 2 Mono mode On/Off"/>
+      <Control Type="7bit"  Number="89"  Name="89-LFO 2 Amount Invert On/Off"/>
+      <Control Type="7bit"  Number="90"  Name="90-Osc 2 Noise type (LP/BP/HP)"/>
+      <Control Type="7bit"  Number="93"  Name="93-Osc 2 FM Amount (in Dual Sine FM)"/>
+      <Control Type="7bit"  Number="94"  Name="94-Mono (Hi/Lo Note Priority)"/>
+      <Control Type="7bit"  Number="95"  Name="95-Osc 2 Dual Sine Carrier (in Dual Sine)"/>
+      <Control Type="7bit"  Number="96"  Name="96-Osc 2 Dual Sine Modulator (in Dual Sine)"/>
+      <Control Type="7bit"  Number="97"  Name="97-Osc 2 Noise Frequency"/>
+      <Control Type="7bit"  Number="98"  Name="98-Arpeggio Clock Sync Devisor"/>
+      <Control Type="7bit"  Number="99"  Name="99-LFO 1 Clock Sync Devisor"/>
+      <Control Type="7bit"  Number="100"  Name="100-LFO 2 Clock Sync Devisor"/>
+      <Control Type="7bit"  Number="101"  Name="101-Mod Env Attack Type"/>
+      <Control Type="7bit"  Number="102"  Name="102-Osc 2 Shape"/>
+      <Control Type="7bit"  Number="103"  Name="103-Osc 2 Sync On/Off"/>
+      <Control Type="7bit"  Number="104"  Name="104-Osc 2 Partial On/Off"/>
+      <Control Type="7bit"  Number="105"  Name="105-Oscillator Modulation Type"/>
+      <Control Type="7bit"  Number="106"  Name="106-Oscillator Modulation Noise"/>
+      <Control Type="7bit"  Number="107"  Name="107-Amplifier Envelope Attack Type"/>
+      <Control Type="7bit"  Number="108"  Name="108-Mod Env Amount Invert On/Off"/>
+      <Control Type="7bit"  Number="109"  Name="109-Mod Env Decay/Release On/Off"/>
+      <Control Type="7bit"  Number="110"  Name="110-Mod Env Repeat On/Off"/>
+      <Control Type="7bit"  Number="111"  Name="111-Legato On/Off"/>
+      <Control Type="7bit"  Number="112"  Name="112-Chord Memory On/Off"/>
+      <Control Type="7bit"  Number="114"  Name="114-Filter 1 Distortion (in Dist LP only)"/>
+      <Control Type="7bit"  Number="115"  Name="115-Osc 1 Sync Detune"/>
+      <Control Type="7bit"  Number="116"  Name="116-Osc 2 Sync Detune"/>
+      <Control Type="7bit"  Number="117"  Name="117-Osc 1 Sync Noise Timbre"/>
+      <Control Type="7bit"  Number="118"  Name="118-Osc 2 Sync Noise Timbre"/>
+      <Control Type="7bit"  Number="119"  Name="119-Osc 1 FM Amount (in Dual Sine FM)"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

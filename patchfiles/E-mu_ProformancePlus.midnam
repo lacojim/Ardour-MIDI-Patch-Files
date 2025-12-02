@@ -1,0 +1,1172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>E-mu</Manufacturer>
+    <Model>ProformancePlus</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="E-MU ProFormancePlus Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Dark Grand"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Classic Grand"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Mellow Ivory"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Rock Piano"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Warm Electric Piano"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Studio Electric Piano"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Electric Organ"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Rock Organ"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Straight Vibes"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Bright Vibes"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Acoustic Bass/Piano"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Electric Bass/Organ"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Synth Tines"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Piano Bell"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Acou. Bass/Elec. Piano"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Acoustic Bass/Vibes"  ProgramChange="15"/>
+          <Patch Number="16"  Name="ElectricBass/Piano"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Honky Tonk"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Acoustic Bass/Organ"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Elec. Bass/Elec. Piano"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Exceptionally Bright Piano"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Mellow Chorus"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Ice Keys"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Modern Rock"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Dark Touch"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Rock Touch"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Mellow Touch"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Classic Touch"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Mellow Patterns"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Rock Patterns"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Dark Patterns"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Classic Patterns"  ProgramChange="31"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="E-MU Proteus 2">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Solo Cello"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Solo Viola"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Solo Violin"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Quartet"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Solo Chamber"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Arco Basses"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Arco Celli"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Arco Violas"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Arco Violins"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Marcato 1"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Marcato 2"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Legato Strings"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Concerto"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Pizz Basses"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Pizz Celli"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Pizz Violas"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Pizz Violins"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Pizzicato 1"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Pizzicato 2"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Tremolo Strings"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Tremulus"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Strings/Flutes"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Resting Pad"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Divermento"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Flute"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Piccolo"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Oboe"  ProgramChange="26"/>
+          <Patch Number="27"  Name="English Horn"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Clarinet"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Bass Clarinet"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Bassoon"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Contra Bassoon"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Chamber Wind"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Section Winds"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Epilogue"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Wind Stack"  ProgramChange="35"/>
+          <Patch Number="36"  Name="French Horn 1"  ProgramChange="36"/>
+          <Patch Number="37"  Name="French Horn 2"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Section Horns"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Trumpet 1"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Trumpet 2"  ProgramChange="40"/>
+          <Patch Number="41"  Name="2 Trumpets"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Harmon Mute"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Trombone 1"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Trombone 2"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Tuba"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Back Brass"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Bright Brass"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Chamber Brass"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Brass Strings"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Timpani"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Gong/Cymbal"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Bass/Snare"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Temple Block"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Xylophone"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Glockenspiel"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Celesta"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Tubular Bells"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Percussion 1"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Percussion 2"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Harp"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Harpstrings"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Harpsikord"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Notre Dame"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Winter Signs"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Deep Pad"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Portamento/F"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Bell Ensemble"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Cyberspace"  ProgramChange="68"/>
+          <Patch Number="69"  Name="PizzMoogBass"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Marimbala"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Grim Reaper"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Tinker Bell"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Carousel"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Exotic Harp"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Darn Saucers"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Bronze Pad"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Vibraphone"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Astral Flute"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Kool Bass"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Sombre Winds"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Space Cowboy"  ProgramChange="81"/>
+          <Patch Number="82"  Name="The Machine"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Early Perc"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Gently Now"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Piccolodeyo"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Infinite One"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Shimmer Ways"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Turbo Bass"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Requiem"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Wrong Room"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Analog Pad"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Chapel Organ"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Electro Vocal"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Fat Boy Tuba"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Saw Bass/Lead"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Vienna Dream"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Vertigo Pad"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Tarkus Twin"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Room of Strings"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Magic Bells"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Reginatron"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Sub It!"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Psychlotron"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Cloud Chamber"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Sepulcher"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Lurch Pluck"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Pizz/Piccolo"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Vampirical"  ProgramChange="108"/>
+          <Patch Number="109"  Name="String Thing"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Galapogos"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Square One"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Square Link"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Blank"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Sardonicus"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Master Tron"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Lo Wind Instrument"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Sympathetic"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Windchimes"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Boat Haus"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Glitter God"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Story Bass"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Nice Night"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Prophet Lead"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Prophet Link"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Wistl'n Joe"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Link2Shimmer"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Ascending"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="E-MU Prf:Bongos">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="African Clave (-6)"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Left Fingertip Muff (-5)"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Left Thumb (-5)"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Left Finger Slap (-5)"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Open Rimshot (-5)"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Open Rimshot (-5)"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Closed Rimshot (-5)"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Large Drum Open (-5)"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Solo Cupped Slap (-5)"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Large Drum Open (-5)"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Campana Bell Mouth (-5)"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Campana Bell Heel (-5)"  ProgramChange="11"/>
+          <Patch Number="12"  Name="African Clave (-5)"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Left Fingertip Muff (-4)"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Left Thumb (-4)"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Left Finger Slap (-4)"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Open Rimshot (-4)"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Open Rimshot (-4)"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Closed Rimshot (-4)"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Large Drum Open (-4)"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Solo Cupped Slap (-4)"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Large Drum Open (-4)"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Campana Bell Mouth (-4)"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Campana Bell Heel (-4)"  ProgramChange="23"/>
+          <Patch Number="24"  Name="African Clave (-4)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Left Fingertip Muff (-3)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Left Thumb (-3)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Left Finger Slap (-3)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Open Rimshot (-3)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Open Rimshot (-3)"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Closed Rimshot (-3)"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Large Drum Open (-3)"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Solo Cupped Slap (-3)"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Large Drum Open (-3)"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Campana Bell Mouth (-3)"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Campana Bell Heel (-3)"  ProgramChange="35"/>
+          <Patch Number="36"  Name="African Clave (-3)"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Left Fingertip Muff (-2)"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Left Thumb (-2)"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Left Finger Slap (-2)"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Open Rimshot (-2)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Open Rimshot (-2)"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Closed Rimshot (-2)"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Large Drum Open (-2)"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Solo Cupped Slap (-2)"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Large Drum Open (-2)"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Campana Bell Mouth (-2)"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Campana Bell Heel (-2)"  ProgramChange="47"/>
+          <Patch Number="48"  Name="African Clave (-2)"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Left Fingertip Muff (-1)"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Left Thumb (-1)"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Left Finger Slap (-1)"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Open Rimshot (-1)"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Open Rimshot (-1)"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Closed Rimshot (-1)"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Large Drum Open (-1)"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Solo Cupped Slap (-1)"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Large Drum Open (-1)"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Campana Bell Mouth (-1)"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Campana Bell Heel (-1)"  ProgramChange="59"/>
+          <Patch Number="60"  Name="African Clave (-1)"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Left Fingertip Muff (0)"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Left Thumb (0)"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Left Finger Slap (0)"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Open Rimshot (0)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Open Rimshot (0)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Closed Rimshot (0)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Large Drum Open (0)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Solo Cupped Slap (0)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Large Drum Open (0)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Campana Bell Mouth (0)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Campana Bell Heel (0)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="African Clave (0)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Left Fingertip Muff (+1)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Left Thumb (+1)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Left Finger Slap (+1)"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Open Rimshot (+1)"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Open Rimshot (+1)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Closed Rimshot (+1)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Large Drum Open (+1)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Solo Cupped Slap (+1)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Large Drum Open (+1)"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Campana Bell Mouth (+1)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Campana Bell Heel (+1)"  ProgramChange="83"/>
+          <Patch Number="84"  Name="African Clave (+1)"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Left Fingertip Muff (+2)"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Left Thumb (+2)"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Left Finger Slap (+2)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Open Rimshot (+2)"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Open Rimshot (+2)"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Closed Rimshot (+2)"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Large Drum Open (+2)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Solo Cupped Slap (+2)"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Large Drum Open (+2)"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Campana Bell Mouth (+2)"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Campana Bell Heel (+2)"  ProgramChange="95"/>
+          <Patch Number="96"  Name="African Clave (+2)"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Left Fingertip Muff (+3)"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Left Thumb (+3)"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Left Finger Slap (+3)"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Open Rimshot (+3)"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Open Rimshot (+3)"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Closed Rimshot (+3)"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Large Drum Open (+3)"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Solo Cupped Slap (+3)"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Large Drum Open (+3)"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Campana Bell Mouth (+3)"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Campana Bell Heel (+3)"  ProgramChange="107"/>
+          <Patch Number="108"  Name="African Clave (+3)"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Left Fingertip Muff (+4)"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Left Thumb (+4)"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Left Finger Slap (+4)"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Open Rimshot (+4)"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Open Rimshot (+4)"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Closed Rimshot (+4)"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Large Drum Open (+4)"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Solo Cupped Slap (+4)"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Large Drum Open (+4)"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Campana Bell Mouth (+4)"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Campana Bell Heel (+4)"  ProgramChange="119"/>
+          <Patch Number="120"  Name="African Clave (+4)"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Left Fingertip Muff (+5)"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Left Thumb (+5)"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Left Finger Slap (+5)"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Open Rimshot (+5)"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Open Rimshot (+5)"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Closed Rimshot (+5)"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Large Drum Open (+5)"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="E-MU Prf:Congas">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="3"  Name="Tip (-5)"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Heel (-5)"  ProgramChange="4"/>
+          <Patch Number="5"  Name="High Open (-5)"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Right Slap (-5)"  ProgramChange="6"/>
+          <Patch Number="7"  Name="High Open (-5)"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Quinto Palm (-5)"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Solo (-5)"  ProgramChange="9"/>
+          <Patch Number="10"  Name="High Mid Open (-5)"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Solo (-5)"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Low Mid Open (-5)"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Slide (-5)"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Low Open (-5)"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Tip (-4)"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Heel (-4)"  ProgramChange="16"/>
+          <Patch Number="17"  Name="High Open (-4)"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Right Slap (-4)"  ProgramChange="18"/>
+          <Patch Number="19"  Name="High Open (-4)"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Quinto Palm (-4)"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Solo (-4)"  ProgramChange="21"/>
+          <Patch Number="22"  Name="High Mid Open (-4)"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Solo (-4)"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Low Mid Open (-4)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Slide (-4)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Low Open (-4)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Tip (-3)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Heel (-3)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="High Open (-3)"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Right Slap (-3)"  ProgramChange="30"/>
+          <Patch Number="31"  Name="High Open (-3)"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Quinto Palm (-3)"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Solo (-3)"  ProgramChange="33"/>
+          <Patch Number="34"  Name="High Mid Open (-3)"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Solo (-3)"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Low Mid Open (-3)"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Slide (-3)"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Low Open (-3)"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Tip (-2)"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Heel (-2)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="High Open (-2)"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Right Slap (-2)"  ProgramChange="42"/>
+          <Patch Number="43"  Name="High Open (-2)"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Quinto Palm (-2)"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Solo (-2)"  ProgramChange="45"/>
+          <Patch Number="46"  Name="High Mid Open (-2)"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Solo (-2)"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Low Mid Open (-2)"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Slide (-2)"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Low Open (-2)"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Tip (-1)"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Heel (-1)"  ProgramChange="52"/>
+          <Patch Number="53"  Name="High Open (-1)"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Right Slap (-1)"  ProgramChange="54"/>
+          <Patch Number="55"  Name="High Open (-1)"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Quinto Palm (-1)"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Solo (-1)"  ProgramChange="57"/>
+          <Patch Number="58"  Name="High Mid Open (-1)"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Solo (-1)"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Low Mid Open (-1)"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Slide (-1)"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Low Open (-1)"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Tip (0)"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Heel (0)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="High Open (0)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Right Slap (0)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="High Open (0)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Quinto Palm (0)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Solo (0)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="High Mid Open (0)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Solo (0)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Low Mid Open (0)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Slide (0)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Low Open (0)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Tip (+1)"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Heel (+1)"  ProgramChange="76"/>
+          <Patch Number="77"  Name="High Open (+1)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Right Slap (+1)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="High Open (+1)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Quinto Palm (+1)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Solo (+1)"  ProgramChange="81"/>
+          <Patch Number="82"  Name="High Mid Open (+1)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Solo (+1)"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Low Mid Open (+1)"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Slide (+1)"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Low Open (+1)"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Tip (+2)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Heel (+2)"  ProgramChange="88"/>
+          <Patch Number="89"  Name="High Open (+2)"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Right Slap (+2)"  ProgramChange="90"/>
+          <Patch Number="91"  Name="High Open (+2)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Quinto Palm (+2)"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Solo (+2)"  ProgramChange="93"/>
+          <Patch Number="94"  Name="High Mid Open (+2)"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Solo (+2)"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Low Mid Open (+2)"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Slide (+2)"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Low Open (+2)"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Tip (+3)"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Heel (+3)"  ProgramChange="100"/>
+          <Patch Number="101"  Name="High Open (+3)"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Right Slap (+3)"  ProgramChange="102"/>
+          <Patch Number="103"  Name="High Open (+3)"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Quinto Palm (+3)"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Solo (+3)"  ProgramChange="105"/>
+          <Patch Number="106"  Name="High Mid Open (+3)"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Solo (+3)"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Low Mid Open (+3)"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Slide (+3)"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Low Open (+3)"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Tip (+4)"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Heel (+4)"  ProgramChange="112"/>
+          <Patch Number="113"  Name="High Open (+4)"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Right Slap (+4)"  ProgramChange="114"/>
+          <Patch Number="115"  Name="High Open (+4)"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Quinto Palm (+4)"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Solo (+4)"  ProgramChange="117"/>
+          <Patch Number="118"  Name="High Mid Open (+4)"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Solo (+4)"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Low Mid Open (+4)"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Slide (+4)"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Low Open (+4)"  ProgramChange="122"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="E-MU Prf:Pandeiro">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Heel (-5)"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Tip (-5)"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Shake (-5)"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Shake (-5)"  ProgramChange="3"/>
+          <Patch Number="4"  Name="(Silent Key) (-5)"  ProgramChange="4"/>
+          <Patch Number="5"  Name="(Silent Key) (-5)"  ProgramChange="5"/>
+          <Patch Number="6"  Name="(Silent Key) (-5)"  ProgramChange="6"/>
+          <Patch Number="7"  Name="(Silent Key) (-5)"  ProgramChange="7"/>
+          <Patch Number="8"  Name="(Silent Key) (-5)"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Open (-4)"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Slap (-4)"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Mute (-4)"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Heel (-4)"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Tip (-4)"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Shake (-4)"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Shake (-4)"  ProgramChange="15"/>
+          <Patch Number="16"  Name="(Silent Key) (-4)"  ProgramChange="16"/>
+          <Patch Number="17"  Name="(Silent Key) (-4)"  ProgramChange="17"/>
+          <Patch Number="18"  Name="(Silent Key) (-4)"  ProgramChange="18"/>
+          <Patch Number="19"  Name="(Silent Key) (-4)"  ProgramChange="19"/>
+          <Patch Number="20"  Name="(Silent Key) (-4)"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Open (-3)"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Slap (-3)"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Mute (-3)"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Heel (-3)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Tip (-3)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Shake (-3)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Shake (-3)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="(Silent Key) (-3)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="(Silent Key) (-3)"  ProgramChange="29"/>
+          <Patch Number="30"  Name="(Silent Key) (-3)"  ProgramChange="30"/>
+          <Patch Number="31"  Name="(Silent Key) (-3)"  ProgramChange="31"/>
+          <Patch Number="32"  Name="(Silent Key) (-3)"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Open (-2)"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Slap (-2)"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Mute (-2)"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Heel (-2)"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Tip (-2)"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Shake (-2)"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Shake (-2)"  ProgramChange="39"/>
+          <Patch Number="40"  Name="(Silent Key) (-2)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="(Silent Key) (-2)"  ProgramChange="41"/>
+          <Patch Number="42"  Name="(Silent Key) (-2)"  ProgramChange="42"/>
+          <Patch Number="43"  Name="(Silent Key) (-2)"  ProgramChange="43"/>
+          <Patch Number="44"  Name="(Silent Key) (-2)"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Open (-1)"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Slap (-1)"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Mute (-1)"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Heel (-1)"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Tip (-1)"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Shake (-1)"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Shake (-1)"  ProgramChange="51"/>
+          <Patch Number="52"  Name="(Silent Key) (-1)"  ProgramChange="52"/>
+          <Patch Number="53"  Name="(Silent Key) (-1)"  ProgramChange="53"/>
+          <Patch Number="54"  Name="(Silent Key) (-1)"  ProgramChange="54"/>
+          <Patch Number="55"  Name="(Silent Key) (-1)"  ProgramChange="55"/>
+          <Patch Number="56"  Name="(Silent Key) (-1)"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Open (0)"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Slap (0)"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Mute (0)"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Heel (0)"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Tip (0)"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Shake (0)"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Shake (0)"  ProgramChange="63"/>
+          <Patch Number="64"  Name="(Silent Key) (0)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="(Silent Key) (0)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="(Silent Key) (0)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="(Silent Key) (0)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="(Silent Key) (0)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Open (+1)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Slap (+1)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Mute (+1)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Heel (+1)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Tip (+1)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Shake (+1)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Shake (+1)"  ProgramChange="75"/>
+          <Patch Number="76"  Name="(Silent Key) (+1)"  ProgramChange="76"/>
+          <Patch Number="77"  Name="(Silent Key) (+1)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="(Silent Key) (+1)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="(Silent Key) (+1)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="(Silent Key) (+1)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Open (+2)"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Slap (+2)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Mute (+2)"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Heel (+2)"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Tip (+2)"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Shake (+2)"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Shake (+2)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="(Silent Key) (+2)"  ProgramChange="88"/>
+          <Patch Number="89"  Name="(Silent Key) (+2)"  ProgramChange="89"/>
+          <Patch Number="90"  Name="(Silent Key) (+2)"  ProgramChange="90"/>
+          <Patch Number="91"  Name="(Silent Key) (+2)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="(Silent Key) (+2)"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Open (+3)"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Slap (+3)"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Mute (+3)"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Heel (+3)"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Tip (+3)"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Shake (+3)"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Shake (+3)"  ProgramChange="99"/>
+          <Patch Number="100"  Name="(Silent Key) (+3)"  ProgramChange="100"/>
+          <Patch Number="101"  Name="(Silent Key) (+3)"  ProgramChange="101"/>
+          <Patch Number="102"  Name="(Silent Key) (+3)"  ProgramChange="102"/>
+          <Patch Number="103"  Name="(Silent Key) (+3)"  ProgramChange="103"/>
+          <Patch Number="104"  Name="(Silent Key) (+3)"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Open (+4)"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Slap (+4)"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Mute (+4)"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Heel (+4)"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Tip (+4)"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Shake (+4)"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Shake (+4)"  ProgramChange="111"/>
+          <Patch Number="112"  Name="(Silent Key) (+4)"  ProgramChange="112"/>
+          <Patch Number="113"  Name="(Silent Key) (+4)"  ProgramChange="113"/>
+          <Patch Number="114"  Name="(Silent Key) (+4)"  ProgramChange="114"/>
+          <Patch Number="115"  Name="(Silent Key) (+4)"  ProgramChange="115"/>
+          <Patch Number="116"  Name="(Silent Key) (+4)"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Open (+5)"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Slap (+5)"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Mute (+5)"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Heel (+5)"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Tip (+5)"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Shake (+5)"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Shake (+5)"  ProgramChange="123"/>
+          <Patch Number="124"  Name="(Silent Key) (+5)"  ProgramChange="124"/>
+          <Patch Number="125"  Name="(Silent Key) (+5)"  ProgramChange="125"/>
+          <Patch Number="126"  Name="(Silent Key) (+5)"  ProgramChange="126"/>
+          <Patch Number="127"  Name="(Silent Key) (+5)"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="E-MU Prf:Repique">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Open Tone (-5)"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Drag (-5)"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Hand Slap (-5)"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Low Rimshot (-5)"  ProgramChange="3"/>
+          <Patch Number="4"  Name="High Rimshot (-5)"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Open Tone (-5)"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Drag (-5)"  ProgramChange="6"/>
+          <Patch Number="7"  Name="(Silent Key) (-5)"  ProgramChange="7"/>
+          <Patch Number="8"  Name="(Silent Key) (-5)"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Hand Slap (-4)"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Low Rimshot (-4)"  ProgramChange="10"/>
+          <Patch Number="11"  Name="High Rimshot (-4)"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Open Tone (-4)"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Drag (-4)"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Hand Slap (-4)"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Low Rimshot (-4)"  ProgramChange="15"/>
+          <Patch Number="16"  Name="High Rimshot (-4)"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Open Tone (-4)"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Drag (-4)"  ProgramChange="18"/>
+          <Patch Number="19"  Name="(Silent Key) (-4)"  ProgramChange="19"/>
+          <Patch Number="20"  Name="(Silent Key) (-4)"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Hand Slap (-3)"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Low Rimshot (-3)"  ProgramChange="22"/>
+          <Patch Number="23"  Name="High Rimshot (-3)"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Open Tone (-3)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Drag (-3)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Hand Slap (-3)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Low Rimshot (-3)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="High Rimshot (-3)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Open Tone (-3)"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Drag (-3)"  ProgramChange="30"/>
+          <Patch Number="31"  Name="(Silent Key) (-3)"  ProgramChange="31"/>
+          <Patch Number="32"  Name="(Silent Key) (-3)"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Hand Slap (-2)"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Low Rimshot (-2)"  ProgramChange="34"/>
+          <Patch Number="35"  Name="High Rimshot (-2)"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Open Tone (-2)"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Drag (-2)"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Hand Slap (-2)"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Low Rimshot (-2)"  ProgramChange="39"/>
+          <Patch Number="40"  Name="High Rimshot (-2)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Open Tone (-2)"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Drag (-2)"  ProgramChange="42"/>
+          <Patch Number="43"  Name="(Silent Key) (-2)"  ProgramChange="43"/>
+          <Patch Number="44"  Name="(Silent Key) (-2)"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Hand Slap (-1)"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Low Rimshot (-1)"  ProgramChange="46"/>
+          <Patch Number="47"  Name="High Rimshot (-1)"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Open Tone (-1)"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Drag (-1)"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Hand Slap (-1)"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Low Rimshot (-1)"  ProgramChange="51"/>
+          <Patch Number="52"  Name="High Rimshot (-1)"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Open Tone (-1)"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Drag (-1)"  ProgramChange="54"/>
+          <Patch Number="55"  Name="(Silent Key) (-1)"  ProgramChange="55"/>
+          <Patch Number="56"  Name="(Silent Key) (-1)"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Hand Slap (0)"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Low Rimshot (0)"  ProgramChange="58"/>
+          <Patch Number="59"  Name="High Rimshot (0)"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Open Tone (0)"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Drag (0)"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Hand Slap (0)"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Low Rimshot (0)"  ProgramChange="63"/>
+          <Patch Number="64"  Name="High Rimshot (0)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Open Tone (0)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Drag (0)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="(Silent Key) (0)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="(Silent Key) (0)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Hand Slap (+1)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Low Rimshot (+1)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="High Rimshot (+1)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Open Tone (+1)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Drag (+1)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Hand Slap (+1)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Low Rimshot (+1)"  ProgramChange="75"/>
+          <Patch Number="76"  Name="High Rimshot (+1)"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Open Tone (+1)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Drag (+1)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="(Silent Key) (+1)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="(Silent Key) (+1)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Hand Slap (+2)"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Low Rimshot (+2)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="High Rimshot (+2)"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Open Tone (+2)"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Drag (+2)"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Hand Slap (+2)"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Low Rimshot (+2)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="High Rimshot (+2)"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Open Tone (+2)"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Drag (+2)"  ProgramChange="90"/>
+          <Patch Number="91"  Name="(Silent Key) (+2)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="(Silent Key) (+2)"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Hand Slap (+3)"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Low Rimshot (+3)"  ProgramChange="94"/>
+          <Patch Number="95"  Name="High Rimshot (+3)"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Open Tone (+3)"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Drag (+3)"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Hand Slap (+3)"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Low Rimshot (+3)"  ProgramChange="99"/>
+          <Patch Number="100"  Name="High Rimshot (+3)"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Open Tone (+3)"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Drag (+3)"  ProgramChange="102"/>
+          <Patch Number="103"  Name="(Silent Key) (+3)"  ProgramChange="103"/>
+          <Patch Number="104"  Name="(Silent Key) (+3)"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Hand Slap (+4)"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Low Rimshot (+4)"  ProgramChange="106"/>
+          <Patch Number="107"  Name="High Rimshot (+4)"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Open Tone (+4)"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Drag (+4)"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Hand Slap (+4)"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Low Rimshot (+4)"  ProgramChange="111"/>
+          <Patch Number="112"  Name="High Rimshot (+4)"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Open Tone (+4)"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Drag (+4)"  ProgramChange="114"/>
+          <Patch Number="115"  Name="(Silent Key) (+4)"  ProgramChange="115"/>
+          <Patch Number="116"  Name="(Silent Key) (+4)"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Hand Slap (+5)"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Low Rimshot (+5)"  ProgramChange="118"/>
+          <Patch Number="119"  Name="High Rimshot (+5)"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Open Tone (+5)"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Drag (+5)"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Hand Slap (+5)"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Low Rimshot (+5)"  ProgramChange="123"/>
+          <Patch Number="124"  Name="High Rimshot (+5)"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Open Tone (+5)"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Drag (+5)"  ProgramChange="126"/>
+          <Patch Number="127"  Name="(Silent Key) (+5)"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="E-MU Prf:Surdo">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Hand (-13)"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Rimshot Open (-13)"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Open Mallet Hit (-13)"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Muted Mallet Hit (-13)"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Rimshot Closed (-13)"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Hand (-12)"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Rimshot Open (-12)"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Open Mallet Hit (-12)"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Muted Mallet Hit (-12)"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Rimshot Closed (-12)"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Hand (-11)"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Rimshot Open (-11)"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Open Mallet Hit (-11)"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Muted Mallet Hit (-11)"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Rimshot Closed (-11)"  ProgramChange="14"/>
+          <Patch Number="15"  Name="Hand (-10)"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Rimshot Open (-10)"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Open Mallet Hit (-10)"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Muted Mallet Hit (-10)"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Rimshot Closed (-10)"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Hand (-9)"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Rimshot Open (-9)"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Open Mallet Hit (-9)"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Muted Mallet Hit (-9)"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Rimshot Closed (-9)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Hand (-8)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Rimshot Open (-8)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Open Mallet Hit (-8)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Muted Mallet Hit (-8)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Rimshot Closed (-8)"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Hand (-7)"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Rimshot Open (-7)"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Open Mallet Hit (-7)"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Muted Mallet Hit (-7)"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Rimshot Closed (-7)"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Hand (-6)"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Rimshot Open (-6)"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Open Mallet Hit (-6)"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Muted Mallet Hit (-6)"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Rimshot Closed (-6)"  ProgramChange="39"/>
+          <Patch Number="40"  Name="Hand (-5)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Rimshot Open (-5)"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Open Mallet Hit (-5)"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Muted Mallet Hit (-5)"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Rimshot Closed (-5)"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Hand (-4)"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Rimshot Open (-4)"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Open Mallet Hit (-4)"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Muted Mallet Hit (-4)"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Rimshot Closed (-4)"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Hand (-3)"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Rimshot Open (-3)"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Open Mallet Hit (-3)"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Muted Mallet Hit (-3)"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Rimshot Closed (-3)"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Hand (-2)"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Rimshot Open (-2)"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Open Mallet Hit (-2)"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Muted Mallet Hit (-2)"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Rimshot Closed (-2)"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Hand (-1)"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Rimshot Open (-1)"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Open Mallet Hit (-1)"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Muted Mallet Hit (-1)"  ProgramChange="63"/>
+          <Patch Number="64"  Name="Rimshot Closed (-1)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Hand (0)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Rimshot Open (0)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Open Mallet Hit (0)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Muted Mallet Hit (0)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Rimshot Closed (0)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Hand (+1)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Rimshot Open (+1)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Open Mallet Hit (+1)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Muted Mallet Hit (+1)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Rimshot Closed (+1)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Hand (+2)"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Rimshot Open (+2)"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Open Mallet Hit (+2)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Muted Mallet Hit (+2)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Rimshot Closed (+2)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Hand (+3)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Rimshot Open (+3)"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Open Mallet Hit (+3)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Muted Mallet Hit (+3)"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Rimshot Closed (+3)"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Hand (+4)"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Rimshot Open (+4)"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Open Mallet Hit (+4)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Muted Mallet Hit (+4)"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Rimshot Closed (+4)"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Hand (+5)"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Rimshot Open (+5)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Open Mallet Hit (+5)"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Muted Mallet Hit (+5)"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Rimshot Closed (+5)"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Hand (+6)"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Rimshot Open (+6)"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Open Mallet Hit (+6)"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Muted Mallet Hit (+6)"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Rimshot Closed (+6)"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Hand (+7)"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Rimshot Open (+7)"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Open Mallet Hit (+7)"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Muted Mallet Hit (+7)"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Rimshot Closed (+7)"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Hand (+8)"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Rimshot Open (+8)"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Open Mallet Hit (+8)"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Muted Mallet Hit (+8)"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Rimshot Closed (+8)"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Hand (+9)"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Rimshot Open (+9)"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Open Mallet Hit (+9)"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Muted Mallet Hit (+9)"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Rimshot Closed (+9)"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Hand (+10)"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Rimshot Open (+10)"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Open Mallet Hit (+10)"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Muted Mallet Hit (+10)"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Rimshot Closed (+10)"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Hand (+11)"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Rimshot Open (+11)"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Open Mallet Hit (+11)"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Muted Mallet Hit (+11)"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Rimshot Closed (+11)"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Hand (+12)"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Rimshot Open (+12)"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Open Mallet Hit (+12)"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="E-MU Prf:Tambora">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Stick on Side Block (-10)"  ProgramChange="0"/>
+          <Patch Number="1"  Name="(Silent Key) (-10)"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Left Hand Muted Slap (-9)"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Left Hand Open (-9)"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Stick on Right Skin (-9)"  ProgramChange="4"/>
+          <Patch Number="5"  Name="(Silent Key) (-9)"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Stick on Rim (-9)"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Stick on Side Block (-9)"  ProgramChange="7"/>
+          <Patch Number="8"  Name="(Silent Key) (-9)"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Left Hand Muted Slap (-8)"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Left Hand Open (-8)"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Stick on Right Skin (-8)"  ProgramChange="11"/>
+          <Patch Number="12"  Name="(Silent Key) (-8)"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Stick on Rim (-8)"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Stick on Side Block (-8)"  ProgramChange="14"/>
+          <Patch Number="15"  Name="(Silent Key) (-8)"  ProgramChange="15"/>
+          <Patch Number="16"  Name="Left Hand Muted Slap (-7)"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Left Hand Open (-7)"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Stick on Right Skin (-7)"  ProgramChange="18"/>
+          <Patch Number="19"  Name="(Silent Key) (-7)"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Stick on Rim (-7)"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Stick on Side Block (-7)"  ProgramChange="21"/>
+          <Patch Number="22"  Name="(Silent Key) (-7)"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Left Hand Muted Slap (-6)"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Left Hand Open (-6)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Stick on Right Skin (-6)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="(Silent Key) (-6)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Stick on Rim (-6)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Stick on Side Block (-6)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="(Silent Key) (-6)"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Left Hand Muted Slap (-5)"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Left Hand Open (-5)"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Stick on Right Skin (-5)"  ProgramChange="32"/>
+          <Patch Number="33"  Name="(Silent Key) (-5)"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Stick on Rim (-5)"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Stick on Side Block (-5)"  ProgramChange="35"/>
+          <Patch Number="36"  Name="(Silent Key) (-5)"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Left Hand Muted Slap (-4)"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Left Hand Open (-4)"  ProgramChange="38"/>
+          <Patch Number="39"  Name="Stick on Right Skin (-4)"  ProgramChange="39"/>
+          <Patch Number="40"  Name="(Silent Key) (-4)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Stick on Rim (-4)"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Stick on Side Block (-4)"  ProgramChange="42"/>
+          <Patch Number="43"  Name="(Silent Key) (-4)"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Left Hand Muted Slap (-3)"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Left Hand Open (-3)"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Stick on Right Skin (-3)"  ProgramChange="46"/>
+          <Patch Number="47"  Name="(Silent Key) (-3)"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Stick on Rim (-3)"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Stick on Side Block (-3)"  ProgramChange="49"/>
+          <Patch Number="50"  Name="(Silent Key) (-3)"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Left Hand Muted Slap (-2)"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Left Hand Open (-2)"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Stick on Right Skin (-2)"  ProgramChange="53"/>
+          <Patch Number="54"  Name="(Silent Key) (-2)"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Stick on Rim (-2)"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Stick on Side Block (-2)"  ProgramChange="56"/>
+          <Patch Number="57"  Name="(Silent Key) (-2)"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Left Hand Muted Slap (-1)"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Left Hand Open (-1)"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Stick on Right Skin (-1)"  ProgramChange="60"/>
+          <Patch Number="61"  Name="(Silent Key) (-1)"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Stick on Rim (-1)"  ProgramChange="62"/>
+          <Patch Number="63"  Name="Stick on Side Block (-1)"  ProgramChange="63"/>
+          <Patch Number="64"  Name="(Silent Key) (-1)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Left Hand Muted Slap (0)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Left Hand Open (0)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Stick on Right Skin (0)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="(Silent Key) (0)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Stick on Rim (0)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Stick on Side Block (0)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="(Silent Key) (0)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Left Hand Muted Slap (+1)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Left Hand Open (+1)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Stick on Right Skin (+1)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="(Silent Key) (+1)"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Stick on Rim (+1)"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Stick on Side Block (+1)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="(Silent Key) (+1)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Left Hand Muted Slap (+2)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Left Hand Open (+2)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Stick on Right Skin (+2)"  ProgramChange="81"/>
+          <Patch Number="82"  Name="(Silent Key) (+2)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Stick on Rim (+2)"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Stick on Side Block (+2)"  ProgramChange="84"/>
+          <Patch Number="85"  Name="(Silent Key) (+2)"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Left Hand Muted Slap (+3)"  ProgramChange="86"/>
+          <Patch Number="87"  Name="Left Hand Open (+3)"  ProgramChange="87"/>
+          <Patch Number="88"  Name="Stick on Right Skin (+3)"  ProgramChange="88"/>
+          <Patch Number="89"  Name="(Silent Key) (+3)"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Stick on Rim (+3)"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Stick on Side Block (+3)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="(Silent Key) (+3)"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Left Hand Muted Slap (+4)"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Left Hand Open (+4)"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Stick on Right Skin (+4)"  ProgramChange="95"/>
+          <Patch Number="96"  Name="(Silent Key) (+4)"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Stick on Rim (+4)"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Stick on Side Block (+4)"  ProgramChange="98"/>
+          <Patch Number="99"  Name="(Silent Key) (+4)"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Left Hand Muted Slap (+5)"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Left Hand Open (+5)"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Stick on Right Skin (+5)"  ProgramChange="102"/>
+          <Patch Number="103"  Name="(Silent Key) (+5)"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Stick on Rim (+5)"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Stick on Side Block (+5)"  ProgramChange="105"/>
+          <Patch Number="106"  Name="(Silent Key) (+5)"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Left Hand Muted Slap (+6)"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Left Hand Open (+6)"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Stick on Right Skin (+6)"  ProgramChange="109"/>
+          <Patch Number="110"  Name="(Silent Key) (+6)"  ProgramChange="110"/>
+          <Patch Number="111"  Name="Stick on Rim (+6)"  ProgramChange="111"/>
+          <Patch Number="112"  Name="Stick on Side Block (+6)"  ProgramChange="112"/>
+          <Patch Number="113"  Name="(Silent Key) (+6)"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Left Hand Muted Slap (+7)"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Left Hand Open (+7)"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Stick on Right Skin (+7)"  ProgramChange="116"/>
+          <Patch Number="117"  Name="(Silent Key) (+7)"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Stick on Rim (+7)"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Stick on Side Block (+7)"  ProgramChange="119"/>
+          <Patch Number="120"  Name="(Silent Key) (+7)"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Left Hand Muted Slap (+8)"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Left Hand Open (+8)"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Stick on Right Skin (+8)"  ProgramChange="123"/>
+          <Patch Number="124"  Name="(Silent Key) (+8)"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Stick on Rim (+8)"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Stick on Side Block (+8)"  ProgramChange="126"/>
+          <Patch Number="127"  Name="(Silent Key) (+8)"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="E-MU Prf:Timbales">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Timbale Small Rim (-3)"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Ride Bell (-2)"  ProgramChange="1"/>
+          <Patch Number="2"  Name="Timbale Small Rim (-3)"  ProgramChange="2"/>
+          <Patch Number="3"  Name="Ride Cymbal (-3)"  ProgramChange="3"/>
+          <Patch Number="4"  Name="Timbalito Drag (-3)"  ProgramChange="4"/>
+          <Patch Number="5"  Name="Timbalito Open (-3)"  ProgramChange="5"/>
+          <Patch Number="6"  Name="Crash Cymbal (-3)"  ProgramChange="6"/>
+          <Patch Number="7"  Name="Timbalito Open (-3)"  ProgramChange="7"/>
+          <Patch Number="8"  Name="Charanga Bell Mouth (-3)"  ProgramChange="8"/>
+          <Patch Number="9"  Name="Timbalito Rim 1 (-3)"  ProgramChange="9"/>
+          <Patch Number="10"  Name="Charanga Bell Heel (-3)"  ProgramChange="10"/>
+          <Patch Number="11"  Name="Cascara (Side Stick) (-3)"  ProgramChange="11"/>
+          <Patch Number="12"  Name="Timbale Hand Open (-2)"  ProgramChange="12"/>
+          <Patch Number="13"  Name="Timbale Hand Closed (-2)"  ProgramChange="13"/>
+          <Patch Number="14"  Name="Timbale Large Open (-2)"  ProgramChange="14"/>
+          <Patch Number="16"  Name="Timbale Large Open (-2)"  ProgramChange="16"/>
+          <Patch Number="17"  Name="Timbale Large Rim (-2)"  ProgramChange="17"/>
+          <Patch Number="18"  Name="Cha Cha Bell Mouth (-2)"  ProgramChange="18"/>
+          <Patch Number="19"  Name="Timbale Large Rim (-2)"  ProgramChange="19"/>
+          <Patch Number="20"  Name="Cha Cha Bell Heel (-2)"  ProgramChange="20"/>
+          <Patch Number="21"  Name="Timbale Small Open (-2)"  ProgramChange="21"/>
+          <Patch Number="22"  Name="Mambo Bell (-2)"  ProgramChange="22"/>
+          <Patch Number="23"  Name="Timbale Small Open (-2)"  ProgramChange="23"/>
+          <Patch Number="24"  Name="Timbale Small Rim (-2)"  ProgramChange="24"/>
+          <Patch Number="25"  Name="Ride Bell (-2)"  ProgramChange="25"/>
+          <Patch Number="26"  Name="Timbale Small Rim (-2)"  ProgramChange="26"/>
+          <Patch Number="27"  Name="Ride Cymbal (-2)"  ProgramChange="27"/>
+          <Patch Number="28"  Name="Timbalito Drag (-2)"  ProgramChange="28"/>
+          <Patch Number="29"  Name="Timbalito Open (-2)"  ProgramChange="29"/>
+          <Patch Number="30"  Name="Crash Cymbal (-2)"  ProgramChange="30"/>
+          <Patch Number="31"  Name="Timbalito Open (-2)"  ProgramChange="31"/>
+          <Patch Number="32"  Name="Charanga Bell Mouth (-2)"  ProgramChange="32"/>
+          <Patch Number="33"  Name="Timbalito Rim 1 (-2)"  ProgramChange="33"/>
+          <Patch Number="34"  Name="Charanga Bell Heel (-2)"  ProgramChange="34"/>
+          <Patch Number="35"  Name="Cascara (Side Stick) (-2)"  ProgramChange="35"/>
+          <Patch Number="36"  Name="Timbale Hand Open (-1)"  ProgramChange="36"/>
+          <Patch Number="37"  Name="Timbale Hand Closed (-1)"  ProgramChange="37"/>
+          <Patch Number="38"  Name="Timbale Large Open (-1)"  ProgramChange="38"/>
+          <Patch Number="40"  Name="Timbale Large Open (-1)"  ProgramChange="40"/>
+          <Patch Number="41"  Name="Timbale Large Rim (-1)"  ProgramChange="41"/>
+          <Patch Number="42"  Name="Cha Cha Bell Mouth (-1)"  ProgramChange="42"/>
+          <Patch Number="43"  Name="Timbale Large Rim (-1)"  ProgramChange="43"/>
+          <Patch Number="44"  Name="Cha Cha Bell Heel (-1)"  ProgramChange="44"/>
+          <Patch Number="45"  Name="Timbale Small Open (-1)"  ProgramChange="45"/>
+          <Patch Number="46"  Name="Mambo Bell (-1)"  ProgramChange="46"/>
+          <Patch Number="47"  Name="Timbale Small Open (-1)"  ProgramChange="47"/>
+          <Patch Number="48"  Name="Timbale Small Rim (-1)"  ProgramChange="48"/>
+          <Patch Number="49"  Name="Ride Bell (-1)"  ProgramChange="49"/>
+          <Patch Number="50"  Name="Timbale Small Rim (-1)"  ProgramChange="50"/>
+          <Patch Number="51"  Name="Ride Cymbal (-1)"  ProgramChange="51"/>
+          <Patch Number="52"  Name="Timbalito Drag (-1)"  ProgramChange="52"/>
+          <Patch Number="53"  Name="Timbalito Open (-1)"  ProgramChange="53"/>
+          <Patch Number="54"  Name="Crash Cymbal (-1)"  ProgramChange="54"/>
+          <Patch Number="55"  Name="Timbalito Open (-1)"  ProgramChange="55"/>
+          <Patch Number="56"  Name="Charanga Bell Mouth (-1)"  ProgramChange="56"/>
+          <Patch Number="57"  Name="Timbalito Rim 1 (-1)"  ProgramChange="57"/>
+          <Patch Number="58"  Name="Charanga Bell Heel (-1)"  ProgramChange="58"/>
+          <Patch Number="59"  Name="Cascara (Side Stick) (-1)"  ProgramChange="59"/>
+          <Patch Number="60"  Name="Timbale Hand Open (0)"  ProgramChange="60"/>
+          <Patch Number="61"  Name="Timbale Hand Closed (0)"  ProgramChange="61"/>
+          <Patch Number="62"  Name="Timbale Large Open (0)"  ProgramChange="62"/>
+          <Patch Number="64"  Name="Timbale Large Open (0)"  ProgramChange="64"/>
+          <Patch Number="65"  Name="Timbale Large Rim (0)"  ProgramChange="65"/>
+          <Patch Number="66"  Name="Cha Cha Bell Mouth (0)"  ProgramChange="66"/>
+          <Patch Number="67"  Name="Timbale Large Rim (0)"  ProgramChange="67"/>
+          <Patch Number="68"  Name="Cha Cha Bell Heel (0)"  ProgramChange="68"/>
+          <Patch Number="69"  Name="Timbale Small Open (0)"  ProgramChange="69"/>
+          <Patch Number="70"  Name="Mambo Bell (0)"  ProgramChange="70"/>
+          <Patch Number="71"  Name="Timbale Small Open (0)"  ProgramChange="71"/>
+          <Patch Number="72"  Name="Timbale Small Rim (0)"  ProgramChange="72"/>
+          <Patch Number="73"  Name="Ride Bell (0)"  ProgramChange="73"/>
+          <Patch Number="74"  Name="Timbale Small Rim (0)"  ProgramChange="74"/>
+          <Patch Number="75"  Name="Ride Cymbal (0)"  ProgramChange="75"/>
+          <Patch Number="76"  Name="Timbalito Drag (0)"  ProgramChange="76"/>
+          <Patch Number="77"  Name="Timbalito Open (0)"  ProgramChange="77"/>
+          <Patch Number="78"  Name="Crash Cymbal (0)"  ProgramChange="78"/>
+          <Patch Number="79"  Name="Timbalito Open (0)"  ProgramChange="79"/>
+          <Patch Number="80"  Name="Charanga Bell Mouth (0)"  ProgramChange="80"/>
+          <Patch Number="81"  Name="Timbalito Rim 1 (0)"  ProgramChange="81"/>
+          <Patch Number="82"  Name="Charanga Bell Heel (0)"  ProgramChange="82"/>
+          <Patch Number="83"  Name="Cascara (Side Stick) (0)"  ProgramChange="83"/>
+          <Patch Number="84"  Name="Timbale Hand Open (+1)"  ProgramChange="84"/>
+          <Patch Number="85"  Name="Timbale Hand Closed (+1)"  ProgramChange="85"/>
+          <Patch Number="86"  Name="Timbale Large Open (+1)"  ProgramChange="86"/>
+          <Patch Number="88"  Name="Timbale Large Open (+1)"  ProgramChange="88"/>
+          <Patch Number="89"  Name="Timbale Large Rim (+1)"  ProgramChange="89"/>
+          <Patch Number="90"  Name="Cha Cha Bell Mouth (+1)"  ProgramChange="90"/>
+          <Patch Number="91"  Name="Timbale Large Rim (+1)"  ProgramChange="91"/>
+          <Patch Number="92"  Name="Cha Cha Bell Heel (+1)"  ProgramChange="92"/>
+          <Patch Number="93"  Name="Timbale Small Open (+1)"  ProgramChange="93"/>
+          <Patch Number="94"  Name="Mambo Bell (+1)"  ProgramChange="94"/>
+          <Patch Number="95"  Name="Timbale Small Open (+1)"  ProgramChange="95"/>
+          <Patch Number="96"  Name="Timbale Small Rim (+1)"  ProgramChange="96"/>
+          <Patch Number="97"  Name="Ride Bell (+1)"  ProgramChange="97"/>
+          <Patch Number="98"  Name="Timbale Small Rim (+1)"  ProgramChange="98"/>
+          <Patch Number="99"  Name="Ride Cymbal (+1)"  ProgramChange="99"/>
+          <Patch Number="100"  Name="Timbalito Drag (+1)"  ProgramChange="100"/>
+          <Patch Number="101"  Name="Timbalito Open (+1)"  ProgramChange="101"/>
+          <Patch Number="102"  Name="Crash Cymbal (+1)"  ProgramChange="102"/>
+          <Patch Number="103"  Name="Timbalito Open (+1)"  ProgramChange="103"/>
+          <Patch Number="104"  Name="Charanga Bell Mouth (+1)"  ProgramChange="104"/>
+          <Patch Number="105"  Name="Timbalito Rim 1 (+1)"  ProgramChange="105"/>
+          <Patch Number="106"  Name="Charanga Bell Heel (+1)"  ProgramChange="106"/>
+          <Patch Number="107"  Name="Cascara (Side Stick) (+1)"  ProgramChange="107"/>
+          <Patch Number="108"  Name="Timbale Hand Open (+2)"  ProgramChange="108"/>
+          <Patch Number="109"  Name="Timbale Hand Closed (+2)"  ProgramChange="109"/>
+          <Patch Number="110"  Name="Timbale Large Open (+2)"  ProgramChange="110"/>
+          <Patch Number="112"  Name="Timbale Large Open (+2)"  ProgramChange="112"/>
+          <Patch Number="113"  Name="Timbale Large Rim (+2)"  ProgramChange="113"/>
+          <Patch Number="114"  Name="Cha Cha Bell Mouth (+2)"  ProgramChange="114"/>
+          <Patch Number="115"  Name="Timbale Large Rim (+2)"  ProgramChange="115"/>
+          <Patch Number="116"  Name="Cha Cha Bell Heel (+2)"  ProgramChange="116"/>
+          <Patch Number="117"  Name="Timbale Small Open (+2)"  ProgramChange="117"/>
+          <Patch Number="118"  Name="Mambo Bell (+2)"  ProgramChange="118"/>
+          <Patch Number="119"  Name="Timbale Small Open (+2)"  ProgramChange="119"/>
+          <Patch Number="120"  Name="Timbale Small Rim (+2)"  ProgramChange="120"/>
+          <Patch Number="121"  Name="Ride Bell (+2)"  ProgramChange="121"/>
+          <Patch Number="122"  Name="Timbale Small Rim (+2)"  ProgramChange="122"/>
+          <Patch Number="123"  Name="Ride Cymbal (+2)"  ProgramChange="123"/>
+          <Patch Number="124"  Name="Timbalito Drag (+2)"  ProgramChange="124"/>
+          <Patch Number="125"  Name="Timbalito Open (+2)"  ProgramChange="125"/>
+          <Patch Number="126"  Name="Crash Cymbal (+2)"  ProgramChange="126"/>
+          <Patch Number="127"  Name="Timbalito Open (+2)"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+    <ControlNameList Name="E-MU ProFormancePlus Controllers">
+      <Control Type="7bit"  Number="1"  Name="1-Mod. Wheel"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="64"  Name="64-Sustain"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft"/>
+      <Control Type="7bit"  Number="70"  Name="70-Split Point"/>
+    </ControlNameList>
+  </MasterDeviceNames>
+</MIDINameDocument>

@@ -325,7 +325,20 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Standard">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Panpot"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="64"  Name="64-Hold (sustain)"/>
+      <Control Type="7bit"  Number="91"  Name="91-Reverb Depth (>15on)"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN (LSB)"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN (MSB)"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes Off"/>
+    </ControlNameList>
+    <NoteNameList  Name="Beatnik Standard Drum Set">
      <Note Number="28"  Name="8=Slap"/>
      <Note Number="29"  Name="9=Scratch Push"/>
      <Note Number="30"  Name="0=Scratch Pull"/>
@@ -389,7 +402,7 @@
      <Note Number="94"  Name="4=Brush Snare High"/>
      <Note Number="95"  Name="5=Brush Snare Low"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Beatnik Special Percussion Bank">
      <Note Number="47"  Name="7=Tablaesque - Hi"/>
      <Note Number="48"  Name="8=Nine Inch Kick"/>
      <Note Number="49"  Name="9=HippiShake"/>

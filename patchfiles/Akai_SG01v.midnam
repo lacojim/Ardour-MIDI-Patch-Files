@@ -316,8 +316,42 @@
           <Patch Number="127"  Name="EXPLOSION"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
+      <PatchBank Name="Akai SG01v Drums">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="Akai SG01v Drum Bank 1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="Akai SG01v Drum Bank 2"  ProgramChange="1"/>
+        </PatchNameList>
+      </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Akai SG01v Controllers">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Select"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento Time"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="16"  Name="16-Shape"/>
+      <Control Type="7bit"  Number="17"  Name="17-Tone"/>
+      <Control Type="7bit"  Number="18"  Name="18-Special"/>
+      <Control Type="7bit"  Number="64"  Name="64-Sustain Pedal"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento Switch"/>
+      <Control Type="7bit"  Number="66"  Name="66-Sostenuto Switch"/>
+      <Control Type="7bit"  Number="67"  Name="67-Soft Pedal"/>
+      <Control Type="7bit"  Number="91"  Name="91-Effect Depth"/>
+      <Control Type="7bit"  Number="98"  Name="98-NRPN LSB"/>
+      <Control Type="7bit"  Number="99"  Name="99-NRPN MSB"/>
+      <Control Type="7bit"  Number="100"  Name="100-RPN LSB"/>
+      <Control Type="7bit"  Number="101"  Name="101-RPN MSB"/>
+      <Control Type="7bit"  Number="120"  Name="120=All Sounds Off"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="122"  Name="122-All Notes Off"/>
+    </ControlNameList>
+    <NoteNameList  Name="0Akai SG01v Drum Bank 1">
      <Note Number="28"  Name="8=PLATE-"/>
      <Note Number="29"  Name="9=BLIP#2"/>
      <Note Number="30"  Name="0=SCRATCH-"/>
@@ -385,7 +419,7 @@
      <Note Number="94"  Name="4=SYN. CLAVES"/>
      <Note Number="95"  Name="5=SYN. LO-CONGA"/>
     </NoteNameList>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Akai SG01v Drum Bank 2">
      <Note Number="28"  Name="8=PLATE-"/>
      <Note Number="29"  Name="9=BLIP#2"/>
      <Note Number="30"  Name="0=SCRATCH-"/>

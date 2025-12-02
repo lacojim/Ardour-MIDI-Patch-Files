@@ -181,7 +181,23 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <ControlNameList Name="Generalmusic WS">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="6"  Name="6-Data Entry MSB"/>
+      <Control Type="7bit"  Number="7"  Name="7-Main Volume"/>
+      <Control Type="7bit"  Number="64"  Name="64-Damper Pedal (sustain)"/>
+      <Control Type="7bit"  Number="66"  Name="66-Pedal (sostenuto)"/>
+      <Control Type="7bit"  Number="67"  Name="67-Pedal (soft)"/>
+      <Control Type="7bit"  Number="96"  Name="96-Data Increment +"/>
+      <Control Type="7bit"  Number="97"  Name="97-Data Decrement -"/>
+      <Control Type="7bit"  Number="111"  Name="111-Generalmusic Reserved (Call User Group)"/>
+      <Control Type="7bit"  Number="112"  Name="112-Generalmusic Reserved (Call User Group)"/>
+      <Control Type="7bit"  Number="121"  Name="121-Reset All Controllers"/>
+      <Control Type="7bit"  Number="122"  Name="122-Local Control On/Off"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes Off"/>
+    </ControlNameList>
+    <NoteNameList  Name="Generalmusic WS2/WS400">
      <Note Number="37"  Name="7=Snare Drum Electric 2"/>
      <Note Number="38"  Name="8=Snare Drum Electric 1"/>
      <Note Number="39"  Name="9=Snare Drum Rim 2"/>

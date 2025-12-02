@@ -173,5 +173,61 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Native Instruments B4">
+      <Control Type="7bit"  Number="1"  Name="Rotator Slow - Fast"/>
+      <Control Type="7bit"  Number="3"  Name="Microphone Distance"/>
+      <Control Type="7bit"  Number="7"  Name="Tube Amp Volume"/>
+      <Control Type="7bit"  Number="8"  Name="Microphone Balance"/>
+      <Control Type="7bit"  Number="9"  Name="Microphone Spread"/>
+      <Control Type="7bit"  Number="10"  Name="Microphone Pan"/>
+      <Control Type="7bit"  Number="11"  Name="Swell Slider"/>
+      <Control Type="7bit"  Number="12"  Name="Upper Manual 16'"/>
+      <Control Type="7bit"  Number="13"  Name="Upper Manual 5 1/3'"/>
+      <Control Type="7bit"  Number="14"  Name="Upper Manual 8'"/>
+      <Control Type="7bit"  Number="15"  Name="Upper Manual 4'"/>
+      <Control Type="7bit"  Number="16"  Name="Upper Manual 2 2/3'"/>
+      <Control Type="7bit"  Number="17"  Name="Upper Manual 2'"/>
+      <Control Type="7bit"  Number="18"  Name="Upper Manual 1 2/3'"/>
+      <Control Type="7bit"  Number="19"  Name="Upper Manual 1 1/3'"/>
+      <Control Type="7bit"  Number="20"  Name="Upper Manual 1'"/>
+      <Control Type="7bit"  Number="21"  Name="Lower Manual 16'"/>
+      <Control Type="7bit"  Number="22"  Name="Lower Manual 5 1/3'"/>
+      <Control Type="7bit"  Number="23"  Name="Lower Manual 8'"/>
+      <Control Type="7bit"  Number="24"  Name="Lower Manual 4'"/>
+      <Control Type="7bit"  Number="25"  Name="Lower Manual 2 2/3'"/>
+      <Control Type="7bit"  Number="26"  Name="Lower Manual 2'"/>
+      <Control Type="7bit"  Number="27"  Name="Lower Manual 1 2/3'"/>
+      <Control Type="7bit"  Number="28"  Name="Lower Manual 1 1/3'"/>
+      <Control Type="7bit"  Number="29"  Name="Lower Manual 1'"/>
+      <Control Type="7bit"  Number="30"  Name="Vibrator Lower Switch"/>
+      <Control Type="7bit"  Number="31"  Name="Vibrator Upper Switch"/>
+      <Control Type="7bit"  Number="33"  Name="Pedal 16'"/>
+      <Control Type="7bit"  Number="34"  Name="Pedal 5 1/3'"/>
+      <Control Type="7bit"  Number="35"  Name="Pedal 8'"/>
+      <Control Type="7bit"  Number="36"  Name="Pedal 4'"/>
+      <Control Type="7bit"  Number="37"  Name="Pedal 2 2/3'"/>
+      <Control Type="7bit"  Number="38"  Name="Pedal 2'"/>
+      <Control Type="7bit"  Number="66"  Name="Percussion Switch"/>
+      <Control Type="7bit"  Number="67"  Name="Drive Switch"/>
+      <Control Type="7bit"  Number="68"  Name="Rotator Switch"/>
+      <Control Type="7bit"  Number="69"  Name="Velocity Switch"/>
+      <Control Type="7bit"  Number="70"  Name="Percussion Volume"/>
+      <Control Type="7bit"  Number="71"  Name="Percussion Decay"/>
+      <Control Type="7bit"  Number="72"  Name="Percussion Harmonic"/>
+      <Control Type="7bit"  Number="73"  Name="Vibrato Mix"/>
+      <Control Type="7bit"  Number="74"  Name="Vibrato Depth"/>
+      <Control Type="7bit"  Number="75"  Name="Keyclick Amount"/>
+      <Control Type="7bit"  Number="76"  Name="Tube Amp Drive"/>
+      <Control Type="7bit"  Number="78"  Name="Tube Amp Body"/>
+      <Control Type="7bit"  Number="79"  Name="Tube Amp Bright"/>
+      <Control Type="7bit"  Number="80"  Name="Treble Rotor Tone"/>
+      <Control Type="7bit"  Number="81"  Name="Treble Rotor Slow"/>
+      <Control Type="7bit"  Number="82"  Name="Treble Rotor Fast"/>
+      <Control Type="7bit"  Number="83"  Name="Treble Rotor Accel"/>
+      <Control Type="7bit"  Number="90"  Name="Bass Rotor Tone"/>
+      <Control Type="7bit"  Number="91"  Name="Bass Rotor Slow"/>
+      <Control Type="7bit"  Number="92"  Name="Bass Rotor Fast"/>
+      <Control Type="7bit"  Number="93"  Name="Bass Rotor Accel"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

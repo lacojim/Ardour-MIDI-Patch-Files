@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE MIDINameDocument PUBLIC "-//MIDI Manufacturers Association//DTD MIDINameDocument 1.0//EN" "http://www.midi.org/dtds/MIDINameDocument10.dtd">
+<MIDINameDocument>
+  <Author>Karl Swisher taken From Cakewalk</Author>
+  <MasterDeviceNames>
+    <Manufacturer>DigiTech</Manufacturer>
+    <Model>GSP-21</Model>
+    <CustomDeviceMode Name="Mode 1">
+      <ChannelNameSetAssignments>
+        <ChannelNameSetAssign Channel="1" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="2" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="3" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="4" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="5" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="6" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="7" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="8" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="9" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="10" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="11" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="12" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="13" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="14" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="15" NameSet="Name Set 1"/>
+        <ChannelNameSetAssign Channel="16" NameSet="Name Set 1"/>
+      </ChannelNameSetAssignments>
+    </CustomDeviceMode>
+    <ChannelNameSet Name="Name Set 1">
+      <AvailableForChannels>
+        <AvailableChannel Channel="1" Available="true"/>
+        <AvailableChannel Channel="2" Available="true"/>
+        <AvailableChannel Channel="3" Available="true"/>
+        <AvailableChannel Channel="4" Available="true"/>
+        <AvailableChannel Channel="5" Available="true"/>
+        <AvailableChannel Channel="6" Available="true"/>
+        <AvailableChannel Channel="7" Available="true"/>
+        <AvailableChannel Channel="8" Available="true"/>
+        <AvailableChannel Channel="9" Available="true"/>
+        <AvailableChannel Channel="10" Available="true"/>
+        <AvailableChannel Channel="11" Available="true"/>
+        <AvailableChannel Channel="12" Available="true"/>
+        <AvailableChannel Channel="13" Available="true"/>
+        <AvailableChannel Channel="14" Available="true"/>
+        <AvailableChannel Channel="15" Available="true"/>
+        <AvailableChannel Channel="16" Available="true"/>
+      </AvailableForChannels>
+      <PatchBank Name="Legend Presets">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="0"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 Tony Iommi"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 Dave Murray #1"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 Dave Murray #2"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Dave Murray #3"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Slow Rhythm"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Canyon Chorus"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 Some Balls"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 Full On R.G."  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 Herr Spray"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 ReCiPe X"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 Lovecraft"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 Morse Warm Solo"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 Morse Chord"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 Morse Clean"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 Albert #1"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 Albert #2"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Albert #3"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Elroyz"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Max Bedroom"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 R.B. Chorus"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 R.B. Flange"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Sound Asweep"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Me &amp; My Crunch"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Franks Dream"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Sportin' A Snake"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Serpent Slither"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Legless Lizard"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 Jerry Gracia"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Joe Walsh #1"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Joe Walsh #2"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Joe Walsh #3"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Moon Mountains"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Strange Afterglow"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 Fortune Reversal"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 Monkey Flanger"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Alligator Pan LR"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 Nice Fat Solo"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 Jammin Rep/Hold"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 Layer/Repeat Hold"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 Dry R Side Chorus"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 Blister Finger"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 The Bosman"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Rick's Ripper"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Like A Synth"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 Digitalis Rock"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Rock Lead"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Comp Hall"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Rock It Man"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Hot Rod Stack"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 Sweet Blue Notes"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 Top 40 Solo"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Tight Chorus"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Captain Crunch"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Blues Hall"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Classic Twin"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 Fast Leslie"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Rock Flanger"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Euro Rock"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 16th Sequencer"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Daily Double"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 Lead Echo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Jazz Guitar"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Fat Smooth"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 Swimming Triplet"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 Southern Rock"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 Rhythmic Multitap"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Blues Rock"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 Clean Gate"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Wait a Sec"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 Backmask Guitar"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 In Chorus Country"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Drivin The Blues"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Bright Left to Right"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 Tony Iommi"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 Dave Murray #1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 Dave Murray #2"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Dave Murray #3"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Slow Rhythm"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 Canyon Chorus"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 Some Balls"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 Full On R.G."  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 Herr Spray"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 ReCiPe X"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 Lovecraft"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 Morse Warm Solo"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 Morse Chord"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 Morse Clean"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 Albert #1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 Albert #2"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 Albert #3"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 Elroyz"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 Max Bedroom"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 R.B. Chorus"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 R.B. Flange"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 Sound Asweep"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 Me &amp; My Crunch"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 Franks Dream"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 Sportin' A Snake"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 Serpent Slither"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Legless Lizard"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 Jerry Gracia"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 Joe Walsh #1"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Joe Walsh #2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Joe Walsh #3"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Moon Mountains"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Strange Afterglow"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 Fortune Reversal"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 Monkey Flanger"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 Alligator Pan LR"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 Nice Fat Solo"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 Jammin Rep/Hold"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Layer/Repeat Hold"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Dry R Side Chorus"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Blister Finger"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 The Bosman"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Rick's Ripper"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 Hey Punk"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Gettin' O.F.R."  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 G.C.W.S.S."  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 Ted Rhino Attack"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 Ted"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 More Rhino"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 Rhythm Split"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 Mellow Chorus"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 High Enuff"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 Luke Lead"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 Luke Crunch"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 Luke Clean"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="PRO Preset Writers">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="1"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 Hey Punk"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 Gettin' O.F.R."  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 G.C.W.S.S."  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Ted Rhino Attack"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Ted"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 More Rhino"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 Rhythm Split"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 Mellow Chorus"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 High Enuff"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 Luke Clean"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 Luke Crunch"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 Luke Lead"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 Brazilian Blast!"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 Transparency"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 Cream Sweep"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 GT1"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 GT2"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 GT3"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 K.K. Deceiver"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 K.K. Rip n' Grind"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 K.K. Killer Lead"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Crystal Echoes"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Unnatural"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Follow"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Solo"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Lead Gilrock"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Brad Chorus"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 Angels"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Slaughter Lead"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Rock the Nation"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Echosystem"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Intimate Affair"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Crunch Chamber 1"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 NO NO NO Flange"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 KISS KLEEN Pickn"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Zeptune Lead"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 Vito Blues Lead"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 Fat Rhythm"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 Classic Clean"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 Riffarama"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 FASD Rhythm Crnch"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 Metal Cyloze"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Beefy Widener"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Safe FX"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 Schonacide"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Ballad Slobber"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Cathedral Vide"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Clean Machine"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 B.B. Lead"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 B.B. Crunch"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 B.B. Clean"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Lynch Rhythm"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Lynch Lead"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Lynch Clean"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Classic twin"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 Fast Leslie"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Rock Flanger"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Euro rock"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 16th Sequencer"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Daily Double"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 Lead echo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Jazz guitar"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Fat smooth"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 swimming triplet"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 Southern Rock"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 Rhythmic Multitap"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Blues Rock"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 Clean Gate"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Wait a Sec"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 Backmask Guitar"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 In Chorus Country"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Drivin The Blues"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Bright Left to Right"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 Tony Iommi"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 Dave Murray #1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 Dave Murray #2"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Dave Murray #3"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Slow Rhythm"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 Canyon Chorus"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 Some Balls"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 Full On R.G."  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 Herr Spray"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 ReCiPe X"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 Lovecraft"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 Morse Warm Solo"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 Morse Chord"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 Morse Clean"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 Albert #1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 Albert #2"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 Albert #3"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 Elroyz"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 Max Bedroom"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 R.B. Chorus"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 R.B. Flange"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 Sound Asweep"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 Me &amp; My Crunch"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 Franks Dream"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 Sportin' A Snake"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 Serpent Slither"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Legless Lizard"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 Jerry Gracia"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 Joe Walsh #1"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Joe Walsh #2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Joe Walsh #3"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Moon Mountains"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Strange Afterglow"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 Fortune Reversal"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 Monkey Flanger"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 Alligator Pan LR"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 Nice Fat Solo"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 Jammin Rep/Hold"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Layer/Repeat Hold"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Dry R Side Chorus"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Blister Finger"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 The Bosman"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Rick's Ripper"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 Hey Punk"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Gettin' O.F.R."  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 G.C.W.S.S."  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 Ted Rhino Attack"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 Ted"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 More Rhino"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 Rhythm Split"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 Mellow Chorus"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 High Enuff"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 Luke Lead"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 Luke Crunch"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 Luke Clean"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="PRO Preset Digitech Factory">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="2"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 Like A Synth"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 Digitalis Rock"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 Rock Lead"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Comp Hall"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Rock It Man"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Hot Rod Stack"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 Sweet Blue Notes"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 Top 40 Solo"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 Tight Chorus"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 Captain Chorus"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 Blues Hall"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 Classic Twin"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 Fast Leslie"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 Creamy Solo"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015  Euro Rock"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 16th Sequencer"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Daily Double"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Lead Echo"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Jazz Guitar"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 Fat Smooth Solo"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 Swimming Triplet"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Southern Rick"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Rhythmic Multitap"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Blues Rock"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Clean Gate"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Wait A Sec &amp; 1/2"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Back Mask Guitar"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 In Chorus Country"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Drivin the Blues"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Brite Left to Right"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Are You Blues?"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Mr. Clean"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Ambient Chorus"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 Rhythm Crunch"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 Metal Flanger"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 Rock Flanger"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 Comp Chorus"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 The Abyss Up"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 Metal Head"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 Fat Tube Solo"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 Crunchy Chorus"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 Decay Madness"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Metal Marshmellow"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Balladeer Chorus"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 British Stack"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Turbo Flange"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Mars Hall"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Chorus It Wide"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Poisonous"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 Chunky Rhythm"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 Cool Crunchverb"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Ambient Lead"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Moshin' Metalhead"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Wet N Flangy"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Rock Flange"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 Sweet Lil' Leslie"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Chorus Talkback"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Raw Rock-N-Roll"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 Sweet J.D. Blues"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Rippin' Stadium"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 Rock Zipper"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Feedback in 3rds"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Tubular Overdrive"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 Metal Bandsaw"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 Southern Rock"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 Rhythmic Multitap"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Blues Rock"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 Clean Gate"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Wait a Sec"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 Backmask Guitar"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 In Chorus Country"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Drivin The Blues"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Bright Left to Right"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 Tony Iommi"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 Dave Murray #1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 Dave Murray #2"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Dave Murray #3"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Slow Rhythm"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 Canyon Chorus"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 Some Balls"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 Full On R.G."  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 Herr Spray"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 ReCiPe X"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 Lovecraft"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 Morse Warm Solo"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 Morse Chord"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 Morse Clean"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 Albert #1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 Albert #2"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 Albert #3"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 Elroyz"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 Max Bedroom"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 R.B. Chorus"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 R.B. Flange"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 Sound Asweep"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 Me &amp; My Crunch"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 Franks Dream"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 Sportin' A Snake"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 Serpent Slither"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Legless Lizard"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 Jerry Gracia"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 Joe Walsh #1"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Joe Walsh #2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Joe Walsh #3"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Moon Mountains"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Strange Afterglow"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 Fortune Reversal"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 Monkey Flanger"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 Alligator Pan LR"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 Nice Fat Solo"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 Jammin Rep/Hold"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Layer/Repeat Hold"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Dry R Side Chorus"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Blister Finger"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 The Bosman"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Rick's Ripper"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 Hey Punk"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Gettin' O.F.R."  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 G.C.W.S.S."  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 Ted Rhino Attack"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 Ted"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 More Rhino"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 Rhythm Split"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 Mellow Chorus"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 High Enuff"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 Luke Lead"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 Luke Crunch"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 Luke Clean"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="RCC Custom">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="3"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="001 RussellCole1"  ProgramChange="0"/>
+          <Patch Number="1"  Name="002 Russell Cole2"  ProgramChange="1"/>
+          <Patch Number="2"  Name="003 Russell Cole3"  ProgramChange="2"/>
+          <Patch Number="3"  Name="004 Roscos Flanger"  ProgramChange="3"/>
+          <Patch Number="4"  Name="005 Roscos Flanger"  ProgramChange="4"/>
+          <Patch Number="5"  Name="006 Drivin The Blues"  ProgramChange="5"/>
+          <Patch Number="6"  Name="007 British Stack"  ProgramChange="6"/>
+          <Patch Number="7"  Name="008 British Stack2"  ProgramChange="7"/>
+          <Patch Number="8"  Name="009 In Chorus Country"  ProgramChange="8"/>
+          <Patch Number="9"  Name="010 Classic Twin"  ProgramChange="9"/>
+          <Patch Number="10"  Name="011 Tight Chorus"  ProgramChange="10"/>
+          <Patch Number="11"  Name="012 British Stack"  ProgramChange="11"/>
+          <Patch Number="12"  Name="013 British Stack"  ProgramChange="12"/>
+          <Patch Number="13"  Name="014 British Stack"  ProgramChange="13"/>
+          <Patch Number="14"  Name="015 Blues Hall"  ProgramChange="14"/>
+          <Patch Number="15"  Name="016 Eddie Van Halen"  ProgramChange="15"/>
+          <Patch Number="16"  Name="017 Eddies Flanger"  ProgramChange="16"/>
+          <Patch Number="17"  Name="018 Eddies Echo"  ProgramChange="17"/>
+          <Patch Number="18"  Name="019 Cathedral"  ProgramChange="18"/>
+          <Patch Number="19"  Name="020 Eddie Van Halen"  ProgramChange="19"/>
+          <Patch Number="20"  Name="021 Legless Lizard"  ProgramChange="20"/>
+          <Patch Number="21"  Name="022 Sportin A Snake"  ProgramChange="21"/>
+          <Patch Number="22"  Name="023 Sportin A Snake"  ProgramChange="22"/>
+          <Patch Number="23"  Name="024 Serpent Slither"  ProgramChange="23"/>
+          <Patch Number="24"  Name="025 Serpent Slither"  ProgramChange="24"/>
+          <Patch Number="25"  Name="026 Lynch Clean"  ProgramChange="25"/>
+          <Patch Number="26"  Name="027 Lynch Rhythm"  ProgramChange="26"/>
+          <Patch Number="27"  Name="028 Lynch Lead"  ProgramChange="27"/>
+          <Patch Number="28"  Name="029 Mellow Chorus"  ProgramChange="28"/>
+          <Patch Number="29"  Name="030 Ambient Chorus"  ProgramChange="29"/>
+          <Patch Number="30"  Name="031 Pink Clean"  ProgramChange="30"/>
+          <Patch Number="31"  Name="032 Pink Crunch"  ProgramChange="31"/>
+          <Patch Number="32"  Name="033 Pink Lead"  ProgramChange="32"/>
+          <Patch Number="33"  Name="034 Pink Echo"  ProgramChange="33"/>
+          <Patch Number="34"  Name="035 Ambient Chorus"  ProgramChange="34"/>
+          <Patch Number="35"  Name="036 British Stack"  ProgramChange="35"/>
+          <Patch Number="36"  Name="037 British Stack"  ProgramChange="36"/>
+          <Patch Number="37"  Name="038 British Stack"  ProgramChange="37"/>
+          <Patch Number="38"  Name="039 British Stack"  ProgramChange="38"/>
+          <Patch Number="39"  Name="040 British Stack"  ProgramChange="39"/>
+          <Patch Number="40"  Name="041 Classic Twin"  ProgramChange="40"/>
+          <Patch Number="41"  Name="042 Blues Rock"  ProgramChange="41"/>
+          <Patch Number="42"  Name="043 Rock Lead"  ProgramChange="42"/>
+          <Patch Number="43"  Name="044 Crunchy Chorus"  ProgramChange="43"/>
+          <Patch Number="44"  Name="045 Ambient Chorus"  ProgramChange="44"/>
+          <Patch Number="45"  Name="046 Luke Clean"  ProgramChange="45"/>
+          <Patch Number="46"  Name="047 Luke Crunch"  ProgramChange="46"/>
+          <Patch Number="47"  Name="048 Luke Lead"  ProgramChange="47"/>
+          <Patch Number="48"  Name="049 Backmask Guitar"  ProgramChange="48"/>
+          <Patch Number="49"  Name="050 Fast Leslie"  ProgramChange="49"/>
+          <Patch Number="50"  Name="051 Eddie Van Halen"  ProgramChange="50"/>
+          <Patch Number="51"  Name="052 Eddies Flanger"  ProgramChange="51"/>
+          <Patch Number="52"  Name="053 Captain Crunch"  ProgramChange="52"/>
+          <Patch Number="53"  Name="054 Blues Hall"  ProgramChange="53"/>
+          <Patch Number="54"  Name="055 Classic Twin"  ProgramChange="54"/>
+          <Patch Number="55"  Name="056 Fast Leslie"  ProgramChange="55"/>
+          <Patch Number="56"  Name="057 Rock Flanger"  ProgramChange="56"/>
+          <Patch Number="57"  Name="058 Euro Rock"  ProgramChange="57"/>
+          <Patch Number="58"  Name="059 16th Sequencer"  ProgramChange="58"/>
+          <Patch Number="59"  Name="060 Daily Double"  ProgramChange="59"/>
+          <Patch Number="60"  Name="061 Lead Echo"  ProgramChange="60"/>
+          <Patch Number="61"  Name="062 Jazz Guitar"  ProgramChange="61"/>
+          <Patch Number="62"  Name="063 Fat Smooth"  ProgramChange="62"/>
+          <Patch Number="63"  Name="064 Swimming Triplet"  ProgramChange="63"/>
+          <Patch Number="64"  Name="065 Southern Rock"  ProgramChange="64"/>
+          <Patch Number="65"  Name="066 Rhythmic Multitap"  ProgramChange="65"/>
+          <Patch Number="66"  Name="067 Blues Rock"  ProgramChange="66"/>
+          <Patch Number="67"  Name="068 Clean Gate"  ProgramChange="67"/>
+          <Patch Number="68"  Name="069 Wait A Sec"  ProgramChange="68"/>
+          <Patch Number="69"  Name="070 Backmask Guitar"  ProgramChange="69"/>
+          <Patch Number="70"  Name="071 In Chorus Country"  ProgramChange="70"/>
+          <Patch Number="71"  Name="072 Drivin The Blues"  ProgramChange="71"/>
+          <Patch Number="72"  Name="073 Bright Left to Right"  ProgramChange="72"/>
+          <Patch Number="73"  Name="074 Tony Iommi"  ProgramChange="73"/>
+          <Patch Number="74"  Name="075 Dave Murray #1"  ProgramChange="74"/>
+          <Patch Number="75"  Name="076 Dave Murray #2"  ProgramChange="75"/>
+          <Patch Number="76"  Name="077 Dave Murray #3"  ProgramChange="76"/>
+          <Patch Number="77"  Name="078 Slow Rhythm"  ProgramChange="77"/>
+          <Patch Number="78"  Name="079 Canyon Chorus"  ProgramChange="78"/>
+          <Patch Number="79"  Name="080 Some Balls"  ProgramChange="79"/>
+          <Patch Number="80"  Name="081 Full On R.G."  ProgramChange="80"/>
+          <Patch Number="81"  Name="082 Herr Spray"  ProgramChange="81"/>
+          <Patch Number="82"  Name="083 ReCiPe X"  ProgramChange="82"/>
+          <Patch Number="83"  Name="084 Lovecraft"  ProgramChange="83"/>
+          <Patch Number="84"  Name="085 Morse Warm Solo"  ProgramChange="84"/>
+          <Patch Number="85"  Name="086 Morse Chord"  ProgramChange="85"/>
+          <Patch Number="86"  Name="087 Morse Clean"  ProgramChange="86"/>
+          <Patch Number="87"  Name="088 Albert #1"  ProgramChange="87"/>
+          <Patch Number="88"  Name="089 Albert #2"  ProgramChange="88"/>
+          <Patch Number="89"  Name="090 Albert #3"  ProgramChange="89"/>
+          <Patch Number="90"  Name="091 Elroyz"  ProgramChange="90"/>
+          <Patch Number="91"  Name="092 Max Bedroom"  ProgramChange="91"/>
+          <Patch Number="92"  Name="093 R.B. Chorus"  ProgramChange="92"/>
+          <Patch Number="93"  Name="094 R.B. Flange"  ProgramChange="93"/>
+          <Patch Number="94"  Name="095 Sound Asweep"  ProgramChange="94"/>
+          <Patch Number="95"  Name="096 Me &amp; My Crunch"  ProgramChange="95"/>
+          <Patch Number="96"  Name="097 Franks Dream"  ProgramChange="96"/>
+          <Patch Number="97"  Name="098 Sportin' A Snake"  ProgramChange="97"/>
+          <Patch Number="98"  Name="099 Serpent Slither"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100 Legless Lizard"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101 Jerry Gracia"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102 Joe Walsh #1"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103 Joe Walsh #2"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104 Joe Walsh #3"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105 Moon Mountains"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106 Strange Afterglow"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107 Fortune Reversal"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108 Monkey Flanger"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109 Alligator Pan LR"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110 Nice Fat Solo"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111 Jammin Rep/Hold"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112 Layer/Repeat Hold"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113 Dry R Side Chorus"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114 Blister Finger"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115 The Bosman"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116 Rick's Ripper"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117 Hey Punk"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118 Gettin' O.F.R."  ProgramChange="117"/>
+          <Patch Number="118"  Name="119 G.C.W.S.S."  ProgramChange="118"/>
+          <Patch Number="119"  Name="120 Ted Rhino Attack"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121 Ted"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122 More Rhino"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123 Rhythm Split"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124 Mellow Chorus"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125 High Enuff"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126 Luke Lead"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127 Luke Crunch"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128 Luke Clean"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="PRO-FEX  Factory">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="4"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:MegaKorus"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:.Deep&amp;Full"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:.Underwater"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:PwrCustic"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:Flanged"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:*MaxiShred"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:dIrTy SCO"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:NastyAmp"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:DistntMic"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:VintageTube"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:WesM.Jazz"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12:Cascade"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13:My Solo!"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14:Bak2Basix"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15:Thru0Fllng"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16:PowerBass"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17;HiMidEcho"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18:Mountain"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19:Liquid 7th"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20:Creatures"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21:BigStereo"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22:Glassy"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23:GlaSsic RY"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24:FunkMachn"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25:Echo+Verb"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26:Phaser"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27:Acoustix"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28:DreamScape"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29:HedPhoneHi"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30:SnglCoilus"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31:c+w Solo"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32:Bright"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33:DarknJazzy"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34:D I Chorus"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35:mOdeRnJaZz"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36:ChorusClea"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37:OutOfPhaz"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38:D I Flange"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39:Tremolo"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40:5thBass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41:Clean PoP"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42:Sparkler"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43:SingleCoil"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44:Shimmering"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45:TwInnY"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46:FlangrSize"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47:THe WaVe"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48:drIfTIng"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49:LeslePedal"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50:PowerClip"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51:EchoLead"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52:Max Lead"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53:70sFuzz"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54:Mole Hill"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55:Ballad"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56:60sFuzz"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57:SloppyFun"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58:Rockmn"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59:Lead Me On"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60:Metal Lead"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61:FlangeLead"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62:LiquidLead"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63:Mr.Blooze"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64:PrefuzzWa"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65:NastyTele"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66:DstortPedl"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67:A4thOfFuz"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68:3SemiDown"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69:Mid Town"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70:DirectLead"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71:Pan Handle"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72:IzEny1Hear"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73:RoUnQRUNCH"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74:-4 Drive"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75:DirectSolo"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76:Jimmys Amp"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77:Chunky"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78:JetPlane"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79:Metal"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80:SolidStat"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81:RhythmKrnc"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82:MerkinRok"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83:LikeATele"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84:HiResMud"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85:DirtyTrem"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86:BigMouth"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87:Wet&amp;dirty"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88:FatCrunch"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89:BrownSwirl"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90:IcEd bLuE"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91:SmooVeFz"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92:StakoChrus"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93:Big Bottom"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94:ShrEDDish"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95:Tube Fones"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96:bIG DrIvE"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97:Rokabilly"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98:Big Muff"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99:Shrapnel"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100:Romance"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101:TlkingGtr"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102:GentleJaz"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103:PickWa"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104:CleanHall"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105:Straits"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106:5thEcho"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107:Thicker"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108:Prince"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109:EchoOcean"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110:JazzDblStp"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111:Stargate"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112:RobotSigh"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113:ComeBac2Me"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114:RememboMe?"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115:SteelDrums"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116:FreeFall"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117:TimeTravl"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118:jes OdD"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119:Vortex"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120:BkwrdTape"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121:Machines"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122:5WaySwitch"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123:ChrusDance"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124:inEXoRabul"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125:PAd-LikE"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126:BacknForth"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127:aFtErGLo 5"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128:SyRuPy +12"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="PRO-FEX Custom">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="5"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="1:MegaKorus"  ProgramChange="0"/>
+          <Patch Number="1"  Name="2:.Deep&amp;Full"  ProgramChange="1"/>
+          <Patch Number="2"  Name="3:.Underwater"  ProgramChange="2"/>
+          <Patch Number="3"  Name="4:PwrCustic"  ProgramChange="3"/>
+          <Patch Number="4"  Name="5:Flanged"  ProgramChange="4"/>
+          <Patch Number="5"  Name="6:*MaxiShred"  ProgramChange="5"/>
+          <Patch Number="6"  Name="7:dIrTy SCO"  ProgramChange="6"/>
+          <Patch Number="7"  Name="8:NastyAmp"  ProgramChange="7"/>
+          <Patch Number="8"  Name="9:DistntMic"  ProgramChange="8"/>
+          <Patch Number="9"  Name="10:VintageTube"  ProgramChange="9"/>
+          <Patch Number="10"  Name="11:WesM.Jazz"  ProgramChange="10"/>
+          <Patch Number="11"  Name="12:Cascade"  ProgramChange="11"/>
+          <Patch Number="12"  Name="13:My Solo!"  ProgramChange="12"/>
+          <Patch Number="13"  Name="14:Bak2Basix"  ProgramChange="13"/>
+          <Patch Number="14"  Name="15:Thru0Fllng"  ProgramChange="14"/>
+          <Patch Number="15"  Name="16:PowerBass"  ProgramChange="15"/>
+          <Patch Number="16"  Name="17;HiMidEcho"  ProgramChange="16"/>
+          <Patch Number="17"  Name="18:Mountain"  ProgramChange="17"/>
+          <Patch Number="18"  Name="19:Liquid 7th"  ProgramChange="18"/>
+          <Patch Number="19"  Name="20:Creatures"  ProgramChange="19"/>
+          <Patch Number="20"  Name="21:BigStereo"  ProgramChange="20"/>
+          <Patch Number="21"  Name="22:Glassy"  ProgramChange="21"/>
+          <Patch Number="22"  Name="23:GlaSsic RY"  ProgramChange="22"/>
+          <Patch Number="23"  Name="24:FunkMachn"  ProgramChange="23"/>
+          <Patch Number="24"  Name="25:Echo+Verb"  ProgramChange="24"/>
+          <Patch Number="25"  Name="26:Phaser"  ProgramChange="25"/>
+          <Patch Number="26"  Name="27:Acoustix"  ProgramChange="26"/>
+          <Patch Number="27"  Name="28:DreamScape"  ProgramChange="27"/>
+          <Patch Number="28"  Name="29:HedPhoneHi"  ProgramChange="28"/>
+          <Patch Number="29"  Name="30:SnglCoilus"  ProgramChange="29"/>
+          <Patch Number="30"  Name="31:c+w Solo"  ProgramChange="30"/>
+          <Patch Number="31"  Name="32:Bright"  ProgramChange="31"/>
+          <Patch Number="32"  Name="33:DarknJazzy"  ProgramChange="32"/>
+          <Patch Number="33"  Name="34:D I Chorus"  ProgramChange="33"/>
+          <Patch Number="34"  Name="35:mOdeRnJaZz"  ProgramChange="34"/>
+          <Patch Number="35"  Name="36:ChorusClea"  ProgramChange="35"/>
+          <Patch Number="36"  Name="37:OutOfPhaz"  ProgramChange="36"/>
+          <Patch Number="37"  Name="38:D I Flange"  ProgramChange="37"/>
+          <Patch Number="38"  Name="39:Tremolo"  ProgramChange="38"/>
+          <Patch Number="39"  Name="40:5thBass"  ProgramChange="39"/>
+          <Patch Number="40"  Name="41:Clean PoP"  ProgramChange="40"/>
+          <Patch Number="41"  Name="42:Sparkler"  ProgramChange="41"/>
+          <Patch Number="42"  Name="43:SingleCoil"  ProgramChange="42"/>
+          <Patch Number="43"  Name="44:Shimmering"  ProgramChange="43"/>
+          <Patch Number="44"  Name="45:TwInnY"  ProgramChange="44"/>
+          <Patch Number="45"  Name="46:FlangrSize"  ProgramChange="45"/>
+          <Patch Number="46"  Name="47:THe WaVe"  ProgramChange="46"/>
+          <Patch Number="47"  Name="48:drIfTIng"  ProgramChange="47"/>
+          <Patch Number="48"  Name="49:LeslePedal"  ProgramChange="48"/>
+          <Patch Number="49"  Name="50:PowerClip"  ProgramChange="49"/>
+          <Patch Number="50"  Name="51:EchoLead"  ProgramChange="50"/>
+          <Patch Number="51"  Name="52:Max Lead"  ProgramChange="51"/>
+          <Patch Number="52"  Name="53:70sFuzz"  ProgramChange="52"/>
+          <Patch Number="53"  Name="54:Mole Hill"  ProgramChange="53"/>
+          <Patch Number="54"  Name="55:Ballad"  ProgramChange="54"/>
+          <Patch Number="55"  Name="56:60sFuzz"  ProgramChange="55"/>
+          <Patch Number="56"  Name="57:SloppyFun"  ProgramChange="56"/>
+          <Patch Number="57"  Name="58:Rockmn"  ProgramChange="57"/>
+          <Patch Number="58"  Name="59:Lead Me On"  ProgramChange="58"/>
+          <Patch Number="59"  Name="60:Metal Lead"  ProgramChange="59"/>
+          <Patch Number="60"  Name="61:FlangeLead"  ProgramChange="60"/>
+          <Patch Number="61"  Name="62:LiquidLead"  ProgramChange="61"/>
+          <Patch Number="62"  Name="63:Mr.Blooze"  ProgramChange="62"/>
+          <Patch Number="63"  Name="64:PrefuzzWa"  ProgramChange="63"/>
+          <Patch Number="64"  Name="65:NastyTele"  ProgramChange="64"/>
+          <Patch Number="65"  Name="66:DstortPedl"  ProgramChange="65"/>
+          <Patch Number="66"  Name="67:A4thOfFuz"  ProgramChange="66"/>
+          <Patch Number="67"  Name="68:3SemiDown"  ProgramChange="67"/>
+          <Patch Number="68"  Name="69:Mid Town"  ProgramChange="68"/>
+          <Patch Number="69"  Name="70:DirectLead"  ProgramChange="69"/>
+          <Patch Number="70"  Name="71:Pan Handle"  ProgramChange="70"/>
+          <Patch Number="71"  Name="72:IzEny1Hear"  ProgramChange="71"/>
+          <Patch Number="72"  Name="73:RoUnQRUNCH"  ProgramChange="72"/>
+          <Patch Number="73"  Name="74:-4 Drive"  ProgramChange="73"/>
+          <Patch Number="74"  Name="75:DirectSolo"  ProgramChange="74"/>
+          <Patch Number="75"  Name="76:Jimmys Amp"  ProgramChange="75"/>
+          <Patch Number="76"  Name="77:Chunky"  ProgramChange="76"/>
+          <Patch Number="77"  Name="78:JetPlane"  ProgramChange="77"/>
+          <Patch Number="78"  Name="79:Metal"  ProgramChange="78"/>
+          <Patch Number="79"  Name="80:SolidStat"  ProgramChange="79"/>
+          <Patch Number="80"  Name="81:RhythmKrnc"  ProgramChange="80"/>
+          <Patch Number="81"  Name="82:MerkinRok"  ProgramChange="81"/>
+          <Patch Number="82"  Name="83:LikeATele"  ProgramChange="82"/>
+          <Patch Number="83"  Name="84:HiResMud"  ProgramChange="83"/>
+          <Patch Number="84"  Name="85:DirtyTrem"  ProgramChange="84"/>
+          <Patch Number="85"  Name="86:BigMouth"  ProgramChange="85"/>
+          <Patch Number="86"  Name="87:Wet&amp;dirty"  ProgramChange="86"/>
+          <Patch Number="87"  Name="88:FatCrunch"  ProgramChange="87"/>
+          <Patch Number="88"  Name="89:BrownSwirl"  ProgramChange="88"/>
+          <Patch Number="89"  Name="90:IcEd bLuE"  ProgramChange="89"/>
+          <Patch Number="90"  Name="91:SmooVeFz"  ProgramChange="90"/>
+          <Patch Number="91"  Name="92:StakoChrus"  ProgramChange="91"/>
+          <Patch Number="92"  Name="93:Big Bottom"  ProgramChange="92"/>
+          <Patch Number="93"  Name="94:ShrEDDish"  ProgramChange="93"/>
+          <Patch Number="94"  Name="95:Tube Fones"  ProgramChange="94"/>
+          <Patch Number="95"  Name="96:bIG DrIvE"  ProgramChange="95"/>
+          <Patch Number="96"  Name="97:Rokabilly"  ProgramChange="96"/>
+          <Patch Number="97"  Name="98:Big Muff"  ProgramChange="97"/>
+          <Patch Number="98"  Name="99:Shrapnel"  ProgramChange="98"/>
+          <Patch Number="99"  Name="100:Romance"  ProgramChange="99"/>
+          <Patch Number="100"  Name="101:TlkingGtr"  ProgramChange="100"/>
+          <Patch Number="101"  Name="102:GentleJaz"  ProgramChange="101"/>
+          <Patch Number="102"  Name="103:PickWa"  ProgramChange="102"/>
+          <Patch Number="103"  Name="104:CleanHall"  ProgramChange="103"/>
+          <Patch Number="104"  Name="105:Straits"  ProgramChange="104"/>
+          <Patch Number="105"  Name="106:5thEcho"  ProgramChange="105"/>
+          <Patch Number="106"  Name="107:Thicker"  ProgramChange="106"/>
+          <Patch Number="107"  Name="108:Prince"  ProgramChange="107"/>
+          <Patch Number="108"  Name="109:EchoOcean"  ProgramChange="108"/>
+          <Patch Number="109"  Name="110:JazzDblStp"  ProgramChange="109"/>
+          <Patch Number="110"  Name="111:Stargate"  ProgramChange="110"/>
+          <Patch Number="111"  Name="112:RobotSigh"  ProgramChange="111"/>
+          <Patch Number="112"  Name="113:ComeBac2Me"  ProgramChange="112"/>
+          <Patch Number="113"  Name="114:RememboMe?"  ProgramChange="113"/>
+          <Patch Number="114"  Name="115:SteelDrums"  ProgramChange="114"/>
+          <Patch Number="115"  Name="116:FreeFall"  ProgramChange="115"/>
+          <Patch Number="116"  Name="117:TimeTravl"  ProgramChange="116"/>
+          <Patch Number="117"  Name="118:jes OdD"  ProgramChange="117"/>
+          <Patch Number="118"  Name="119:Vortex"  ProgramChange="118"/>
+          <Patch Number="119"  Name="120:BkwrdTape"  ProgramChange="119"/>
+          <Patch Number="120"  Name="121:Machines"  ProgramChange="120"/>
+          <Patch Number="121"  Name="122:5WaySwitch"  ProgramChange="121"/>
+          <Patch Number="122"  Name="123:ChrusDance"  ProgramChange="122"/>
+          <Patch Number="123"  Name="124:inEXoRabul"  ProgramChange="123"/>
+          <Patch Number="124"  Name="125:PAd-LikE"  ProgramChange="124"/>
+          <Patch Number="125"  Name="126:BacknForth"  ProgramChange="125"/>
+          <Patch Number="126"  Name="127:aFtErGLo 5"  ProgramChange="126"/>
+          <Patch Number="127"  Name="128:SyRuPy +12"  ProgramChange="127"/>
+        </PatchNameList>
+      </PatchBank>
+    </ChannelNameSet>
+  </MasterDeviceNames>
+</MIDINameDocument>

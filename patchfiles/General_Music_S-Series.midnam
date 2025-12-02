@@ -1140,5 +1140,26 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Generalmusic S Series">
+      <Control Type="7bit"  Number="0"  Name="0-Bank Change"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume (On COMM Master)"/>
+      <Control Type="7bit"  Number="8"  Name="8-Balance"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="12"  Name="12-Attack Time"/>
+      <Control Type="7bit"  Number="13"  Name="13-Release Time"/>
+      <Control Type="7bit"  Number="14"  Name="14-Filter 1 Cutoff Frequency"/>
+      <Control Type="7bit"  Number="15"  Name="15-Filter 2 Cutoff Frequency"/>
+      <Control Type="7bit"  Number="20"  Name="20-Filter 1+2 Cutoff Frequency"/>
+      <Control Type="7bit"  Number="21"  Name="21-Effect 1 (COMM)"/>
+      <Control Type="7bit"  Number="22"  Name="22-Effect 2 (COMM)"/>
+      <Control Type="7bit"  Number="23"  Name="23-Effect 1 Volume (COMM)"/>
+      <Control Type="7bit"  Number="24"  Name="24-Effect 2 Volume (COMM)"/>
+      <Control Type="7bit"  Number="64"  Name="64-Damper Pedal (sustain)"/>
+      <Control Type="7bit"  Number="66"  Name="66-Pedal (sostenuto)"/>
+      <Control Type="7bit"  Number="67"  Name="67-Pedal (soft)"/>
+      <Control Type="7bit"  Number="90"  Name="90-Rotary Effect On/Off (COMM)"/>
+      <Control Type="7bit"  Number="123"  Name="123-All Notes Off"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

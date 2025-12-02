@@ -116,5 +116,25 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Standard">
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="2"  Name="2-Breath"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="5"  Name="5-Portamento time"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="8"  Name="8-Balance"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="11"  Name="11-Expression"/>
+      <Control Type="7bit"  Number="64"  Name="64-Pedal (sustain)"/>
+      <Control Type="7bit"  Number="65"  Name="65-Portamento"/>
+      <Control Type="7bit"  Number="66"  Name="66-Pedal (sostenuto)"/>
+      <Control Type="7bit"  Number="67"  Name="67-Pedal (soft)"/>
+      <Control Type="7bit"  Number="69"  Name="69-Hold 2"/>
+      <Control Type="7bit"  Number="91"  Name="91-External Effects depth"/>
+      <Control Type="7bit"  Number="92"  Name="92-Tremolo depth"/>
+      <Control Type="7bit"  Number="93"  Name="93-Chorus depth"/>
+      <Control Type="7bit"  Number="94"  Name="94-Celeste (detune) depth"/>
+      <Control Type="7bit"  Number="95"  Name="95-Phaser depth"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

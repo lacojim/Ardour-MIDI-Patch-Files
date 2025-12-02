@@ -44,6 +44,14 @@
         <AvailableChannel Channel="15" Available="true"/>
         <AvailableChannel Channel="16" Available="true"/>
       </AvailableForChannels>
+      <DeviceModeEnable>
+        <MIDICommands>
+          <SysEx>F0 42 FC 30 FD 26 18 00 F7</SysEx>
+          <SysEx>F0 42 FC 30 FD 26 1D 00 F7</SysEx>
+          <SysEx>F0 42 FC 30 FD 26 1C 00 F7</SysEx>
+          <SysEx>F0 42 FC 30 FD 26 0E 00 F7</SysEx>
+        </MIDICommands>
+      </DeviceModeEnable>
       <PatchBank Name="Korg T3 Bank A">
         <MIDICommands>
           <ControlChange Control="0" Value="0"/>
@@ -261,7 +269,7 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
-    <NoteNameList  Name="NoteBankName">
+    <NoteNameList  Name="Korg T3 Drums">
      <Note Number="36"  Name="6=Pro BD"/>
      <Note Number="37"  Name="7=Kick 3"/>
      <Note Number="38"  Name="8=Synth BD"/>

@@ -50,7 +50,6 @@
           <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number="BasedOn"  Name="Korg Wavestation"  ProgramChange="BasedOn"/>
         </PatchNameList>
       </PatchBank>
       <PatchBank Name="Korg Wavestation RAM1/RAM2">
@@ -59,7 +58,6 @@
           <ControlChange Control="32" Value="0"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number="BasedOn"  Name="Korg Wavestation RAM1/RAM2"  ProgramChange="BasedOn"/>
           <Patch Number="0"  Name="Ski Jam"  ProgramChange="0"/>
           <Patch Number="1"  Name="Entropy"  ProgramChange="1"/>
           <Patch Number="2"  Name="Pinger"  ProgramChange="2"/>
@@ -168,7 +166,6 @@
           <ControlChange Control="32" Value="1"/>
         </MIDICommands>
         <PatchNameList>
-          <Patch Number="BasedOn"  Name="Korg Wavestation ROM/CARD"  ProgramChange="BasedOn"/>
           <Patch Number="0"  Name="The Wave Song"  ProgramChange="0"/>
           <Patch Number="1"  Name="Deep Atmosphere"  ProgramChange="1"/>
           <Patch Number="2"  Name="Sting Waves"  ProgramChange="2"/>
@@ -226,7 +223,7 @@
           <Patch Number="54"  Name="Card 4"  ProgramChange="54"/>
           <Patch Number="55"  Name="Card 5"  ProgramChange="55"/>
           <Patch Number="56"  Name="Card 6"  ProgramChange="56"/>
-          <Patch Number="57"  Name="Card 7 "  ProgramChange="57"/>
+          <Patch Number="57"  Name="Card 7"  ProgramChange="57"/>
           <Patch Number="58"  Name="Card 8"  ProgramChange="58"/>
           <Patch Number="59"  Name="Card 9"  ProgramChange="59"/>
           <Patch Number="60"  Name="Card 10"  ProgramChange="60"/>

@@ -178,7 +178,7 @@
           <Patch Number="17"  Name="CmbB 17 anastrings"  ProgramChange="17"/>
           <Patch Number="18"  Name="CmbB 18 synchome"  ProgramChange="18"/>
           <Patch Number="19"  Name="CmbB 19 etherscape"  ProgramChange="19"/>
-          <Patch Number="20"  Name="CmbB 20 star*burst"  ProgramChange="20"/>
+          <Patch Number="20"  Name="CmbB 20 starburst"  ProgramChange="20"/>
           <Patch Number="21"  Name="CmbB 21 superep"  ProgramChange="21"/>
           <Patch Number="22"  Name="CmbB 22 starlense"  ProgramChange="22"/>
           <Patch Number="23"  Name="CmbB 23 calcutta"  ProgramChange="23"/>
@@ -2618,6 +2618,142 @@
           <Patch Number="114"  Name="ySFX 114 Laser Gun"  ProgramChange="114"/>
           <Patch Number="115"  Name="ySFX 115 Explosion"  ProgramChange="115"/>
           <Patch Number="116"  Name="ySFX 116 Firework"  ProgramChange="116"/>
+        </PatchNameList>
+      </PatchBank>
+      <PatchBank Name="kDrm">
+        <MIDICommands>
+          <ControlChange Control="0" Value="0"/>
+          <ControlChange Control="32" Value="7936"/>
+        </MIDICommands>
+        <PatchNameList>
+          <Patch Number="0"  Name="kDrm 001 GM Kit"  ProgramChange="0"/>
+          <Patch Number="1"  Name="kDrm 002 GM Kit"  ProgramChange="1"/>
+          <Patch Number="2"  Name="kDrm 003 GM Kit"  ProgramChange="2"/>
+          <Patch Number="3"  Name="kDrm 004 GM Kit"  ProgramChange="3"/>
+          <Patch Number="4"  Name="kDrm 005 GM Kit"  ProgramChange="4"/>
+          <Patch Number="5"  Name="kDrm 006 GM Kit"  ProgramChange="5"/>
+          <Patch Number="6"  Name="kDrm 007 GM Kit"  ProgramChange="6"/>
+          <Patch Number="7"  Name="kDrm 008 GM Kit"  ProgramChange="7"/>
+          <Patch Number="8"  Name="kDrm 009 GM Kit"  ProgramChange="8"/>
+          <Patch Number="9"  Name="kDrm 010 GM Kit"  ProgramChange="9"/>
+          <Patch Number="10"  Name="kDrm 011 GM Kit"  ProgramChange="10"/>
+          <Patch Number="11"  Name="kDrm 012 GM Kit"  ProgramChange="11"/>
+          <Patch Number="12"  Name="kDrm 013 GM Kit"  ProgramChange="12"/>
+          <Patch Number="13"  Name="kDrm 014 GM Kit"  ProgramChange="13"/>
+          <Patch Number="14"  Name="kDrm 015 GM Kit"  ProgramChange="14"/>
+          <Patch Number="15"  Name="kDrm 016 GM Kit"  ProgramChange="15"/>
+          <Patch Number="16"  Name="kDrm 017 Power Kit"  ProgramChange="16"/>
+          <Patch Number="17"  Name="kDrm 018 Power Kit"  ProgramChange="17"/>
+          <Patch Number="18"  Name="kDrm 019 Power Kit"  ProgramChange="18"/>
+          <Patch Number="19"  Name="kDrm 020 Power Kit"  ProgramChange="19"/>
+          <Patch Number="20"  Name="kDrm 021 Power Kit"  ProgramChange="20"/>
+          <Patch Number="21"  Name="kDrm 022 Power Kit"  ProgramChange="21"/>
+          <Patch Number="22"  Name="kDrm 023 Power Kit"  ProgramChange="22"/>
+          <Patch Number="23"  Name="kDrm 024 Power Kit"  ProgramChange="23"/>
+          <Patch Number="24"  Name="kDrm 025 Dance Kit"  ProgramChange="24"/>
+          <Patch Number="25"  Name="kDrm 026 Analog Kit"  ProgramChange="25"/>
+          <Patch Number="26"  Name="kDrm 027 Dance Kit"  ProgramChange="26"/>
+          <Patch Number="27"  Name="kDrm 028 Dance Kit"  ProgramChange="27"/>
+          <Patch Number="28"  Name="kDrm 029 Dance Kit"  ProgramChange="28"/>
+          <Patch Number="29"  Name="kDrm 030 Dance Kit"  ProgramChange="29"/>
+          <Patch Number="30"  Name="kDrm 031 Dance Kit"  ProgramChange="30"/>
+          <Patch Number="31"  Name="kDrm 032 Dance Kit"  ProgramChange="31"/>
+          <Patch Number="32"  Name="kDrm 033 Jazz Kit"  ProgramChange="32"/>
+          <Patch Number="33"  Name="kDrm 034 Jazz Kit"  ProgramChange="33"/>
+          <Patch Number="34"  Name="kDrm 035 Jazz Kit"  ProgramChange="34"/>
+          <Patch Number="35"  Name="kDrm 036 Jazz Kit"  ProgramChange="35"/>
+          <Patch Number="36"  Name="kDrm 037 Jazz Kit"  ProgramChange="36"/>
+          <Patch Number="37"  Name="kDrm 038 Jazz Kit"  ProgramChange="37"/>
+          <Patch Number="38"  Name="kDrm 039 Jazz Kit"  ProgramChange="38"/>
+          <Patch Number="39"  Name="kDrm 040 Jazz Kit"  ProgramChange="39"/>
+          <Patch Number="40"  Name="kDrm 041 Brush Kit"  ProgramChange="40"/>
+          <Patch Number="41"  Name="kDrm 042 Brush Kit"  ProgramChange="41"/>
+          <Patch Number="42"  Name="kDrm 043 Brush Kit"  ProgramChange="42"/>
+          <Patch Number="43"  Name="kDrm 044 Brush Kit"  ProgramChange="43"/>
+          <Patch Number="44"  Name="kDrm 045 Brush Kit"  ProgramChange="44"/>
+          <Patch Number="45"  Name="kDrm 046 Brush Kit"  ProgramChange="45"/>
+          <Patch Number="46"  Name="kDrm 047 Brush Kit"  ProgramChange="46"/>
+          <Patch Number="47"  Name="kDrm 048 Brush Kit"  ProgramChange="47"/>
+          <Patch Number="48"  Name="kDrm 049 Brush Kit"  ProgramChange="48"/>
+          <Patch Number="49"  Name="kDrm 050 Orch Kit"  ProgramChange="49"/>
+          <Patch Number="50"  Name="kDrm 051 Orch Kit"  ProgramChange="50"/>
+          <Patch Number="51"  Name="kDrm 052 Orch Kit"  ProgramChange="51"/>
+          <Patch Number="52"  Name="kDrm 053 Orch Kit"  ProgramChange="52"/>
+          <Patch Number="53"  Name="kDrm 054 Orch Kit"  ProgramChange="53"/>
+          <Patch Number="54"  Name="kDrm 055 Orch Kit"  ProgramChange="54"/>
+          <Patch Number="55"  Name="kDrm 056 Orch Kit"  ProgramChange="55"/>
+          <Patch Number="56"  Name="kDrm 057 Orch Kit"  ProgramChange="56"/>
+          <Patch Number="57"  Name="kDrm 058 GM Kit"  ProgramChange="57"/>
+          <Patch Number="58"  Name="kDrm 059 GM Kit"  ProgramChange="58"/>
+          <Patch Number="59"  Name="kDrm 060 GM Kit"  ProgramChange="59"/>
+          <Patch Number="60"  Name="kDrm 061 GM Kit"  ProgramChange="60"/>
+          <Patch Number="61"  Name="kDrm 062 GM Kit"  ProgramChange="61"/>
+          <Patch Number="62"  Name="kDrm 063 GM Kit"  ProgramChange="62"/>
+          <Patch Number="63"  Name="kDrm 064 GM Kit"  ProgramChange="63"/>
+          <Patch Number="64"  Name="kDrm 065 GM Kit"  ProgramChange="64"/>
+          <Patch Number="65"  Name="kDrm 066 Perc Kit"  ProgramChange="65"/>
+          <Patch Number="66"  Name="kDrm 067 Perc Kit"  ProgramChange="66"/>
+          <Patch Number="67"  Name="kDrm 068 Perc Kit"  ProgramChange="67"/>
+          <Patch Number="68"  Name="kDrm 069 Perc Kit"  ProgramChange="68"/>
+          <Patch Number="69"  Name="kDrm 070 Perc Kit"  ProgramChange="69"/>
+          <Patch Number="70"  Name="kDrm 071 Perc Kit"  ProgramChange="70"/>
+          <Patch Number="71"  Name="kDrm 072 Perc Kit"  ProgramChange="71"/>
+          <Patch Number="72"  Name="kDrm 073 Perc Kit"  ProgramChange="72"/>
+          <Patch Number="73"  Name="kDrm 074 User Kit 1"  ProgramChange="73"/>
+          <Patch Number="74"  Name="kDrm 075 User Kit 2"  ProgramChange="74"/>
+          <Patch Number="75"  Name="kDrm 076 GM Kit"  ProgramChange="75"/>
+          <Patch Number="76"  Name="kDrm 077 GM Kit"  ProgramChange="76"/>
+          <Patch Number="77"  Name="kDrm 078 GM Kit"  ProgramChange="77"/>
+          <Patch Number="78"  Name="kDrm 079 GM Kit"  ProgramChange="78"/>
+          <Patch Number="79"  Name="kDrm 080 GM Kit"  ProgramChange="79"/>
+          <Patch Number="80"  Name="kDrm 081 GM Kit"  ProgramChange="80"/>
+          <Patch Number="81"  Name="kDrm 082 GM Kit"  ProgramChange="81"/>
+          <Patch Number="82"  Name="kDrm 083 GM Kit"  ProgramChange="82"/>
+          <Patch Number="83"  Name="kDrm 084 GM Kit"  ProgramChange="83"/>
+          <Patch Number="84"  Name="kDrm 085 GM Kit"  ProgramChange="84"/>
+          <Patch Number="85"  Name="kDrm 086 GM Kit"  ProgramChange="85"/>
+          <Patch Number="86"  Name="kDrm 087 GM Kit"  ProgramChange="86"/>
+          <Patch Number="87"  Name="kDrm 088 GM Kit"  ProgramChange="87"/>
+          <Patch Number="88"  Name="kDrm 089 GM Kit"  ProgramChange="88"/>
+          <Patch Number="89"  Name="kDrm 090 GM Kit"  ProgramChange="89"/>
+          <Patch Number="90"  Name="kDrm 091 GM Kit"  ProgramChange="90"/>
+          <Patch Number="91"  Name="kDrm 092 GM Kit"  ProgramChange="91"/>
+          <Patch Number="92"  Name="kDrm 093 GM Kit"  ProgramChange="92"/>
+          <Patch Number="93"  Name="kDrm 094 GM Kit"  ProgramChange="93"/>
+          <Patch Number="94"  Name="kDrm 095 GM Kit"  ProgramChange="94"/>
+          <Patch Number="95"  Name="kDrm 096 GM Kit"  ProgramChange="95"/>
+          <Patch Number="96"  Name="kDrm 097 GM Kit"  ProgramChange="96"/>
+          <Patch Number="97"  Name="kDrm 098 GM Kit"  ProgramChange="97"/>
+          <Patch Number="98"  Name="kDrm 099 GM Kit"  ProgramChange="98"/>
+          <Patch Number="99"  Name="kDrm 100 GM Kit"  ProgramChange="99"/>
+          <Patch Number="100"  Name="kDrm 101 GM Kit"  ProgramChange="100"/>
+          <Patch Number="101"  Name="kDrm 102 GM Kit"  ProgramChange="101"/>
+          <Patch Number="102"  Name="kDrm 103 GM Kit"  ProgramChange="102"/>
+          <Patch Number="103"  Name="kDrm 104 GM Kit"  ProgramChange="103"/>
+          <Patch Number="104"  Name="kDrm 105 GM Kit"  ProgramChange="104"/>
+          <Patch Number="105"  Name="kDrm 106 GM Kit"  ProgramChange="105"/>
+          <Patch Number="106"  Name="kDrm 107 GM Kit"  ProgramChange="106"/>
+          <Patch Number="107"  Name="kDrm 108 GM Kit"  ProgramChange="107"/>
+          <Patch Number="108"  Name="kDrm 109 GM Kit"  ProgramChange="108"/>
+          <Patch Number="109"  Name="kDrm 110 GM Kit"  ProgramChange="109"/>
+          <Patch Number="110"  Name="kDrm 111 GM Kit"  ProgramChange="110"/>
+          <Patch Number="111"  Name="kDrm 112 GM Kit"  ProgramChange="111"/>
+          <Patch Number="112"  Name="kDrm 113 GM Kit"  ProgramChange="112"/>
+          <Patch Number="113"  Name="kDrm 114 GM Kit"  ProgramChange="113"/>
+          <Patch Number="114"  Name="kDrm 115 GM Kit"  ProgramChange="114"/>
+          <Patch Number="115"  Name="kDrm 116 GM Kit"  ProgramChange="115"/>
+          <Patch Number="116"  Name="kDrm 117 GM Kit"  ProgramChange="116"/>
+          <Patch Number="117"  Name="kDrm 118 GM Kit"  ProgramChange="117"/>
+          <Patch Number="118"  Name="kDrm 119 GM Kit"  ProgramChange="118"/>
+          <Patch Number="119"  Name="kDrm 120 GM Kit"  ProgramChange="119"/>
+          <Patch Number="120"  Name="kDrm 121 GM Kit"  ProgramChange="120"/>
+          <Patch Number="121"  Name="kDrm 122 GM Kit"  ProgramChange="121"/>
+          <Patch Number="122"  Name="kDrm 123 GM Kit"  ProgramChange="122"/>
+          <Patch Number="123"  Name="kDrm 124 GM Kit"  ProgramChange="123"/>
+          <Patch Number="124"  Name="kDrm 125 GM Kit"  ProgramChange="124"/>
+          <Patch Number="125"  Name="kDrm 126 GM Kit"  ProgramChange="125"/>
+          <Patch Number="126"  Name="kDrm 127 GM Kit"  ProgramChange="126"/>
+          <Patch Number="127"  Name="kDrm 128 GM Kit"  ProgramChange="127"/>
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>

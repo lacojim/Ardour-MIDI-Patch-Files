@@ -181,5 +181,16 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Generalmusic CD HyperKeyboard">
+      <Control Type="7bit"  Number="0"  Name="Bank Select"/>
+      <Control Type="7bit"  Number="1"  Name="1-Modulation"/>
+      <Control Type="7bit"  Number="4"  Name="4-Foot controller"/>
+      <Control Type="7bit"  Number="7"  Name="7-Volume"/>
+      <Control Type="7bit"  Number="10"  Name="10-Pan"/>
+      <Control Type="7bit"  Number="64"  Name="64-Pedal (sustain)"/>
+      <Control Type="7bit"  Number="112"  Name="Generalmusic Reserved (Call User Group)"/>
+      <Control Type="7bit"  Number="118"  Name="Generalmusic Reserved (Call User Group)"/>
+      <Control Type="7bit"  Number="119"  Name="Generalmusic Reserved (Call User Group)"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

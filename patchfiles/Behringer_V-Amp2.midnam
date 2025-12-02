@@ -181,5 +181,54 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Behringer V-Amp 2 Controllers">
+      <Control Type="7bit"  Number="1"  Name="Wah Pedal"/>
+      <Control Type="7bit"  Number="7"  Name="Volume Pedal"/>
+      <Control Type="7bit"  Number="12"  Name="Amp Gain"/>
+      <Control Type="7bit"  Number="13"  Name="Amp Treble"/>
+      <Control Type="7bit"  Number="14"  Name="Amp Mid"/>
+      <Control Type="7bit"  Number="15"  Name="Amp Bass"/>
+      <Control Type="7bit"  Number="16"  Name="Amp Vol"/>
+      <Control Type="7bit"  Number="17"  Name="Pressence"/>
+      <Control Type="7bit"  Number="18"  Name="Reverb Mix"/>
+      <Control Type="7bit"  Number="19"  Name="Amp Type with default cabinet"/>
+      <Control Type="7bit"  Number="20"  Name="FX Type with Defaults"/>
+      <Control Type="7bit"  Number="21"  Name="FX OFF/ON"/>
+      <Control Type="7bit"  Number="22"  Name="Reverb Send OFF/ON"/>
+      <Control Type="7bit"  Number="23"  Name="Cabinet Type"/>
+      <Control Type="7bit"  Number="24"  Name="Reverb Type"/>
+      <Control Type="7bit"  Number="25"  Name="Noise Gate Level"/>
+      <Control Type="7bit"  Number="26"  Name="Drive OFF/ON"/>
+      <Control Type="7bit"  Number="27"  Name="Wah OFF/Position"/>
+      <Control Type="7bit"  Number="44"  Name="pre Effect Type"/>
+      <Control Type="7bit"  Number="45"  Name="pre Effect Par 1"/>
+      <Control Type="7bit"  Number="46"  Name="pre Effect Par 2"/>
+      <Control Type="7bit"  Number="47"  Name="pre Effect Par 3"/>
+      <Control Type="7bit"  Number="48"  Name="pre Effect Par 4"/>
+      <Control Type="7bit"  Number="49"  Name="Delay Type"/>
+      <Control Type="7bit"  Number="50"  Name="Delat Time Hi"/>
+      <Control Type="7bit"  Number="51"  Name="Delay Time Lo"/>
+      <Control Type="7bit"  Number="52"  Name="Delay Speed"/>
+      <Control Type="7bit"  Number="53"  Name="Delay Feedback"/>
+      <Control Type="7bit"  Number="54"  Name="Delay Mix"/>
+      <Control Type="7bit"  Number="55"  Name="post FX Mode"/>
+      <Control Type="7bit"  Number="56"  Name="post FX par 1"/>
+      <Control Type="7bit"  Number="57"  Name="post FX par 2"/>
+      <Control Type="7bit"  Number="58"  Name="post FX par 3"/>
+      <Control Type="7bit"  Number="59"  Name="post FX Mix"/>
+      <Control Type="7bit"  Number="60"  Name="Assign Effects COntrol"/>
+      <Control Type="7bit"  Number="61"  Name="Amp Type (0-32) w/o cabinet change"/>
+      <Control Type="7bit"  Number="64"  Name="Tap"/>
+      <Control Type="7bit"  Number="80"  Name="Request COntrols"/>
+      <Control Type="7bit"  Number="81"  Name="Set Pos (0-15) Set Character (32-127)"/>
+      <Control Type="7bit"  Number="82"  Name="Tuner Bypass Volume"/>
+      <Control Type="7bit"  Number="83"  Name="Tuner Center Frequency (25-55)"/>
+      <Control Type="7bit"  Number="84"  Name="Configuration (0-4=S1,S2,L1,L2,L3)"/>
+      <Control Type="7bit"  Number="85"  Name="Live EQ Treble (0-127)"/>
+      <Control Type="7bit"  Number="86"  Name="Live EQ Mid (0-127)"/>
+      <Control Type="7bit"  Number="87"  Name="Live EQ Bass (0-127)"/>
+      <Control Type="7bit"  Number="89"  Name="Input Gain (0-127)"/>
+      <Control Type="7bit"  Number="90"  Name="Wah character (0-127)"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>

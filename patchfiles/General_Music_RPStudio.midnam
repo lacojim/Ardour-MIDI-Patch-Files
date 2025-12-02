@@ -61,5 +61,21 @@
         </PatchNameList>
       </PatchBank>
     </ChannelNameSet>
+    <ControlNameList Name="Generalmusic RP Studio">
+      <Control Type="7bit"  Number="7"  Name="Volume"/>
+      <Control Type="7bit"  Number="12"  Name="Effect Control 1 Reverb"/>
+      <Control Type="7bit"  Number="13"  Name="Effect Control 2 DSP"/>
+      <Control Type="7bit"  Number="64"  Name="Damper Pedal"/>
+      <Control Type="7bit"  Number="66"  Name="Sostenuto"/>
+      <Control Type="7bit"  Number="67"  Name="Soft Pedal"/>
+      <Control Type="7bit"  Number="91"  Name="Effects 1 Depth Reverb"/>
+      <Control Type="7bit"  Number="92"  Name="Effects 2 Depth DSP Rate"/>
+      <Control Type="7bit"  Number="93"  Name="Effects 3 Depth DSP Depth"/>
+      <Control Type="7bit"  Number="94"  Name="Effects 4 Depth Spatial Stereo Depth"/>
+      <Control Type="7bit"  Number="117"  Name="Key On - Reserved Generalmusic Control Changes"/>
+      <Control Type="7bit"  Number="118"  Name="Key Off - Reserved Generalmusic Control Changes"/>
+      <Control Type="7bit"  Number="120"  Name="All Sound Off"/>
+      <Control Type="7bit"  Number="121"  Name="Reset All Controllers"/>
+    </ControlNameList>
   </MasterDeviceNames>
 </MIDINameDocument>
